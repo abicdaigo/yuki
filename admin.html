@@ -1,0 +1,1006 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel | JCC ウェッブ日本文化部</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400&family=Noto+Serif+JP:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        /* --- Admin Page Specific Styles --- */
+        body {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .admin-header {
+            background: linear-gradient(180deg, #1a0a00 0%, #2d1810 50%, #3d2317 100%);
+            padding: 20px 0;
+            box-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
+        }
+
+        .admin-header .container {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .admin-header h1 {
+            color: #fff;
+            font-size: 1.3rem;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .admin-header .back-link {
+            color: var(--accent);
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .admin-header .back-link:hover {
+            color: #fff;
+        }
+
+        /* Login Screen */
+        .login-screen {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 40px 20px;
+        }
+
+        .login-box {
+            background: var(--card-bg);
+            border-radius: 16px;
+            padding: 50px 40px;
+            box-shadow: 0 8px 30px var(--shadow);
+            border: 1px solid rgba(212, 168, 67, 0.2);
+            max-width: 420px;
+            width: 100%;
+            text-align: center;
+        }
+
+        .login-box .login-icon {
+            font-size: 3rem;
+            margin-bottom: 15px;
+        }
+
+        .login-box h2 {
+            color: var(--secondary);
+            margin-bottom: 8px;
+            font-size: 1.5rem;
+        }
+
+        .login-box .login-subtitle {
+            color: #888;
+            font-size: 0.85rem;
+            margin-bottom: 30px;
+        }
+
+        .login-form {
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+        }
+
+        .input-group {
+            text-align: left;
+        }
+
+        .input-group label {
+            display: block;
+            font-size: 0.8rem;
+            color: #666;
+            margin-bottom: 5px;
+            font-weight: 700;
+        }
+
+        .input-group input {
+            width: 100%;
+            padding: 12px 15px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-family: inherit;
+            font-size: 0.95rem;
+            transition: border-color var(--transition);
+        }
+
+        .input-group input:focus {
+            outline: none;
+            border-color: var(--primary);
+        }
+
+        .login-btn {
+            padding: 14px;
+            background: var(--primary);
+            color: #fff;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-family: inherit;
+            font-size: 1rem;
+            font-weight: 700;
+            transition: all var(--transition);
+            margin-top: 10px;
+        }
+
+        .login-btn:hover {
+            background: #a01830;
+            transform: translateY(-1px);
+        }
+
+        .login-error {
+            color: var(--primary);
+            font-size: 0.85rem;
+            margin-top: 10px;
+            display: none;
+        }
+
+        /* Dashboard */
+        .dashboard {
+            display: none;
+            flex: 1;
+            padding: 30px 0;
+        }
+
+        .dashboard.active {
+            display: block;
+        }
+
+        .dash-grid {
+            display: grid;
+            grid-template-columns: 300px 1fr;
+            gap: 25px;
+        }
+
+        /* Sidebar */
+        .dash-sidebar {
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 25px;
+            box-shadow: 0 4px 15px var(--shadow);
+            border: 1px solid rgba(212, 168, 67, 0.15);
+            height: fit-content;
+            position: sticky;
+            top: 20px;
+        }
+
+        .dash-sidebar h3 {
+            color: var(--secondary);
+            margin-bottom: 15px;
+            font-size: 1rem;
+            border-bottom: 2px solid var(--accent);
+            padding-bottom: 8px;
+        }
+
+        .sidebar-nav {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+
+        .sidebar-nav button {
+            text-align: left;
+            padding: 10px 15px;
+            background: transparent;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-family: inherit;
+            font-size: 0.9rem;
+            color: var(--text);
+            transition: all var(--transition);
+        }
+
+        .sidebar-nav button:hover {
+            background: rgba(196, 30, 58, 0.08);
+            color: var(--primary);
+        }
+
+        .sidebar-nav button.active {
+            background: var(--primary);
+            color: #fff;
+        }
+
+        .sidebar-user {
+            margin-top: 20px;
+            padding-top: 15px;
+            border-top: 1px solid #eee;
+            font-size: 0.8rem;
+            color: #888;
+        }
+
+        .sidebar-user strong {
+            color: var(--secondary);
+        }
+
+        .logout-btn {
+            margin-top: 10px;
+            width: 100%;
+            padding: 8px;
+            background: #666;
+            color: #fff;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-family: inherit;
+            font-size: 0.8rem;
+            transition: all var(--transition);
+        }
+
+        .logout-btn:hover {
+            background: #444;
+        }
+
+        /* Main Content Area */
+        .dash-main {
+            min-height: 500px;
+        }
+
+        .dash-panel {
+            display: none;
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 30px;
+            box-shadow: 0 4px 15px var(--shadow);
+            border: 1px solid rgba(212, 168, 67, 0.15);
+        }
+
+        .dash-panel.active {
+            display: block;
+        }
+
+        .dash-panel h2 {
+            color: var(--secondary);
+            margin-bottom: 20px;
+            font-size: 1.4rem;
+            border-bottom: 2px solid var(--accent);
+            padding-bottom: 10px;
+        }
+
+        /* Stats Cards */
+        .stats-row {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            margin-bottom: 25px;
+        }
+
+        .stat-card {
+            background: linear-gradient(135deg, var(--secondary), #1a3a4a);
+            border-radius: 10px;
+            padding: 20px;
+            color: #fff;
+            text-align: center;
+        }
+
+        .stat-card.red {
+            background: linear-gradient(135deg, var(--primary), #8B0000);
+        }
+
+        .stat-card.gold {
+            background: linear-gradient(135deg, #8B6914, var(--accent));
+        }
+
+        .stat-number {
+            font-size: 2.2rem;
+            font-weight: 700;
+        }
+
+        .stat-label {
+            font-size: 0.8rem;
+            opacity: 0.85;
+            margin-top: 5px;
+        }
+
+        /* Activity Management */
+        .create-form {
+            background: rgba(245, 240, 232, 0.5);
+            border-radius: 10px;
+            padding: 25px;
+            margin-bottom: 25px;
+            border: 1px dashed var(--accent);
+        }
+
+        .create-form h3 {
+            color: var(--primary);
+            margin-bottom: 15px;
+            font-size: 1.1rem;
+        }
+
+        .form-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+            margin-bottom: 12px;
+        }
+
+        .form-row.full {
+            grid-template-columns: 1fr;
+        }
+
+        .create-form input,
+        .create-form textarea,
+        .create-form select {
+            width: 100%;
+            padding: 10px 14px;
+            border: 2px solid #ddd;
+            border-radius: 6px;
+            font-family: inherit;
+            font-size: 0.9rem;
+            transition: border-color var(--transition);
+        }
+
+        .create-form input:focus,
+        .create-form textarea:focus {
+            outline: none;
+            border-color: var(--primary);
+        }
+
+        .create-form textarea {
+            min-height: 80px;
+            resize: vertical;
+        }
+
+        .create-form .submit-btn {
+            padding: 12px 30px;
+            background: var(--primary);
+            color: #fff;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-family: inherit;
+            font-size: 0.95rem;
+            font-weight: 700;
+            transition: all var(--transition);
+        }
+
+        .create-form .submit-btn:hover {
+            background: #a01830;
+        }
+
+        /* Activity List Table */
+        .activity-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .activity-table th {
+            text-align: left;
+            padding: 12px 15px;
+            background: var(--secondary);
+            color: #fff;
+            font-size: 0.85rem;
+            font-weight: 700;
+        }
+
+        .activity-table th:first-child {
+            border-radius: 6px 0 0 0;
+        }
+
+        .activity-table th:last-child {
+            border-radius: 0 6px 0 0;
+        }
+
+        .activity-table td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #eee;
+            font-size: 0.88rem;
+        }
+
+        .activity-table tr:hover td {
+            background: rgba(245, 240, 232, 0.5);
+        }
+
+        .table-status {
+            display: inline-block;
+            padding: 3px 10px;
+            border-radius: 10px;
+            font-size: 0.75rem;
+            font-weight: 700;
+        }
+
+        .table-actions {
+            display: flex;
+            gap: 6px;
+        }
+
+        .table-actions button {
+            padding: 5px 12px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-family: inherit;
+            font-size: 0.78rem;
+            transition: all var(--transition);
+        }
+
+        .btn-toggle {
+            background: var(--secondary);
+            color: #fff;
+        }
+
+        .btn-toggle:hover {
+            background: #1a3040;
+        }
+
+        .btn-delete {
+            background: #ff5252;
+            color: #fff;
+        }
+
+        .btn-delete:hover {
+            background: #d32f2f;
+        }
+
+        /* Site Settings */
+        .settings-section {
+            margin-bottom: 25px;
+        }
+
+        .settings-section h3 {
+            color: var(--primary);
+            margin-bottom: 10px;
+        }
+
+        .settings-section p {
+            color: #666;
+            font-size: 0.88rem;
+            margin-bottom: 15px;
+        }
+
+        .settings-item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 12px 0;
+            border-bottom: 1px solid #eee;
+        }
+
+        .settings-item label {
+            font-size: 0.9rem;
+            color: var(--text);
+        }
+
+        .settings-item .hint {
+            font-size: 0.75rem;
+            color: #888;
+        }
+
+        /* No activities message */
+        .no-activities {
+            text-align: center;
+            padding: 40px 20px;
+            color: #888;
+        }
+
+        .no-activities .icon {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        /* Toast Notification */
+        .toast {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background: var(--secondary);
+            color: #fff;
+            padding: 14px 24px;
+            border-radius: 8px;
+            font-size: 0.9rem;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+            transform: translateY(100px);
+            opacity: 0;
+            transition: all 0.4s ease;
+            z-index: 9999;
+        }
+
+        .toast.show {
+            transform: translateY(0);
+            opacity: 1;
+        }
+
+        .toast.success {
+            background: #2E7D32;
+        }
+
+        .toast.error {
+            background: var(--primary);
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .dash-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .dash-sidebar {
+                position: static;
+            }
+
+            .sidebar-nav {
+                flex-direction: row;
+                flex-wrap: wrap;
+            }
+
+            .stats-row {
+                grid-template-columns: 1fr;
+            }
+
+            .form-row {
+                grid-template-columns: 1fr;
+            }
+
+            .activity-table {
+                font-size: 0.8rem;
+            }
+
+            .activity-table th,
+            .activity-table td {
+                padding: 8px 10px;
+            }
+
+            .admin-header h1 {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+    <div class="admin-header">
+        <div class="container">
+            <h1>⛩️ Admin Panel — JCC管理画面</h1>
+            <a href="index.html" class="back-link">← Back to Site</a>
+        </div>
+    </div>
+
+    <!-- Login Screen -->
+    <div class="login-screen" id="loginScreen">
+        <div class="login-box">
+            <div class="login-icon">🔐</div>
+            <h2>Admin Login</h2>
+            <p class="login-subtitle">Japanese Culture Club — 管理者ログイン</p>
+            <form class="login-form" id="loginForm">
+                <div class="input-group">
+                    <label>Username</label>
+                    <input type="text" id="loginUsername" placeholder="Enter username" autocomplete="username" required>
+                </div>
+                <div class="input-group">
+                    <label>Password</label>
+                    <input type="password" id="loginPassword" placeholder="Enter password" autocomplete="current-password" required>
+                </div>
+                <button type="submit" class="login-btn">Login ログイン</button>
+                <p class="login-error" id="loginError">Invalid username or password</p>
+            </form>
+        </div>
+    </div>
+
+    <!-- Dashboard -->
+    <div class="dashboard" id="dashboard">
+        <div class="container">
+            <div class="dash-grid">
+                <!-- Sidebar -->
+                <div class="dash-sidebar">
+                    <h3>⛩️ Dashboard</h3>
+                    <nav class="sidebar-nav">
+                        <button class="active" data-panel="overview">📊 Overview</button>
+                        <button data-panel="activities">🗳️ Activities</button>
+                        <button data-panel="settings">⚙️ Settings</button>
+                    </nav>
+                    <div class="sidebar-user">
+                        <p>Logged in as:</p>
+                        <p><strong>Yuki Suto (部長)</strong></p>
+                        <button class="logout-btn" id="logoutBtn">Logout ログアウト</button>
+                    </div>
+                </div>
+
+                <!-- Main Content -->
+                <div class="dash-main">
+                    <!-- Overview Panel -->
+                    <div class="dash-panel active" id="panel-overview">
+                        <h2>📊 Overview — 概要</h2>
+                        <div class="stats-row">
+                            <div class="stat-card">
+                                <div class="stat-number" id="statTotal">0</div>
+                                <div class="stat-label">Total Activities</div>
+                            </div>
+                            <div class="stat-card red">
+                                <div class="stat-number" id="statOpen">0</div>
+                                <div class="stat-label">Open Votes</div>
+                            </div>
+                            <div class="stat-card gold">
+                                <div class="stat-number" id="statVotes">0</div>
+                                <div class="stat-label">Total Votes</div>
+                            </div>
+                        </div>
+
+                        <h3 style="color: var(--secondary); margin-bottom: 15px;">Recent Activities</h3>
+                        <div id="recentActivities">
+                            <div class="no-activities">
+                                <div class="icon">📋</div>
+                                <p>No activities yet. Create one in the Activities panel!</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Activities Panel -->
+                    <div class="dash-panel" id="panel-activities">
+                        <h2>🗳️ Activity Management — 活動管理</h2>
+
+                        <div class="create-form">
+                            <h3>➕ Create New Activity</h3>
+                            <div class="form-row">
+                                <div>
+                                    <input type="text" id="newTitle" placeholder="Activity title / 活動タイトル">
+                                </div>
+                                <div>
+                                    <input type="date" id="newDate">
+                                </div>
+                            </div>
+                            <div class="form-row full">
+                                <textarea id="newDesc" placeholder="Activity description / 活動の説明"></textarea>
+                            </div>
+                            <button class="submit-btn" id="createBtn">Create Activity 作成</button>
+                        </div>
+
+                        <div id="activityTableContainer">
+                            <table class="activity-table">
+                                <thead>
+                                    <tr>
+                                        <th>Title</th>
+                                        <th>Date</th>
+                                        <th>Status</th>
+                                        <th>Votes (👍/👎)</th>
+                                        <th>Actions</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="activityTableBody">
+                                </tbody>
+                            </table>
+                            <div class="no-activities" id="noActivitiesMsg">
+                                <div class="icon">🗳️</div>
+                                <p>No activities created yet.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Settings Panel -->
+                    <div class="dash-panel" id="panel-settings">
+                        <h2>⚙️ Settings — 設定</h2>
+
+                        <div class="settings-section">
+                            <h3>Firebase Connection</h3>
+                            <p>Status of the real-time database connection.</p>
+                            <div class="settings-item">
+                                <div>
+                                    <label>Firebase Status</label>
+                                    <div class="hint" id="firebaseStatus">Checking...</div>
+                                </div>
+                                <span id="firebaseIndicator">⏳</span>
+                            </div>
+                            <div class="settings-item">
+                                <div>
+                                    <label>Storage Mode</label>
+                                    <div class="hint" id="storageMode">—</div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="settings-section">
+                            <h3>Data Management</h3>
+                            <p>Manage local activity data.</p>
+                            <div class="settings-item">
+                                <div>
+                                    <label>Clear All Activities</label>
+                                    <div class="hint">This will remove all activities and votes from local storage.</div>
+                                </div>
+                                <button class="btn-delete" id="clearAllBtn" style="padding: 8px 16px;">Clear All</button>
+                            </div>
+                            <div class="settings-item">
+                                <div>
+                                    <label>Export Data</label>
+                                    <div class="hint">Download all activity data as JSON.</div>
+                                </div>
+                                <button class="btn-toggle" id="exportBtn" style="padding: 8px 16px;">Export</button>
+                            </div>
+                        </div>
+
+                        <div class="settings-section">
+                            <h3>About</h3>
+                            <div class="settings-item">
+                                <div>
+                                    <label>The Webb Schools Japanese Culture Club</label>
+                                    <div class="hint">Admin Panel v1.0 — Built for Yuki Suto</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Toast -->
+    <div class="toast" id="toast"></div>
+
+    <script>
+    /* ========================================
+       Admin Panel Logic
+       ======================================== */
+
+    // Credentials
+    const VALID_USERNAME = 'yuki';
+    const VALID_PASSWORD = 'yuki0801';
+    const LOCAL_STORAGE_KEY = 'jcc-activities';
+    const SESSION_KEY = 'jcc-admin-session';
+
+    // Elements
+    const loginScreen = document.getElementById('loginScreen');
+    const dashboard = document.getElementById('dashboard');
+    const loginForm = document.getElementById('loginForm');
+    const loginError = document.getElementById('loginError');
+
+    /* --- Session --- */
+    function checkSession() {
+        if (sessionStorage.getItem(SESSION_KEY) === 'authenticated') {
+            showDashboard();
+        }
+    }
+
+    /* --- Login --- */
+    loginForm.addEventListener('submit', (e) => {
+        e.preventDefault();
+        const username = document.getElementById('loginUsername').value.trim();
+        const password = document.getElementById('loginPassword').value;
+
+        if (username === VALID_USERNAME && password === VALID_PASSWORD) {
+            sessionStorage.setItem(SESSION_KEY, 'authenticated');
+            loginError.style.display = 'none';
+            showDashboard();
+            showToast('Welcome, Yuki! ようこそ！', 'success');
+        } else {
+            loginError.style.display = 'block';
+            document.getElementById('loginPassword').value = '';
+        }
+    });
+
+    /* --- Logout --- */
+    document.getElementById('logoutBtn').addEventListener('click', () => {
+        sessionStorage.removeItem(SESSION_KEY);
+        dashboard.classList.remove('active');
+        loginScreen.style.display = 'flex';
+        document.getElementById('loginUsername').value = '';
+        document.getElementById('loginPassword').value = '';
+        showToast('Logged out successfully', 'success');
+    });
+
+    function showDashboard() {
+        loginScreen.style.display = 'none';
+        dashboard.classList.add('active');
+        refreshDashboard();
+    }
+
+    /* --- Sidebar Navigation --- */
+    document.querySelectorAll('.sidebar-nav button').forEach(btn => {
+        btn.addEventListener('click', () => {
+            document.querySelectorAll('.sidebar-nav button').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            document.querySelectorAll('.dash-panel').forEach(p => p.classList.remove('active'));
+            document.getElementById('panel-' + btn.dataset.panel).classList.add('active');
+        });
+    });
+
+    /* --- Activities CRUD --- */
+    function getActivities() {
+        try {
+            return JSON.parse(localStorage.getItem(LOCAL_STORAGE_KEY)) || {};
+        } catch { return {}; }
+    }
+
+    function saveActivities(data) {
+        localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(data));
+    }
+
+    // Create
+    document.getElementById('createBtn').addEventListener('click', () => {
+        const title = document.getElementById('newTitle').value.trim();
+        const desc = document.getElementById('newDesc').value.trim();
+        const date = document.getElementById('newDate').value;
+
+        if (!title) {
+            showToast('Please enter a title', 'error');
+            return;
+        }
+
+        const activities = getActivities();
+        const id = 'act_' + Date.now();
+        activities[id] = {
+            title,
+            description: desc,
+            date: date || new Date().toISOString().split('T')[0],
+            status: 'open',
+            votesFor: {},
+            votesAgainst: {},
+            createdAt: Date.now()
+        };
+
+        saveActivities(activities);
+        document.getElementById('newTitle').value = '';
+        document.getElementById('newDesc').value = '';
+        document.getElementById('newDate').value = '';
+        refreshDashboard();
+        showToast('Activity created! 活動を作成しました', 'success');
+    });
+
+    // Toggle status
+    function toggleStatus(id) {
+        const activities = getActivities();
+        if (activities[id]) {
+            activities[id].status = activities[id].status === 'open' ? 'closed' : 'open';
+            saveActivities(activities);
+            refreshDashboard();
+            showToast('Status updated', 'success');
+        }
+    }
+
+    // Delete
+    function deleteActivity(id) {
+        if (!confirm('Delete this activity? この活動を削除しますか？')) return;
+        const activities = getActivities();
+        delete activities[id];
+        saveActivities(activities);
+        refreshDashboard();
+        showToast('Activity deleted 削除しました', 'success');
+    }
+
+    /* --- Refresh Dashboard --- */
+    function refreshDashboard() {
+        const activities = getActivities();
+        const ids = Object.keys(activities).sort((a, b) =>
+            (activities[b].createdAt || 0) - (activities[a].createdAt || 0)
+        );
+
+        // Stats
+        let totalVotes = 0;
+        let openCount = 0;
+        ids.forEach(id => {
+            const a = activities[id];
+            totalVotes += Object.keys(a.votesFor || {}).length + Object.keys(a.votesAgainst || {}).length;
+            if (a.status === 'open') openCount++;
+        });
+
+        document.getElementById('statTotal').textContent = ids.length;
+        document.getElementById('statOpen').textContent = openCount;
+        document.getElementById('statVotes').textContent = totalVotes;
+
+        // Recent Activities (overview)
+        const recentDiv = document.getElementById('recentActivities');
+        if (ids.length === 0) {
+            recentDiv.innerHTML = '<div class="no-activities"><div class="icon">📋</div><p>No activities yet.</p></div>';
+        } else {
+            let html = '<table class="activity-table"><thead><tr><th>Title</th><th>Date</th><th>Status</th><th>Votes</th></tr></thead><tbody>';
+            ids.slice(0, 5).forEach(id => {
+                const a = activities[id];
+                const f = Object.keys(a.votesFor || {}).length;
+                const ag = Object.keys(a.votesAgainst || {}).length;
+                const statusClass = a.status === 'open' ? 'status-open' : 'status-closed';
+                const statusText = a.status === 'open' ? 'OPEN' : 'CLOSED';
+                html += `<tr>
+                    <td>${escapeHtml(a.title)}</td>
+                    <td>${a.date || '—'}</td>
+                    <td><span class="table-status ${statusClass}">${statusText}</span></td>
+                    <td>👍 ${f} / 👎 ${ag}</td>
+                </tr>`;
+            });
+            html += '</tbody></table>';
+            recentDiv.innerHTML = html;
+        }
+
+        // Activity Table (management)
+        const tbody = document.getElementById('activityTableBody');
+        const noMsg = document.getElementById('noActivitiesMsg');
+
+        if (ids.length === 0) {
+            tbody.innerHTML = '';
+            noMsg.style.display = 'block';
+        } else {
+            noMsg.style.display = 'none';
+            let rows = '';
+            ids.forEach(id => {
+                const a = activities[id];
+                const f = Object.keys(a.votesFor || {}).length;
+                const ag = Object.keys(a.votesAgainst || {}).length;
+                const statusClass = a.status === 'open' ? 'status-open' : 'status-closed';
+                const statusText = a.status === 'open' ? 'OPEN' : 'CLOSED';
+                const toggleText = a.status === 'open' ? 'Close' : 'Open';
+                rows += `<tr>
+                    <td><strong>${escapeHtml(a.title)}</strong>${a.description ? '<br><small style="color:#888">' + escapeHtml(a.description).slice(0, 60) + '...</small>' : ''}</td>
+                    <td>${a.date || '—'}</td>
+                    <td><span class="table-status ${statusClass}">${statusText}</span></td>
+                    <td>👍 ${f} / 👎 ${ag}</td>
+                    <td class="table-actions">
+                        <button class="btn-toggle" onclick="toggleStatus('${id}')">${toggleText}</button>
+                        <button class="btn-delete" onclick="deleteActivity('${id}')">Delete</button>
+                    </td>
+                </tr>`;
+            });
+            tbody.innerHTML = rows;
+        }
+
+        // Settings - Firebase status
+        updateFirebaseStatus();
+    }
+
+    function updateFirebaseStatus() {
+        const statusEl = document.getElementById('firebaseStatus');
+        const indicator = document.getElementById('firebaseIndicator');
+        const modeEl = document.getElementById('storageMode');
+
+        if (typeof firebaseReady !== 'undefined' && firebaseReady) {
+            statusEl.textContent = 'Connected';
+            indicator.textContent = '🟢';
+            modeEl.textContent = 'Firebase Realtime Database';
+        } else {
+            statusEl.textContent = 'Not configured';
+            indicator.textContent = '🟡';
+            modeEl.textContent = 'Local Storage (localStorage)';
+        }
+    }
+
+    /* --- Clear All --- */
+    document.getElementById('clearAllBtn').addEventListener('click', () => {
+        if (!confirm('Delete ALL activities and votes? This cannot be undone.\nすべての活動と投票を削除しますか？')) return;
+        localStorage.removeItem(LOCAL_STORAGE_KEY);
+        refreshDashboard();
+        showToast('All data cleared', 'success');
+    });
+
+    /* --- Export --- */
+    document.getElementById('exportBtn').addEventListener('click', () => {
+        const data = getActivities();
+        const json = JSON.stringify(data, null, 2);
+        const blob = new Blob([json], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'jcc-activities-' + new Date().toISOString().split('T')[0] + '.json';
+        a.click();
+        URL.revokeObjectURL(url);
+        showToast('Data exported!', 'success');
+    });
+
+    /* --- Toast --- */
+    function showToast(message, type = '') {
+        const toast = document.getElementById('toast');
+        toast.textContent = message;
+        toast.className = 'toast ' + type;
+        setTimeout(() => toast.classList.add('show'), 10);
+        setTimeout(() => toast.classList.remove('show'), 3000);
+    }
+
+    /* --- Escape HTML --- */
+    function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+    }
+
+    /* --- Init --- */
+    checkSession();
+    </script>
+
+    <!-- Firebase config (for status check) -->
+    <script src="js/firebase-config.js"></script>
+</body>
+</html>
