@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": 1,
-    "lastUpdated": "2026-02-15",
-    "totalQuestions": 70
+    "lastUpdated": "2026-02-16",
+    "totalQuestions": 71
   },
   "current": {
     "beginner": [
@@ -424,6 +424,48 @@
           "zh": "招财猫被认为能带来好运。举右爪招财，举左爪招客。",
           "ja": "招き猫は幸運を招くとされています。右手を上げるとお金を、左手を上げるとお客さんを招くと言われています。",
           "es": "El Maneki-neko atrae buena suerte. La pata derecha levantada atrae dinero, la izquierda atrae clientes."
+        }
+      },
+      {
+        "id": "current_beginner_589hlu",
+        "q": {
+          "en": "What is Japan's national flower?",
+          "zh": "日本的国花是什么？",
+          "ja": "日本の国花は？",
+          "es": "¿Cuál es la flor nacional de Japón?"
+        },
+        "c": [
+          {
+            "en": "Rose",
+            "zh": "玫瑰",
+            "ja": "バラ",
+            "es": "Rosa"
+          },
+          {
+            "en": "Cherry Blossom",
+            "zh": "樱花",
+            "ja": "桜",
+            "es": "Flor de cerezo"
+          },
+          {
+            "en": "Lotus",
+            "zh": "莲花",
+            "ja": "蓮",
+            "es": "Loto"
+          },
+          {
+            "en": "Chrysanthemum",
+            "zh": "菊花",
+            "ja": "菊",
+            "es": "Crisantemo"
+          }
+        ],
+        "a": 1,
+        "trivia": {
+          "en": "While cherry blossom (sakura) is the most popular symbol, chrysanthemum is actually the Imperial seal. Both are considered national flowers.",
+          "zh": "虽然樱花是最受欢迎的象征，但菊花实际上是皇室纹章。两者都被视为国花。",
+          "ja": "桜が最も人気のある象徴ですが、菊は実は皇室の紋章です。どちらも国花とされています。",
+          "es": "Aunque la flor de cerezo (sakura) es el símbolo más popular, el crisantemo es en realidad el sello imperial. Ambas se consideran flores nacionales."
         }
       }
     ],
