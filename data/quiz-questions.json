@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": 1,
-    "lastUpdated": "2026-02-16",
-    "totalQuestions": 71
+    "lastUpdated": "2026-02-17",
+    "totalQuestions": 72
   },
   "current": {
     "beginner": [
@@ -2122,6 +2122,48 @@
           "zh": "仅50年间，日本从封建社会转变为工业强国。他们修建铁路，采用西式教育，创建了现代军队。",
           "ja": "わずか50年で日本は封建社会から工業大国へ変貌。鉄道建設、西洋式教育の導入、近代軍の創設を実現しました。",
           "es": "En solo 50 años, Japón pasó de sociedad feudal a potencia industrial. Construyeron ferrocarriles y adoptaron educación occidental."
+        }
+      },
+      {
+        "id": "history_intermediate_72owdr",
+        "q": {
+          "en": "During which period did Japan isolate itself from most foreign trade (sakoku)?",
+          "zh": "日本在哪个时期实行闭关锁国（锁国）？",
+          "ja": "鎖国政策が行われた時代は？",
+          "es": "¿Durante qué período Japón se aisló del comercio exterior (sakoku)?"
+        },
+        "c": [
+          {
+            "en": "Heian Period",
+            "zh": "平安时代",
+            "ja": "平安時代",
+            "es": "Período Heian"
+          },
+          {
+            "en": "Edo Period",
+            "zh": "江户时代",
+            "ja": "江戸時代",
+            "es": "Período Edo"
+          },
+          {
+            "en": "Meiji Period",
+            "zh": "明治时代",
+            "ja": "明治時代",
+            "es": "Período Meiji"
+          },
+          {
+            "en": "Kamakura Period",
+            "zh": "镰仓时代",
+            "ja": "鎌倉時代",
+            "es": "Período Kamakura"
+          }
+        ],
+        "a": 1,
+        "trivia": {
+          "en": "Sakoku lasted from 1633 to 1853 — over 200 years. Only limited trade with the Dutch and Chinese was allowed through Dejima in Nagasaki.",
+          "zh": "锁国从1633年持续到1853年——超过200年。只有通过长崎的出岛与荷兰和中国进行有限的贸易。",
+          "ja": "鎖国は1633年から1853年まで200年以上続きました。長崎の出島を通じたオランダと中国との限定的な貿易のみが許可されました。",
+          "es": "El sakoku duró desde 1633 hasta 1853, más de 200 años. Solo se permitió comercio limitado con los holandeses y chinos a través de Dejima en Nagasaki."
         }
       }
     ],
