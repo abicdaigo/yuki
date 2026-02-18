@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": 1,
-    "lastUpdated": "2026-02-17",
-    "totalQuestions": 72
+    "lastUpdated": "2026-02-18",
+    "totalQuestions": 73
   },
   "current": {
     "beginner": [
@@ -1310,6 +1310,48 @@
           "zh": "第9条规定日本放弃战争，不维持军事力量。但日本有'自卫队'。该条款的修改是重大政治辩论。",
           "ja": "第9条は戦争放棄と戦力不保持を規定。しかし日本には自衛隊があります。改憲は大きな政治的議論となっています。",
           "es": "El Artículo 9 establece que Japón renuncia a la guerra. Sin embargo, tiene 'Fuerzas de Autodefensa'. Su revisión es un gran debate político."
+        }
+      },
+      {
+        "id": "current_advanced_s5yfkv",
+        "q": {
+          "en": "How many UNESCO World Heritage Sites does Japan have?",
+          "zh": "日本有多少处联合国教科文组织世界遗产？",
+          "ja": "日本のユネスコ世界遺産は何件？",
+          "es": "¿Cuántos sitios del Patrimonio Mundial de la UNESCO tiene Japón?"
+        },
+        "c": [
+          {
+            "en": "15",
+            "zh": "15处",
+            "ja": "15件",
+            "es": "15"
+          },
+          {
+            "en": "20",
+            "zh": "20处",
+            "ja": "20件",
+            "es": "20"
+          },
+          {
+            "en": "25",
+            "zh": "25处",
+            "ja": "25件",
+            "es": "25"
+          },
+          {
+            "en": "30",
+            "zh": "30处",
+            "ja": "30件",
+            "es": "30"
+          }
+        ],
+        "a": 2,
+        "trivia": {
+          "en": "Japan has 25 UNESCO World Heritage Sites, including cultural treasures like Himeji Castle and natural wonders like Yakushima island.",
+          "zh": "日本有25处联合国教科文组织世界遗产，包括姬路城等文化瑰宝和屋久岛等自然奇观。",
+          "ja": "日本には25件のユネスコ世界遺産があり、姫路城などの文化遺産や屋久島などの自然遺産が含まれます。",
+          "es": "Japón tiene 25 sitios del Patrimonio Mundial de la UNESCO, incluyendo tesoros culturales como el Castillo de Himeji y maravillas naturales como la isla Yakushima."
         }
       }
     ]
