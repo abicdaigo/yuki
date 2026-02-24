@@ -1,0 +1,4202 @@
+[
+  {
+    "id": "tourism_beginner_001",
+    "q": {
+      "en": "What is the height of Mt. Fuji, Japans tallest mountain?",
+      "zh": "日本最高峰富士山的高度是多少？",
+      "ja": "日本最高峰の富士山の高さは？",
+      "es": "Cual es la altura del Monte Fuji?"
+    },
+    "c": [
+      {
+        "en": "4,200 meters",
+        "zh": "4200米",
+        "ja": "4200メートル",
+        "es": "4.200 metros"
+      },
+      {
+        "en": "2,500 meters",
+        "zh": "2500米",
+        "ja": "2500メートル",
+        "es": "2.500 metros"
+      },
+      {
+        "en": "3,100 meters",
+        "zh": "3100米",
+        "ja": "3100メートル",
+        "es": "3.100 metros"
+      },
+      {
+        "en": "3,776 meters",
+        "zh": "3776米",
+        "ja": "3776メートル",
+        "es": "3.776 metros"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Mt. Fuji became a UNESCO World Heritage Site in 2013 as a cultural site.",
+      "zh": "富士山于2013年被列为联合国教科文组织世界文化遗产。",
+      "ja": "富士山は2013年にユネスコ世界文化遺産に登録されました。",
+      "es": "El Monte Fuji fue declarado Patrimonio de la Humanidad en 2013."
+    }
+  },
+  {
+    "id": "tourism_beginner_002",
+    "q": {
+      "en": "How tall is Tokyo Tower?",
+      "zh": "东京塔有多高？",
+      "ja": "東京タワーの高さは？",
+      "es": "Cual es la altura de la Torre de Tokio?"
+    },
+    "c": [
+      {
+        "en": "500 meters",
+        "zh": "500米",
+        "ja": "500メートル",
+        "es": "500 metros"
+      },
+      {
+        "en": "250 meters",
+        "zh": "250米",
+        "ja": "250メートル",
+        "es": "250 metros"
+      },
+      {
+        "en": "634 meters",
+        "zh": "634米",
+        "ja": "634メートル",
+        "es": "634 metros"
+      },
+      {
+        "en": "333 meters",
+        "zh": "333米",
+        "ja": "333メートル",
+        "es": "333 metros"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Tokyo Tower was built in 1958 and was inspired by the Eiffel Tower in Paris.",
+      "zh": "东京塔建于1958年，灵感来自巴黎埃菲尔铁塔。",
+      "ja": "東京タワーは1958年に建てられ、エッフェル塔を参考にしました。",
+      "es": "La Torre de Tokio fue construida en 1958 inspirada en la Torre Eiffel."
+    }
+  },
+  {
+    "id": "tourism_beginner_003",
+    "q": {
+      "en": "What is the height of Tokyo Skytree?",
+      "zh": "东京晴空塔的高度是多少？",
+      "ja": "東京スカイツリーの高さは？",
+      "es": "Cual es la altura del Tokyo Skytree?"
+    },
+    "c": [
+      {
+        "en": "500 meters",
+        "zh": "500米",
+        "ja": "500メートル",
+        "es": "500 metros"
+      },
+      {
+        "en": "800 meters",
+        "zh": "800米",
+        "ja": "800メートル",
+        "es": "800 metros"
+      },
+      {
+        "en": "634 meters",
+        "zh": "634米",
+        "ja": "634メートル",
+        "es": "634 metros"
+      },
+      {
+        "en": "333 meters",
+        "zh": "333米",
+        "ja": "333メートル",
+        "es": "333 metros"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Tokyo Skytree is the tallest tower in the world and opened in 2012.",
+      "zh": "东京晴空塔是世界最高的塔，2012年开业。",
+      "ja": "東京スカイツリーは世界一高いタワーで2012年開業。",
+      "es": "El Tokyo Skytree es la torre mas alta del mundo, inaugurada en 2012."
+    }
+  },
+  {
+    "id": "tourism_beginner_004",
+    "q": {
+      "en": "Kyoto served as Japans capital for over how many years?",
+      "zh": "京都作为日本首都超过多少年？",
+      "ja": "京都は何年以上日本の都だった？",
+      "es": "Kioto fue capital de Japon por mas de cuantos anos?"
+    },
+    "c": [
+      {
+        "en": "1,000 years",
+        "zh": "1000年",
+        "ja": "1000年",
+        "es": "1.000 anos"
+      },
+      {
+        "en": "2,000 years",
+        "zh": "2000年",
+        "ja": "2000年",
+        "es": "2.000 anos"
+      },
+      {
+        "en": "500 years",
+        "zh": "500年",
+        "ja": "500年",
+        "es": "500 anos"
+      },
+      {
+        "en": "300 years",
+        "zh": "300年",
+        "ja": "300年",
+        "es": "300 anos"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Kyoto was the imperial capital from 794 to 1868, over 1,000 years.",
+      "zh": "京都从794年到1868年是皇都，超过1000年。",
+      "ja": "京都は794年から1868年まで1000年以上都でした。",
+      "es": "Kioto fue capital imperial desde 794 hasta 1868."
+    }
+  },
+  {
+    "id": "tourism_beginner_005",
+    "q": {
+      "en": "Which Japanese city is known as the food capital?",
+      "zh": "哪个日本城市被称为美食之都？",
+      "ja": "食い倒れの街として知られる都市は？",
+      "es": "Que ciudad japonesa es la capital gastronomica?"
+    },
+    "c": [
+      {
+        "en": "Kyoto",
+        "zh": "京都",
+        "ja": "京都",
+        "es": "Kioto"
+      },
+      {
+        "en": "Osaka",
+        "zh": "大阪",
+        "ja": "大阪",
+        "es": "Osaka"
+      },
+      {
+        "en": "Nagoya",
+        "zh": "名古屋",
+        "ja": "名古屋",
+        "es": "Nagoya"
+      },
+      {
+        "en": "Tokyo",
+        "zh": "东京",
+        "ja": "東京",
+        "es": "Tokio"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Osakas motto is kuidaore meaning eat until you drop.",
+      "zh": "大阪的格言是食い倒れ，意思是吃到倒下。",
+      "ja": "大阪は食い倒れの街として有名です。",
+      "es": "El lema de Osaka es kuidaore: comer hasta caer."
+    }
+  },
+  {
+    "id": "tourism_beginner_006",
+    "q": {
+      "en": "What is the Hiroshima Peace Memorial commonly called?",
+      "zh": "广岛和平纪念馆通常被称为什么？",
+      "ja": "広島平和記念碑の通称は？",
+      "es": "Como se llama el Memorial de la Paz de Hiroshima?"
+    },
+    "c": [
+      {
+        "en": "Atomic Bomb Dome",
+        "zh": "原爆圆顶屋",
+        "ja": "原爆ドーム",
+        "es": "Cupula de la Bomba Atomica"
+      },
+      {
+        "en": "Hiroshima Castle",
+        "zh": "广岛城",
+        "ja": "広島城",
+        "es": "Castillo de Hiroshima"
+      },
+      {
+        "en": "War Museum",
+        "zh": "战争博物馆",
+        "ja": "戦争博物館",
+        "es": "Museo de Guerra"
+      },
+      {
+        "en": "Peace Tower",
+        "zh": "和平塔",
+        "ja": "平和の塔",
+        "es": "Torre de la Paz"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "The Atomic Bomb Dome is a UNESCO World Heritage Site that survived the 1945 bombing.",
+      "zh": "原爆圆顶屋是世界遗产，在1945年轰炸中幸存。",
+      "ja": "原爆ドームは世界遺産で1945年の原爆にも耐えました。",
+      "es": "La Cupula es Patrimonio de la Humanidad y sobrevivio al bombardeo de 1945."
+    }
+  },
+  {
+    "id": "tourism_beginner_007",
+    "q": {
+      "en": "What animals roam freely in Nara Park?",
+      "zh": "奈良公园里自由漫步的动物是？",
+      "ja": "奈良公園で自由に歩く動物は？",
+      "es": "Que animales pasean libres en el Parque de Nara?"
+    },
+    "c": [
+      {
+        "en": "Deer",
+        "zh": "鹿",
+        "ja": "鹿",
+        "es": "Ciervos"
+      },
+      {
+        "en": "Monkeys",
+        "zh": "猴子",
+        "ja": "猿",
+        "es": "Monos"
+      },
+      {
+        "en": "Cats",
+        "zh": "猫",
+        "ja": "猫",
+        "es": "Gatos"
+      },
+      {
+        "en": "Rabbits",
+        "zh": "兔子",
+        "ja": "うさぎ",
+        "es": "Conejos"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Over 1,000 wild deer live in Nara Park and are considered sacred messengers.",
+      "zh": "奈良公园有超过1000只野鹿，被视为神的使者。",
+      "ja": "奈良公園には1000頭以上の鹿がおり神の使いとされています。",
+      "es": "Mas de 1.000 ciervos viven en Nara y son considerados mensajeros sagrados."
+    }
+  },
+  {
+    "id": "tourism_beginner_008",
+    "q": {
+      "en": "Which region of Japan is famous for tropical beaches?",
+      "zh": "日本哪个地区以热带海滩闻名？",
+      "ja": "熱帯ビーチで有名な地域は？",
+      "es": "Que region de Japon tiene playas tropicales?"
+    },
+    "c": [
+      {
+        "en": "Tohoku",
+        "zh": "东北",
+        "ja": "東北",
+        "es": "Tohoku"
+      },
+      {
+        "en": "Shikoku",
+        "zh": "四国",
+        "ja": "四国",
+        "es": "Shikoku"
+      },
+      {
+        "en": "Hokkaido",
+        "zh": "北海道",
+        "ja": "北海道",
+        "es": "Hokkaido"
+      },
+      {
+        "en": "Okinawa",
+        "zh": "冲绳",
+        "ja": "沖縄",
+        "es": "Okinawa"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Okinawa has a subtropical climate with coral reefs and clear blue waters.",
+      "zh": "冲绳属亚热带气候，有珊瑚礁和清澈海水。",
+      "ja": "沖縄は亜熱帯気候でサンゴ礁と青い海があります。",
+      "es": "Okinawa tiene clima subtropical con arrecifes de coral y aguas cristalinas."
+    }
+  },
+  {
+    "id": "tourism_beginner_009",
+    "q": {
+      "en": "Hokkaido is best known for which type of scenery?",
+      "zh": "北海道最以哪种风景闻名？",
+      "ja": "北海道で最も有名な景色は？",
+      "es": "Hokkaido es conocida por que tipo de paisaje?"
+    },
+    "c": [
+      {
+        "en": "Tropical jungles",
+        "zh": "热带丛林",
+        "ja": "熱帯ジャングル",
+        "es": "Selvas tropicales"
+      },
+      {
+        "en": "Nature and snow",
+        "zh": "自然和雪景",
+        "ja": "自然と雪景色",
+        "es": "Naturaleza y nieve"
+      },
+      {
+        "en": "Desert dunes",
+        "zh": "沙漠沙丘",
+        "ja": "砂漠の砂丘",
+        "es": "Dunas del desierto"
+      },
+      {
+        "en": "Skyscrapers",
+        "zh": "摩天大楼",
+        "ja": "超高層ビル",
+        "es": "Rascacielos"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Hokkaido hosts the Sapporo Snow Festival every February with huge ice sculptures.",
+      "zh": "北海道每年2月举办札幌雪祭。",
+      "ja": "北海道では毎年2月にさっぽろ雪まつりが開催されます。",
+      "es": "Hokkaido alberga el Festival de Nieve de Sapporo cada febrero."
+    }
+  },
+  {
+    "id": "tourism_beginner_010",
+    "q": {
+      "en": "What is Kinkaku-ji also known as?",
+      "zh": "金阁寺的别称是？",
+      "ja": "金閣寺の別名は？",
+      "es": "Como se conoce tambien al Kinkaku-ji?"
+    },
+    "c": [
+      {
+        "en": "Red Pavilion",
+        "zh": "红阁",
+        "ja": "赤閣",
+        "es": "Pabellon Rojo"
+      },
+      {
+        "en": "White Pavilion",
+        "zh": "白阁",
+        "ja": "白閣",
+        "es": "Pabellon Blanco"
+      },
+      {
+        "en": "Silver Pavilion",
+        "zh": "银阁",
+        "ja": "銀閣",
+        "es": "Pabellon de Plata"
+      },
+      {
+        "en": "Golden Pavilion",
+        "zh": "金阁",
+        "ja": "金閣",
+        "es": "Pabellon Dorado"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Kinkaku-ji is covered in real gold leaf and reflects in its pond.",
+      "zh": "金阁寺覆有真正的金箔，在池塘中有美丽倒影。",
+      "ja": "金閣寺は本物の金箔で覆われ池に美しく映ります。",
+      "es": "El Kinkaku-ji esta cubierto de pan de oro real."
+    }
+  },
+  {
+    "id": "tourism_beginner_011",
+    "q": {
+      "en": "What is the oldest temple in Tokyo?",
+      "zh": "东京最古老的寺庙是？",
+      "ja": "東京で最も古い寺院は？",
+      "es": "Cual es el templo mas antiguo de Tokio?"
+    },
+    "c": [
+      {
+        "en": "Zojo-ji",
+        "zh": "增上寺",
+        "ja": "増上寺",
+        "es": "Zojo-ji"
+      },
+      {
+        "en": "Senso-ji",
+        "zh": "浅草寺",
+        "ja": "浅草寺",
+        "es": "Senso-ji"
+      },
+      {
+        "en": "Gotoku-ji",
+        "zh": "豪德寺",
+        "ja": "豪徳寺",
+        "es": "Gotoku-ji"
+      },
+      {
+        "en": "Meiji Shrine",
+        "zh": "明治神宫",
+        "ja": "明治神宮",
+        "es": "Santuario Meiji"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Senso-ji was founded in 645 AD in the Asakusa district.",
+      "zh": "浅草寺建于公元645年，位于浅草。",
+      "ja": "浅草寺は645年に創建され浅草にあります。",
+      "es": "El Senso-ji fue fundado en 645 en el barrio de Asakusa."
+    }
+  },
+  {
+    "id": "tourism_beginner_012",
+    "q": {
+      "en": "Fushimi Inari Shrine is famous for thousands of what?",
+      "zh": "伏见稻荷大社以数千个什么闻名？",
+      "ja": "伏見稲荷大社は何千もの何で有名？",
+      "es": "Fushimi Inari es famoso por miles de que?"
+    },
+    "c": [
+      {
+        "en": "Buddha statues",
+        "zh": "佛像",
+        "ja": "仏像",
+        "es": "Estatuas de Buda"
+      },
+      {
+        "en": "Red torii gates",
+        "zh": "红色鸟居",
+        "ja": "赤い鳥居",
+        "es": "Puertas torii rojas"
+      },
+      {
+        "en": "Cherry trees",
+        "zh": "樱花树",
+        "ja": "桜の木",
+        "es": "Cerezos"
+      },
+      {
+        "en": "Stone lanterns",
+        "zh": "石灯笼",
+        "ja": "石灯籠",
+        "es": "Linternas de piedra"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "About 10,000 red torii gates form trails up the mountain.",
+      "zh": "约10000座红色鸟居形成通往山上的步道。",
+      "ja": "約1万基の赤い鳥居が山へ続く参道を形成しています。",
+      "es": "Unas 10.000 puertas torii rojas forman senderos por la montana."
+    }
+  },
+  {
+    "id": "tourism_beginner_013",
+    "q": {
+      "en": "Meiji Shrine in Tokyo is dedicated to which emperor?",
+      "zh": "东京明治神宫供奉哪位天皇？",
+      "ja": "明治神宮はどの天皇を祀っている？",
+      "es": "El Santuario Meiji esta dedicado a que emperador?"
+    },
+    "c": [
+      {
+        "en": "Emperor Hirohito",
+        "zh": "裕仁天皇",
+        "ja": "裕仁天皇",
+        "es": "Emperador Hirohito"
+      },
+      {
+        "en": "Emperor Meiji",
+        "zh": "明治天皇",
+        "ja": "明治天皇",
+        "es": "Emperador Meiji"
+      },
+      {
+        "en": "Emperor Showa",
+        "zh": "昭和天皇",
+        "ja": "昭和天皇",
+        "es": "Emperador Showa"
+      },
+      {
+        "en": "Emperor Taisho",
+        "zh": "大正天皇",
+        "ja": "大正天皇",
+        "es": "Emperador Taisho"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Meiji Shrine is surrounded by a forest of 170,000 trees from all over Japan.",
+      "zh": "明治神宫被17万棵来自全国的树木环绕。",
+      "ja": "明治神宮は全国から献木された17万本の木々に囲まれています。",
+      "es": "El Santuario Meiji esta rodeado por 170.000 arboles de todo Japon."
+    }
+  },
+  {
+    "id": "tourism_beginner_014",
+    "q": {
+      "en": "What is Himeji Castles nickname due to its white exterior?",
+      "zh": "姬路城因白色外观的昵称是？",
+      "ja": "姫路城の白い外観からの愛称は？",
+      "es": "Cual es el apodo del Castillo de Himeji?"
+    },
+    "c": [
+      {
+        "en": "Red Phoenix Castle",
+        "zh": "红凤城",
+        "ja": "赤鳳城",
+        "es": "Castillo del Fenix"
+      },
+      {
+        "en": "Snow Castle",
+        "zh": "雪城",
+        "ja": "雪城",
+        "es": "Castillo de Nieve"
+      },
+      {
+        "en": "White Heron Castle",
+        "zh": "白鹭城",
+        "ja": "白鷺城",
+        "es": "Castillo de la Garza Blanca"
+      },
+      {
+        "en": "Black Crow Castle",
+        "zh": "黑鸦城",
+        "ja": "黒鴉城",
+        "es": "Castillo del Cuervo"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Himeji Castle is one of 12 original castles in Japan and a UNESCO World Heritage Site.",
+      "zh": "姬路城是日本12座原始城堡之一，也是世界遗产。",
+      "ja": "姫路城は現存12天守の一つでユネスコ世界遺産です。",
+      "es": "El Castillo de Himeji es uno de los 12 castillos originales y Patrimonio de la Humanidad."
+    }
+  },
+  {
+    "id": "tourism_beginner_015",
+    "q": {
+      "en": "In which city is Osaka Castle located?",
+      "zh": "大阪城位于哪个城市？",
+      "ja": "大阪城はどの都市にある？",
+      "es": "En que ciudad esta el Castillo de Osaka?"
+    },
+    "c": [
+      {
+        "en": "Kyoto",
+        "zh": "京都",
+        "ja": "京都",
+        "es": "Kioto"
+      },
+      {
+        "en": "Nara",
+        "zh": "奈良",
+        "ja": "奈良",
+        "es": "Nara"
+      },
+      {
+        "en": "Kobe",
+        "zh": "神户",
+        "ja": "神戸",
+        "es": "Kobe"
+      },
+      {
+        "en": "Osaka",
+        "zh": "大阪",
+        "ja": "大阪",
+        "es": "Osaka"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Osaka Castle was built in 1583 by Toyotomi Hideyoshi.",
+      "zh": "大阪城由丰臣秀吉于1583年建造。",
+      "ja": "大阪城は1583年に豊臣秀吉が築きました。",
+      "es": "El Castillo de Osaka fue construido en 1583 por Toyotomi Hideyoshi."
+    }
+  },
+  {
+    "id": "tourism_beginner_016",
+    "q": {
+      "en": "Shibuya Crossing is famous for being the worlds what?",
+      "zh": "涩谷十字路口以世界上什么闻名？",
+      "ja": "渋谷スクランブル交差点は世界で何として有名？",
+      "es": "El Cruce de Shibuya es famoso por ser que del mundo?"
+    },
+    "c": [
+      {
+        "en": "Longest traffic light",
+        "zh": "最长的红绿灯",
+        "ja": "最も長い信号",
+        "es": "Semaforo mas largo"
+      },
+      {
+        "en": "Oldest intersection",
+        "zh": "最古老的十字路口",
+        "ja": "最も古い交差点",
+        "es": "Interseccion mas antigua"
+      },
+      {
+        "en": "Widest road",
+        "zh": "最宽的道路",
+        "ja": "最も広い道路",
+        "es": "Carretera mas ancha"
+      },
+      {
+        "en": "Busiest pedestrian crossing",
+        "zh": "最繁忙的人行横道",
+        "ja": "最も混雑する横断歩道",
+        "es": "Cruce peatonal mas concurrido"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Up to 3,000 people cross at once during peak times.",
+      "zh": "高峰时段一次最多3000人通过。",
+      "ja": "ピーク時に一度に最大3000人が横断します。",
+      "es": "Hasta 3.000 personas cruzan a la vez en horas punta."
+    }
+  },
+  {
+    "id": "tourism_beginner_017",
+    "q": {
+      "en": "Akihabara in Tokyo is a center for what?",
+      "zh": "秋叶原以什么闻名？",
+      "ja": "秋葉原は何の中心地？",
+      "es": "Akihabara es centro de que?"
+    },
+    "c": [
+      {
+        "en": "Electronics and anime",
+        "zh": "电子产品和动漫",
+        "ja": "電子機器とアニメ",
+        "es": "Electronica y anime"
+      },
+      {
+        "en": "Banking",
+        "zh": "银行",
+        "ja": "銀行",
+        "es": "Banca"
+      },
+      {
+        "en": "Luxury fashion",
+        "zh": "高级时尚",
+        "ja": "高級ファッション",
+        "es": "Moda de lujo"
+      },
+      {
+        "en": "Traditional crafts",
+        "zh": "传统工艺",
+        "ja": "伝統工芸",
+        "es": "Artesanias"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Akihabara started as an electronics market after WWII and became an anime hub.",
+      "zh": "秋叶原二战后作为电子市场起步，后成为动漫中心。",
+      "ja": "秋葉原は戦後の電気街からアニメの聖地に発展しました。",
+      "es": "Akihabara comenzo como mercado electronico y evoluciono a centro de anime."
+    }
+  },
+  {
+    "id": "tourism_beginner_018",
+    "q": {
+      "en": "Which Tokyo district is famous for youth fashion?",
+      "zh": "东京哪个区以青年时尚闻名？",
+      "ja": "若者ファッションで有名な地区は？",
+      "es": "Que barrio de Tokio es famoso por moda juvenil?"
+    },
+    "c": [
+      {
+        "en": "Shinjuku",
+        "zh": "新宿",
+        "ja": "新宿",
+        "es": "Shinjuku"
+      },
+      {
+        "en": "Ueno",
+        "zh": "上野",
+        "ja": "上野",
+        "es": "Ueno"
+      },
+      {
+        "en": "Ginza",
+        "zh": "银座",
+        "ja": "銀座",
+        "es": "Ginza"
+      },
+      {
+        "en": "Harajuku",
+        "zh": "原宿",
+        "ja": "原宿",
+        "es": "Harajuku"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Harajukus Takeshita Street is the epicenter of youth culture and unique fashion.",
+      "zh": "原宿竹下通是青年文化和独特时尚的中心。",
+      "ja": "原宿の竹下通りは若者文化の中心地です。",
+      "es": "La calle Takeshita es el epicentro de la cultura juvenil japonesa."
+    }
+  },
+  {
+    "id": "tourism_beginner_019",
+    "q": {
+      "en": "Shinjuku Station is the worlds what?",
+      "zh": "新宿站是世界上什么？",
+      "ja": "新宿駅は世界で何として知られる？",
+      "es": "La Estacion Shinjuku es la mas que del mundo?"
+    },
+    "c": [
+      {
+        "en": "Largest station",
+        "zh": "最大的车站",
+        "ja": "最も大きい駅",
+        "es": "Estacion mas grande"
+      },
+      {
+        "en": "Busiest station",
+        "zh": "最繁忙的车站",
+        "ja": "最も利用者の多い駅",
+        "es": "Estacion mas concurrida"
+      },
+      {
+        "en": "Most beautiful",
+        "zh": "最美的车站",
+        "ja": "最も美しい駅",
+        "es": "Mas hermosa"
+      },
+      {
+        "en": "Oldest station",
+        "zh": "最古老的车站",
+        "ja": "最も古い駅",
+        "es": "Estacion mas antigua"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Shinjuku Station serves over 3.5 million passengers daily.",
+      "zh": "新宿站每天服务超过350万乘客。",
+      "ja": "新宿駅は1日350万人以上が利用します。",
+      "es": "Shinjuku atiende a mas de 3,5 millones de pasajeros diarios."
+    }
+  },
+  {
+    "id": "tourism_beginner_020",
+    "q": {
+      "en": "Which Tokyo district is known for luxury shopping?",
+      "zh": "东京哪个区以奢侈品购物闻名？",
+      "ja": "高級ショッピングで有名な地区は？",
+      "es": "Que barrio de Tokio tiene compras de lujo?"
+    },
+    "c": [
+      {
+        "en": "Akihabara",
+        "zh": "秋叶原",
+        "ja": "秋葉原",
+        "es": "Akihabara"
+      },
+      {
+        "en": "Asakusa",
+        "zh": "浅草",
+        "ja": "浅草",
+        "es": "Asakusa"
+      },
+      {
+        "en": "Ginza",
+        "zh": "银座",
+        "ja": "銀座",
+        "es": "Ginza"
+      },
+      {
+        "en": "Shimokitazawa",
+        "zh": "下北泽",
+        "ja": "下北沢",
+        "es": "Shimokitazawa"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Ginza has flagship stores of major international brands and elegant department stores.",
+      "zh": "银座有国际品牌旗舰店和百货公司。",
+      "ja": "銀座には有名ブランドの旗艦店や百貨店が並んでいます。",
+      "es": "Ginza alberga tiendas insignia de grandes marcas internacionales."
+    }
+  },
+  {
+    "id": "tourism_beginner_021",
+    "q": {
+      "en": "Which Tokyo area is known for its traditional old-town atmosphere?",
+      "zh": "东京哪个区以传统下町氛围著称？",
+      "ja": "下町の伝統的な雰囲気で知られる街は？",
+      "es": "Que barrio de Tokio tiene ambiente tradicional?"
+    },
+    "c": [
+      {
+        "en": "Shibuya",
+        "zh": "涩谷",
+        "ja": "渋谷",
+        "es": "Shibuya"
+      },
+      {
+        "en": "Asakusa",
+        "zh": "浅草",
+        "ja": "浅草",
+        "es": "Asakusa"
+      },
+      {
+        "en": "Odaiba",
+        "zh": "台场",
+        "ja": "お台場",
+        "es": "Odaiba"
+      },
+      {
+        "en": "Roppongi",
+        "zh": "六本木",
+        "ja": "六本木",
+        "es": "Roppongi"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Asakusa retains old-town charm with Senso-ji and Nakamise shopping street.",
+      "zh": "浅草保留下町风情，有浅草寺和仲见世商店街。",
+      "ja": "浅草は浅草寺と仲見世通りがある下町の雰囲気を残しています。",
+      "es": "Asakusa conserva el encanto tradicional con Senso-ji y la calle Nakamise."
+    }
+  },
+  {
+    "id": "tourism_beginner_022",
+    "q": {
+      "en": "Which Tokyo park is famous for its museums and zoo?",
+      "zh": "东京哪个公园有博物馆和动物园？",
+      "ja": "博物館や動物園で有名な公園は？",
+      "es": "Que parque de Tokio tiene museos y zoologico?"
+    },
+    "c": [
+      {
+        "en": "Yoyogi Park",
+        "zh": "代代木公园",
+        "ja": "代々木公園",
+        "es": "Parque Yoyogi"
+      },
+      {
+        "en": "Hibiya Park",
+        "zh": "日比谷公园",
+        "ja": "日比谷公園",
+        "es": "Parque Hibiya"
+      },
+      {
+        "en": "Shinjuku Gyoen",
+        "zh": "新宿御苑",
+        "ja": "新宿御苑",
+        "es": "Shinjuku Gyoen"
+      },
+      {
+        "en": "Ueno Park",
+        "zh": "上野公园",
+        "ja": "上野公園",
+        "es": "Parque Ueno"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Ueno Park has the Tokyo National Museum, a zoo, and is a top cherry blossom spot.",
+      "zh": "上野公园有东京国立博物馆、动物园，也是赏樱名所。",
+      "ja": "上野公園には東京国立博物館、動物園があり花見の名所です。",
+      "es": "Ueno tiene el Museo Nacional, un zoologico y es lugar popular para ver cerezos."
+    }
+  },
+  {
+    "id": "tourism_beginner_023",
+    "q": {
+      "en": "Where is the Imperial Palace located?",
+      "zh": "皇居位于哪里？",
+      "ja": "皇居はどこにある？",
+      "es": "Donde esta el Palacio Imperial?"
+    },
+    "c": [
+      {
+        "en": "Osaka",
+        "zh": "大阪",
+        "ja": "大阪",
+        "es": "Osaka"
+      },
+      {
+        "en": "Nara",
+        "zh": "奈良",
+        "ja": "奈良",
+        "es": "Nara"
+      },
+      {
+        "en": "Tokyo",
+        "zh": "东京",
+        "ja": "東京",
+        "es": "Tokio"
+      },
+      {
+        "en": "Kyoto",
+        "zh": "京都",
+        "ja": "京都",
+        "es": "Kioto"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "The Imperial Palace in Tokyo is surrounded by moats and stone walls in the city center.",
+      "zh": "东京皇居位于市中心，被护城河和石墙环绕。",
+      "ja": "皇居は都心にあり堀と石垣に囲まれています。",
+      "es": "El Palacio Imperial esta rodeado de fosos y muros de piedra en el centro de Tokio."
+    }
+  },
+  {
+    "id": "tourism_beginner_024",
+    "q": {
+      "en": "Which airport is Tokyos main international gateway in Chiba?",
+      "zh": "东京在千叶的主要国际机场是？",
+      "ja": "千葉にある東京の主要国際空港は？",
+      "es": "Cual es el aeropuerto internacional principal de Tokio en Chiba?"
+    },
+    "c": [
+      {
+        "en": "Kansai",
+        "zh": "关西机场",
+        "ja": "関西空港",
+        "es": "Kansai"
+      },
+      {
+        "en": "Chubu",
+        "zh": "中部机场",
+        "ja": "中部空港",
+        "es": "Chubu"
+      },
+      {
+        "en": "Haneda",
+        "zh": "羽田机场",
+        "ja": "羽田空港",
+        "es": "Haneda"
+      },
+      {
+        "en": "Narita",
+        "zh": "成田机场",
+        "ja": "成田空港",
+        "es": "Narita"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Narita Airport is about 60 km east of central Tokyo and handles most international flights.",
+      "zh": "成田机场在东京以东约60公里，处理大部分国际航班。",
+      "ja": "成田空港は東京都心から東へ約60kmで多くの国際線が発着します。",
+      "es": "Narita esta a 60 km al este de Tokio y maneja la mayoria de vuelos internacionales."
+    }
+  },
+  {
+    "id": "tourism_beginner_025",
+    "q": {
+      "en": "Which Tokyo airport is closer to the city center?",
+      "zh": "东京哪个机场离市中心更近？",
+      "ja": "都心に近い空港は？",
+      "es": "Que aeropuerto de Tokio esta mas cerca del centro?"
+    },
+    "c": [
+      {
+        "en": "Kansai",
+        "zh": "关西",
+        "ja": "関西",
+        "es": "Kansai"
+      },
+      {
+        "en": "Narita",
+        "zh": "成田",
+        "ja": "成田",
+        "es": "Narita"
+      },
+      {
+        "en": "Haneda",
+        "zh": "羽田",
+        "ja": "羽田",
+        "es": "Haneda"
+      },
+      {
+        "en": "Itami",
+        "zh": "伊丹",
+        "ja": "伊丹",
+        "es": "Itami"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Haneda Airport is only about 15 km from central Tokyo.",
+      "zh": "羽田机场距东京市中心仅约15公里。",
+      "ja": "羽田空港は都心からわずか約15kmです。",
+      "es": "Haneda esta a solo 15 km del centro de Tokio."
+    }
+  },
+  {
+    "id": "tourism_beginner_026",
+    "q": {
+      "en": "Kansai Airport serves which major cities?",
+      "zh": "关西机场服务哪些主要城市？",
+      "ja": "関西空港がカバーする主要都市は？",
+      "es": "El Aeropuerto de Kansai sirve a que ciudades?"
+    },
+    "c": [
+      {
+        "en": "Osaka, Kyoto, and Kobe",
+        "zh": "大阪、京都、神户",
+        "ja": "大阪、京都、神戸",
+        "es": "Osaka, Kioto y Kobe"
+      },
+      {
+        "en": "Sapporo and Hakodate",
+        "zh": "札幌和函馆",
+        "ja": "札幌と函館",
+        "es": "Sapporo y Hakodate"
+      },
+      {
+        "en": "Tokyo and Yokohama",
+        "zh": "东京和横滨",
+        "ja": "東京と横浜",
+        "es": "Tokio y Yokohama"
+      },
+      {
+        "en": "Hiroshima and Okayama",
+        "zh": "广岛和冈山",
+        "ja": "広島と岡山",
+        "es": "Hiroshima y Okayama"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Kansai Airport was built on an artificial island in Osaka Bay, opened 1994.",
+      "zh": "关西机场建在大阪湾人工岛上，1994年开业。",
+      "ja": "関西空港は大阪湾の人工島に建設され1994年開港。",
+      "es": "Kansai fue construido en una isla artificial en la Bahia de Osaka en 1994."
+    }
+  },
+  {
+    "id": "tourism_beginner_027",
+    "q": {
+      "en": "What does JR stand for in Japans railway?",
+      "zh": "JR代表什么？",
+      "ja": "JRは何の略？",
+      "es": "Que significa JR en el ferrocarril japones?"
+    },
+    "c": [
+      {
+        "en": "Japan Route",
+        "zh": "日本路线",
+        "ja": "ジャパンルート",
+        "es": "Japan Route"
+      },
+      {
+        "en": "Joint Railway",
+        "zh": "联合铁路",
+        "ja": "ジョイントレールウェイ",
+        "es": "Joint Railway"
+      },
+      {
+        "en": "Japan Road",
+        "zh": "日本道路",
+        "ja": "ジャパンロード",
+        "es": "Japan Road"
+      },
+      {
+        "en": "Japan Railways",
+        "zh": "日本铁路",
+        "ja": "ジャパンレールウェイズ",
+        "es": "Japan Railways"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "JR Group has six regional passenger companies and one freight company.",
+      "zh": "JR集团有六家客运公司和一家货运公司。",
+      "ja": "JRグループは6つの旅客会社と1つの貨物会社です。",
+      "es": "El Grupo JR tiene seis companias de pasajeros y una de carga."
+    }
+  },
+  {
+    "id": "tourism_beginner_028",
+    "q": {
+      "en": "What is the Japanese bullet train called?",
+      "zh": "日本子弹头列车叫什么？",
+      "ja": "日本の超高速列車の名称は？",
+      "es": "Como se llama el tren bala japones?"
+    },
+    "c": [
+      {
+        "en": "Shinkansen",
+        "zh": "新干线",
+        "ja": "新幹線",
+        "es": "Shinkansen"
+      },
+      {
+        "en": "Limited Express",
+        "zh": "特急",
+        "ja": "特急",
+        "es": "Expreso Limitado"
+      },
+      {
+        "en": "Metro",
+        "zh": "地铁",
+        "ja": "メトロ",
+        "es": "Metro"
+      },
+      {
+        "en": "Romancecar",
+        "zh": "浪漫特快",
+        "ja": "ロマンスカー",
+        "es": "Romancecar"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "The Shinkansen reaches over 300 km/h with zero fatal accidents since 1964.",
+      "zh": "新干线时速超过300公里，自1964年零致命事故。",
+      "ja": "新幹線は時速300km以上で1964年以来死亡事故ゼロです。",
+      "es": "El Shinkansen alcanza mas de 300 km/h con cero accidentes fatales desde 1964."
+    }
+  },
+  {
+    "id": "tourism_beginner_029",
+    "q": {
+      "en": "What is hanami in Japanese culture?",
+      "zh": "花见是什么？",
+      "ja": "花見とは？",
+      "es": "Que es el hanami?"
+    },
+    "c": [
+      {
+        "en": "Leaf viewing",
+        "zh": "赏红叶",
+        "ja": "紅葉狩り",
+        "es": "Ver hojas"
+      },
+      {
+        "en": "Cherry blossom viewing",
+        "zh": "赏樱花",
+        "ja": "桜の花見",
+        "es": "Ver cerezos en flor"
+      },
+      {
+        "en": "Fireworks viewing",
+        "zh": "看烟花",
+        "ja": "花火鑑賞",
+        "es": "Ver fuegos artificiales"
+      },
+      {
+        "en": "Moon viewing",
+        "zh": "赏月",
+        "ja": "月見",
+        "es": "Ver la luna"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Hanami season is from late March to mid-April when cherry trees bloom.",
+      "zh": "花见季节是3月下旬至4月中旬樱花盛开时。",
+      "ja": "花見は3月下旬から4月中旬の桜の季節です。",
+      "es": "La temporada de hanami es de finales de marzo a mediados de abril."
+    }
+  },
+  {
+    "id": "tourism_beginner_030",
+    "q": {
+      "en": "When is the best time for autumn foliage in Japan?",
+      "zh": "观赏红叶的最佳时间是？",
+      "ja": "紅葉の見頃は？",
+      "es": "Cuando es mejor ver el follaje de otono?"
+    },
+    "c": [
+      {
+        "en": "March-April",
+        "zh": "3-4月",
+        "ja": "3〜4月",
+        "es": "Marzo-abril"
+      },
+      {
+        "en": "June-August",
+        "zh": "6-8月",
+        "ja": "6〜8月",
+        "es": "Junio-agosto"
+      },
+      {
+        "en": "October-November",
+        "zh": "10-11月",
+        "ja": "10〜11月",
+        "es": "Octubre-noviembre"
+      },
+      {
+        "en": "January-February",
+        "zh": "1-2月",
+        "ja": "1〜2月",
+        "es": "Enero-febrero"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Autumn colors start in Hokkaido in September and move south through November.",
+      "zh": "红叶从9月北海道开始，逐渐南下到11月。",
+      "ja": "紅葉は9月の北海道から11月にかけて南下します。",
+      "es": "Los colores de otono comienzan en Hokkaido en septiembre y bajan hacia el sur."
+    }
+  },
+  {
+    "id": "tourism_beginner_031",
+    "q": {
+      "en": "What is an onsen?",
+      "zh": "温泉是什么？",
+      "ja": "温泉とは？",
+      "es": "Que es un onsen?"
+    },
+    "c": [
+      {
+        "en": "A dance",
+        "zh": "舞蹈",
+        "ja": "踊り",
+        "es": "Un baile"
+      },
+      {
+        "en": "A restaurant",
+        "zh": "餐厅",
+        "ja": "レストラン",
+        "es": "Un restaurante"
+      },
+      {
+        "en": "A garden",
+        "zh": "庭园",
+        "ja": "庭園",
+        "es": "Un jardin"
+      },
+      {
+        "en": "A hot spring bath",
+        "zh": "温泉浴",
+        "ja": "温泉浴場",
+        "es": "Bano de aguas termales"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Japan has over 27,000 hot spring sources due to its volcanic geography.",
+      "zh": "日本因火山地形有超过27000个温泉源。",
+      "ja": "日本は火山のおかげで27000以上の温泉源があります。",
+      "es": "Japon tiene mas de 27.000 fuentes termales por su geografia volcanica."
+    }
+  },
+  {
+    "id": "tourism_beginner_032",
+    "q": {
+      "en": "What is a ryokan?",
+      "zh": "旅馆是什么？",
+      "ja": "旅館とは？",
+      "es": "Que es un ryokan?"
+    },
+    "c": [
+      {
+        "en": "Modern hotel",
+        "zh": "现代酒店",
+        "ja": "モダンホテル",
+        "es": "Hotel moderno"
+      },
+      {
+        "en": "Youth hostel",
+        "zh": "青年旅社",
+        "ja": "ユースホステル",
+        "es": "Albergue juvenil"
+      },
+      {
+        "en": "Traditional Japanese inn",
+        "zh": "传统日式旅馆",
+        "ja": "伝統的な日本の宿",
+        "es": "Posada tradicional japonesa"
+      },
+      {
+        "en": "Capsule hotel",
+        "zh": "胶囊旅馆",
+        "ja": "カプセルホテル",
+        "es": "Hotel capsula"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Ryokan guests sleep on futon on tatami floors and enjoy traditional meals.",
+      "zh": "旅馆客人在榻榻米上睡布团，享用传统餐食。",
+      "ja": "旅館では畳の上の布団で眠り伝統的な食事を楽しみます。",
+      "es": "En ryokan se duerme en futon sobre tatami y se disfrutan comidas tradicionales."
+    }
+  },
+  {
+    "id": "tourism_beginner_033",
+    "q": {
+      "en": "What is unique about a capsule hotel?",
+      "zh": "胶囊旅馆有什么独特之处？",
+      "ja": "カプセルホテルの特徴は？",
+      "es": "Que tiene de unico un hotel capsula?"
+    },
+    "c": [
+      {
+        "en": "Rooms are underwater",
+        "zh": "房间在水下",
+        "ja": "水中の部屋",
+        "es": "Habitaciones bajo el agua"
+      },
+      {
+        "en": "Guests sleep in small pod-like spaces",
+        "zh": "客人在小舱体里睡觉",
+        "ja": "小さなカプセル空間で寝る",
+        "es": "Se duerme en pequenos espacios tipo capsula"
+      },
+      {
+        "en": "Rooms rotate",
+        "zh": "房间旋转",
+        "ja": "部屋が回転する",
+        "es": "Las habitaciones giran"
+      },
+      {
+        "en": "Each has a garden",
+        "zh": "每间有花园",
+        "ja": "各部屋に庭がある",
+        "es": "Cada una tiene jardin"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Capsule hotels were invented in Osaka in 1979, popular with budget travelers.",
+      "zh": "胶囊旅馆1979年在大阪发明，深受经济型旅客欢迎。",
+      "ja": "カプセルホテルは1979年大阪で発明され予算重視の旅行者に人気です。",
+      "es": "Los hoteles capsula se inventaron en Osaka en 1979."
+    }
+  },
+  {
+    "id": "tourism_beginner_034",
+    "q": {
+      "en": "What unique accommodation type is known in Japan for couples?",
+      "zh": "日本有哪种独特的情侣住宿？",
+      "ja": "日本独自のカップル向け宿泊は？",
+      "es": "Que alojamiento unico japones es para parejas?"
+    },
+    "c": [
+      {
+        "en": "Love hotel",
+        "zh": "情侣酒店",
+        "ja": "ラブホテル",
+        "es": "Love hotel"
+      },
+      {
+        "en": "Cave hotel",
+        "zh": "洞穴旅馆",
+        "ja": "洞窟ホテル",
+        "es": "Hotel cueva"
+      },
+      {
+        "en": "Tree house",
+        "zh": "树屋",
+        "ja": "ツリーハウス",
+        "es": "Casa del arbol"
+      },
+      {
+        "en": "Ice hotel",
+        "zh": "冰旅馆",
+        "ja": "アイスホテル",
+        "es": "Hotel de hielo"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Love hotels feature themed rooms and are a unique part of Japanese culture.",
+      "zh": "情侣酒店有主题房间，是日本独特文化。",
+      "ja": "ラブホテルはテーマルームがあり日本独特の文化です。",
+      "es": "Los love hotels tienen habitaciones tematicas, parte unica de la cultura japonesa."
+    }
+  },
+  {
+    "id": "tourism_beginner_035",
+    "q": {
+      "en": "What themed cafes are popular in Tokyo?",
+      "zh": "东京流行什么主题咖啡馆？",
+      "ja": "東京で人気のテーマカフェは？",
+      "es": "Que cafes tematicos son populares en Tokio?"
+    },
+    "c": [
+      {
+        "en": "Cat cafes and owl cafes",
+        "zh": "猫咖和猫头鹰咖啡馆",
+        "ja": "猫カフェとフクロウカフェ",
+        "es": "Cafes de gatos y buhos"
+      },
+      {
+        "en": "Book cafes only",
+        "zh": "只有书咖啡馆",
+        "ja": "ブックカフェのみ",
+        "es": "Solo cafes de libros"
+      },
+      {
+        "en": "Car and plane cafes",
+        "zh": "汽车和飞机咖啡馆",
+        "ja": "車と飛行機カフェ",
+        "es": "Cafes de coches"
+      },
+      {
+        "en": "Music cafes only",
+        "zh": "只有音乐咖啡馆",
+        "ja": "音楽カフェのみ",
+        "es": "Solo cafes de musica"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Tokyo has cafes with cats, owls, hedgehogs, rabbits, and even reptiles.",
+      "zh": "东京有猫、猫头鹰、刺猬、兔子甚至爬行动物主题咖啡馆。",
+      "ja": "東京には猫やフクロウ、ハリネズミ、うさぎのカフェまであります。",
+      "es": "Tokio tiene cafes con gatos, buhos, erizos, conejos y hasta reptiles."
+    }
+  },
+  {
+    "id": "tourism_beginner_036",
+    "q": {
+      "en": "What is a konbini in Japan?",
+      "zh": "日本的konbini是什么？",
+      "ja": "コンビニとは？",
+      "es": "Que es un konbini?"
+    },
+    "c": [
+      {
+        "en": "A bookstore",
+        "zh": "书店",
+        "ja": "書店",
+        "es": "Libreria"
+      },
+      {
+        "en": "A pharmacy",
+        "zh": "药店",
+        "ja": "薬局",
+        "es": "Farmacia"
+      },
+      {
+        "en": "A clothing store",
+        "zh": "服装店",
+        "ja": "衣料品店",
+        "es": "Tienda de ropa"
+      },
+      {
+        "en": "A convenience store",
+        "zh": "便利店",
+        "ja": "コンビニエンスストア",
+        "es": "Tienda de conveniencia"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Konbini like 7-Eleven, Lawson, and FamilyMart are open 24/7 with food, ATMs, and more.",
+      "zh": "7-Eleven等便利店24小时营业，有食物和ATM。",
+      "ja": "コンビニは24時間営業で食事からATMまで何でもあります。",
+      "es": "Los konbini como 7-Eleven abren 24/7 con comida, cajeros y mas."
+    }
+  },
+  {
+    "id": "tourism_beginner_037",
+    "q": {
+      "en": "What are Suica and Pasmo?",
+      "zh": "Suica和Pasmo是什么？",
+      "ja": "SuicaとPASMOは何？",
+      "es": "Que son Suica y Pasmo?"
+    },
+    "c": [
+      {
+        "en": "IC cards for trains and shopping",
+        "zh": "电车和购物用IC卡",
+        "ja": "電車や買い物用ICカード",
+        "es": "Tarjetas IC para trenes y compras"
+      },
+      {
+        "en": "Hotel booking apps",
+        "zh": "酒店预订应用",
+        "ja": "ホテル予約アプリ",
+        "es": "Apps de hotel"
+      },
+      {
+        "en": "Loyalty cards",
+        "zh": "积分卡",
+        "ja": "ポイントカード",
+        "es": "Tarjetas de puntos"
+      },
+      {
+        "en": "Visa cards",
+        "zh": "签证卡",
+        "ja": "ビザカード",
+        "es": "Tarjetas de visa"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "These IC cards work on most trains, buses, convenience stores, and vending machines.",
+      "zh": "这些IC卡可用于大多数电车、公交、便利店和自动售货机。",
+      "ja": "ICカードは殆どの電車、バス、コンビニ、自販機で使えます。",
+      "es": "Estas tarjetas IC funcionan en trenes, autobuses, tiendas y maquinas expendedoras."
+    }
+  },
+  {
+    "id": "tourism_beginner_038",
+    "q": {
+      "en": "Where can travelers store luggage at train stations?",
+      "zh": "旅客在车站哪里存放行李？",
+      "ja": "駅で荷物を預ける場所は？",
+      "es": "Donde guardar equipaje en estaciones?"
+    },
+    "c": [
+      {
+        "en": "Coin lockers",
+        "zh": "投币储物柜",
+        "ja": "コインロッカー",
+        "es": "Taquillas de monedas"
+      },
+      {
+        "en": "Hotel lobbies only",
+        "zh": "只有酒店大堂",
+        "ja": "ホテルのみ",
+        "es": "Solo hoteles"
+      },
+      {
+        "en": "Information desks only",
+        "zh": "只有服务台",
+        "ja": "案内所のみ",
+        "es": "Solo mostradores"
+      },
+      {
+        "en": "No storage available",
+        "zh": "没有存放处",
+        "ja": "預かりなし",
+        "es": "No hay almacenamiento"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Coin lockers are at nearly every station and now often accept IC cards too.",
+      "zh": "几乎每个车站都有投币储物柜，现在很多也接受IC卡。",
+      "ja": "コインロッカーはほぼ全駅にありICカードも使えます。",
+      "es": "Las taquillas estan en casi todas las estaciones y aceptan tarjetas IC."
+    }
+  },
+  {
+    "id": "tourism_beginner_039",
+    "q": {
+      "en": "What are tatami mats made of?",
+      "zh": "榻榻米用什么做的？",
+      "ja": "畳は何でできている？",
+      "es": "De que estan hechas las esteras tatami?"
+    },
+    "c": [
+      {
+        "en": "Woven rush grass",
+        "zh": "编织灯心草",
+        "ja": "織ったイグサ",
+        "es": "Hierba de junco tejida"
+      },
+      {
+        "en": "Bamboo",
+        "zh": "竹子",
+        "ja": "竹",
+        "es": "Bambu"
+      },
+      {
+        "en": "Silk",
+        "zh": "丝",
+        "ja": "絹",
+        "es": "Seda"
+      },
+      {
+        "en": "Cotton fabric",
+        "zh": "棉布",
+        "ja": "綿の布",
+        "es": "Tela de algodon"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Tatami have been used for over 1,000 years and have a fresh natural scent.",
+      "zh": "榻榻米使用超过1000年，有清新自然的气味。",
+      "ja": "畳は1000年以上使われ独特の爽やかな香りがあります。",
+      "es": "Los tatami se usan hace mas de 1.000 anos y tienen aroma fresco natural."
+    }
+  },
+  {
+    "id": "tourism_beginner_040",
+    "q": {
+      "en": "What is a Japanese futon?",
+      "zh": "日本的布团是什么？",
+      "ja": "日本の布団とは？",
+      "es": "Que es un futon japones?"
+    },
+    "c": [
+      {
+        "en": "A hammock",
+        "zh": "吊床",
+        "ja": "ハンモック",
+        "es": "Hamaca"
+      },
+      {
+        "en": "A folding bed on tatami",
+        "zh": "铺在榻榻米上的折叠床",
+        "ja": "畳に敷く折りたたみ寝具",
+        "es": "Cama plegable sobre tatami"
+      },
+      {
+        "en": "A wooden chair",
+        "zh": "木椅",
+        "ja": "木の椅子",
+        "es": "Silla de madera"
+      },
+      {
+        "en": "A sofa",
+        "zh": "沙发",
+        "ja": "ソファ",
+        "es": "Un sofa"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Futons are folded and stored in closets during the day to save space.",
+      "zh": "布团白天折叠收进壁橱节省空间。",
+      "ja": "布団は日中たたんで押し入れに収納します。",
+      "es": "Los futones se pliegan y guardan en armarios durante el dia."
+    }
+  },
+  {
+    "id": "tourism_beginner_041",
+    "q": {
+      "en": "What special feature do Japanese toilets have?",
+      "zh": "日本厕所有什么特殊功能？",
+      "ja": "日本のトイレの特別な機能は？",
+      "es": "Que caracteristica tienen los inodoros japoneses?"
+    },
+    "c": [
+      {
+        "en": "Built-in TV",
+        "zh": "内置电视",
+        "ja": "テレビ内蔵",
+        "es": "TV integrada"
+      },
+      {
+        "en": "Built-in bidet and heated seat (washlet)",
+        "zh": "内置坐浴器和加热座圈",
+        "ja": "ビデと暖房便座（ウォシュレット）",
+        "es": "Bidet y asiento calefactado (washlet)"
+      },
+      {
+        "en": "Voice recognition",
+        "zh": "语音识别",
+        "ja": "音声認識",
+        "es": "Reconocimiento de voz"
+      },
+      {
+        "en": "Cooking function",
+        "zh": "烹饪功能",
+        "ja": "調理機能",
+        "es": "Funcion de cocina"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "The washlet by TOTO launched in 1980 and is now in over 80% of Japanese homes.",
+      "zh": "TOTO的温水洗净便座1980年推出，现在超80%家庭有。",
+      "ja": "ウォシュレットは1980年TOTO発売で今や80%以上の家庭に普及。",
+      "es": "El washlet de TOTO salio en 1980 y esta en mas del 80% de hogares japoneses."
+    }
+  },
+  {
+    "id": "tourism_beginner_042",
+    "q": {
+      "en": "What is a sento?",
+      "zh": "钱汤是什么？",
+      "ja": "銭湯とは？",
+      "es": "Que es un sento?"
+    },
+    "c": [
+      {
+        "en": "A theater",
+        "zh": "剧场",
+        "ja": "劇場",
+        "es": "Un teatro"
+      },
+      {
+        "en": "A public bathhouse",
+        "zh": "公共浴室",
+        "ja": "公衆浴場",
+        "es": "Bano publico"
+      },
+      {
+        "en": "A shrine",
+        "zh": "神社",
+        "ja": "神社",
+        "es": "Un santuario"
+      },
+      {
+        "en": "A garden",
+        "zh": "花园",
+        "ja": "庭園",
+        "es": "Un jardin"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Sento are neighborhood public baths that have been part of daily life for centuries.",
+      "zh": "钱汤是社区公共浴室，几百年来一直是日常生活的一部分。",
+      "ja": "銭湯は何世紀も日本人の生活の一部です。",
+      "es": "Los sento son banos publicos de barrio, parte de la vida diaria durante siglos."
+    }
+  },
+  {
+    "id": "tourism_beginner_043",
+    "q": {
+      "en": "What should you do when passing through a torii gate?",
+      "zh": "经过鸟居时应该怎么做？",
+      "ja": "鳥居をくぐる時にすべきことは？",
+      "es": "Que hacer al pasar por una puerta torii?"
+    },
+    "c": [
+      {
+        "en": "Sing",
+        "zh": "唱歌",
+        "ja": "歌う",
+        "es": "Cantar"
+      },
+      {
+        "en": "Bow slightly",
+        "zh": "微微鞠躬",
+        "ja": "軽くお辞儀する",
+        "es": "Hacer una reverencia"
+      },
+      {
+        "en": "Remove shoes",
+        "zh": "脱鞋",
+        "ja": "靴を脱ぐ",
+        "es": "Quitarse zapatos"
+      },
+      {
+        "en": "Clap three times",
+        "zh": "拍三次手",
+        "ja": "三回拍手",
+        "es": "Aplaudir tres veces"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "The torii marks the boundary between the everyday world and sacred shrine grounds.",
+      "zh": "鸟居标志着日常世界和神圣领域的边界。",
+      "ja": "鳥居は日常と神聖な境内の境界です。",
+      "es": "El torii marca el limite entre el mundo cotidiano y el terreno sagrado."
+    }
+  },
+  {
+    "id": "tourism_beginner_044",
+    "q": {
+      "en": "At a temple, what do visitors do with incense smoke?",
+      "zh": "在寺庙参拜者如何使用香烟？",
+      "ja": "お寺でお香の煙をどうする？",
+      "es": "Que hacen los visitantes con el humo de incienso?"
+    },
+    "c": [
+      {
+        "en": "Throw water",
+        "zh": "泼水",
+        "ja": "水をかける",
+        "es": "Echar agua"
+      },
+      {
+        "en": "Blow it out",
+        "zh": "吹灭",
+        "ja": "吹き消す",
+        "es": "Soplarlo"
+      },
+      {
+        "en": "Avoid it",
+        "zh": "避开",
+        "ja": "避ける",
+        "es": "Evitarlo"
+      },
+      {
+        "en": "Wave it over their body for purification",
+        "zh": "扇向身体净化",
+        "ja": "煙を体にかけて浄化する",
+        "es": "Abanicarlo sobre el cuerpo"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Waving incense smoke is believed to heal ailments and bring good health.",
+      "zh": "扇香烟被认为可以治病带来健康。",
+      "ja": "お香の煙を体にかけると健康になると信じられています。",
+      "es": "Se cree que el humo de incienso cura dolencias y trae salud."
+    }
+  },
+  {
+    "id": "tourism_beginner_045",
+    "q": {
+      "en": "What is an omamori?",
+      "zh": "御守是什么？",
+      "ja": "お守りとは？",
+      "es": "Que es un omamori?"
+    },
+    "c": [
+      {
+        "en": "A lucky charm from a shrine or temple",
+        "zh": "神社或寺庙的护身符",
+        "ja": "神社やお寺のお守り",
+        "es": "Amuleto de santuario o templo"
+      },
+      {
+        "en": "A snack",
+        "zh": "零食",
+        "ja": "お菓子",
+        "es": "Aperitivo"
+      },
+      {
+        "en": "An instrument",
+        "zh": "乐器",
+        "ja": "楽器",
+        "es": "Instrumento"
+      },
+      {
+        "en": "A kimono type",
+        "zh": "和服类型",
+        "ja": "着物の種類",
+        "es": "Tipo de kimono"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Omamori come in types for health, love, studies, traffic safety, and more.",
+      "zh": "御守有健康、恋爱、学业、交通安全等多种类型。",
+      "ja": "お守りは健康、恋愛、学業、交通安全など様々です。",
+      "es": "Los omamori tienen tipos para salud, amor, estudios y seguridad vial."
+    }
+  },
+  {
+    "id": "tourism_beginner_046",
+    "q": {
+      "en": "What is an ema at a shrine?",
+      "zh": "神社的绘马是什么？",
+      "ja": "神社の絵馬とは？",
+      "es": "Que es un ema en un santuario?"
+    },
+    "c": [
+      {
+        "en": "A paper lantern",
+        "zh": "纸灯笼",
+        "ja": "提灯",
+        "es": "Linterna de papel"
+      },
+      {
+        "en": "A wooden wish plaque",
+        "zh": "木制许愿牌",
+        "ja": "木の願い札",
+        "es": "Tablilla de deseos de madera"
+      },
+      {
+        "en": "A sacred tree",
+        "zh": "神树",
+        "ja": "ご神木",
+        "es": "Arbol sagrado"
+      },
+      {
+        "en": "A stone statue",
+        "zh": "石像",
+        "ja": "石像",
+        "es": "Estatua de piedra"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Visitors write wishes on ema and hang them at the shrine for the gods.",
+      "zh": "参拜者在绘马上写愿望挂在神社。",
+      "ja": "絵馬に願い事を書いて神社に掛けます。",
+      "es": "Los visitantes escriben deseos en ema y los cuelgan en el santuario."
+    }
+  },
+  {
+    "id": "tourism_beginner_047",
+    "q": {
+      "en": "What is goshuin collecting?",
+      "zh": "收集御朱印是什么？",
+      "ja": "御朱印集めとは？",
+      "es": "Que es coleccionar goshuin?"
+    },
+    "c": [
+      {
+        "en": "Collecting postcards",
+        "zh": "收集明信片",
+        "ja": "ポストカード収集",
+        "es": "Coleccionar postales"
+      },
+      {
+        "en": "Collecting stamps from shrines and temples",
+        "zh": "收集神社寺庙的印章",
+        "ja": "神社やお寺の朱印収集",
+        "es": "Coleccionar sellos de santuarios y templos"
+      },
+      {
+        "en": "Collecting coins",
+        "zh": "收集硬币",
+        "ja": "硬貨収集",
+        "es": "Coleccionar monedas"
+      },
+      {
+        "en": "Collecting train tickets",
+        "zh": "收集车票",
+        "ja": "切符収集",
+        "es": "Coleccionar billetes"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Goshuin are hand-written calligraphy stamps costing 300-500 yen each.",
+      "zh": "御朱印是手写书法印章，每个300-500日元。",
+      "ja": "御朱印は手書きの墨書と朱印で1つ300〜500円です。",
+      "es": "Los goshuin son sellos caligrafiados a mano por 300-500 yenes."
+    }
+  },
+  {
+    "id": "tourism_beginner_048",
+    "q": {
+      "en": "What does matsuri mean?",
+      "zh": "祭是什么意思？",
+      "ja": "祭りとは？",
+      "es": "Que significa matsuri?"
+    },
+    "c": [
+      {
+        "en": "Festival",
+        "zh": "祭典",
+        "ja": "祭り",
+        "es": "Festival"
+      },
+      {
+        "en": "Mountain",
+        "zh": "山",
+        "ja": "山",
+        "es": "Montana"
+      },
+      {
+        "en": "Garden",
+        "zh": "花园",
+        "ja": "庭園",
+        "es": "Jardin"
+      },
+      {
+        "en": "River",
+        "zh": "河",
+        "ja": "川",
+        "es": "Rio"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Japan has thousands of matsuri yearly with the biggest in summer.",
+      "zh": "日本每年有数千个祭典，最大的在夏天。",
+      "ja": "日本には年間何千もの祭りがあり夏が最も盛大です。",
+      "es": "Japon tiene miles de matsuri anuales, los mas grandes en verano."
+    }
+  },
+  {
+    "id": "tourism_beginner_049",
+    "q": {
+      "en": "When is the main fireworks season in Japan?",
+      "zh": "日本烟花季节是什么时候？",
+      "ja": "花火大会のシーズンは？",
+      "es": "Cuando es la temporada de fuegos artificiales?"
+    },
+    "c": [
+      {
+        "en": "Winter",
+        "zh": "冬",
+        "ja": "冬",
+        "es": "Invierno"
+      },
+      {
+        "en": "Spring",
+        "zh": "春",
+        "ja": "春",
+        "es": "Primavera"
+      },
+      {
+        "en": "Summer",
+        "zh": "夏",
+        "ja": "夏",
+        "es": "Verano"
+      },
+      {
+        "en": "Autumn",
+        "zh": "秋",
+        "ja": "秋",
+        "es": "Otono"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Hanabi taikai (fireworks festivals) are held across Japan in July and August.",
+      "zh": "花火大会在7月和8月全国各地举行。",
+      "ja": "花火大会は7〜8月に全国で開催されます。",
+      "es": "Los hanabi taikai se celebran en julio y agosto por todo Japon."
+    }
+  },
+  {
+    "id": "tourism_beginner_050",
+    "q": {
+      "en": "What is a yukata?",
+      "zh": "浴衣是什么？",
+      "ja": "浴衣とは？",
+      "es": "Que es una yukata?"
+    },
+    "c": [
+      {
+        "en": "A casual cotton summer kimono",
+        "zh": "棉质休闲夏季和服",
+        "ja": "綿のカジュアルな夏の着物",
+        "es": "Kimono casual de algodon de verano"
+      },
+      {
+        "en": "A wedding dress",
+        "zh": "婚纱",
+        "ja": "ウェディングドレス",
+        "es": "Vestido de boda"
+      },
+      {
+        "en": "Leather sandals",
+        "zh": "皮凉鞋",
+        "ja": "革サンダル",
+        "es": "Sandalias de cuero"
+      },
+      {
+        "en": "A winter coat",
+        "zh": "冬季外套",
+        "ja": "冬のコート",
+        "es": "Abrigo de invierno"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Yukata are worn at summer festivals, hot springs, and as ryokan loungewear.",
+      "zh": "浴衣在夏日祭、温泉和旅馆穿着。",
+      "ja": "浴衣は夏祭りや温泉、旅館で着ます。",
+      "es": "Las yukata se usan en festivales, aguas termales y ryokan."
+    }
+  },
+  {
+    "id": "tourism_beginner_051",
+    "q": {
+      "en": "What type of garden uses only rocks and gravel with no water?",
+      "zh": "什么类型的庭园只用岩石和砾石？",
+      "ja": "水を使わず石と砂利だけの庭は？",
+      "es": "Que jardin usa solo rocas y grava sin agua?"
+    },
+    "c": [
+      {
+        "en": "Moss garden",
+        "zh": "苔庭",
+        "ja": "苔庭",
+        "es": "Jardin de musgo"
+      },
+      {
+        "en": "Zen rock garden (karesansui)",
+        "zh": "枯山水",
+        "ja": "枯山水",
+        "es": "Jardin zen de rocas"
+      },
+      {
+        "en": "Flower garden",
+        "zh": "花园",
+        "ja": "花園",
+        "es": "Jardin de flores"
+      },
+      {
+        "en": "Tea garden",
+        "zh": "茶庭",
+        "ja": "茶庭",
+        "es": "Jardin de te"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Karesansui (dry landscape) gardens represent water using raked gravel patterns.",
+      "zh": "枯山水用耙出的砾石纹样来表现水。",
+      "ja": "枯山水は砂利の模様で水を表現します。",
+      "es": "Los jardines karesansui representan agua con patrones de grava rastrillada."
+    }
+  },
+  {
+    "id": "tourism_beginner_052",
+    "q": {
+      "en": "Where is the famous bamboo grove in Kyoto?",
+      "zh": "京都著名的竹林在哪里？",
+      "ja": "京都の有名な竹林はどこ？",
+      "es": "Donde esta el famoso bosque de bambu de Kioto?"
+    },
+    "c": [
+      {
+        "en": "Arashiyama",
+        "zh": "岚山",
+        "ja": "嵐山",
+        "es": "Arashiyama"
+      },
+      {
+        "en": "Higashiyama",
+        "zh": "东山",
+        "ja": "東山",
+        "es": "Higashiyama"
+      },
+      {
+        "en": "Gion",
+        "zh": "祇园",
+        "ja": "祇園",
+        "es": "Gion"
+      },
+      {
+        "en": "Fushimi",
+        "zh": "伏见",
+        "ja": "伏見",
+        "es": "Fushimi"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "The Arashiyama Bamboo Grove is one of Kyotos most photographed locations.",
+      "zh": "岚山竹林是京都最受拍照欢迎的地方之一。",
+      "ja": "嵐山の竹林は京都で最も写真撮影される場所の一つです。",
+      "es": "El Bosque de Bambu de Arashiyama es uno de los lugares mas fotografiados de Kioto."
+    }
+  },
+  {
+    "id": "tourism_beginner_053",
+    "q": {
+      "en": "What is special about Shirakawa-go village?",
+      "zh": "白川乡有什么特别之处？",
+      "ja": "白川郷の特徴は？",
+      "es": "Que tiene de especial la aldea Shirakawa-go?"
+    },
+    "c": [
+      {
+        "en": "Modern skyscrapers",
+        "zh": "现代摩天大楼",
+        "ja": "近代的な高層ビル",
+        "es": "Rascacielos modernos"
+      },
+      {
+        "en": "Floating houses",
+        "zh": "水上房屋",
+        "ja": "水上の家",
+        "es": "Casas flotantes"
+      },
+      {
+        "en": "Underground caves",
+        "zh": "地下洞穴",
+        "ja": "地下洞窟",
+        "es": "Cuevas subterraneas"
+      },
+      {
+        "en": "Traditional thatched roof houses",
+        "zh": "传统茅草屋顶房屋",
+        "ja": "伝統的な茅葺き屋根の家",
+        "es": "Casas con techos de paja tradicionales"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Shirakawa-go is a UNESCO World Heritage Site with gassho-zukuri farmhouses.",
+      "zh": "白川乡是世界遗产，有合掌造农家建筑。",
+      "ja": "白川郷は合掌造り集落のユネスコ世界遺産です。",
+      "es": "Shirakawa-go es Patrimonio de la Humanidad con casas gassho-zukuri."
+    }
+  },
+  {
+    "id": "tourism_beginner_054",
+    "q": {
+      "en": "Where is the famous floating torii gate in the sea?",
+      "zh": "著名的海中浮动鸟居在哪里？",
+      "ja": "海に浮かぶ有名な鳥居はどこ？",
+      "es": "Donde esta la famosa puerta torii flotante en el mar?"
+    },
+    "c": [
+      {
+        "en": "Nara",
+        "zh": "奈良",
+        "ja": "奈良",
+        "es": "Nara"
+      },
+      {
+        "en": "Kamakura",
+        "zh": "镰仓",
+        "ja": "鎌倉",
+        "es": "Kamakura"
+      },
+      {
+        "en": "Nikko",
+        "zh": "日光",
+        "ja": "日光",
+        "es": "Nikko"
+      },
+      {
+        "en": "Itsukushima (Miyajima)",
+        "zh": "严岛（宫岛）",
+        "ja": "厳島（宮島）",
+        "es": "Itsukushima (Miyajima)"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "The Itsukushima torii appears to float on water during high tide.",
+      "zh": "严岛鸟居在涨潮时看起来漂浮在水上。",
+      "ja": "厳島の鳥居は満潮時に海に浮かんで見えます。",
+      "es": "El torii de Itsukushima parece flotar en el agua durante la marea alta."
+    }
+  },
+  {
+    "id": "tourism_beginner_055",
+    "q": {
+      "en": "Where is the Great Buddha (Daibutsu) statue in Nara?",
+      "zh": "奈良的大佛在哪里？",
+      "ja": "奈良の大仏はどこにある？",
+      "es": "Donde esta el Gran Buda de Nara?"
+    },
+    "c": [
+      {
+        "en": "Meiji Shrine",
+        "zh": "明治神宫",
+        "ja": "明治神宮",
+        "es": "Santuario Meiji"
+      },
+      {
+        "en": "Senso-ji",
+        "zh": "浅草寺",
+        "ja": "浅草寺",
+        "es": "Senso-ji"
+      },
+      {
+        "en": "Kinkaku-ji",
+        "zh": "金阁寺",
+        "ja": "金閣寺",
+        "es": "Kinkaku-ji"
+      },
+      {
+        "en": "Todai-ji",
+        "zh": "东大寺",
+        "ja": "東大寺",
+        "es": "Todai-ji"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "The Nara Daibutsu at Todai-ji is about 15 meters tall and made of bronze.",
+      "zh": "东大寺的奈良大佛高约15米，由青铜制成。",
+      "ja": "東大寺の大仏は高さ約15mの青銅製です。",
+      "es": "El Daibutsu de Nara en Todai-ji mide unos 15 metros y es de bronce."
+    }
+  },
+  {
+    "id": "tourism_beginner_056",
+    "q": {
+      "en": "Where is another famous Great Buddha in Japan besides Nara?",
+      "zh": "除奈良外另一个著名大佛在哪里？",
+      "ja": "奈良以外の有名な大仏はどこ？",
+      "es": "Donde hay otro Gran Buda famoso ademas de Nara?"
+    },
+    "c": [
+      {
+        "en": "Osaka",
+        "zh": "大阪",
+        "ja": "大阪",
+        "es": "Osaka"
+      },
+      {
+        "en": "Nagoya",
+        "zh": "名古屋",
+        "ja": "名古屋",
+        "es": "Nagoya"
+      },
+      {
+        "en": "Kamakura",
+        "zh": "镰仓",
+        "ja": "鎌倉",
+        "es": "Kamakura"
+      },
+      {
+        "en": "Sapporo",
+        "zh": "札幌",
+        "ja": "札幌",
+        "es": "Sapporo"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "The Kamakura Daibutsu is an outdoor bronze statue that has stood since 1252.",
+      "zh": "镰仓大佛是一尊自1252年以来的户外青铜像。",
+      "ja": "鎌倉大仏は1252年から立つ屋外の青銅像です。",
+      "es": "El Daibutsu de Kamakura es una estatua de bronce al aire libre desde 1252."
+    }
+  },
+  {
+    "id": "tourism_beginner_057",
+    "q": {
+      "en": "Nikko Toshogu is a lavishly decorated shrine for which historical figure?",
+      "zh": "日光东照宫是为哪位历史人物建造的？",
+      "ja": "日光東照宮は誰を祀っている？",
+      "es": "Nikko Toshogu esta dedicado a que figura historica?"
+    },
+    "c": [
+      {
+        "en": "Emperor Meiji",
+        "zh": "明治天皇",
+        "ja": "明治天皇",
+        "es": "Emperador Meiji"
+      },
+      {
+        "en": "Tokugawa Ieyasu",
+        "zh": "德川家康",
+        "ja": "徳川家康",
+        "es": "Tokugawa Ieyasu"
+      },
+      {
+        "en": "Toyotomi Hideyoshi",
+        "zh": "丰臣秀吉",
+        "ja": "豊臣秀吉",
+        "es": "Toyotomi Hideyoshi"
+      },
+      {
+        "en": "Oda Nobunaga",
+        "zh": "织田信长",
+        "ja": "織田信長",
+        "es": "Oda Nobunaga"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Nikko Toshogu features the famous three wise monkeys carving: see no evil, hear no evil, speak no evil.",
+      "zh": "日光东照宫有著名的三猿雕刻：不看、不听、不说。",
+      "ja": "日光東照宮には有名な三猿の彫刻があります。",
+      "es": "Nikko Toshogu tiene la famosa talla de los tres monos sabios."
+    }
+  },
+  {
+    "id": "tourism_beginner_058",
+    "q": {
+      "en": "Hakone is famous for views of Mt. Fuji and what else?",
+      "zh": "箱根以富士山景观和什么闻名？",
+      "ja": "箱根は富士山の眺めと何で有名？",
+      "es": "Hakone es famosa por vistas al Fuji y que mas?"
+    },
+    "c": [
+      {
+        "en": "Hot springs (onsen)",
+        "zh": "温泉",
+        "ja": "温泉",
+        "es": "Aguas termales (onsen)"
+      },
+      {
+        "en": "Theme parks",
+        "zh": "主题公园",
+        "ja": "テーマパーク",
+        "es": "Parques tematicos"
+      },
+      {
+        "en": "Beaches",
+        "zh": "海滩",
+        "ja": "ビーチ",
+        "es": "Playas"
+      },
+      {
+        "en": "Ski resorts",
+        "zh": "滑雪场",
+        "ja": "スキー場",
+        "es": "Estaciones de esqui"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Hakone is a popular day trip from Tokyo with onsen, museums, and Lake Ashi.",
+      "zh": "箱根是东京的热门一日游地点，有温泉、博物馆和芦之湖。",
+      "ja": "箱根は温泉、美術館、芦ノ湖がある東京からの人気日帰り旅行先です。",
+      "es": "Hakone es una excursion popular desde Tokio con onsen, museos y el Lago Ashi."
+    }
+  },
+  {
+    "id": "tourism_beginner_059",
+    "q": {
+      "en": "Lake Kawaguchi is popular because it offers views of what?",
+      "zh": "河口湖以什么景观受欢迎？",
+      "ja": "河口湖は何の眺めで人気？",
+      "es": "El Lago Kawaguchi es popular por vistas de que?"
+    },
+    "c": [
+      {
+        "en": "Osaka Castle",
+        "zh": "大阪城",
+        "ja": "大阪城",
+        "es": "Castillo de Osaka"
+      },
+      {
+        "en": "The ocean",
+        "zh": "大海",
+        "ja": "海",
+        "es": "El oceano"
+      },
+      {
+        "en": "Mt. Fuji",
+        "zh": "富士山",
+        "ja": "富士山",
+        "es": "Monte Fuji"
+      },
+      {
+        "en": "Tokyo Skytree",
+        "zh": "东京晴空塔",
+        "ja": "スカイツリー",
+        "es": "Tokyo Skytree"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Lake Kawaguchi is one of the Fuji Five Lakes and offers iconic reflections of Mt. Fuji.",
+      "zh": "河口湖是富士五湖之一，可以看到富士山的标志性倒影。",
+      "ja": "河口湖は富士五湖の一つで富士山の絶景が見られます。",
+      "es": "El Lago Kawaguchi es uno de los Cinco Lagos del Fuji con reflejos iconicos."
+    }
+  },
+  {
+    "id": "tourism_beginner_060",
+    "q": {
+      "en": "Miyajima island is in which prefecture?",
+      "zh": "宫岛在哪个县？",
+      "ja": "宮島はどの県にある？",
+      "es": "La isla Miyajima esta en que prefectura?"
+    },
+    "c": [
+      {
+        "en": "Kyoto",
+        "zh": "京都",
+        "ja": "京都",
+        "es": "Kioto"
+      },
+      {
+        "en": "Tokyo",
+        "zh": "东京",
+        "ja": "東京",
+        "es": "Tokio"
+      },
+      {
+        "en": "Osaka",
+        "zh": "大阪",
+        "ja": "大阪",
+        "es": "Osaka"
+      },
+      {
+        "en": "Hiroshima",
+        "zh": "广岛",
+        "ja": "広島",
+        "es": "Hiroshima"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Miyajima (Itsukushima) island is a short ferry ride from Hiroshima city.",
+      "zh": "宫岛（严岛）从广岛市乘渡轮很快就到。",
+      "ja": "宮島は広島市からフェリーですぐです。",
+      "es": "Miyajima esta a un corto viaje en ferry desde la ciudad de Hiroshima."
+    }
+  },
+  {
+    "id": "tourism_beginner_061",
+    "q": {
+      "en": "Naoshima island is famous for what?",
+      "zh": "直岛以什么闻名？",
+      "ja": "直島は何で有名？",
+      "es": "La isla Naoshima es famosa por que?"
+    },
+    "c": [
+      {
+        "en": "Contemporary art museums",
+        "zh": "当代艺术博物馆",
+        "ja": "現代美術館",
+        "es": "Museos de arte contemporaneo"
+      },
+      {
+        "en": "Ski resorts",
+        "zh": "滑雪场",
+        "ja": "スキー場",
+        "es": "Estaciones de esqui"
+      },
+      {
+        "en": "Ancient ruins",
+        "zh": "古代遗迹",
+        "ja": "古代遺跡",
+        "es": "Ruinas antiguas"
+      },
+      {
+        "en": "Hot springs",
+        "zh": "温泉",
+        "ja": "温泉",
+        "es": "Aguas termales"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Naoshima has world-class art museums designed by architect Tadao Ando.",
+      "zh": "直岛有由建筑师安藤忠雄设计的世界级美术馆。",
+      "ja": "直島には安藤忠雄設計の世界的な美術館があります。",
+      "es": "Naoshima tiene museos de arte disenados por el arquitecto Tadao Ando."
+    }
+  },
+  {
+    "id": "tourism_beginner_062",
+    "q": {
+      "en": "Yakushima island is famous for its ancient what?",
+      "zh": "屋久岛以古老的什么闻名？",
+      "ja": "屋久島は古代の何で有名？",
+      "es": "La isla Yakushima es famosa por sus antiguos que?"
+    },
+    "c": [
+      {
+        "en": "Coral reefs",
+        "zh": "珊瑚礁",
+        "ja": "サンゴ礁",
+        "es": "Arrecifes"
+      },
+      {
+        "en": "Volcanoes",
+        "zh": "火山",
+        "ja": "火山",
+        "es": "Volcanes"
+      },
+      {
+        "en": "Temples",
+        "zh": "寺庙",
+        "ja": "寺院",
+        "es": "Templos"
+      },
+      {
+        "en": "Cedar forests",
+        "zh": "杉树林",
+        "ja": "杉の森",
+        "es": "Bosques de cedros"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Yakushima has cedar trees over 1,000 years old and inspired the film Princess Mononoke.",
+      "zh": "屋久岛有超过1000年的杉树，启发了电影《幽灵公主》。",
+      "ja": "屋久島には樹齢1000年以上の杉があり映画もののけ姫の着想源です。",
+      "es": "Yakushima tiene cedros milenarios que inspiraron la pelicula La Princesa Mononoke."
+    }
+  },
+  {
+    "id": "tourism_beginner_063",
+    "q": {
+      "en": "How many main islands does Shikoku have as one of them?",
+      "zh": "四国作为日本四大主岛之一，日本有几个主岛？",
+      "ja": "四国は日本の主要な島の一つですが全部でいくつ？",
+      "es": "Cuantas islas principales tiene Japon, siendo Shikoku una de ellas?"
+    },
+    "c": [
+      {
+        "en": "3",
+        "zh": "3",
+        "ja": "3",
+        "es": "3"
+      },
+      {
+        "en": "5",
+        "zh": "5",
+        "ja": "5",
+        "es": "5"
+      },
+      {
+        "en": "2",
+        "zh": "2",
+        "ja": "2",
+        "es": "2"
+      },
+      {
+        "en": "4",
+        "zh": "4",
+        "ja": "4",
+        "es": "4"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Japans four main islands are Hokkaido, Honshu, Shikoku, and Kyushu.",
+      "zh": "日本四大主岛是北海道、本州、四国和九州。",
+      "ja": "日本の主要4島は北海道、本州、四国、九州です。",
+      "es": "Las cuatro islas principales de Japon son Hokkaido, Honshu, Shikoku y Kyushu."
+    }
+  },
+  {
+    "id": "tourism_beginner_064",
+    "q": {
+      "en": "What famous bridge connects Honshu and Shikoku?",
+      "zh": "连接本州和四国的著名大桥是什么？",
+      "ja": "本州と四国を結ぶ有名な橋は？",
+      "es": "Que famoso puente conecta Honshu y Shikoku?"
+    },
+    "c": [
+      {
+        "en": "Rainbow Bridge",
+        "zh": "彩虹大桥",
+        "ja": "レインボーブリッジ",
+        "es": "Puente Arcoiris"
+      },
+      {
+        "en": "Akashi Kaikyo Bridge",
+        "zh": "明石海峡大桥",
+        "ja": "明石海峡大橋",
+        "es": "Puente Akashi Kaikyo"
+      },
+      {
+        "en": "Oshima Bridge",
+        "zh": "大岛大桥",
+        "ja": "大島大橋",
+        "es": "Puente Oshima"
+      },
+      {
+        "en": "Tokyo Gate Bridge",
+        "zh": "东京门大桥",
+        "ja": "東京ゲートブリッジ",
+        "es": "Puente Tokyo Gate"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Akashi Kaikyo Bridge is the longest suspension bridge in the world at 3,911 meters.",
+      "zh": "明石海峡大桥是世界最长的悬索桥，全长3911米。",
+      "ja": "明石海峡大橋は全長3911mの世界最長の吊り橋です。",
+      "es": "El Puente Akashi Kaikyo es el puente colgante mas largo del mundo con 3.911 metros."
+    }
+  },
+  {
+    "id": "tourism_beginner_065",
+    "q": {
+      "en": "What is an ekiben?",
+      "zh": "车站便当是什么？",
+      "ja": "駅弁とは？",
+      "es": "Que es un ekiben?"
+    },
+    "c": [
+      {
+        "en": "A vending machine",
+        "zh": "自动售货机",
+        "ja": "自動販売機",
+        "es": "Maquina expendedora"
+      },
+      {
+        "en": "A train ticket",
+        "zh": "车票",
+        "ja": "切符",
+        "es": "Billete de tren"
+      },
+      {
+        "en": "A platform bench",
+        "zh": "站台长椅",
+        "ja": "ホームのベンチ",
+        "es": "Banco de plataforma"
+      },
+      {
+        "en": "A station bento (boxed lunch)",
+        "zh": "车站便当（盒饭）",
+        "ja": "駅弁（駅で売る弁当）",
+        "es": "Bento de estacion (almuerzo en caja)"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Each region has unique ekiben featuring local specialties and ingredients.",
+      "zh": "每个地区都有以当地特产为特色的独特车站便当。",
+      "ja": "各地域に地元の名物を使った独自の駅弁があります。",
+      "es": "Cada region tiene ekiben unicos con especialidades locales."
+    }
+  },
+  {
+    "id": "tourism_beginner_066",
+    "q": {
+      "en": "What is proper etiquette on Japanese trains?",
+      "zh": "日本电车上的礼仪是？",
+      "ja": "電車内のマナーは？",
+      "es": "Cual es la etiqueta correcta en trenes japoneses?"
+    },
+    "c": [
+      {
+        "en": "Play music out loud",
+        "zh": "外放音乐",
+        "ja": "音楽を大音量で流す",
+        "es": "Poner musica alto"
+      },
+      {
+        "en": "Keep quiet and set phone to silent",
+        "zh": "保持安静，手机调静音",
+        "ja": "静かにし携帯はマナーモードに",
+        "es": "Guardar silencio y poner el telefono en silencio"
+      },
+      {
+        "en": "Talk loudly on your phone",
+        "zh": "大声打电话",
+        "ja": "大声で電話する",
+        "es": "Hablar alto por telefono"
+      },
+      {
+        "en": "Eat strong-smelling food",
+        "zh": "吃气味大的食物",
+        "ja": "匂いの強い食事をする",
+        "es": "Comer comida con olor fuerte"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Japanese train etiquette includes no phone calls, quiet voices, and giving up priority seats.",
+      "zh": "日本电车礼仪包括不打电话、小声说话和让出优先席。",
+      "ja": "電車マナーは通話禁止、静かに、優先席を譲ることです。",
+      "es": "La etiqueta incluye no llamar, hablar bajo y ceder asientos prioritarios."
+    }
+  },
+  {
+    "id": "tourism_beginner_067",
+    "q": {
+      "en": "Why is Japan considered very convenient for travelers?",
+      "zh": "为什么日本被认为对旅行者非常方便？",
+      "ja": "日本が旅行者にとって便利な理由は？",
+      "es": "Por que Japon es muy conveniente para viajeros?"
+    },
+    "c": [
+      {
+        "en": "Excellent public transport, clean facilities, and 24/7 konbini",
+        "zh": "优秀的公共交通、清洁设施和24小时便利店",
+        "ja": "優れた公共交通、清潔な施設、24時間コンビニ",
+        "es": "Excelente transporte publico, instalaciones limpias y konbini 24/7"
+      },
+      {
+        "en": "No rules anywhere",
+        "zh": "没有规则",
+        "ja": "ルールがない",
+        "es": "No hay reglas"
+      },
+      {
+        "en": "Everything is free",
+        "zh": "一切免费",
+        "ja": "全て無料",
+        "es": "Todo es gratis"
+      },
+      {
+        "en": "Self-driving only",
+        "zh": "只能自驾",
+        "ja": "自家用車のみ",
+        "es": "Solo conducir"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Japan is known for its punctual trains, clean streets, and helpful signage in multiple languages.",
+      "zh": "日本以准时的列车、干净的街道和多语言标识闻名。",
+      "ja": "日本は時間正確な電車、清潔な街、多言語案内で知られています。",
+      "es": "Japon es conocido por trenes puntuales, calles limpias y senalizacion multilingue."
+    }
+  },
+  {
+    "id": "tourism_beginner_068",
+    "q": {
+      "en": "Japan is considered one of the safest countries for tourists because of what?",
+      "zh": "日本被认为对游客最安全的原因是？",
+      "ja": "日本が観光客に安全な理由は？",
+      "es": "Por que Japon es de los paises mas seguros para turistas?"
+    },
+    "c": [
+      {
+        "en": "Tourists are not allowed out at night",
+        "zh": "游客晚上不能外出",
+        "ja": "観光客は夜外出禁止",
+        "es": "Turistas no salen de noche"
+      },
+      {
+        "en": "Very low crime rate",
+        "zh": "极低的犯罪率",
+        "ja": "非常に低い犯罪率",
+        "es": "Tasa de criminalidad muy baja"
+      },
+      {
+        "en": "Armed guards everywhere",
+        "zh": "到处有武装警卫",
+        "ja": "至る所に武装警備",
+        "es": "Guardias armados por doquier"
+      },
+      {
+        "en": "No people live there",
+        "zh": "没人住",
+        "ja": "人がいない",
+        "es": "No vive nadie"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Japan consistently ranks among the safest countries in the world for travelers.",
+      "zh": "日本一直被评为世界上对旅行者最安全的国家之一。",
+      "ja": "日本は世界で最も安全な旅行先の一つです。",
+      "es": "Japon esta constantemente entre los paises mas seguros del mundo."
+    }
+  },
+  {
+    "id": "tourism_beginner_069",
+    "q": {
+      "en": "What is remarkable about Japans lost and found system?",
+      "zh": "日本的失物招领系统有什么了不起的？",
+      "ja": "日本の落とし物制度の特徴は？",
+      "es": "Que es notable del sistema de objetos perdidos en Japon?"
+    },
+    "c": [
+      {
+        "en": "Items are never returned",
+        "zh": "物品从不归还",
+        "ja": "返却されない",
+        "es": "Nunca devuelven nada"
+      },
+      {
+        "en": "It does not exist",
+        "zh": "不存在",
+        "ja": "存在しない",
+        "es": "No existe"
+      },
+      {
+        "en": "An extremely high return rate for lost items",
+        "zh": "失物归还率极高",
+        "ja": "落とし物の返還率が非常に高い",
+        "es": "Tasa de devolucion extremadamente alta"
+      },
+      {
+        "en": "Only works for citizens",
+        "zh": "只对公民有效",
+        "ja": "国民のみ対象",
+        "es": "Solo para ciudadanos"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "In Japan, wallets with cash are commonly returned intact, even to tourists.",
+      "zh": "在日本，装有现金的钱包通常会被完好归还，甚至对游客也是。",
+      "ja": "日本では現金入りの財布も観光客にもそのまま返却されます。",
+      "es": "En Japon, las carteras con dinero se devuelven intactas, incluso a turistas."
+    }
+  },
+  {
+    "id": "tourism_beginner_070",
+    "q": {
+      "en": "What are found almost everywhere in Japan on streets?",
+      "zh": "日本街头几乎到处都有什么？",
+      "ja": "日本の街中のいたる所にあるものは？",
+      "es": "Que se encuentra casi en todas partes en las calles de Japon?"
+    },
+    "c": [
+      {
+        "en": "Vending machines",
+        "zh": "自动售货机",
+        "ja": "自動販売機",
+        "es": "Maquinas expendedoras"
+      },
+      {
+        "en": "Street performers",
+        "zh": "街头表演者",
+        "ja": "ストリートパフォーマー",
+        "es": "Artistas callejeros"
+      },
+      {
+        "en": "Street food stalls",
+        "zh": "街头小吃摊",
+        "ja": "屋台",
+        "es": "Puestos de comida"
+      },
+      {
+        "en": "Billboards",
+        "zh": "广告牌",
+        "ja": "看板",
+        "es": "Vallas publicitarias"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Japan has about 5 million vending machines selling drinks, snacks, and even hot food.",
+      "zh": "日本约有500万台自动售货机，售卖饮料、零食甚至热食。",
+      "ja": "日本には約500万台の自販機があり飲料や軽食、温かい食べ物も売っています。",
+      "es": "Japon tiene unos 5 millones de maquinas expendedoras con bebidas, snacks y comida caliente."
+    }
+  },
+  {
+    "id": "tourism_beginner_071",
+    "q": {
+      "en": "What are 100 yen shops in Japan?",
+      "zh": "日本的百元店是什么？",
+      "ja": "100円ショップとは？",
+      "es": "Que son las tiendas de 100 yenes?"
+    },
+    "c": [
+      {
+        "en": "Antique shops",
+        "zh": "古董店",
+        "ja": "アンティークショップ",
+        "es": "Tiendas de antiguedades"
+      },
+      {
+        "en": "Discount stores where most items cost 100 yen",
+        "zh": "大部分商品100日元的折扣店",
+        "ja": "殆どの商品が100円の店",
+        "es": "Tiendas donde casi todo cuesta 100 yenes"
+      },
+      {
+        "en": "Only sell coins",
+        "zh": "只卖硬币",
+        "ja": "硬貨のみ販売",
+        "es": "Solo venden monedas"
+      },
+      {
+        "en": "Luxury boutiques",
+        "zh": "奢侈品精品店",
+        "ja": "高級ブティック",
+        "es": "Boutiques de lujo"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Daiso and Seria are famous 100 yen shop chains offering thousands of useful products.",
+      "zh": "大创和Seria是著名的百元店连锁，提供数千种实用商品。",
+      "ja": "ダイソーやセリアは数千種の便利な商品がある有名な100円ショップです。",
+      "es": "Daiso y Seria son famosas cadenas de tiendas de 100 yenes con miles de productos."
+    }
+  },
+  {
+    "id": "tourism_beginner_072",
+    "q": {
+      "en": "What is a depachika?",
+      "zh": "地下食品街是什么？",
+      "ja": "デパ地下とは？",
+      "es": "Que es un depachika?"
+    },
+    "c": [
+      {
+        "en": "Department store basement food hall",
+        "zh": "百货公司地下食品区",
+        "ja": "デパートの地下食品売り場",
+        "es": "Planta de comida del sotano de grandes almacenes"
+      },
+      {
+        "en": "A parking lot",
+        "zh": "停车场",
+        "ja": "駐車場",
+        "es": "Estacionamiento"
+      },
+      {
+        "en": "A train platform",
+        "zh": "站台",
+        "ja": "ホーム",
+        "es": "Plataforma de tren"
+      },
+      {
+        "en": "A rooftop garden",
+        "zh": "屋顶花园",
+        "ja": "屋上庭園",
+        "es": "Jardin en azotea"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Depachika offer high-quality prepared foods, sweets, and gourmet items perfect for gifts.",
+      "zh": "地下食品街提供高品质的熟食、甜点和美食，非常适合送礼。",
+      "ja": "デパ地下は高品質な惣菜やスイーツ、お土産に最適です。",
+      "es": "Los depachika ofrecen comida preparada de calidad, dulces y productos gourmet ideales para regalos."
+    }
+  },
+  {
+    "id": "tourism_beginner_073",
+    "q": {
+      "en": "What season is best to visit Japan for cherry blossoms?",
+      "zh": "什么季节去日本看樱花最好？",
+      "ja": "桜を見るのに最適な季節は？",
+      "es": "Que estacion es mejor para ver cerezos en Japon?"
+    },
+    "c": [
+      {
+        "en": "Spring",
+        "zh": "春天",
+        "ja": "春",
+        "es": "Primavera"
+      },
+      {
+        "en": "Winter",
+        "zh": "冬天",
+        "ja": "冬",
+        "es": "Invierno"
+      },
+      {
+        "en": "Summer",
+        "zh": "夏天",
+        "ja": "夏",
+        "es": "Verano"
+      },
+      {
+        "en": "Autumn",
+        "zh": "秋天",
+        "ja": "秋",
+        "es": "Otono"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Cherry blossom season peaks from late March to mid-April in most of Japan.",
+      "zh": "日本大部分地区的樱花季在3月下旬至4月中旬达到高峰。",
+      "ja": "桜の見頃は3月下旬から4月中旬です。",
+      "es": "La temporada de cerezos alcanza su pico de finales de marzo a mediados de abril."
+    }
+  },
+  {
+    "id": "tourism_beginner_074",
+    "q": {
+      "en": "Which area is one of Japans top ski resort destinations?",
+      "zh": "日本顶级滑雪胜地之一是？",
+      "ja": "日本有数のスキーリゾートは？",
+      "es": "Cual es un destino de esqui top en Japon?"
+    },
+    "c": [
+      {
+        "en": "Osaka",
+        "zh": "大阪",
+        "ja": "大阪",
+        "es": "Osaka"
+      },
+      {
+        "en": "Okinawa",
+        "zh": "冲绳",
+        "ja": "沖縄",
+        "es": "Okinawa"
+      },
+      {
+        "en": "Nara",
+        "zh": "奈良",
+        "ja": "奈良",
+        "es": "Nara"
+      },
+      {
+        "en": "Niseko in Hokkaido",
+        "zh": "北海道二世古",
+        "ja": "北海道ニセコ",
+        "es": "Niseko en Hokkaido"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Niseko is world-famous for its powder snow and attracts skiers from around the globe.",
+      "zh": "二世古以粉雪闻名世界，吸引全球滑雪者。",
+      "ja": "ニセコはパウダースノーで世界的に有名です。",
+      "es": "Niseko es famoso mundialmente por su nieve en polvo y atrae esquiadores de todo el mundo."
+    }
+  },
+  {
+    "id": "tourism_beginner_075",
+    "q": {
+      "en": "Which is a popular beach destination in southern Japan?",
+      "zh": "日本南部的热门海滩目的地是？",
+      "ja": "南日本の人気ビーチは？",
+      "es": "Cual es un destino de playa popular en el sur de Japon?"
+    },
+    "c": [
+      {
+        "en": "Kanazawa",
+        "zh": "金泽",
+        "ja": "金沢",
+        "es": "Kanazawa"
+      },
+      {
+        "en": "Sapporo",
+        "zh": "札幌",
+        "ja": "札幌",
+        "es": "Sapporo"
+      },
+      {
+        "en": "Okinawa",
+        "zh": "冲绳",
+        "ja": "沖縄",
+        "es": "Okinawa"
+      },
+      {
+        "en": "Sendai",
+        "zh": "仙台",
+        "ja": "仙台",
+        "es": "Sendai"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Okinawas beaches are known for white sand and turquoise water comparable to tropical resorts.",
+      "zh": "冲绳的海滩以白沙和绿松石色海水闻名，堪比热带度假村。",
+      "ja": "沖縄のビーチは白い砂とエメラルドグリーンの海で知られています。",
+      "es": "Las playas de Okinawa tienen arena blanca y aguas turquesa comparables a resorts tropicales."
+    }
+  },
+  {
+    "id": "tourism_beginner_076",
+    "q": {
+      "en": "What is island hopping in Japan?",
+      "zh": "日本的跳岛游是什么？",
+      "ja": "アイランドホッピングとは？",
+      "es": "Que es island hopping en Japon?"
+    },
+    "c": [
+      {
+        "en": "Building sand castles",
+        "zh": "堆沙堡",
+        "ja": "砂の城を作る",
+        "es": "Construir castillos de arena"
+      },
+      {
+        "en": "Swimming between islands",
+        "zh": "在岛屿间游泳",
+        "ja": "島の間を泳ぐ",
+        "es": "Nadar entre islas"
+      },
+      {
+        "en": "Visiting multiple islands by ferry or plane",
+        "zh": "乘渡轮或飞机游览多个岛屿",
+        "ja": "フェリーや飛行機で複数の島を巡る",
+        "es": "Visitar varias islas en ferry o avion"
+      },
+      {
+        "en": "Jumping over puddles",
+        "zh": "跳水坑",
+        "ja": "水たまりを跳ぶ",
+        "es": "Saltar charcos"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Japan has over 6,800 islands, many accessible by ferry for amazing island-hopping adventures.",
+      "zh": "日本有超过6800个岛屿，很多可乘渡轮到达。",
+      "ja": "日本には6800以上の島があり多くはフェリーで行けます。",
+      "es": "Japon tiene mas de 6.800 islas, muchas accesibles en ferry."
+    }
+  },
+  {
+    "id": "tourism_beginner_077",
+    "q": {
+      "en": "How does Japans countryside differ from cities for tourists?",
+      "zh": "日本乡村和城市对游客有什么不同？",
+      "ja": "日本の田舎と都市の観光の違いは？",
+      "es": "Como difiere el campo japones de las ciudades para turistas?"
+    },
+    "c": [
+      {
+        "en": "Countryside offers nature, hot springs, and traditional culture",
+        "zh": "乡村提供自然、温泉和传统文化",
+        "ja": "田舎は自然、温泉、伝統文化が魅力",
+        "es": "El campo ofrece naturaleza, aguas termales y cultura tradicional"
+      },
+      {
+        "en": "Countryside is more crowded",
+        "zh": "乡村更拥挤",
+        "ja": "田舎の方が混雑",
+        "es": "El campo esta mas lleno"
+      },
+      {
+        "en": "No difference at all",
+        "zh": "完全没有区别",
+        "ja": "違いはない",
+        "es": "No hay diferencia"
+      },
+      {
+        "en": "Countryside has more shopping malls",
+        "zh": "乡村购物中心更多",
+        "ja": "田舎にはモールが多い",
+        "es": "El campo tiene mas centros comerciales"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Japans countryside features rice paddies, mountains, onsen towns, and a slower pace of life.",
+      "zh": "日本乡村有稻田、山脉、温泉小镇和更悠闲的生活节奏。",
+      "ja": "日本の田舎には田んぼ、山、温泉街、ゆったりした生活があります。",
+      "es": "El campo japones tiene arrozales, montanas, pueblos termales y un ritmo de vida mas lento."
+    }
+  },
+  {
+    "id": "tourism_beginner_078",
+    "q": {
+      "en": "What is a temple stay experience in Japan?",
+      "zh": "日本的寺院住宿体验是什么？",
+      "ja": "宿坊体験とは？",
+      "es": "Que es una estancia en templo en Japon?"
+    },
+    "c": [
+      {
+        "en": "Sleeping overnight in a Buddhist temple",
+        "zh": "在佛教寺庙过夜",
+        "ja": "仏教寺院に泊まる体験",
+        "es": "Dormir en un templo budista"
+      },
+      {
+        "en": "Visiting a museum",
+        "zh": "参观博物馆",
+        "ja": "博物館見学",
+        "es": "Visitar un museo"
+      },
+      {
+        "en": "A cooking class",
+        "zh": "烹饪课",
+        "ja": "料理教室",
+        "es": "Una clase de cocina"
+      },
+      {
+        "en": "A video game",
+        "zh": "电子游戏",
+        "ja": "ビデオゲーム",
+        "es": "Un videojuego"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Temple stays often include meditation, vegetarian meals, and morning prayer services.",
+      "zh": "寺院住宿通常包括冥想、素食和早课。",
+      "ja": "宿坊では坐禅、精進料理、朝のお勤めが体験できます。",
+      "es": "Las estancias incluyen meditacion, comida vegetariana y oraciones matutinas."
+    }
+  },
+  {
+    "id": "tourism_beginner_079",
+    "q": {
+      "en": "Japan is known for its walking culture. What does that mean for tourists?",
+      "zh": "日本的步行文化对游客意味着什么？",
+      "ja": "日本の歩く文化は観光客にとって？",
+      "es": "Que significa la cultura de caminar de Japon para turistas?"
+    },
+    "c": [
+      {
+        "en": "Cars are banned",
+        "zh": "禁止开车",
+        "ja": "車は禁止",
+        "es": "Los coches estan prohibidos"
+      },
+      {
+        "en": "You must run everywhere",
+        "zh": "必须跑步",
+        "ja": "走ってはいけない",
+        "es": "Hay que correr"
+      },
+      {
+        "en": "Many attractions are walkable and cities are pedestrian-friendly",
+        "zh": "许多景点步行可达，城市对行人友好",
+        "ja": "多くの観光地は徒歩圏内で街は歩きやすい",
+        "es": "Muchas atracciones son accesibles a pie y las ciudades son peatonales"
+      },
+      {
+        "en": "Walking is not allowed",
+        "zh": "不允许步行",
+        "ja": "歩行禁止",
+        "es": "No se permite caminar"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Japanese cities are very walkable with clean sidewalks, clear signs, and safe crossings.",
+      "zh": "日本城市非常适合步行，有干净的人行道和清晰的标识。",
+      "ja": "日本の街は歩道が清潔で案内も明確で歩きやすいです。",
+      "es": "Las ciudades japonesas son muy caminables con aceras limpias y cruces seguros."
+    }
+  },
+  {
+    "id": "tourism_beginner_080",
+    "q": {
+      "en": "Is cycling popular for tourists in Japan?",
+      "zh": "骑自行车在日本游客中受欢迎吗？",
+      "ja": "日本でサイクリングは観光客に人気？",
+      "es": "Es popular el ciclismo para turistas en Japon?"
+    },
+    "c": [
+      {
+        "en": "Only in Hokkaido",
+        "zh": "只在北海道",
+        "ja": "北海道だけ",
+        "es": "Solo en Hokkaido"
+      },
+      {
+        "en": "No, cycling is illegal",
+        "zh": "不，骑车违法",
+        "ja": "いいえ、違法です",
+        "es": "No, es ilegal"
+      },
+      {
+        "en": "Bicycles do not exist in Japan",
+        "zh": "日本没有自行车",
+        "ja": "日本に自転車はない",
+        "es": "No existen bicicletas en Japon"
+      },
+      {
+        "en": "Yes, many cities have rental bikes and cycling paths",
+        "zh": "是的，很多城市有租赁自行车和骑行道",
+        "ja": "はい、多くの都市にレンタサイクルと自転車道があります",
+        "es": "Si, muchas ciudades tienen bicicletas de alquiler y ciclovias"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Kyoto and the Shimanami Kaido cycling route are especially popular for bike tourism.",
+      "zh": "京都和�的波海道骑行路线特别受自行车旅游欢迎。",
+      "ja": "京都やしまなみ海道はサイクリング観光に特に人気です。",
+      "es": "Kioto y la ruta ciclista Shimanami Kaido son especialmente populares."
+    }
+  },
+  {
+    "id": "tourism_beginner_081",
+    "q": {
+      "en": "What UNESCO status does Mt. Fuji hold?",
+      "zh": "富士山拥有什么联合国教科文组织地位？",
+      "ja": "富士山のユネスコの登録区分は？",
+      "es": "Que estatus UNESCO tiene el Monte Fuji?"
+    },
+    "c": [
+      {
+        "en": "Mixed Heritage",
+        "zh": "混合遗产",
+        "ja": "複合遺産",
+        "es": "Patrimonio Mixto"
+      },
+      {
+        "en": "Natural Heritage",
+        "zh": "自然遗产",
+        "ja": "自然遺産",
+        "es": "Patrimonio Natural"
+      },
+      {
+        "en": "Not a Heritage Site",
+        "zh": "非遗产",
+        "ja": "非登録",
+        "es": "No es Patrimonio"
+      },
+      {
+        "en": "Cultural Heritage",
+        "zh": "文化遗产",
+        "ja": "文化遺産",
+        "es": "Patrimonio Cultural"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Mt. Fuji was registered as a Cultural Heritage Site, not Natural, due to its spiritual significance.",
+      "zh": "富士山因其精神意义被登录为文化遗产而非自然遗产。",
+      "ja": "富士山は信仰の対象として自然遺産ではなく文化遺産に登録されました。",
+      "es": "El Fuji fue registrado como Patrimonio Cultural, no Natural, por su significado espiritual."
+    }
+  },
+  {
+    "id": "tourism_beginner_082",
+    "q": {
+      "en": "What is the best way for tourists to travel long distances in Japan?",
+      "zh": "游客在日本长途旅行的最佳方式是？",
+      "ja": "観光客の日本での長距離移動に最適な方法は？",
+      "es": "Cual es la mejor forma de viajar largas distancias en Japon?"
+    },
+    "c": [
+      {
+        "en": "Hitchhiking",
+        "zh": "搭便车",
+        "ja": "ヒッチハイク",
+        "es": "Autoestop"
+      },
+      {
+        "en": "Walking",
+        "zh": "步行",
+        "ja": "徒歩",
+        "es": "Caminar"
+      },
+      {
+        "en": "Shinkansen (bullet train)",
+        "zh": "新干线",
+        "ja": "新幹線",
+        "es": "Shinkansen (tren bala)"
+      },
+      {
+        "en": "Horse carriage",
+        "zh": "马车",
+        "ja": "馬車",
+        "es": "Carruaje"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "The Japan Rail Pass offers unlimited Shinkansen travel and is very popular with tourists.",
+      "zh": "日本铁路通票提供无限次新干线旅行，非常受游客欢迎。",
+      "ja": "ジャパンレールパスは新幹線乗り放題で観光客に大人気です。",
+      "es": "El Japan Rail Pass ofrece viajes ilimitados en Shinkansen y es muy popular entre turistas."
+    }
+  },
+  {
+    "id": "tourism_beginner_083",
+    "q": {
+      "en": "What style of Japanese garden features ponds and bridges?",
+      "zh": "什么风格的日本庭园有池塘和桥？",
+      "ja": "池と橋がある日本庭園のスタイルは？",
+      "es": "Que estilo de jardin japones tiene estanques y puentes?"
+    },
+    "c": [
+      {
+        "en": "Karesansui (dry garden)",
+        "zh": "枯山水",
+        "ja": "枯山水",
+        "es": "Jardin seco"
+      },
+      {
+        "en": "Indoor garden",
+        "zh": "室内花园",
+        "ja": "室内庭園",
+        "es": "Jardin interior"
+      },
+      {
+        "en": "Tsukiyama (hill garden)",
+        "zh": "筑山庭园",
+        "ja": "築山庭園",
+        "es": "Jardin de colinas (tsukiyama)"
+      },
+      {
+        "en": "Rooftop garden",
+        "zh": "屋顶花园",
+        "ja": "屋上庭園",
+        "es": "Jardin en azotea"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Tsukiyama gardens recreate natural landscapes in miniature with hills, ponds, and streams.",
+      "zh": "筑山庭园以微缩形式再现自然景观，有丘陵、池塘和溪流。",
+      "ja": "築山庭園は丘、池、小川で自然の風景を再現します。",
+      "es": "Los jardines tsukiyama recrean paisajes naturales en miniatura con colinas y estanques."
+    }
+  },
+  {
+    "id": "tourism_beginner_084",
+    "q": {
+      "en": "Which Japanese garden in Tokyo is one of the most famous?",
+      "zh": "东京最著名的日本庭园之一是？",
+      "ja": "東京で最も有名な日本庭園の一つは？",
+      "es": "Cual es uno de los jardines mas famosos de Tokio?"
+    },
+    "c": [
+      {
+        "en": "Tsukiji Market",
+        "zh": "筑地市场",
+        "ja": "築地市場",
+        "es": "Mercado Tsukiji"
+      },
+      {
+        "en": "Tokyo Dome",
+        "zh": "东京巨蛋",
+        "ja": "東京ドーム",
+        "es": "Tokyo Dome"
+      },
+      {
+        "en": "Shinjuku Gyoen",
+        "zh": "新宿御苑",
+        "ja": "新宿御苑",
+        "es": "Shinjuku Gyoen"
+      },
+      {
+        "en": "Disneyland",
+        "zh": "迪士尼",
+        "ja": "ディズニーランド",
+        "es": "Disneyland"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Shinjuku Gyoen combines Japanese, English, and French garden styles in one beautiful park.",
+      "zh": "新宿御苑在一个美丽的公园内融合了日式、英式和法式庭园。",
+      "ja": "新宿御苑は日本、英国、フランス式庭園が一つに融合しています。",
+      "es": "Shinjuku Gyoen combina estilos de jardin japones, ingles y frances en un parque."
+    }
+  },
+  {
+    "id": "tourism_beginner_085",
+    "q": {
+      "en": "What is the main feature of the Shinkansen experience for tourists?",
+      "zh": "新干线体验对游客的主要特点是？",
+      "ja": "新幹線体験の魅力は？",
+      "es": "Cual es la caracteristica principal del Shinkansen para turistas?"
+    },
+    "c": [
+      {
+        "en": "Live entertainment",
+        "zh": "现场娱乐",
+        "ja": "ライブエンタメ",
+        "es": "Entretenimiento en vivo"
+      },
+      {
+        "en": "Free food service",
+        "zh": "免费餐饮",
+        "ja": "無料の食事サービス",
+        "es": "Servicio de comida gratis"
+      },
+      {
+        "en": "Very slow and scenic",
+        "zh": "非常慢而风景优美",
+        "ja": "非常に遅いが景色が良い",
+        "es": "Muy lento y escenico"
+      },
+      {
+        "en": "Speed, comfort, and punctuality",
+        "zh": "速度、舒适和准时",
+        "ja": "速さ、快適さ、時間の正確さ",
+        "es": "Velocidad, comodidad y puntualidad"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Shinkansen trains have an average delay of less than one minute per year.",
+      "zh": "新干线列车每年平均延误不到一分钟。",
+      "ja": "新幹線の平均遅延は年間1分未満です。",
+      "es": "Los trenes Shinkansen tienen un retraso promedio de menos de un minuto al ano."
+    }
+  },
+  {
+    "id": "tourism_beginner_086",
+    "q": {
+      "en": "What can tourists see from the Shinkansen between Tokyo and Osaka?",
+      "zh": "从东京到大阪的新干线上能看到什么？",
+      "ja": "東京〜大阪間の新幹線から見えるものは？",
+      "es": "Que pueden ver los turistas en el Shinkansen entre Tokio y Osaka?"
+    },
+    "c": [
+      {
+        "en": "Mt. Fuji on a clear day",
+        "zh": "晴天时的富士山",
+        "ja": "晴れた日の富士山",
+        "es": "El Monte Fuji en un dia despejado"
+      },
+      {
+        "en": "Nothing interesting",
+        "zh": "没什么有趣的",
+        "ja": "特になし",
+        "es": "Nada interesante"
+      },
+      {
+        "en": "The ocean only",
+        "zh": "只有大海",
+        "ja": "海だけ",
+        "es": "Solo el oceano"
+      },
+      {
+        "en": "Only tunnels",
+        "zh": "只有隧道",
+        "ja": "トンネルだけ",
+        "es": "Solo tuneles"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "On clear days, Mt. Fuji is visible from the right side of the train heading to Osaka.",
+      "zh": "晴天时，从开往大阪方向列车的右侧可以看到富士山。",
+      "ja": "晴れた日は大阪方面の右側の窓から富士山が見えます。",
+      "es": "En dias despejados, el Fuji se ve desde el lado derecho del tren hacia Osaka."
+    }
+  },
+  {
+    "id": "tourism_beginner_087",
+    "q": {
+      "en": "What is the Shimanami Kaido?",
+      "zh": "岛波海道是什么？",
+      "ja": "しまなみ海道とは？",
+      "es": "Que es el Shimanami Kaido?"
+    },
+    "c": [
+      {
+        "en": "A cycling and walking route connecting islands",
+        "zh": "连接岛屿的骑行和步行路线",
+        "ja": "島々をつなぐサイクリング・歩行ルート",
+        "es": "Ruta ciclista y peatonal que conecta islas"
+      },
+      {
+        "en": "A type of sushi",
+        "zh": "一种寿司",
+        "ja": "寿司の一種",
+        "es": "Un tipo de sushi"
+      },
+      {
+        "en": "A bullet train line",
+        "zh": "新干线线路",
+        "ja": "新幹線の路線",
+        "es": "Linea de tren bala"
+      },
+      {
+        "en": "A shopping street",
+        "zh": "商店街",
+        "ja": "商店街",
+        "es": "Calle comercial"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "The Shimanami Kaido is a 60 km route with bridges connecting Honshu to Shikoku across six islands.",
+      "zh": "岛波海道是60公里路线，通过桥梁连接本州和四国的六个岛屿。",
+      "ja": "しまなみ海道は6つの島を橋で結ぶ全長約60kmのルートです。",
+      "es": "El Shimanami Kaido es una ruta de 60 km con puentes que conectan Honshu y Shikoku."
+    }
+  },
+  {
+    "id": "tourism_beginner_088",
+    "q": {
+      "en": "What observation deck offers views from 350 meters in Tokyo?",
+      "zh": "东京哪个观景台提供350米高的景观？",
+      "ja": "東京で350mからの眺めが楽しめる展望台は？",
+      "es": "Que mirador ofrece vistas desde 350 metros en Tokio?"
+    },
+    "c": [
+      {
+        "en": "Tokyo Skytree",
+        "zh": "东京晴空塔",
+        "ja": "東京スカイツリー",
+        "es": "Tokyo Skytree"
+      },
+      {
+        "en": "Sunshine 60",
+        "zh": "阳光60",
+        "ja": "サンシャイン60",
+        "es": "Sunshine 60"
+      },
+      {
+        "en": "Roppongi Hills",
+        "zh": "六本木新城",
+        "ja": "六本木ヒルズ",
+        "es": "Roppongi Hills"
+      },
+      {
+        "en": "Tokyo Tower",
+        "zh": "东京塔",
+        "ja": "東京タワー",
+        "es": "Torre de Tokio"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Tokyo Skytree has two observation decks at 350m and 450m with panoramic city views.",
+      "zh": "东京晴空塔有350米和450米两个观景台，可俯瞰全城。",
+      "ja": "スカイツリーには350mと450mの2つの展望台があります。",
+      "es": "El Skytree tiene dos miradores a 350m y 450m con vistas panoramicas de la ciudad."
+    }
+  },
+  {
+    "id": "tourism_beginner_089",
+    "q": {
+      "en": "What can tourists experience at a Japanese hot spring (onsen)?",
+      "zh": "游客在日本温泉可以体验什么？",
+      "ja": "温泉で体験できることは？",
+      "es": "Que pueden experimentar los turistas en un onsen?"
+    },
+    "c": [
+      {
+        "en": "Scuba diving",
+        "zh": "水肺潜水",
+        "ja": "スキューバダイビング",
+        "es": "Buceo"
+      },
+      {
+        "en": "Rock climbing",
+        "zh": "攀岩",
+        "ja": "ロッククライミング",
+        "es": "Escalada"
+      },
+      {
+        "en": "Ice skating",
+        "zh": "滑冰",
+        "ja": "アイススケート",
+        "es": "Patinaje sobre hielo"
+      },
+      {
+        "en": "Bathing in naturally heated mineral water",
+        "zh": "在天然加热的矿泉水中沐浴",
+        "ja": "天然の温かい鉱泉水に浸かる",
+        "es": "Banarse en agua mineral naturalmente caliente"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Most onsen require bathing without clothes and washing thoroughly before entering the bath.",
+      "zh": "大多数温泉要求裸浴，入浴前要彻底清洗。",
+      "ja": "殆どの温泉では裸で入浴し入浴前に体を洗います。",
+      "es": "La mayoria de onsen requieren banarse sin ropa y lavarse antes de entrar."
+    }
+  },
+  {
+    "id": "tourism_beginner_090",
+    "q": {
+      "en": "What is the proper way to eat at a Japanese ramen shop?",
+      "zh": "在日本拉面店正确的吃法是？",
+      "ja": "ラーメン店での正しい食べ方は？",
+      "es": "Cual es la forma correcta de comer en un restaurante de ramen?"
+    },
+    "c": [
+      {
+        "en": "Use a knife and fork",
+        "zh": "用刀叉",
+        "ja": "ナイフとフォークで",
+        "es": "Usar cuchillo y tenedor"
+      },
+      {
+        "en": "Eat very slowly and silently",
+        "zh": "非常慢且安静地吃",
+        "ja": "ゆっくり静かに食べる",
+        "es": "Comer lento y en silencio"
+      },
+      {
+        "en": "Leave half the food uneaten",
+        "zh": "留下一半食物",
+        "ja": "半分残す",
+        "es": "Dejar la mitad sin comer"
+      },
+      {
+        "en": "Slurping noodles is acceptable and shows enjoyment",
+        "zh": "吸面条是可以的，表示享受",
+        "ja": "麺をすするのはOKで楽しんでいる証拠",
+        "es": "Sorber fideos es aceptable y muestra disfrute"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "In Japan, slurping ramen is considered polite as it shows you are enjoying the meal.",
+      "zh": "在日本，吸拉面被认为是礼貌的，表示你在享用。",
+      "ja": "日本ではラーメンをすするのは美味しく食べている証拠です。",
+      "es": "En Japon, sorber ramen se considera educado pues muestra que disfrutas la comida."
+    }
+  },
+  {
+    "id": "tourism_beginner_091",
+    "q": {
+      "en": "What is Golden Gai in Shinjuku?",
+      "zh": "新宿黄金街是什么？",
+      "ja": "新宿ゴールデン街とは？",
+      "es": "Que es Golden Gai en Shinjuku?"
+    },
+    "c": [
+      {
+        "en": "A temple",
+        "zh": "寺庙",
+        "ja": "寺院",
+        "es": "Un templo"
+      },
+      {
+        "en": "A gold market",
+        "zh": "黄金市场",
+        "ja": "金市場",
+        "es": "Un mercado de oro"
+      },
+      {
+        "en": "A luxury hotel",
+        "zh": "豪华酒店",
+        "ja": "高級ホテル",
+        "es": "Un hotel de lujo"
+      },
+      {
+        "en": "A network of tiny bars in narrow alleys",
+        "zh": "狭窄小巷中的小酒吧网络",
+        "ja": "狭い路地にある小さなバーの集まり",
+        "es": "Una red de pequenos bares en callejones estrechos"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Golden Gai has about 200 tiny bars, each seating only 6-10 people, with unique themes.",
+      "zh": "黄金街有约200家小酒吧，每家只能坐6-10人，各有独特主题。",
+      "ja": "ゴールデン街には約200軒の小さなバーがあり各店6〜10席です。",
+      "es": "Golden Gai tiene unos 200 pequenos bares, cada uno con 6-10 asientos y temas unicos."
+    }
+  },
+  {
+    "id": "tourism_beginner_092",
+    "q": {
+      "en": "What type of food hall is found in train station buildings?",
+      "zh": "火车站大楼里有什么类型的美食区？",
+      "ja": "駅ビルにある飲食フロアは？",
+      "es": "Que tipo de zona de comida hay en los edificios de estaciones?"
+    },
+    "c": [
+      {
+        "en": "No food available",
+        "zh": "没有食物",
+        "ja": "食事なし",
+        "es": "No hay comida"
+      },
+      {
+        "en": "Only vending machines",
+        "zh": "只有自动售货机",
+        "ja": "自販機のみ",
+        "es": "Solo maquinas expendedoras"
+      },
+      {
+        "en": "Restaurant floors with many dining options called eki-naka",
+        "zh": "有很多餐饮选择的车站美食楼层",
+        "ja": "多くの飲食店がある駅ナカ",
+        "es": "Plantas de restaurantes con muchas opciones llamadas eki-naka"
+      },
+      {
+        "en": "Fast food only",
+        "zh": "只有快餐",
+        "ja": "ファストフードのみ",
+        "es": "Solo comida rapida"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Major stations like Tokyo and Kyoto have extensive restaurant floors with dozens of options.",
+      "zh": "东京和京都等主要车站有大型餐饮楼层，有数十种选择。",
+      "ja": "東京駅や京都駅には多数の飲食店が入った駅ナカがあります。",
+      "es": "Estaciones como Tokio y Kioto tienen extensas plantas de restaurantes."
+    }
+  },
+  {
+    "id": "tourism_beginner_093",
+    "q": {
+      "en": "What is the typical check-in time at Japanese hotels?",
+      "zh": "日本酒店的典型入住时间是？",
+      "ja": "日本のホテルのチェックイン時間は？",
+      "es": "A que hora es el check-in tipico en hoteles japoneses?"
+    },
+    "c": [
+      {
+        "en": "Midnight",
+        "zh": "午夜",
+        "ja": "深夜0時",
+        "es": "Medianoche"
+      },
+      {
+        "en": "3:00 PM",
+        "zh": "下午3点",
+        "ja": "午後3時",
+        "es": "3:00 PM"
+      },
+      {
+        "en": "8:00 AM",
+        "zh": "早上8点",
+        "ja": "午前8時",
+        "es": "8:00 AM"
+      },
+      {
+        "en": "6:00 PM",
+        "zh": "下午6点",
+        "ja": "午後6時",
+        "es": "6:00 PM"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Most Japanese hotels and ryokan have check-in at 3 PM and check-out at 10 or 11 AM.",
+      "zh": "大多数日本酒店和旅馆在下午3点入住，上午10或11点退房。",
+      "ja": "殆どのホテルと旅館はチェックイン15時、チェックアウト10〜11時です。",
+      "es": "La mayoria de hoteles tienen check-in a las 3 PM y check-out a las 10 u 11 AM."
+    }
+  },
+  {
+    "id": "tourism_beginner_094",
+    "q": {
+      "en": "What is Japans rainy season called?",
+      "zh": "日本的雨季叫什么？",
+      "ja": "日本の雨の季節は何と呼ぶ？",
+      "es": "Como se llama la temporada de lluvias de Japon?"
+    },
+    "c": [
+      {
+        "en": "Hanami",
+        "zh": "花见",
+        "ja": "花見",
+        "es": "Hanami"
+      },
+      {
+        "en": "Matsuri",
+        "zh": "祭",
+        "ja": "祭り",
+        "es": "Matsuri"
+      },
+      {
+        "en": "Sakura",
+        "zh": "樱花",
+        "ja": "桜",
+        "es": "Sakura"
+      },
+      {
+        "en": "Tsuyu",
+        "zh": "梅雨",
+        "ja": "梅雨",
+        "es": "Tsuyu"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Tsuyu (rainy season) typically lasts from early June to mid-July in most of Japan.",
+      "zh": "梅雨通常从6月初持续到7月中旬。",
+      "ja": "梅雨は通常6月上旬から7月中旬まで続きます。",
+      "es": "El tsuyu dura tipicamente de principios de junio a mediados de julio."
+    }
+  },
+  {
+    "id": "tourism_beginner_095",
+    "q": {
+      "en": "What is the Tokaido route?",
+      "zh": "东海道是什么？",
+      "ja": "東海道とは？",
+      "es": "Que es la ruta Tokaido?"
+    },
+    "c": [
+      {
+        "en": "A hiking trail in Hokkaido",
+        "zh": "北海道的徒步路线",
+        "ja": "北海道のハイキングコース",
+        "es": "Ruta de senderismo en Hokkaido"
+      },
+      {
+        "en": "A mountain range",
+        "zh": "山脉",
+        "ja": "山脈",
+        "es": "Cordillera"
+      },
+      {
+        "en": "A river",
+        "zh": "河流",
+        "ja": "川",
+        "es": "Un rio"
+      },
+      {
+        "en": "The historic route between Tokyo and Kyoto",
+        "zh": "东京和京都之间的历史路线",
+        "ja": "東京と京都を結ぶ歴史的な街道",
+        "es": "La ruta historica entre Tokio y Kioto"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "The Tokaido Shinkansen follows the historic Tokaido road and is Japans busiest rail line.",
+      "zh": "东海道新干线沿历史悠久的东海道行驶，是日本最繁忙的铁路线。",
+      "ja": "東海道新幹線は歴史的な東海道沿いを走る日本最繁忙の路線です。",
+      "es": "El Shinkansen Tokaido sigue la historica ruta Tokaido y es la linea mas transitada de Japon."
+    }
+  },
+  {
+    "id": "tourism_beginner_096",
+    "q": {
+      "en": "What is the currency used in Japan?",
+      "zh": "日本使用什么货币？",
+      "ja": "日本の通貨は？",
+      "es": "Cual es la moneda de Japon?"
+    },
+    "c": [
+      {
+        "en": "Won",
+        "zh": "韩元",
+        "ja": "ウォン",
+        "es": "Won"
+      },
+      {
+        "en": "Yuan",
+        "zh": "元",
+        "ja": "元",
+        "es": "Yuan"
+      },
+      {
+        "en": "Yen",
+        "zh": "日元",
+        "ja": "円",
+        "es": "Yen"
+      },
+      {
+        "en": "Dollar",
+        "zh": "美元",
+        "ja": "ドル",
+        "es": "Dolar"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "The Japanese Yen comes in coins (1, 5, 10, 50, 100, 500) and bills (1000, 5000, 10000).",
+      "zh": "日元有硬币（1、5、10、50、100、500）和纸币（1000、5000、10000）。",
+      "ja": "円は硬貨（1、5、10、50、100、500）と紙幣（1000、5000、10000）があります。",
+      "es": "El Yen tiene monedas (1, 5, 10, 50, 100, 500) y billetes (1000, 5000, 10000)."
+    }
+  },
+  {
+    "id": "tourism_beginner_097",
+    "q": {
+      "en": "What is a torii gate?",
+      "zh": "鸟居是什么？",
+      "ja": "鳥居とは？",
+      "es": "Que es una puerta torii?"
+    },
+    "c": [
+      {
+        "en": "A garden door",
+        "zh": "花园门",
+        "ja": "庭園の扉",
+        "es": "Puerta de jardin"
+      },
+      {
+        "en": "A train station entrance",
+        "zh": "车站入口",
+        "ja": "駅の入口",
+        "es": "Entrada de estacion"
+      },
+      {
+        "en": "A traditional gate at the entrance of a Shinto shrine",
+        "zh": "神社入口的传统门",
+        "ja": "神社の入口にある伝統的な門",
+        "es": "Puerta tradicional en la entrada de un santuario sintoista"
+      },
+      {
+        "en": "A castle gate",
+        "zh": "城门",
+        "ja": "城門",
+        "es": "Puerta de castillo"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Torii gates are usually painted vermillion red and mark the transition to sacred space.",
+      "zh": "鸟居通常漆成朱红色，标志着进入神圣空间。",
+      "ja": "鳥居は通常朱色に塗られ神聖な空間への入口を示します。",
+      "es": "Las puertas torii suelen ser rojas y marcan la transicion al espacio sagrado."
+    }
+  },
+  {
+    "id": "tourism_beginner_098",
+    "q": {
+      "en": "What is a good souvenir from Japan for travelers?",
+      "zh": "去日本旅行买什么好？",
+      "ja": "日本旅行のお土産に良いものは？",
+      "es": "Que es un buen recuerdo de Japon para viajeros?"
+    },
+    "c": [
+      {
+        "en": "Local sweets and regional specialties (omiyage)",
+        "zh": "当地甜点和地方特产",
+        "ja": "地元のお菓子や名産品（お土産）",
+        "es": "Dulces locales y especialidades regionales (omiyage)"
+      },
+      {
+        "en": "Used train tickets",
+        "zh": "用过的车票",
+        "ja": "使用済み切符",
+        "es": "Billetes usados"
+      },
+      {
+        "en": "Rocks from the garden",
+        "zh": "花园的石头",
+        "ja": "庭園の石",
+        "es": "Piedras del jardin"
+      },
+      {
+        "en": "Sand from the beach",
+        "zh": "沙滩上的沙子",
+        "ja": "ビーチの砂",
+        "es": "Arena de la playa"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Omiyage (souvenir gifts) culture is very important in Japan with every region having unique treats.",
+      "zh": "お土産文化在日本非常重要，每个地区都有独特的特产。",
+      "ja": "お土産文化は日本で非常に大切で各地に名物があります。",
+      "es": "La cultura omiyage es muy importante en Japon, cada region tiene dulces unicos."
+    }
+  },
+  {
+    "id": "tourism_beginner_099",
+    "q": {
+      "en": "What language is primarily spoken in Japan?",
+      "zh": "日本主要说什么语言？",
+      "ja": "日本で主に話される言語は？",
+      "es": "Que idioma se habla principalmente en Japon?"
+    },
+    "c": [
+      {
+        "en": "English",
+        "zh": "英语",
+        "ja": "英語",
+        "es": "Ingles"
+      },
+      {
+        "en": "Korean",
+        "zh": "韩语",
+        "ja": "韓国語",
+        "es": "Coreano"
+      },
+      {
+        "en": "Mandarin",
+        "zh": "普通话",
+        "ja": "中国語",
+        "es": "Mandarin"
+      },
+      {
+        "en": "Japanese",
+        "zh": "日语",
+        "ja": "日本語",
+        "es": "Japones"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "While Japanese is the main language, many signs in tourist areas also have English, Chinese, and Korean.",
+      "zh": "虽然日语是主要语言，但旅游区很多标识也有英文、中文和韩文。",
+      "ja": "日本語が主要言語ですが観光地では英語、中国語、韓国語の案内も多いです。",
+      "es": "Aunque el japones es el idioma principal, muchas senales turisticas tienen ingles, chino y coreano."
+    }
+  },
+  {
+    "id": "tourism_beginner_100",
+    "q": {
+      "en": "What greeting do shopkeepers say when you enter a store in Japan?",
+      "zh": "在日本进店时店员会说什么？",
+      "ja": "日本でお店に入った時に店員が言う挨拶は？",
+      "es": "Que dicen los dependientes cuando entras a una tienda en Japon?"
+    },
+    "c": [
+      {
+        "en": "Irasshaimase",
+        "zh": "欢迎光临",
+        "ja": "いらっしゃいませ",
+        "es": "Irasshaimase"
+      },
+      {
+        "en": "Sayonara",
+        "zh": "再见",
+        "ja": "さようなら",
+        "es": "Sayonara"
+      },
+      {
+        "en": "Arigatou",
+        "zh": "谢谢",
+        "ja": "ありがとう",
+        "es": "Arigatou"
+      },
+      {
+        "en": "Konnichiwa",
+        "zh": "你好",
+        "ja": "こんにちは",
+        "es": "Konnichiwa"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Irasshaimase means welcome and you will hear it at nearly every shop and restaurant in Japan.",
+      "zh": "Irasshaimase的意思是欢迎光临，在日本几乎每家店和餐厅都会听到。",
+      "ja": "いらっしゃいませは日本のほぼ全ての店や飲食店で聞こえます。",
+      "es": "Irasshaimase significa bienvenido y se escucha en casi todas las tiendas y restaurantes."
+    }
+  }
+]

@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "history_intermediate_001",
+    "q": {
+      "en": "Which period is characterized by the use of cord-marked pottery in ancient Japan?",
+      "zh": "日本古代哪个时期以绳纹陶器为特征？",
+      "ja": "縄目模様の土器が特徴的な日本の古代の時代はどれですか？",
+      "es": "¿Qué período se caracteriza por el uso de cerámica con marcas de cuerda en el antiguo Japón?"
+    },
+    "c": [
+      {"en": "Jomon period", "zh": "绳文时代", "ja": "縄文時代", "es": "Período Jomon"},
+      {"en": "Yayoi period", "zh": "弥生时代", "ja": "弥生時代", "es": "Período Yayoi"},
+      {"en": "Kofun period", "zh": "古坟时代", "ja": "古墳時代", "es": "Período Kofun"},
+      {"en": "Asuka period", "zh": "飞鸟时代", "ja": "飛鳥時代", "es": "Período Asuka"}
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "The Jomon period lasted from approximately 14,000 BCE to 300 BCE, making it one of the longest cultural periods in world history.",
+      "zh": "绳文时代大约从公元前14000年持续到公元前300年，是世界历史上最长的文化时期之一。",
+      "ja": "縄文時代は約紀元前14000年から紀元前300年まで続き、世界史上最も長い文化期の一つです。",
+      "es": "El período Jomon duró aproximadamente desde el 14,000 a.C. hasta el 300 a.C., siendo uno de los períodos culturales más largos de la historia mundial."
+    }
+  },
+  {
+    "id": "history_intermediate_002",
+    "q": {
+      "en": "What agricultural technique was introduced to Japan during the Yayoi period?",
+      "zh": "弥生时代传入日本的农业技术是什么？",
+      "ja": "弥生時代に日本に伝わった農業技術は何ですか？",
+      "es": "¿Qué técnica agrícola se introdujo en Japón durante el período Yayoi?"
+    },
+    "c": [
+      {"en": "Terrace farming", "zh": "梯田农业", "ja": "段々畑農業", "es": "Agricultura en terrazas"},
+      {"en": "Slash-and-burn agriculture", "zh": "刀耕火种", "ja": "焼畑農業", "es": "Agricultura de tala y quema"},
+      {"en": "Wet-rice paddy cultivation", "zh": "水稻种植", "ja": "水稲耕作", "es": "Cultivo de arroz en arrozales inundados"},
+      {"en": "Wheat farming", "zh": "小麦种植", "ja": "小麦栽培", "es": "Cultivo de trigo"}
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Wet-rice cultivation arrived from the Korean Peninsula and southern China, transforming Japanese society from hunter-gatherer to agrarian.",
+      "zh": "水稻种植从朝鲜半岛和中国南方传入，使日本社会从狩猎采集转变为农耕社会。",
+      "ja": "水稲耕作は朝鮮半島や中国南部から伝わり、日本社会を狩猟採集から農耕社会へと変革しました。",
+      "es": "El cultivo de arroz llegó desde la península de Corea y el sur de China, transformando la sociedad japonesa de cazadores-recolectores a agraria."
+    }
+  },
+  {
+    "id": "history_intermediate_003",
+    "q": {
+      "en": "What are the large keyhole-shaped burial mounds from the Kofun period called?",
+      "zh": "古坟时代的大型锁孔形墓葬被称为什么？",
+      "ja": "古墳時代の大きな前方後円形の墓は何と呼ばれますか？",
+      "es": "¿Cómo se llaman los grandes túmulos funerarios en forma de cerradura del período Kofun?"
+    },
+    "c": [
+      {"en": "Tumuli", "zh": "坟丘", "ja": "墳丘", "es": "Túmulos"},
+      {"en": "Kofun", "zh": "古坟", "ja": "古墳", "es": "Kofun"},
+      {"en": "Dolmen", "zh": "支石墓", "ja": "ドルメン", "es": "Dolmen"},
+      {"en": "Cairn", "zh": "石冢", "ja": "ケアン", "es": "Mojón"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "The largest kofun is the tomb of Emperor Nintoku in Sakai, Osaka, which is one of the largest tombs in the world by area.",
+      "zh": "最大的古坟是位于大阪堺市的仁德天皇陵，是世界上面积最大的墓葬之一。",
+      "ja": "最大の古墳は大阪府堺市にある仁徳天皇陵で、面積では世界最大級の墓です。",
+      "es": "El kofun más grande es la tumba del emperador Nintoku en Sakai, Osaka, que es una de las tumbas más grandes del mundo por área."
+    }
+  },
+  {
+    "id": "history_intermediate_004",
+    "q": {
+      "en": "Which regent clan dominated the Heian court through strategic marriages with the imperial family?",
+      "zh": "哪个摄政氏族通过与皇室的政治联姻控制了平安朝廷？",
+      "ja": "皇室との政略結婚を通じて平安朝廷を支配した摂関家はどれですか？",
+      "es": "¿Qué clan regente dominó la corte Heian a través de matrimonios estratégicos con la familia imperial?"
+    },
+    "c": [
+      {"en": "Taira clan", "zh": "平氏", "ja": "平氏", "es": "Clan Taira"},
+      {"en": "Minamoto clan", "zh": "源氏", "ja": "源氏", "es": "Clan Minamoto"},
+      {"en": "Soga clan", "zh": "苏我氏", "ja": "蘇我氏", "es": "Clan Soga"},
+      {"en": "Fujiwara clan", "zh": "藤原氏", "ja": "藤原氏", "es": "Clan Fujiwara"}
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "The Fujiwara clan's power peaked under Fujiwara no Michinaga, who had four daughters marry emperors.",
+      "zh": "藤原氏的权力在藤原道长时期达到顶峰，他的四个女儿都嫁给了天皇。",
+      "ja": "藤原氏の権力は藤原道長の時代に最盛期を迎え、四人の娘を天皇に嫁がせました。",
+      "es": "El poder del clan Fujiwara alcanzó su apogeo bajo Fujiwara no Michinaga, quien casó a cuatro de sus hijas con emperadores."
+    }
+  },
+  {
+    "id": "history_intermediate_005",
+    "q": {
+      "en": "What was the name of the first permanent capital of Japan, established in 710?",
+      "zh": "710年建立的日本第一个永久首都叫什么？",
+      "ja": "710年に建設された日本初の本格的な恒久首都の名前は何ですか？",
+      "es": "¿Cuál fue el nombre de la primera capital permanente de Japón, establecida en 710?"
+    },
+    "c": [
+      {"en": "Kyoto", "zh": "京都", "ja": "京都", "es": "Kioto"},
+      {"en": "Heijo-kyo (Nara)", "zh": "平城京（奈良）", "ja": "平城京（奈良）", "es": "Heijo-kyo (Nara)"},
+      {"en": "Kamakura", "zh": "镰仓", "ja": "鎌倉", "es": "Kamakura"},
+      {"en": "Fujiwara-kyo", "zh": "藤原京", "ja": "藤原京", "es": "Fujiwara-kyo"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Heijo-kyo was modeled after Chang'an, the capital of Tang Dynasty China, reflecting the strong cultural influence of China on early Japan.",
+      "zh": "平城京以唐朝首都长安为模型建造，反映了中国对早期日本的强大文化影响。",
+      "ja": "平城京は唐の都・長安をモデルに造営され、初期日本に対する中国の強い文化的影響を反映しています。",
+      "es": "Heijo-kyo fue modelada según Chang'an, la capital de la dinastía Tang de China, reflejando la fuerte influencia cultural de China en el Japón temprano."
+    }
+  },
+  {
+    "id": "history_intermediate_006",
+    "q": {
+      "en": "Which literary work, written by Murasaki Shikibu during the Heian period, is often considered the world's first novel?",
+      "zh": "平安时代紫式部所著的哪部文学作品被认为是世界上第一部小说？",
+      "ja": "平安時代に紫式部が書いた、世界初の長編小説とされる文学作品はどれですか？",
+      "es": "¿Qué obra literaria, escrita por Murasaki Shikibu durante el período Heian, se considera a menudo la primera novela del mundo?"
+    },
+    "c": [
+      {"en": "The Pillow Book", "zh": "枕草子", "ja": "枕草子", "es": "El libro de la almohada"},
+      {"en": "The Tale of the Heike", "zh": "平家物语", "ja": "平家物語", "es": "El relato de los Heike"},
+      {"en": "The Tale of Genji", "zh": "源氏物语", "ja": "源氏物語", "es": "La historia de Genji"},
+      {"en": "Kojiki", "zh": "古事记", "ja": "古事記", "es": "Kojiki"}
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "The Tale of Genji describes the life of the son of a Japanese emperor and provides detailed insights into Heian court culture.",
+      "zh": "《源氏物语》描述了日本天皇之子的生活，详细展现了平安朝廷文化。",
+      "ja": "源氏物語は日本の天皇の息子の人生を描き、平安時代の宮廷文化を詳細に伝えています。",
+      "es": "La historia de Genji describe la vida del hijo de un emperador japonés y ofrece una visión detallada de la cultura cortesana Heian."
+    }
+  },
+  {
+    "id": "history_intermediate_007",
+    "q": {
+      "en": "Who established the Kamakura shogunate in 1185?",
+      "zh": "谁在1185年建立了镰仓幕府？",
+      "ja": "1185年に鎌倉幕府を開いたのは誰ですか？",
+      "es": "¿Quién estableció el shogunato de Kamakura en 1185?"
+    },
+    "c": [
+      {"en": "Taira no Kiyomori", "zh": "平清盛", "ja": "平清盛", "es": "Taira no Kiyomori"},
+      {"en": "Minamoto no Yoritomo", "zh": "源赖朝", "ja": "源頼朝", "es": "Minamoto no Yoritomo"},
+      {"en": "Ashikaga Takauji", "zh": "足利尊氏", "ja": "足利尊氏", "es": "Ashikaga Takauji"},
+      {"en": "Hojo Tokimasa", "zh": "北条时政", "ja": "北条時政", "es": "Hojo Tokimasa"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Minamoto no Yoritomo defeated the rival Taira clan in the Genpei War before establishing the first shogunate, shifting power from the imperial court to a military government.",
+      "zh": "源赖朝在源平合战中击败了对手平氏，随后建立了第一个幕府，将权力从朝廷转移到了军事政府。",
+      "ja": "源頼朝は源平合戦で平氏を破った後、最初の幕府を開き、権力を朝廷から武家政権へと移しました。",
+      "es": "Minamoto no Yoritomo derrotó al clan rival Taira en la Guerra Genpei antes de establecer el primer shogunato, trasladando el poder de la corte imperial a un gobierno militar."
+    }
+  },
+  {
+    "id": "history_intermediate_008",
+    "q": {
+      "en": "What natural phenomenon helped Japan repel the Mongol invasions in 1274 and 1281?",
+      "zh": "什么自然现象帮助日本在1274年和1281年击退了蒙古入侵？",
+      "ja": "1274年と1281年のモンゴル襲来を撃退するのに役立った自然現象は何ですか？",
+      "es": "¿Qué fenómeno natural ayudó a Japón a repeler las invasiones mongolas en 1274 y 1281?"
+    },
+    "c": [
+      {"en": "Earthquake", "zh": "地震", "ja": "地震", "es": "Terremoto"},
+      {"en": "Volcanic eruption", "zh": "火山爆发", "ja": "火山噴火", "es": "Erupción volcánica"},
+      {"en": "Tsunami", "zh": "海啸", "ja": "津波", "es": "Tsunami"},
+      {"en": "Typhoon (Kamikaze)", "zh": "台风（神风）", "ja": "台風（神風）", "es": "Tifón (Kamikaze)"}
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "The word 'kamikaze' literally means 'divine wind' and was originally used to describe the typhoons that destroyed the Mongol fleets.",
+      "zh": "“神风”一词字面意思是“神圣的风”，最初用来描述摧毁蒙古舰队的台风。",
+      "ja": "「神風」は文字通り「神の風」を意味し、元々はモンゴル艦隊を壊滅させた台風を指す言葉でした。",
+      "es": "La palabra 'kamikaze' significa literalmente 'viento divino' y se usó originalmente para describir los tifones que destruyeron las flotas mongolas."
+    }
+  },
+  {
+    "id": "history_intermediate_009",
+    "q": {
+      "en": "Which clan served as regents (shikken) and effectively controlled the Kamakura shogunate?",
+      "zh": "哪个氏族担任执权，实际控制了镰仓幕府？",
+      "ja": "執権として鎌倉幕府を実質的に支配した氏族はどれですか？",
+      "es": "¿Qué clan sirvió como regentes (shikken) y controló efectivamente el shogunato de Kamakura?"
+    },
+    "c": [
+      {"en": "Hojo clan", "zh": "北条氏", "ja": "北条氏", "es": "Clan Hojo"},
+      {"en": "Fujiwara clan", "zh": "藤原氏", "ja": "藤原氏", "es": "Clan Fujiwara"},
+      {"en": "Ashikaga clan", "zh": "足利氏", "ja": "足利氏", "es": "Clan Ashikaga"},
+      {"en": "Tokugawa clan", "zh": "德川氏", "ja": "徳川氏", "es": "Clan Tokugawa"}
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "The Hojo regents wielded real power behind the shogun, who was himself a figurehead behind the emperor — creating a unique double layer of symbolic rule.",
+      "zh": "北条执权在将军背后掌握实权，而将军本身也是天皇背后的傀儡——形成了独特的双重象征性统治。",
+      "ja": "北条執権は将軍の背後で実権を握り、将軍自身も天皇の背後の傀儡であったため、二重の象徴的支配という独特な構造が生まれました。",
+      "es": "Los regentes Hojo ejercían el poder real detrás del shogun, quien a su vez era una figura decorativa detrás del emperador, creando una doble capa única de gobierno simbólico."
+    }
+  },
+  {
+    "id": "history_intermediate_010",
+    "q": {
+      "en": "Who founded the Ashikaga (Muromachi) shogunate in 1336?",
+      "zh": "谁在1336年建立了足利（室町）幕府？",
+      "ja": "1336年に足利（室町）幕府を開いたのは誰ですか？",
+      "es": "¿Quién fundó el shogunato Ashikaga (Muromachi) en 1336?"
+    },
+    "c": [
+      {"en": "Ashikaga Yoshimitsu", "zh": "足利义满", "ja": "足利義満", "es": "Ashikaga Yoshimitsu"},
+      {"en": "Ashikaga Takauji", "zh": "足利尊氏", "ja": "足利尊氏", "es": "Ashikaga Takauji"},
+      {"en": "Ashikaga Yoshimasa", "zh": "足利义政", "ja": "足利義政", "es": "Ashikaga Yoshimasa"},
+      {"en": "Emperor Go-Daigo", "zh": "后醍醐天皇", "ja": "後醍醐天皇", "es": "Emperador Go-Daigo"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Ashikaga Takauji first helped Emperor Go-Daigo overthrow the Kamakura shogunate, but then turned against him to establish his own military government.",
+      "zh": "足利尊氏最初帮助后醍醐天皇推翻了镰仓幕府，但随后反叛建立了自己的军事政权。",
+      "ja": "足利尊氏は最初、後醍醐天皇の鎌倉幕府打倒を助けましたが、その後反旗を翻して自らの武家政権を樹立しました。",
+      "es": "Ashikaga Takauji primero ayudó al emperador Go-Daigo a derrocar el shogunato de Kamakura, pero luego se volvió contra él para establecer su propio gobierno militar."
+    }
+  },
+  {
+    "id": "history_intermediate_011",
+    "q": {
+      "en": "What civil war devastated Kyoto from 1467 to 1477 and triggered the Sengoku period?",
+      "zh": "1467年到1477年间哪场内战摧毁了京都并引发了战国时代？",
+      "ja": "1467年から1477年にかけて京都を荒廃させ、戦国時代の引き金となった内乱は何ですか？",
+      "es": "¿Qué guerra civil devastó Kioto de 1467 a 1477 y desencadenó el período Sengoku?"
+    },
+    "c": [
+      {"en": "Genpei War", "zh": "源平合战", "ja": "源平合戦", "es": "Guerra Genpei"},
+      {"en": "Onin War", "zh": "应仁之乱", "ja": "応仁の乱", "es": "Guerra Onin"},
+      {"en": "Boshin War", "zh": "戊辰战争", "ja": "戊辰戦争", "es": "Guerra Boshin"},
+      {"en": "Shimabara Rebellion", "zh": "岛原之乱", "ja": "島原の乱", "es": "Rebelión de Shimabara"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "The Onin War began as a succession dispute within the Ashikaga shogunate but escalated into widespread conflict that left much of Kyoto in ruins.",
+      "zh": "应仁之乱始于足利幕府内部的继承权之争，但升级为大规模冲突，使京都大部分地区沦为废墟。",
+      "ja": "応仁の乱は足利幕府内の後継者争いから始まりましたが、大規模な紛争に発展し、京都の大部分が焼け野原となりました。",
+      "es": "La Guerra Onin comenzó como una disputa de sucesión dentro del shogunato Ashikaga, pero escaló hasta convertirse en un conflicto generalizado que dejó gran parte de Kioto en ruinas."
+    }
+  },
+  {
+    "id": "history_intermediate_012",
+    "q": {
+      "en": "Which Ashikaga shogun built the famous Kinkaku-ji (Golden Pavilion) in Kyoto?",
+      "zh": "哪位足利将军建造了京都著名的金阁寺？",
+      "ja": "京都の有名な金閣寺を建てた足利将軍は誰ですか？",
+      "es": "¿Qué shogun Ashikaga construyó el famoso Kinkaku-ji (Pabellón Dorado) en Kioto?"
+    },
+    "c": [
+      {"en": "Ashikaga Takauji", "zh": "足利尊氏", "ja": "足利尊氏", "es": "Ashikaga Takauji"},
+      {"en": "Ashikaga Yoshimasa", "zh": "足利义政", "ja": "足利義政", "es": "Ashikaga Yoshimasa"},
+      {"en": "Ashikaga Yoshimitsu", "zh": "足利义满", "ja": "足利義満", "es": "Ashikaga Yoshimitsu"},
+      {"en": "Ashikaga Yoshiaki", "zh": "足利义昭", "ja": "足利義昭", "es": "Ashikaga Yoshiaki"}
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Ashikaga Yoshimitsu also unified the Northern and Southern Courts, ending a 60-year imperial schism in Japan.",
+      "zh": "足利义满还统一了南北朝，结束了日本长达60年的皇室分裂。",
+      "ja": "足利義満は南北朝の統一も果たし、日本の60年にわたる皇室の分裂を終わらせました。",
+      "es": "Ashikaga Yoshimitsu también unificó las cortes del Norte y del Sur, poniendo fin a un cisma imperial de 60 años en Japón."
+    }
+  },
+  {
+    "id": "history_intermediate_013",
+    "q": {
+      "en": "What was the name of Oda Nobunaga's strategy of 'realm under one military rule'?",
+      "zh": "织田信长的“以武力统一天下”的策略叫什么？",
+      "ja": "織田信長が掲げた「武力による天下統一」の理念は何と呼ばれますか？",
+      "es": "¿Cuál era el nombre de la estrategia de Oda Nobunaga de 'el reino bajo un gobierno militar'?"
+    },
+    "c": [
+      {"en": "Sakoku", "zh": "锁国", "ja": "鎖国", "es": "Sakoku"},
+      {"en": "Tenka fubu", "zh": "天下布武", "ja": "天下布武", "es": "Tenka fubu"},
+      {"en": "Sonnō jōi", "zh": "尊王攘夷", "ja": "尊王攘夷", "es": "Sonnō jōi"},
+      {"en": "Fukoku kyōhei", "zh": "富国强兵", "ja": "富国強兵", "es": "Fukoku kyōhei"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Tenka fubu means 'all the land under one sword' and was Nobunaga's personal seal motto as he sought to unify Japan through military conquest.",
+      "zh": "“天下布武”意为“以武力统一天下”，是信长在寻求通过军事征服统一日本时使用的个人印章口号。",
+      "ja": "「天下布武」は「武力で天下を治める」の意味で、信長が軍事による天下統一を目指す際に使用した印章の文言です。",
+      "es": "Tenka fubu significa 'toda la tierra bajo una espada' y era el lema del sello personal de Nobunaga mientras buscaba unificar Japón mediante la conquista militar."
+    }
+  },
+  {
+    "id": "history_intermediate_014",
+    "q": {
+      "en": "At which battle in 1575 did Oda Nobunaga famously deploy massed arquebusiers to defeat the Takeda cavalry?",
+      "zh": "1575年的哪场战役中，织田信长以大量火枪手击败了武田骑兵？",
+      "ja": "1575年、織田信長が大量の鉄砲隊を配備して武田騎馬隊を破った戦いはどれですか？",
+      "es": "¿En qué batalla de 1575 Oda Nobunaga desplegó famosamente arcabuceros en masa para derrotar a la caballería Takeda?"
+    },
+    "c": [
+      {"en": "Battle of Sekigahara", "zh": "关原之战", "ja": "関ヶ原の戦い", "es": "Batalla de Sekigahara"},
+      {"en": "Battle of Okehazama", "zh": "桶狭间之战", "ja": "桶狭間の戦い", "es": "Batalla de Okehazama"},
+      {"en": "Battle of Nagashino", "zh": "长篠之战", "ja": "長篠の戦い", "es": "Batalla de Nagashino"},
+      {"en": "Battle of Mikatagahara", "zh": "三方原之战", "ja": "三方ヶ原の戦い", "es": "Batalla de Mikatagahara"}
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Nobunaga used rotating volleys of 3,000 arquebusiers behind wooden palisades, revolutionizing warfare in Japan.",
+      "zh": "信长在木栅栏后使用3000名火枪手轮流齐射，革新了日本的战争方式。",
+      "ja": "信長は木柵の背後で3000挺の鉄砲による三段撃ちを用い、日本の戦争を革新しました。",
+      "es": "Nobunaga usó descargas rotativas de 3,000 arcabuceros detrás de empalizadas de madera, revolucionando la guerra en Japón."
+    }
+  },
+  {
+    "id": "history_intermediate_015",
+    "q": {
+      "en": "Who betrayed Oda Nobunaga at Honno-ji temple in 1582?",
+      "zh": "1582年谁在本能寺背叛了织田信长？",
+      "ja": "1582年に本能寺で織田信長を裏切ったのは誰ですか？",
+      "es": "¿Quién traicionó a Oda Nobunaga en el templo Honno-ji en 1582?"
+    },
+    "c": [
+      {"en": "Toyotomi Hideyoshi", "zh": "丰臣秀吉", "ja": "豊臣秀吉", "es": "Toyotomi Hideyoshi"},
+      {"en": "Tokugawa Ieyasu", "zh": "德川家康", "ja": "徳川家康", "es": "Tokugawa Ieyasu"},
+      {"en": "Takeda Shingen", "zh": "武田信玄", "ja": "武田信玄", "es": "Takeda Shingen"},
+      {"en": "Akechi Mitsuhide", "zh": "明智光秀", "ja": "明智光秀", "es": "Akechi Mitsuhide"}
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Akechi Mitsuhide's rule lasted only 13 days before he was defeated by Toyotomi Hideyoshi at the Battle of Yamazaki, earning the nickname 'the 13-day shogun.'",
+      "zh": "明智光秀的统治仅持续了13天，就在山崎之战中被丰臣秀吉击败，因此得到了“十三日天下”的绰号。",
+      "ja": "明智光秀の天下はわずか13日で終わり、山崎の戦いで豊臣秀吉に敗れたため「三日天下」と呼ばれています。",
+      "es": "El gobierno de Akechi Mitsuhide duró solo 13 días antes de ser derrotado por Toyotomi Hideyoshi en la Batalla de Yamazaki, ganándose el apodo de 'el shogun de los 13 días.'"
+    }
+  },
+  {
+    "id": "history_intermediate_016",
+    "q": {
+      "en": "What policy did Toyotomi Hideyoshi implement to disarm the peasantry in 1588?",
+      "zh": "丰臣秀吉在1588年实施了什么政策来解除农民的武装？",
+      "ja": "豊臣秀吉が1588年に農民の武装解除のために実施した政策は何ですか？",
+      "es": "¿Qué política implementó Toyotomi Hideyoshi para desarmar al campesinado en 1588?"
+    },
+    "c": [
+      {"en": "Sankin-kotai", "zh": "参勤交代", "ja": "参勤交代", "es": "Sankin-kotai"},
+      {"en": "Sword Hunt (Katanagari)", "zh": "刀狩令", "ja": "刀狩り", "es": "Caza de espadas (Katanagari)"},
+      {"en": "Sakoku Edict", "zh": "锁国令", "ja": "鎖国令", "es": "Edicto Sakoku"},
+      {"en": "Kenchi (Land Survey)", "zh": "检地", "ja": "検地", "es": "Kenchi (Encuesta de tierras)"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "The Sword Hunt confiscated weapons from farmers and monks, solidifying the class separation between samurai and commoners.",
+      "zh": "刀狩令没收了农民和僧侣的武器，巩固了武士与平民之间的阶级分离。",
+      "ja": "刀狩りは農民や僧侶から武器を没収し、武士と庶民の身分差を確固たるものにしました。",
+      "es": "La Caza de Espadas confiscó armas de agricultores y monjes, solidificando la separación de clases entre samuráis y plebeyos."
+    }
+  },
+  {
+    "id": "history_intermediate_017",
+    "q": {
+      "en": "Which decisive battle in 1600 led to Tokugawa Ieyasu's dominance over Japan?",
+      "zh": "1600年的哪场决定性战役使德川家康确立了对日本的统治？",
+      "ja": "1600年のどの決戦で徳川家康が日本の覇権を握りましたか？",
+      "es": "¿Qué batalla decisiva en 1600 llevó al dominio de Tokugawa Ieyasu sobre Japón?"
+    },
+    "c": [
+      {"en": "Battle of Sekigahara", "zh": "关原之战", "ja": "関ヶ原の戦い", "es": "Batalla de Sekigahara"},
+      {"en": "Battle of Nagashino", "zh": "长篠之战", "ja": "長篠の戦い", "es": "Batalla de Nagashino"},
+      {"en": "Siege of Osaka", "zh": "大阪之阵", "ja": "大阪の陣", "es": "Asedio de Osaka"},
+      {"en": "Battle of Kawanakajima", "zh": "川中岛之战", "ja": "川中島の戦い", "es": "Batalla de Kawanakajima"}
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "The Battle of Sekigahara involved approximately 170,000 warriors and is considered one of the largest battles in Japanese history.",
+      "zh": "关原之战约有17万名武士参战，被认为是日本历史上最大的战役之一。",
+      "ja": "関ヶ原の戦いには約17万の兵が参加し、日本史上最大級の合戦の一つとされています。",
+      "es": "La Batalla de Sekigahara involucró aproximadamente 170,000 guerreros y se considera una de las batallas más grandes de la historia japonesa."
+    }
+  },
+  {
+    "id": "history_intermediate_018",
+    "q": {
+      "en": "What system required daimyo to alternate their residence between their domains and Edo?",
+      "zh": "什么制度要求大名在自己的领地和江户之间交替居住？",
+      "ja": "大名が領地と江戸を交互に往復することを義務付けた制度は何ですか？",
+      "es": "¿Qué sistema requería que los daimyo alternaran su residencia entre sus dominios y Edo?"
+    },
+    "c": [
+      {"en": "Bakuhan system", "zh": "幕藩体制", "ja": "幕藩体制", "es": "Sistema bakuhan"},
+      {"en": "Sankin-kotai", "zh": "参勤交代", "ja": "参勤交代", "es": "Sankin-kotai"},
+      {"en": "Kokudaka system", "zh": "石高制", "ja": "石高制", "es": "Sistema kokudaka"},
+      {"en": "Metsuke system", "zh": "目付制度", "ja": "目付制度", "es": "Sistema metsuke"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Sankin-kotai drained daimyo finances through expensive processions and maintaining dual residences, preventing them from amassing enough wealth to challenge the shogunate.",
+      "zh": "参勤交代通过昂贵的行列和维持双重住所来消耗大名的财力，防止他们积累足够的财富来挑战幕府。",
+      "ja": "参勤交代は高額な行列費用と二重の住居維持費で大名の財力を消耗させ、幕府に挑戦できるほどの富を蓄えることを防ぎました。",
+      "es": "El sankin-kotai drenaba las finanzas de los daimyo mediante costosas procesiones y el mantenimiento de residencias duales, impidiéndoles acumular suficiente riqueza para desafiar al shogunato."
+    }
+  },
+  {
+    "id": "history_intermediate_019",
+    "q": {
+      "en": "During the Edo period, which was the only European country permitted to trade with Japan through the island of Dejima?",
+      "zh": "江户时代，哪个欧洲国家是唯一被允许通过出岛与日本进行贸易的？",
+      "ja": "江戸時代、出島を通じて日本との貿易を唯一許されたヨーロッパの国はどこですか？",
+      "es": "Durante el período Edo, ¿cuál fue el único país europeo al que se le permitió comerciar con Japón a través de la isla de Dejima?"
+    },
+    "c": [
+      {"en": "Portugal", "zh": "葡萄牙", "ja": "ポルトガル", "es": "Portugal"},
+      {"en": "Spain", "zh": "西班牙", "ja": "スペイン", "es": "España"},
+      {"en": "England", "zh": "英国", "ja": "イギリス", "es": "Inglaterra"},
+      {"en": "The Netherlands", "zh": "荷兰", "ja": "オランダ", "es": "Los Países Bajos"}
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "The Dutch were allowed to stay because they showed no interest in Christian missionary work, unlike the Portuguese and Spanish.",
+      "zh": "荷兰人被允许留下是因为他们对基督教传教活动不感兴趣，不像葡萄牙人和西班牙人。",
+      "ja": "オランダ人はポルトガル人やスペイン人と違い、キリスト教の布教活動に関心を示さなかったため、滞在を許されました。",
+      "es": "A los holandeses se les permitió quedarse porque no mostraron interés en el trabajo misionero cristiano, a diferencia de los portugueses y españoles."
+    }
+  },
+  {
+    "id": "history_intermediate_020",
+    "q": {
+      "en": "What was the Shimabara Rebellion of 1637-1638 primarily a revolt against?",
+      "zh": "1637-1638年的岛原之乱主要是反对什么的叛乱？",
+      "ja": "1637年〜1638年の島原の乱は主に何に対する反乱でしたか？",
+      "es": "¿Contra qué fue principalmente la Rebelión de Shimabara de 1637-1638?"
+    },
+    "c": [
+      {"en": "Foreign invasion", "zh": "外国入侵", "ja": "外国の侵略", "es": "Invasión extranjera"},
+      {"en": "Religious persecution and heavy taxation", "zh": "宗教迫害和重税", "ja": "宗教弾圧と重税", "es": "Persecución religiosa e impuestos excesivos"},
+      {"en": "Famine and natural disasters", "zh": "饥荒和自然灾害", "ja": "飢饉と自然災害", "es": "Hambruna y desastres naturales"},
+      {"en": "Samurai class disputes", "zh": "武士阶级纠纷", "ja": "武士階級の争い", "es": "Disputas de la clase samurái"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "The rebellion was led largely by persecuted Christian converts and overtaxed peasants. After its suppression, Japan virtually sealed its borders for over 200 years.",
+      "zh": "这次叛乱主要由受迫害的基督教皈依者和被重税压迫的农民领导。叛乱被镇压后，日本几乎封锁了国境长达200多年。",
+      "ja": "この反乱は主に迫害されたキリシタンと重税に苦しむ農民が中心でした。鎮圧後、日本は200年以上にわたり事実上の鎖国を行いました。",
+      "es": "La rebelión fue liderada en gran parte por conversos cristianos perseguidos y campesinos gravados con impuestos excesivos. Después de su represión, Japón prácticamente selló sus fronteras durante más de 200 años."
+    }
+  },
+  {
+    "id": "history_intermediate_021",
+    "q": {
+      "en": "Who was the American naval officer who forced Japan to open its ports in 1853?",
+      "zh": "1853年迫使日本开放港口的美国海军军官是谁？",
+      "ja": "1853年に日本に開国を迫ったアメリカ海軍の軍人は誰ですか？",
+      "es": "¿Quién fue el oficial naval estadounidense que obligó a Japón a abrir sus puertos en 1853?"
+    },
+    "c": [
+      {"en": "Admiral Dewey", "zh": "杜威海军上将", "ja": "デューイ提督", "es": "Almirante Dewey"},
+      {"en": "Commodore Perry", "zh": "佩里准将", "ja": "ペリー提督", "es": "Comodoro Perry"},
+      {"en": "Captain Cook", "zh": "库克船长", "ja": "キャプテン・クック", "es": "Capitán Cook"},
+      {"en": "Admiral Nelson", "zh": "纳尔逊海军上将", "ja": "ネルソン提督", "es": "Almirante Nelson"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Perry arrived with four warships — known as the 'Black Ships' — whose advanced technology shocked the Japanese and led to the Treaty of Kanagawa in 1854.",
+      "zh": "佩里率领四艘军舰——即“黑船”——其先进技术震惊了日本人，并促成了1854年的《神奈川条约》。",
+      "ja": "ペリーは4隻の軍艦——「黒船」として知られる——を率いて来航し、その先進技術は日本人を驚愕させ、1854年の日米和親条約締結につながりました。",
+      "es": "Perry llegó con cuatro buques de guerra — conocidos como los 'Barcos Negros' — cuya tecnología avanzada conmocionó a los japoneses y condujo al Tratado de Kanagawa en 1854."
+    }
+  },
+  {
+    "id": "history_intermediate_022",
+    "q": {
+      "en": "What phrase meaning 'revere the Emperor, expel the barbarians' became a rallying cry against foreign influence?",
+      "zh": "意为“尊皇攘夷”的哪句口号成为了反对外国势力的号召？",
+      "ja": "外国の影響に反対するスローガンとなった「天皇を尊び、夷狄を追い払え」という意味の言葉は何ですか？",
+      "es": "¿Qué frase que significa 'reverenciar al emperador, expulsar a los bárbaros' se convirtió en un grito de guerra contra la influencia extranjera?"
+    },
+    "c": [
+      {"en": "Tenka fubu", "zh": "天下布武", "ja": "天下布武", "es": "Tenka fubu"},
+      {"en": "Fukoku kyōhei", "zh": "富国强兵", "ja": "富国強兵", "es": "Fukoku kyōhei"},
+      {"en": "Sonnō jōi", "zh": "尊王攘夷", "ja": "尊王攘夷", "es": "Sonnō jōi"},
+      {"en": "Wakon yōsai", "zh": "和魂洋才", "ja": "和魂洋才", "es": "Wakon yōsai"}
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Ironically, many of the sonnō jōi advocates later became leaders of the Meiji government, which embraced Western modernization.",
+      "zh": "讽刺的是，许多尊王攘夷的倡导者后来成为了明治政府的领导人，而明治政府恰恰拥抱了西方现代化。",
+      "ja": "皮肉なことに、尊王攘夷の支持者の多くが後に西洋化を推進した明治政府の指導者となりました。",
+      "es": "Irónicamente, muchos de los defensores del sonnō jōi se convirtieron más tarde en líderes del gobierno Meiji, que abrazó la modernización occidental."
+    }
+  },
+  {
+    "id": "history_intermediate_023",
+    "q": {
+      "en": "Which domains formed the core alliance that overthrew the Tokugawa shogunate?",
+      "zh": "哪些藩组成了推翻德川幕府的核心联盟？",
+      "ja": "徳川幕府を倒す中核となった藩同盟はどれですか？",
+      "es": "¿Qué dominios formaron la alianza central que derrocó al shogunato Tokugawa?"
+    },
+    "c": [
+      {"en": "Satsuma and Choshu", "zh": "萨摩和长州", "ja": "薩摩と長州", "es": "Satsuma y Choshu"},
+      {"en": "Kaga and Owari", "zh": "加贺和尾张", "ja": "加賀と尾張", "es": "Kaga y Owari"},
+      {"en": "Mito and Aizu", "zh": "水户和会津", "ja": "水戸と会津", "es": "Mito y Aizu"},
+      {"en": "Sendai and Tosa", "zh": "仙台和土佐", "ja": "仙台と土佐", "es": "Sendai y Tosa"}
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Satsuma (modern Kagoshima) and Choshu (modern Yamaguchi) were former enemies who formed a secret alliance brokered by Sakamoto Ryoma.",
+      "zh": "萨摩（现�的鹿儿岛）和长州（现在的山口）原为宿敌，在坂本龙马的斡旋下结成了秘密联盟。",
+      "ja": "薩摩（現在の鹿児島）と長州（現在の山口）は元々敵対関係にありましたが、坂本龍馬の仲介で密約を結びました。",
+      "es": "Satsuma (actual Kagoshima) y Choshu (actual Yamaguchi) eran antiguos enemigos que formaron una alianza secreta mediada por Sakamoto Ryoma."
+    }
+  },
+  {
+    "id": "history_intermediate_024",
+    "q": {
+      "en": "In what year did the Meiji Restoration officially begin with the return of power to the emperor?",
+      "zh": "明治维新正式开始、权力归还天皇是在哪一年？",
+      "ja": "天皇に権力が返還され、明治維新が正式に始まったのは何年ですか？",
+      "es": "¿En qué año comenzó oficialmente la Restauración Meiji con la devolución del poder al emperador?"
+    },
+    "c": [
+      {"en": "1853", "zh": "1853年", "ja": "1853年", "es": "1853"},
+      {"en": "1868", "zh": "1868年", "ja": "1868年", "es": "1868"},
+      {"en": "1877", "zh": "1877年", "ja": "1877年", "es": "1877"},
+      {"en": "1889", "zh": "1889年", "ja": "1889年", "es": "1889"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "The Meiji Restoration transformed Japan from a feudal society into a modern industrial nation within just a few decades.",
+      "zh": "明治维新在短短几十年内将日本从封建社会转变为现代工业国家。",
+      "ja": "明治維新はわずか数十年で日本を封建社会から近代工業国家へと変貌させました。",
+      "es": "La Restauración Meiji transformó a Japón de una sociedad feudal a una nación industrial moderna en solo unas pocas décadas."
+    }
+  },
+  {
+    "id": "history_intermediate_025",
+    "q": {
+      "en": "What was the Boshin War (1868-1869)?",
+      "zh": "戊辰战争（1868-1869）是什么？",
+      "ja": "戊辰戦争（1868年〜1869年）とは何ですか？",
+      "es": "¿Qué fue la Guerra Boshin (1868-1869)?"
+    },
+    "c": [
+      {"en": "A war between Japan and China", "zh": "日本和中国之间的战争", "ja": "日本と中国の戦争", "es": "Una guerra entre Japón y China"},
+      {"en": "A civil war between the shogunate and imperial forces", "zh": "幕府军和天皇军之间的内战", "ja": "幕府軍と天皇軍の間の内戦", "es": "Una guerra civil entre las fuerzas del shogunato y las imperiales"},
+      {"en": "A peasant uprising", "zh": "农民起义", "ja": "農民蜂起", "es": "Un levantamiento campesino"},
+      {"en": "A war between Japan and Russia", "zh": "日本和俄罗斯之间的战争", "ja": "日本とロシアの戦争", "es": "Una guerra entre Japón y Rusia"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "The last shogun, Tokugawa Yoshinobu, surrendered Edo Castle without a major battle, largely thanks to negotiations led by Katsu Kaishu and Saigo Takamori.",
+      "zh": "最后一任将军德川庆喜在�的胜海舟和西乡隆盛的谈判下，几乎未经大战就交出了江户城。",
+      "ja": "最後の将軍・徳川慶喜は、勝海舟と西郷隆盛の交渉により、大きな戦闘なく江戸城を明け渡しました。",
+      "es": "El último shogun, Tokugawa Yoshinobu, entregó el Castillo de Edo sin una gran batalla, en gran parte gracias a las negociaciones lideradas por Katsu Kaishu y Saigo Takamori."
+    }
+  },
+  {
+    "id": "history_intermediate_026",
+    "q": {
+      "en": "What was the Satsuma Rebellion of 1877 led by?",
+      "zh": "1877年的西南战争由谁领导？",
+      "ja": "1877年の西南戦争を率いたのは誰ですか？",
+      "es": "¿Quién lideró la Rebelión de Satsuma de 1877?"
+    },
+    "c": [
+      {"en": "Okubo Toshimichi", "zh": "大久保利通", "ja": "大久保利通", "es": "Okubo Toshimichi"},
+      {"en": "Sakamoto Ryoma", "zh": "坂本龙马", "ja": "坂本龍馬", "es": "Sakamoto Ryoma"},
+      {"en": "Saigo Takamori", "zh": "西乡隆盛", "ja": "西郷隆盛", "es": "Saigo Takamori"},
+      {"en": "Ito Hirobumi", "zh": "伊藤博文", "ja": "伊藤博文", "es": "Ito Hirobumi"}
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Saigo Takamori is often called 'the last true samurai' and was the inspiration for the character in the film 'The Last Samurai.'",
+      "zh": "西乡隆盛常被称为“最后的真正武士”，是电影《最后的武士》中角色的灵感来源。",
+      "ja": "西郷隆盛は「最後の真のサムライ」と呼ばれることが多く、映画『ラストサムライ』の登場人物のモデルとなりました。",
+      "es": "Saigo Takamori es a menudo llamado 'el último verdadero samurái' y fue la inspiración para el personaje de la película 'El último samurái.'"
+    }
+  },
+  {
+    "id": "history_intermediate_027",
+    "q": {
+      "en": "What Meiji-era slogan promoted national wealth and military strength?",
+      "zh": "明治时代哪个口号推动了国家富强和军事力量？",
+      "ja": "明治時代に国の富と軍事力を推進したスローガンは何ですか？",
+      "es": "¿Qué eslogan de la era Meiji promovió la riqueza nacional y la fuerza militar?"
+    },
+    "c": [
+      {"en": "Sonnō jōi", "zh": "尊王攘夷", "ja": "尊王攘夷", "es": "Sonnō jōi"},
+      {"en": "Fukoku kyōhei", "zh": "富国强兵", "ja": "富国強兵", "es": "Fukoku kyōhei"},
+      {"en": "Bunmei kaika", "zh": "文明开化", "ja": "文明開化", "es": "Bunmei kaika"},
+      {"en": "Datsua nyūō", "zh": "脱亚入欧", "ja": "脱亜入欧", "es": "Datsua nyūō"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Fukoku kyōhei ('enrich the country, strengthen the military') drove Japan's rapid industrialization and the building of a modern army and navy.",
+      "zh": "“富国强兵”推动了日本的快速工业化以及现代化陆军和海军的建设。",
+      "ja": "「富国強兵」は日本の急速な工業化と近代的な陸海軍の建設を推進しました。",
+      "es": "Fukoku kyōhei ('enriquecer el país, fortalecer el ejército') impulsó la rápida industrialización de Japón y la construcción de un ejército y una armada modernos."
+    }
+  },
+  {
+    "id": "history_intermediate_028",
+    "q": {
+      "en": "Who drafted the Meiji Constitution of 1889?",
+      "zh": "谁起草了1889年的明治宪法？",
+      "ja": "1889年の明治憲法を起草したのは誰ですか？",
+      "es": "¿Quién redactó la Constitución Meiji de 1889?"
+    },
+    "c": [
+      {"en": "Saigo Takamori", "zh": "西乡隆盛", "ja": "西郷隆盛", "es": "Saigo Takamori"},
+      {"en": "Fukuzawa Yukichi", "zh": "福泽谕吉", "ja": "福澤諭吉", "es": "Fukuzawa Yukichi"},
+      {"en": "Ito Hirobumi", "zh": "伊藤博文", "ja": "伊藤博文", "es": "Ito Hirobumi"},
+      {"en": "Okuma Shigenobu", "zh": "大隈重信", "ja": "大隈重信", "es": "Okuma Shigenobu"}
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Ito Hirobumi studied European constitutions, particularly the Prussian model, before drafting the Meiji Constitution, which remained in effect until 1947.",
+      "zh": "伊藤博文在起草明治宪法前研究了欧洲宪法，特别是普鲁士模式，该宪法一直有效到1947年。",
+      "ja": "伊藤博文は明治憲法の起草前にヨーロッパの憲法、特にプロイセンのモデルを研究しました。この憲法は1947年まで効力を持ちました。",
+      "es": "Ito Hirobumi estudió las constituciones europeas, particularmente el modelo prusiano, antes de redactar la Constitución Meiji, que permaneció vigente hasta 1947."
+    }
+  },
+  {
+    "id": "history_intermediate_029",
+    "q": {
+      "en": "What treaty ended the First Sino-Japanese War in 1895?",
+      "zh": "1895年结束甲午战争的条约是什么？",
+      "ja": "1895年に日清戦争を終結させた条約は何ですか？",
+      "es": "¿Qué tratado puso fin a la Primera Guerra Sino-Japonesa en 1895?"
+    },
+    "c": [
+      {"en": "Treaty of Portsmouth", "zh": "朴茨茅斯条约", "ja": "ポーツマス条約", "es": "Tratado de Portsmouth"},
+      {"en": "Treaty of Kanagawa", "zh": "神奈川条约", "ja": "日米和親条約", "es": "Tratado de Kanagawa"},
+      {"en": "Treaty of Shimonoseki", "zh": "马关条约", "ja": "下関条約", "es": "Tratado de Shimonoseki"},
+      {"en": "Treaty of Versailles", "zh": "凡尔赛条约", "ja": "ヴェルサイユ条約", "es": "Tratado de Versalles"}
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "The Treaty of Shimonoseki gave Japan Taiwan and the Liaodong Peninsula, though the Triple Intervention by Russia, France, and Germany forced Japan to return Liaodong.",
+      "zh": "《马关条约》使日本获得了台湾和辽东半岛，但俄、法、德三国干涉迫使日本归还了辽东半岛。",
+      "ja": "下関条約で日本は台湾と遼東半島を獲得しましたが、露仏独の三国干渉により遼東半島の返還を余儀なくされました。",
+      "es": "El Tratado de Shimonoseki otorgó a Japón Taiwán y la Península de Liaodong, aunque la Triple Intervención de Rusia, Francia y Alemania obligó a Japón a devolver Liaodong."
+    }
+  },
+  {
+    "id": "history_intermediate_030",
+    "q": {
+      "en": "What was a major outcome of the Russo-Japanese War (1904-1905)?",
+      "zh": "日俄战争（1904-1905）的主要结果是什么？",
+      "ja": "日露戦争（1904年〜1905年）の主な結果は何でしたか？",
+      "es": "¿Cuál fue un resultado importante de la Guerra Ruso-Japonesa (1904-1905)?"
+    },
+    "c": [
+      {"en": "Japan lost Hokkaido to Russia", "zh": "日本将北海道割让给俄罗斯", "ja": "日本が北海道をロシアに割譲", "es": "Japón perdió Hokkaido ante Rusia"},
+      {"en": "Japan gained control of southern Sakhalin and influence over Korea", "zh": "日本获得了南萨哈林和对朝鲜的影响力", "ja": "日本が南樺太と朝鮮への影響力を獲得", "es": "Japón obtuvo el control del sur de Sajalín e influencia sobre Corea"},
+      {"en": "Russia colonized Manchuria permanently", "zh": "俄罗斯永久殖民满洲", "ja": "ロシアが満州を永久植民地化", "es": "Rusia colonizó Manchuria permanentemente"},
+      {"en": "Japan was forced to open its ports", "zh": "日本被迫开放港口", "ja": "日本が開国を強いられた", "es": "Japón fue obligado a abrir sus puertos"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Japan's victory was the first modern military victory of an Asian power over a European one, shocking the Western world and inspiring anti-colonial movements across Asia.",
+      "zh": "日本的胜利是亚洲国家首次在近代战争中击败欧洲国家，震惊了西方世界，并激励了亚洲各地的反殖民运动。",
+      "ja": "日本の勝利はアジアの国が近代戦でヨーロッパの国に初めて勝利した例であり、西洋世界を驚愕させ、アジア各地の反植民地運動を鼓舞しました。",
+      "es": "La victoria de Japón fue la primera victoria militar moderna de una potencia asiática sobre una europea, conmocionando al mundo occidental e inspirando movimientos anticoloniales en toda Asia."
+    }
+  },
+  {
+    "id": "history_intermediate_031",
+    "q": {
+      "en": "What event in 1923 caused massive destruction in Tokyo and Yokohama?",
+      "zh": "1923年什么事件给东京和横滨造成了巨大破坏？",
+      "ja": "1923年に東京と横浜に甚大な被害をもたらした出来事は何ですか？",
+      "es": "¿Qué evento en 1923 causó una destrucción masiva en Tokio y Yokohama?"
+    },
+    "c": [
+      {"en": "Firebombing raids", "zh": "燃烧弹轰炸", "ja": "焼夷弾空襲", "es": "Bombardeos incendiarios"},
+      {"en": "Great Kanto Earthquake", "zh": "关东大地震", "ja": "関東大震災", "es": "Gran Terremoto de Kanto"},
+      {"en": "Typhoon Vera", "zh": "伊势湾台风", "ja": "伊勢湾台風", "es": "Tifón Vera"},
+      {"en": "Eruption of Mt. Fuji", "zh": "富士山喷发", "ja": "富士山噴火", "es": "Erupción del Monte Fuji"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "The Great Kanto Earthquake killed over 100,000 people and led to a massive rebuilding effort that reshaped modern Tokyo.",
+      "zh": "关东大地震造成超过10万人死亡，引发了大规模重建工程，重塑了现代东京。",
+      "ja": "関東大震災は10万人以上の犠牲者を出し、大規模な復興事業が行われ、近代東京の姿が形作られました。",
+      "es": "El Gran Terremoto de Kanto mató a más de 100,000 personas y condujo a un esfuerzo masivo de reconstrucción que reformó el Tokio moderno."
+    }
+  },
+  {
+    "id": "history_intermediate_032",
+    "q": {
+      "en": "What was the Taisho Democracy period known for?",
+      "zh": "大正民主时期以什么闻名？",
+      "ja": "大正デモクラシーの時代は何で知られていますか？",
+      "es": "¿Por qué fue conocido el período de la Democracia Taisho?"
+    },
+    "c": [
+      {"en": "Military expansion and colonialism", "zh": "军事扩张和殖民主义", "ja": "軍事拡大と植民地主義", "es": "Expansión militar y colonialismo"},
+      {"en": "Growth of parliamentary democracy and liberal movements", "zh": "议会民主和自由运动的发展", "ja": "議会民主主義と自由主義運動の発展", "es": "Crecimiento de la democracia parlamentaria y movimientos liberales"},
+      {"en": "Complete isolation from the world", "zh": "与世界完全隔绝", "ja": "世界からの完全な孤立", "es": "Aislamiento completo del mundo"},
+      {"en": "Feudal restoration", "zh": "封建复辟", "ja": "封建制の復活", "es": "Restauración feudal"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "During Taisho Democracy, Japan saw the rise of political parties, labor movements, and universal male suffrage was achieved in 1925.",
+      "zh": "在大正民主时期，日本出现了政党政治和劳工运动的兴起，并于1925年实现了男性普选。",
+      "ja": "大正デモクラシーの時代には政党政治や労働運動が台頭し、1925年には男子普通選挙が実現しました。",
+      "es": "Durante la Democracia Taisho, Japón vio el surgimiento de partidos políticos, movimientos laborales, y se logró el sufragio universal masculino en 1925."
+    }
+  },
+  {
+    "id": "history_intermediate_033",
+    "q": {
+      "en": "What was the Manchurian Incident of 1931?",
+      "zh": "1931年的满洲事变是什么？",
+      "ja": "1931年の満州事変とは何ですか？",
+      "es": "¿Qué fue el Incidente de Manchuria de 1931?"
+    },
+    "c": [
+      {"en": "A natural disaster in Manchuria", "zh": "满洲的自然灾害", "ja": "満州での自然災害", "es": "Un desastre natural en Manchuria"},
+      {"en": "A staged explosion by the Japanese military used as a pretext to invade Manchuria", "zh": "日本军队策划的爆炸事件，作为入侵满洲的借口", "ja": "日本軍が満州侵攻の口実とした自作自演の爆破事件", "es": "Una explosión organizada por el ejército japonés usada como pretexto para invadir Manchuria"},
+      {"en": "A trade dispute between Japan and China", "zh": "日本和中国之间的贸易纠纷", "ja": "日本と中国の貿易紛争", "es": "Una disputa comercial entre Japón y China"},
+      {"en": "An assassination of a Chinese diplomat", "zh": "暗杀一名中国外交官", "ja": "中国外交官の暗殺", "es": "El asesinato de un diplomático chino"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Japanese officers secretly detonated dynamite near a Japanese-owned railway in Mukden and blamed Chinese dissidents, leading to the creation of the puppet state of Manchukuo.",
+      "zh": "日本军官秘密在奉天附近的日资铁路旁引爆炸药，嫁祸给中国异见人士，导致了傀儡国满洲国的建立。",
+      "ja": "日本軍の将校が密かに奉天近くの日本所有の鉄道付近でダイナマイトを爆発させ、中国人反体制派の仕業とし、傀儡国家・満州国の設立につながりました。",
+      "es": "Oficiales japoneses detonaron secretamente dinamita cerca de un ferrocarril de propiedad japonesa en Mukden y culparon a disidentes chinos, lo que llevó a la creación del estado títere de Manchukuo."
+    }
+  },
+  {
+    "id": "history_intermediate_034",
+    "q": {
+      "en": "Which Japanese prince served as prime minister and was later executed as a war criminal after World War II?",
+      "zh": "哪位日本将领担任过首相，二战后作为战犯被处决？",
+      "ja": "首相を務め、第二次世界大戦後に戦犯として処刑された日本の指導者は誰ですか？",
+      "es": "¿Qué líder japonés sirvió como primer ministro y luego fue ejecutado como criminal de guerra después de la Segunda Guerra Mundial?"
+    },
+    "c": [
+      {"en": "Yamamoto Isoroku", "zh": "山本五十六", "ja": "山本五十六", "es": "Yamamoto Isoroku"},
+      {"en": "Tojo Hideki", "zh": "东条英机", "ja": "東条英機", "es": "Tojo Hideki"},
+      {"en": "Hirohito", "zh": "裕仁", "ja": "裕仁", "es": "Hirohito"},
+      {"en": "Konoe Fumimaro", "zh": "近卫文麿", "ja": "近衛文麿", "es": "Konoe Fumimaro"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Tojo Hideki served as Prime Minister from 1941 to 1944 and was a driving force behind Japan's entry into World War II. He was executed in 1948 after the Tokyo Trials.",
+      "zh": "东条英机于1941年至1944年担任首相，是推动日本参加二战的主要力量。1948年东京审判后被处决。",
+      "ja": "東条英機は1941年から1944年まで首相を務め、日本の第二次世界大戦参戦の推進力となりました。1948年に東京裁判の後に処刑されました。",
+      "es": "Tojo Hideki sirvió como Primer Ministro de 1941 a 1944 y fue una fuerza impulsora detrás de la entrada de Japón en la Segunda Guerra Mundial. Fue ejecutado en 1948 después de los Juicios de Tokio."
+    }
+  },
+  {
+    "id": "history_intermediate_035",
+    "q": {
+      "en": "What was the significance of the attack on Pearl Harbor on December 7, 1941?",
+      "zh": "1941年12月7日袭击珍珠港的意义是什么？",
+      "ja": "1941年12月7日の真珠湾攻撃の意義は何でしたか？",
+      "es": "¿Cuál fue la importancia del ataque a Pearl Harbor el 7 de diciembre de 1941?"
+    },
+    "c": [
+      {"en": "It ended World War II", "zh": "它结束了二战", "ja": "第二次世界大戦を終結させた", "es": "Puso fin a la Segunda Guerra Mundial"},
+      {"en": "It brought the United States into World War II", "zh": "它使美国加入了二战", "ja": "アメリカを第二次世界大戦に参戦させた", "es": "Llevó a Estados Unidos a la Segunda Guerra Mundial"},
+      {"en": "It forced Japan to surrender", "zh": "它迫使日本投降", "ja": "日本を降伏に追い込んだ", "es": "Obligó a Japón a rendirse"},
+      {"en": "It established the United Nations", "zh": "它建立了联合国", "ja": "国際連合を設立した", "es": "Estableció las Naciones Unidas"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Admiral Yamamoto Isoroku, who planned the attack, reportedly warned that Japan had 'awakened a sleeping giant and filled him with a terrible resolve.'",
+      "zh": "策划此次袭击的山本五十六海军上将据说曾警告说日本“唤醒了一个沉睡的巨人，使他充满了可怕的决心”。",
+      "ja": "攻撃を計画した山本五十六海軍大将は「眠れる巨人を起こし、恐ろしい決意を抱かせてしまった」と語ったと伝えられています。",
+      "es": "El almirante Yamamoto Isoroku, quien planeó el ataque, supuestamente advirtió que Japón había 'despertado a un gigante dormido y lo había llenado de una terrible determinación.'"
+    }
+  },
+  {
+    "id": "history_intermediate_036",
+    "q": {
+      "en": "What was the name of Japan's postwar constitution, enacted in 1947?",
+      "zh": "1947年颁布的日本战后宪法叫什么？",
+      "ja": "1947年に施行された日本の戦後憲法の名前は何ですか？",
+      "es": "¿Cuál fue el nombre de la constitución de posguerra de Japón, promulgada en 1947?"
+    },
+    "c": [
+      {"en": "Meiji Constitution", "zh": "明治宪法", "ja": "明治憲法", "es": "Constitución Meiji"},
+      {"en": "Showa Constitution", "zh": "昭和宪法", "ja": "昭和憲法", "es": "Constitución Showa"},
+      {"en": "Constitution of Japan (Postwar Constitution)", "zh": "日本国宪法（战后宪法）", "ja": "日本国憲法（戦後憲法）", "es": "Constitución de Japón (Constitución de posguerra)"},
+      {"en": "Taisho Constitution", "zh": "大正宪法", "ja": "大正憲法", "es": "Constitución Taisho"}
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Article 9 of the Constitution of Japan famously renounces war and the maintenance of military forces, though Japan maintains Self-Defense Forces.",
+      "zh": "日本国宪法第九条以放弃战争和不维持军事力量而著名，尽管日本维持着自卫队。",
+      "ja": "日本国憲法第9条は戦争の放棄と戦力の不保持を定めたことで有名ですが、日本は自衛隊を保持しています。",
+      "es": "El Artículo 9 de la Constitución de Japón renuncia famosamente a la guerra y al mantenimiento de fuerzas militares, aunque Japón mantiene Fuerzas de Autodefensa."
+    }
+  },
+  {
+    "id": "history_intermediate_037",
+    "q": {
+      "en": "What term describes the rapid economic growth Japan experienced from the 1950s to the early 1970s?",
+      "zh": "描述日本从1950年代到1970年代初期快速经济增长的术语是什么？",
+      "ja": "1950年代から1970年代初頭にかけて日本が経験した急速な経済成長を何と呼びますか？",
+      "es": "¿Qué término describe el rápido crecimiento económico que experimentó Japón desde la década de 1950 hasta principios de la de 1970?"
+    },
+    "c": [
+      {"en": "Japanese Miracle", "zh": "日本奇迹", "ja": "日本の奇跡", "es": "Milagro japonés"},
+      {"en": "Asian Tiger Economy", "zh": "亚洲四小龙经济", "ja": "アジアの虎の経済", "es": "Economía del Tigre Asiático"},
+      {"en": "Bubble Economy", "zh": "泡沫经济", "ja": "バブル経済", "es": "Economía burbuja"},
+      {"en": "Zaibatsu Revival", "zh": "财阀复兴", "ja": "財閥復活", "es": "Renacimiento zaibatsu"}
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Japan's GDP grew at an average annual rate of nearly 10% during this period, transforming it from a war-devastated nation into the world's second-largest economy.",
+      "zh": "在此期间，日本的GDP年均增长率接近10%，使其从一个饱受战争摧残的国家转变为世界第二大经济体。",
+      "ja": "この期間、日本のGDPは年平均約10%の成長率を記録し、戦争で荒廃した国から世界第2位の経済大国へと変貌しました。",
+      "es": "El PIB de Japón creció a una tasa anual promedio de casi el 10% durante este período, transformándolo de una nación devastada por la guerra en la segunda economía más grande del mundo."
+    }
+  },
+  {
+    "id": "history_intermediate_038",
+    "q": {
+      "en": "What ancient chronicle, compiled in 712, is the oldest surviving historical record of Japan?",
+      "zh": "712年编纂的哪部古代编年史是日本现存最古老的历史记录？",
+      "ja": "712年に編纂された、日本最古の歴史書は何ですか？",
+      "es": "¿Qué crónica antigua, compilada en 712, es el registro histórico más antiguo que sobrevive de Japón?"
+    },
+    "c": [
+      {"en": "Nihon Shoki", "zh": "日本书纪", "ja": "日本書紀", "es": "Nihon Shoki"},
+      {"en": "Kojiki", "zh": "古事记", "ja": "古事記", "es": "Kojiki"},
+      {"en": "Man'yoshu", "zh": "万叶集", "ja": "万葉集", "es": "Man'yoshu"},
+      {"en": "Taiheiki", "zh": "太平记", "ja": "太平記", "es": "Taiheiki"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "The Kojiki ('Records of Ancient Matters') contains myths about the creation of Japan and the divine origins of the imperial family.",
+      "zh": "《古事记》（“古代事物的记录”）包含了关于日本创世和皇室神圣起源的神话。",
+      "ja": "『古事記』は日本の国土の創造と皇室の神聖な起源に関する神話を含んでいます。",
+      "es": "El Kojiki ('Registros de asuntos antiguos') contiene mitos sobre la creación de Japón y los orígenes divinos de la familia imperial."
+    }
+  },
+  {
+    "id": "history_intermediate_039",
+    "q": {
+      "en": "What reform in 645 CE centralized power under the emperor and reorganized the Japanese state?",
+      "zh": "公元645年的什么改革将权力集中到天皇手中并重组了日本国家？",
+      "ja": "645年に天皇のもとに権力を集中させ、国家を再編した改革は何ですか？",
+      "es": "¿Qué reforma en 645 d.C. centralizó el poder bajo el emperador y reorganizó el estado japonés?"
+    },
+    "c": [
+      {"en": "Kemmu Restoration", "zh": "建武新政", "ja": "建武の新政", "es": "Restauración Kemmu"},
+      {"en": "Taika Reform", "zh": "大化改新", "ja": "大化の改新", "es": "Reforma Taika"},
+      {"en": "Meiji Restoration", "zh": "明治维新", "ja": "明治維新", "es": "Restauración Meiji"},
+      {"en": "Kenmu Restoration", "zh": "建武中兴", "ja": "建武中興", "es": "Restauración Kenmu"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "The Taika Reform introduced a Chinese-style centralized government, land redistribution, and a new tax system modeled after the Tang Dynasty.",
+      "zh": "大化改新引入了中国式的中央集权政府、土地再分配和仿唐朝的新税制。",
+      "ja": "大化の改新は中国式の中央集権的な政府、土地の再分配、唐を模した新しい税制を導入しました。",
+      "es": "La Reforma Taika introdujo un gobierno centralizado al estilo chino, redistribución de tierras y un nuevo sistema tributario modelado según la dinastía Tang."
+    }
+  },
+  {
+    "id": "history_intermediate_040",
+    "q": {
+      "en": "What was the system of warrior-lord relationships called in feudal Japan?",
+      "zh": "日本封建时代的武士与领主之间的关系制度叫什么？",
+      "ja": "封建時代の日本における武士と主君の関係の制度は何と呼ばれますか？",
+      "es": "¿Cómo se llamaba el sistema de relaciones guerrero-señor en el Japón feudal?"
+    },
+    "c": [
+      {"en": "Gokenin system", "zh": "御家人制度", "ja": "御家人制度", "es": "Sistema gokenin"},
+      {"en": "Feudalism (Hoken seido)", "zh": "封建制度", "ja": "封建制度", "es": "Feudalismo (Hoken seido)"},
+      {"en": "Shoen system", "zh": "庄园制度", "ja": "荘園制度", "es": "Sistema shoen"},
+      {"en": "Ritsuryo system", "zh": "律令制度", "ja": "律令制度", "es": "Sistema ritsuryo"}
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Gokenin were direct vassals of the shogun who received land grants in exchange for military service, forming the backbone of the Kamakura shogunate's power structure.",
+      "zh": "御家人是将军的直属家臣，通过军事服务换取领地，构成了镰仓幕府权力结构的核心。",
+      "ja": "御家人は将軍の直属の家臣で、軍事奉公の見返りに所領を与えられ、鎌倉幕府の権力構造の中核を成しました。",
+      "es": "Los gokenin eran vasallos directos del shogun que recibían concesiones de tierra a cambio de servicio militar, formando la columna vertebral de la estructura de poder del shogunato de Kamakura."
+    }
+  },
+  {
+    "id": "history_intermediate_041",
+    "q": {
+      "en": "Which Buddhist sect, introduced by Eisai in the Kamakura period, emphasized meditation and appealed to the samurai class?",
+      "zh": "�的仓时代由荣西传入的哪个佛教宗派强调冥想并吸引了武士阶层？",
+      "ja": "鎌倉時代に栄西が伝えた、座禅を重視し武士階級に支持された仏教の宗派はどれですか？",
+      "es": "¿Qué secta budista, introducida por Eisai en el período Kamakura, enfatizaba la meditación y atraía a la clase samurái?"
+    },
+    "c": [
+      {"en": "Pure Land Buddhism", "zh": "净土宗", "ja": "浄土宗", "es": "Budismo de la Tierra Pura"},
+      {"en": "Nichiren Buddhism", "zh": "日莲宗", "ja": "日蓮宗", "es": "Budismo Nichiren"},
+      {"en": "Zen Buddhism (Rinzai)", "zh": "禅宗（临济宗）", "ja": "禅宗（臨済宗）", "es": "Budismo Zen (Rinzai)"},
+      {"en": "Shingon Buddhism", "zh": "真言宗", "ja": "真言宗", "es": "Budismo Shingon"}
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Zen Buddhism's emphasis on self-discipline, focus, and simplicity resonated deeply with the warrior ethos of the samurai.",
+      "zh": "禅宗对自律、专注和简朴的强调与武士的武德精神产生了深刻的共鸣。",
+      "ja": "禅宗の自己鍛錬、集中、質素を重んじる教えは、武士の精神と深く共鳴しました。",
+      "es": "El énfasis del budismo Zen en la autodisciplina, la concentración y la simplicidad resonó profundamente con el ethos guerrero de los samuráis."
+    }
+  },
+  {
+    "id": "history_intermediate_042",
+    "q": {
+      "en": "Who was the legendary female ruler mentioned in Chinese records as Queen of the Yamatai kingdom?",
+      "zh": "中国史书中记载的邪马台国女王是谁？",
+      "ja": "中国の史書に邪馬台国の女王として記された伝説的な女性統治者は誰ですか？",
+      "es": "¿Quién fue la legendaria gobernante femenina mencionada en los registros chinos como reina del reino de Yamatai?"
+    },
+    "c": [
+      {"en": "Empress Jingu", "zh": "神功皇后", "ja": "神功皇后", "es": "Emperatriz Jingu"},
+      {"en": "Himiko", "zh": "卑弥呼", "ja": "卑弥呼", "es": "Himiko"},
+      {"en": "Empress Suiko", "zh": "推古天皇", "ja": "推古天皇", "es": "Emperatriz Suiko"},
+      {"en": "Murasaki Shikibu", "zh": "紫式部", "ja": "紫式部", "es": "Murasaki Shikibu"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Himiko is described in the Chinese text 'Wei Zhi' (Records of Wei) as a shaman queen who ruled through spiritual authority in the 3rd century CE.",
+      "zh": "卑弥呼在中国史书《魏志》中被描述为公元3世纪通过灵力统治的巫女女王。",
+      "ja": "卑弥呼は中国の史書『魏志倭人伝』で、3世紀に霊的な権威で統治した巫女の女王として記されています。",
+      "es": "Himiko es descrita en el texto chino 'Wei Zhi' (Registros de Wei) como una reina chamana que gobernó a través de la autoridad espiritual en el siglo III d.C."
+    }
+  },
+  {
+    "id": "history_intermediate_043",
+    "q": {
+      "en": "What was the role of Prince Shotoku in early Japanese history?",
+      "zh": "圣德太子在日本早期历史中扮演了什么角色？",
+      "ja": "聖徳太子は日本の初期の歴史でどのような役割を果たしましたか？",
+      "es": "¿Cuál fue el papel del Príncipe Shotoku en la historia temprana de Japón?"
+    },
+    "c": [
+      {"en": "He established the first shogunate", "zh": "他建立了第一个幕府", "ja": "最初の幕府を開いた", "es": "Estableció el primer shogunato"},
+      {"en": "He promoted Buddhism and established a constitution based on Confucian and Buddhist principles", "zh": "他推广佛教并制定了基于儒家和佛教原则的宪法", "ja": "仏教を推進し、儒教と仏教の理念に基づく憲法を制定した", "es": "Promovió el budismo y estableció una constitución basada en principios confucianos y budistas"},
+      {"en": "He led the Mongol defense", "zh": "他领导了抵御蒙古入侵", "ja": "モンゴル防衛を指揮した", "es": "Lideró la defensa contra los mongoles"},
+      {"en": "He unified the warring states", "zh": "他统一了战国", "ja": "戦国を統一した", "es": "Unificó los estados en guerra"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Prince Shotoku's Seventeen-Article Constitution (604 CE) emphasized harmony, Buddhist virtues, and obedience to the emperor, laying philosophical foundations for the Japanese state.",
+      "zh": "圣德太子的十七条宪法（604年）强调和谐、佛教美德和对天皇的服从，为日本国家奠定了哲学基础。",
+      "ja": "聖徳太子の十七条憲法（604年）は和の精神、仏教の徳、天皇への従順を強調し、日本国家の哲学的基盤を築きました。",
+      "es": "La Constitución de Diecisiete Artículos del Príncipe Shotoku (604 d.C.) enfatizaba la armonía, las virtudes budistas y la obediencia al emperador, estableciendo los fundamentos filosóficos del estado japonés."
+    }
+  },
+  {
+    "id": "history_intermediate_044",
+    "q": {
+      "en": "What form of writing did Japanese court women develop during the Heian period?",
+      "zh": "平安时代的日本宫廷女性发展了什么书写形式？",
+      "ja": "平安時代に宮廷の女性が発展させた文字の形式は何ですか？",
+      "es": "¿Qué forma de escritura desarrollaron las mujeres de la corte japonesa durante el período Heian?"
+    },
+    "c": [
+      {"en": "Kanji", "zh": "汉字", "ja": "漢字", "es": "Kanji"},
+      {"en": "Katakana", "zh": "片假名", "ja": "カタカナ", "es": "Katakana"},
+      {"en": "Hiragana", "zh": "平假名", "ja": "ひらがな", "es": "Hiragana"},
+      {"en": "Romaji", "zh": "罗马字", "ja": "ローマ字", "es": "Romaji"}
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Hiragana was initially considered 'women's writing' (onnade) because court women used it for personal and literary works, while men officially used Chinese characters.",
+      "zh": "平假名最初被视为“女性文字”（女手），因为宫廷女性用它来创作个人和文学作品，而男性官方使用汉字。",
+      "ja": "ひらがなは当初「女手」と呼ばれ、宮廷の女性が個人的な文章や文学作品に使用し、男性は公式に漢字を使用していました。",
+      "es": "El hiragana fue inicialmente considerado 'escritura de mujeres' (onnade) porque las mujeres de la corte lo usaban para obras personales y literarias, mientras que los hombres usaban oficialmente caracteres chinos."
+    }
+  },
+  {
+    "id": "history_intermediate_045",
+    "q": {
+      "en": "What was the Nanboku-cho period (1336-1392)?",
+      "zh": "南北朝时代（1336-1392）是什么？",
+      "ja": "南北朝時代（1336年〜1392年）とは何ですか？",
+      "es": "¿Qué fue el período Nanboku-cho (1336-1392)?"
+    },
+    "c": [
+      {"en": "A period when two rival imperial courts existed simultaneously", "zh": "两个对立的皇室朝廷同时存在的时期", "ja": "二つの対立する朝廷が同時に存在した時代", "es": "Un período en el que dos cortes imperiales rivales existieron simultáneamente"},
+      {"en": "A period of complete peace and isolation", "zh": "完全和平与孤立的时期", "ja": "完全な平和と孤立の時代", "es": "Un período de paz completa y aislamiento"},
+      {"en": "A period of Mongol occupation", "zh": "蒙古占领时期", "ja": "モンゴル占領の時代", "es": "Un período de ocupación mongola"},
+      {"en": "A period when Japan was divided into north and south countries", "zh": "日本分为南北两国的时期", "ja": "日本が南北の国に分かれた時代", "es": "Un período en que Japón se dividió en países del norte y del sur"}
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Emperor Go-Daigo maintained a Southern Court in Yoshino while the Ashikaga-backed Northern Court remained in Kyoto, until unification in 1392.",
+      "zh": "后醍醐天皇在吉野维持南朝，而足利支持的北朝留在京都，直到1392年统一。",
+      "ja": "後醍醐天皇が吉野に南朝を置き、足利が支持する北朝が京都に残り、1392年の統一まで続きました。",
+      "es": "El emperador Go-Daigo mantuvo una Corte del Sur en Yoshino mientras la Corte del Norte respaldada por los Ashikaga permaneció en Kioto, hasta la unificación en 1392."
+    }
+  },
+  {
+    "id": "history_intermediate_046",
+    "q": {
+      "en": "What artistic tradition flourished under the patronage of Ashikaga Yoshimasa in the late Muromachi period?",
+      "zh": "室町时代后期在足利义政的赞助下繁荣的艺术传统是什么？",
+      "ja": "室町時代後期に足利義政の庇護のもとで栄えた芸術的伝統は何ですか？",
+      "es": "¿Qué tradición artística floreció bajo el patrocinio de Ashikaga Yoshimasa en el período Muromachi tardío?"
+    },
+    "c": [
+      {"en": "Kabuki theater", "zh": "歌舞伎", "ja": "歌舞伎", "es": "Teatro Kabuki"},
+      {"en": "Higashiyama culture (tea ceremony, flower arrangement, ink painting)", "zh": "东山文化（茶道、花道、水墨画）", "ja": "東山文化（茶道・華道・水墨画）", "es": "Cultura Higashiyama (ceremonia del té, arreglo floral, pintura a tinta)"},
+      {"en": "Ukiyo-e woodblock printing", "zh": "浮世绘木版画", "ja": "浮世絵版画", "es": "Impresión en madera ukiyo-e"},
+      {"en": "Bunraku puppet theater", "zh": "文乐人偶剧", "ja": "文楽人形浄瑠璃", "es": "Teatro de marionetas Bunraku"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Yoshimasa built the Ginkaku-ji (Silver Pavilion) as his retirement villa, which became a center of the refined Higashiyama culture emphasizing wabi-sabi aesthetics.",
+      "zh": "义政建造了银阁寺作为退休别墅，成为强调侘寂美学的精致东山文化的中心。",
+      "ja": "義政は隠居所として銀閣寺を建て、侘び寂びの美学を重んじる洗練された東山文化の中心となりました。",
+      "es": "Yoshimasa construyó el Ginkaku-ji (Pabellón de Plata) como su villa de retiro, que se convirtió en un centro de la refinada cultura Higashiyama que enfatizaba la estética wabi-sabi."
+    }
+  },
+  {
+    "id": "history_intermediate_047",
+    "q": {
+      "en": "Which Portuguese introduction in 1543 revolutionized Japanese warfare?",
+      "zh": "1543年葡萄牙人传入的什么东西革新了日本的战争方式？",
+      "ja": "1543年にポルトガル人がもたらし、日本の戦争を一変させたものは何ですか？",
+      "es": "¿Qué introducción portuguesa en 1543 revolucionó la guerra japonesa?"
+    },
+    "c": [
+      {"en": "Cannons", "zh": "大炮", "ja": "大砲", "es": "Cañones"},
+      {"en": "Firearms (tanegashima)", "zh": "火枪（种子岛铳）", "ja": "鉄砲（種子島銃）", "es": "Armas de fuego (tanegashima)"},
+      {"en": "Warships", "zh": "战舰", "ja": "軍艦", "es": "Buques de guerra"},
+      {"en": "Gunpowder", "zh": "火药", "ja": "火薬", "es": "Pólvora"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Portuguese traders shipwrecked on Tanegashima island introduced matchlock guns, and Japanese blacksmiths quickly learned to produce them in large quantities.",
+      "zh": "遭遇海难的葡萄牙商人在种子岛引入了火绳枪，日本铁匠很快学会了大量生产。",
+      "ja": "種子島に漂着したポルトガル商人が火縄銃を伝え、日本の鍛冶職人はすぐに大量生産する技術を習得しました。",
+      "es": "Los comerciantes portugueses que naufragaron en la isla de Tanegashima introdujeron las armas de mecha, y los herreros japoneses rápidamente aprendieron a producirlas en grandes cantidades."
+    }
+  },
+  {
+    "id": "history_intermediate_048",
+    "q": {
+      "en": "What was the four-tier social hierarchy system established during the Edo period?",
+      "zh": "江户时代建立的四级社会等级制度是什么？",
+      "ja": "江戸時代に確立された四つの身分制度は何ですか？",
+      "es": "¿Cuál fue el sistema de jerarquía social de cuatro niveles establecido durante el período Edo?"
+    },
+    "c": [
+      {"en": "Emperor, samurai, merchant, farmer", "zh": "天皇、武士、商人、农民", "ja": "天皇・武士・商人・農民", "es": "Emperador, samurái, mercader, agricultor"},
+      {"en": "Samurai, farmer, artisan, merchant (shi-no-ko-sho)", "zh": "武士、农民、工匠、商人（士农工商）", "ja": "武士・農民・職人・商人（士農工商）", "es": "Samurái, agricultor, artesano, mercader (shi-no-ko-sho)"},
+      {"en": "Noble, priest, warrior, peasant", "zh": "贵族、僧侣、武士、农民", "ja": "貴族・僧侶・武士・農民", "es": "Noble, sacerdote, guerrero, campesino"},
+      {"en": "Shogun, daimyo, samurai, commoner", "zh": "将军、大名、武士、平民", "ja": "将軍・大名・武士・庶民", "es": "Shogun, daimyo, samurái, plebeyo"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Ironically, merchants were at the bottom of the hierarchy despite many becoming wealthier than the samurai, who were often financially struggling during the later Edo period.",
+      "zh": "讽刺的是，商人虽然位于等级制度的最底层，但许多人比武士更富有，而武士在江户时代后期往往经济困难。",
+      "ja": "皮肉なことに、商人は身分制度の最下層でしたが、多くは江戸後期に経済的に困窮していた武士より裕福でした。",
+      "es": "Irónicamente, los comerciantes estaban en la parte inferior de la jerarquía a pesar de que muchos se volvieron más ricos que los samuráis, que a menudo tenían dificultades financieras durante el período Edo tardío."
+    }
+  },
+  {
+    "id": "history_intermediate_049",
+    "q": {
+      "en": "Who was the famous swordsman and author of 'The Book of Five Rings'?",
+      "zh": "著名剑客和《五轮书》的作者是谁？",
+      "ja": "有名な剣豪で『五輪書』の著者は誰ですか？",
+      "es": "¿Quién fue el famoso espadachín y autor de 'El Libro de los Cinco Anillos'?"
+    },
+    "c": [
+      {"en": "Yagyu Munenori", "zh": "柳生宗矩", "ja": "柳生宗矩", "es": "Yagyu Munenori"},
+      {"en": "Sasaki Kojiro", "zh": "佐佐木小次郎", "ja": "佐々木小次郎", "es": "Sasaki Kojiro"},
+      {"en": "Miyamoto Musashi", "zh": "宫本武藏", "ja": "宮本武蔵", "es": "Miyamoto Musashi"},
+      {"en": "Tsukahara Bokuden", "zh": "冢原卜传", "ja": "塚原卜伝", "es": "Tsukahara Bokuden"}
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Musashi reportedly fought over 60 duels without losing and developed the two-sword fighting technique called Niten Ichi-ryu.",
+      "zh": "据说武藏经历了60多场决斗从未失败，并开创了名为二天一流的双刀战斗技法。",
+      "ja": "武蔵は60回以上の決闘で無敗を誇り、二天一流と呼ばれる二刀流の剣術を開発しました。",
+      "es": "Según se informa, Musashi luchó en más de 60 duelos sin perder y desarrolló la técnica de lucha con dos espadas llamada Niten Ichi-ryu."
+    }
+  },
+  {
+    "id": "history_intermediate_050",
+    "q": {
+      "en": "What was the Genroku era (1688-1704) of the Edo period known for?",
+      "zh": "江户时代的元禄时期（1688-1704）以什么闻名？",
+      "ja": "江戸時代の元禄時代（1688年〜1704年）は何で知られていますか？",
+      "es": "¿Por qué fue conocida la era Genroku (1688-1704) del período Edo?"
+    },
+    "c": [
+      {"en": "Military conquests abroad", "zh": "海外军事征服", "ja": "海外への軍事征服", "es": "Conquistas militares en el extranjero"},
+      {"en": "A golden age of arts, culture, and townspeople's (chonin) entertainment", "zh": "艺术、文化和町人娱乐的黄金时代", "ja": "芸術・文化・町人の娯楽の黄金時代", "es": "Una edad de oro de las artes, la cultura y el entretenimiento de los ciudadanos (chonin)"},
+      {"en": "Severe famine and population decline", "zh": "严重的饥荒和人口下降", "ja": "深刻な飢饉と人口減少", "es": "Hambruna severa y declive poblacional"},
+      {"en": "Opening of Japan to foreign trade", "zh": "日本对外贸易的开放", "ja": "日本の対外貿易の開放", "es": "Apertura de Japón al comercio exterior"}
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "The Genroku era saw the flourishing of kabuki theater, haiku poetry by Matsuo Basho, and ukiyo-e art, all driven by the wealthy merchant class.",
+      "zh": "元禄时代见证了歌舞伎、松尾芭蕉的俳句和浮世绘艺术的繁荣，这些都由富裕的商人阶层推动。",
+      "ja": "元禄時代には歌舞伎、松尾芭蕉の俳句、浮世絵が栄え、いずれも裕福な商人階級によって支えられました。",
+      "es": "La era Genroku vio el florecimiento del teatro kabuki, la poesía haiku de Matsuo Basho y el arte ukiyo-e, todo impulsado por la rica clase mercantil."
+    }
+  }
+]

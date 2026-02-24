@@ -1,0 +1,4202 @@
+[
+  {
+    "id": "current_beginner_001",
+    "q": {
+      "en": "What is the capital city of Japan?",
+      "zh": "日本的首都是哪里？",
+      "ja": "日本の首都はどこですか？",
+      "es": "Cual es la capital de Japon?"
+    },
+    "c": [
+      {
+        "en": "Tokyo",
+        "zh": "东京",
+        "ja": "東京",
+        "es": "Tokio"
+      },
+      {
+        "en": "Osaka",
+        "zh": "大阪",
+        "ja": "大阪",
+        "es": "Osaka"
+      },
+      {
+        "en": "Kyoto",
+        "zh": "京都",
+        "ja": "京都",
+        "es": "Kioto"
+      },
+      {
+        "en": "Nagoya",
+        "zh": "名古屋",
+        "ja": "名古屋",
+        "es": "Nagoya"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Tokyo became the capital in 1868 when Emperor Meiji moved the imperial court from Kyoto.",
+      "zh": "东京在1868年明治天皇将皇宫从京都迁至此地时成为首都。",
+      "ja": "東京は1868年に明治天皇が京都から皇居を移した際に首都となりました。",
+      "es": "Tokio se convirtio en la capital en 1868 cuando el emperador Meiji traslado la corte imperial desde Kioto."
+    }
+  },
+  {
+    "id": "current_beginner_002",
+    "q": {
+      "en": "What is the approximate population of Japan?",
+      "zh": "日本的大约人口是多少？",
+      "ja": "日本のおおよその人口は？",
+      "es": "Cual es la poblacion aproximada de Japon?"
+    },
+    "c": [
+      {
+        "en": "About 125 million",
+        "zh": "约1.25亿",
+        "ja": "約1億2500万人",
+        "es": "Aproximadamente 125 millones"
+      },
+      {
+        "en": "About 200 million",
+        "zh": "约2亿",
+        "ja": "約2億人",
+        "es": "Aproximadamente 200 millones"
+      },
+      {
+        "en": "About 80 million",
+        "zh": "约8000万",
+        "ja": "約8000万人",
+        "es": "Aproximadamente 80 millones"
+      },
+      {
+        "en": "About 50 million",
+        "zh": "约5000万",
+        "ja": "約5000万人",
+        "es": "Aproximadamente 50 millones"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Japan has the 11th largest population in the world, though it has been gradually declining since 2010.",
+      "zh": "日本是世界第11大人口国，但自2010年以来人口一直在逐渐减少。",
+      "ja": "日本は世界第11位の人口を有していますが、2010年以降徐々に減少しています。",
+      "es": "Japon tiene la 11a poblacion mas grande del mundo, aunque ha disminuido gradualmente desde 2010."
+    }
+  },
+  {
+    "id": "current_beginner_003",
+    "q": {
+      "en": "What is the currency of Japan?",
+      "zh": "日本的货币是什么？",
+      "ja": "日本の通貨は何ですか？",
+      "es": "Cual es la moneda de Japon?"
+    },
+    "c": [
+      {
+        "en": "Won",
+        "zh": "韩元",
+        "ja": "ウォン",
+        "es": "Won"
+      },
+      {
+        "en": "Yuan",
+        "zh": "人民币",
+        "ja": "人民元",
+        "es": "Yuan"
+      },
+      {
+        "en": "Yen",
+        "zh": "日元",
+        "ja": "円",
+        "es": "Yen"
+      },
+      {
+        "en": "Ringgit",
+        "zh": "林吉特",
+        "ja": "リンギット",
+        "es": "Ringgit"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "The yen symbol is a circle with a line, reflecting its name which means round or circle in Japanese.",
+      "zh": "日元符号是一个带横线的圆，反映了其名称在日语中意为圆形。",
+      "ja": "円という名前は丸い形を意味し、硬貨の形状に由来しています。",
+      "es": "El simbolo del yen es un circulo con una linea, reflejando su nombre que significa redondo o circulo en japones."
+    }
+  },
+  {
+    "id": "current_beginner_004",
+    "q": {
+      "en": "How many prefectures does Japan have?",
+      "zh": "日本有多少个都道府县？",
+      "ja": "日本には都道府県がいくつありますか？",
+      "es": "Cuantas prefecturas tiene Japon?"
+    },
+    "c": [
+      {
+        "en": "50",
+        "zh": "50个",
+        "ja": "50",
+        "es": "50"
+      },
+      {
+        "en": "47",
+        "zh": "47个",
+        "ja": "47",
+        "es": "47"
+      },
+      {
+        "en": "36",
+        "zh": "36个",
+        "ja": "36",
+        "es": "36"
+      },
+      {
+        "en": "42",
+        "zh": "42个",
+        "ja": "42",
+        "es": "42"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Japan has 1 capital district (Tokyo-to), 1 circuit (Hokkaido), 2 urban prefectures (Osaka-fu and Kyoto-fu), and 43 regular prefectures (ken).",
+      "zh": "日本有1个都（东京都）、1个道（北海道）、2个府（大阪府和京都府）和43个县。",
+      "ja": "日本には1都（東京都）、1道（北海道）、2府（大阪府・京都府）、43県があります。",
+      "es": "Japon tiene 1 distrito capital (Tokyo-to), 1 circuito (Hokkaido), 2 prefecturas urbanas (Osaka-fu y Kyoto-fu) y 43 prefecturas regulares (ken)."
+    }
+  },
+  {
+    "id": "current_beginner_005",
+    "q": {
+      "en": "Which are the four main islands of Japan?",
+      "zh": "日本的四个主要岛屿是哪些？",
+      "ja": "日本の四つの主要な島はどれですか？",
+      "es": "Cuales son las cuatro islas principales de Japon?"
+    },
+    "c": [
+      {
+        "en": "Honshu, Hokkaido, Kyushu, Shikoku",
+        "zh": "本州、北海道、九州、四国",
+        "ja": "本州、北海道、九州、四国",
+        "es": "Honshu, Hokkaido, Kyushu, Shikoku"
+      },
+      {
+        "en": "Honshu, Okinawa, Kyushu, Shikoku",
+        "zh": "本州、冲绳、九州、四国",
+        "ja": "本州、沖縄、九州、四国",
+        "es": "Honshu, Okinawa, Kyushu, Shikoku"
+      },
+      {
+        "en": "Hokkaido, Okinawa, Kyushu, Shikoku",
+        "zh": "北海道、冲绳、九州、四国",
+        "ja": "北海道、沖縄、九州、四国",
+        "es": "Hokkaido, Okinawa, Kyushu, Shikoku"
+      },
+      {
+        "en": "Honshu, Hokkaido, Okinawa, Kyushu",
+        "zh": "本州、北海道、冲绳、九州",
+        "ja": "本州、北海道、沖縄、九州",
+        "es": "Honshu, Hokkaido, Okinawa, Kyushu"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Honshu is the largest and most populated island, home to Tokyo, Osaka, and Kyoto.",
+      "zh": "本州是最大且人口最多的岛屿，东京、大阪和京都都在这里。",
+      "ja": "本州は最大かつ最も人口の多い島で、東京、大阪、京都があります。",
+      "es": "Honshu es la isla mas grande y poblada, hogar de Tokio, Osaka y Kioto."
+    }
+  },
+  {
+    "id": "current_beginner_006",
+    "q": {
+      "en": "What is the Japanese national flag called?",
+      "zh": "日本国旗叫什么？",
+      "ja": "日本の国旗の通称は何ですか？",
+      "es": "Como se llama la bandera nacional japonesa?"
+    },
+    "c": [
+      {
+        "en": "Rising Sun",
+        "zh": "旭日旗",
+        "ja": "旭日旗",
+        "es": "Sol Naciente"
+      },
+      {
+        "en": "Hinomaru",
+        "zh": "日之丸",
+        "ja": "日の丸",
+        "es": "Hinomaru"
+      },
+      {
+        "en": "Sakura",
+        "zh": "樱花",
+        "ja": "桜",
+        "es": "Sakura"
+      },
+      {
+        "en": "Kiku",
+        "zh": "菊花",
+        "ja": "菊",
+        "es": "Kiku"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Hinomaru means circle of the sun. The red circle on the white background represents the rising sun.",
+      "zh": "日之丸意为太阳之圆。白底上的红色圆圈代表升起的太阳。",
+      "ja": "日の丸は太陽の円を意味します。白地に赤い丸は昇る太陽を表しています。",
+      "es": "Hinomaru significa circulo del sol. El circulo rojo sobre fondo blanco representa el sol naciente."
+    }
+  },
+  {
+    "id": "current_beginner_007",
+    "q": {
+      "en": "What is the national anthem of Japan called?",
+      "zh": "日本的国歌叫什么？",
+      "ja": "日本の国歌は何ですか？",
+      "es": "Como se llama el himno nacional de Japon?"
+    },
+    "c": [
+      {
+        "en": "Sakura Sakura",
+        "zh": "樱花",
+        "ja": "さくらさくら",
+        "es": "Sakura Sakura"
+      },
+      {
+        "en": "Kimigayo",
+        "zh": "君之代",
+        "ja": "君が代",
+        "es": "Kimigayo"
+      },
+      {
+        "en": "Umi Yukaba",
+        "zh": "海行",
+        "ja": "海ゆかば",
+        "es": "Umi Yukaba"
+      },
+      {
+        "en": "Furusato",
+        "zh": "故乡",
+        "ja": "ふるさと",
+        "es": "Furusato"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Kimigayo is one of the shortest national anthems in the world, with lyrics dating back over 1000 years.",
+      "zh": "君之代是世界上最短的国歌之一，歌词可追溯到1000多年前。",
+      "ja": "君が代は世界で最も短い国歌の一つで、歌詞は1000年以上前に遡ります。",
+      "es": "Kimigayo es uno de los himnos nacionales mas cortos del mundo, con letras que datan de hace mas de 1000 anos."
+    }
+  },
+  {
+    "id": "current_beginner_008",
+    "q": {
+      "en": "Who is the current Emperor of Japan?",
+      "zh": "日本现任天皇是谁？",
+      "ja": "現在の天皇陛下はどなたですか？",
+      "es": "Quien es el actual Emperador de Japon?"
+    },
+    "c": [
+      {
+        "en": "Emperor Akihito",
+        "zh": "明仁天皇",
+        "ja": "明仁天皇",
+        "es": "Emperador Akihito"
+      },
+      {
+        "en": "Emperor Hirohito",
+        "zh": "裕仁天皇",
+        "ja": "裕仁天皇",
+        "es": "Emperador Hirohito"
+      },
+      {
+        "en": "Emperor Naruhito",
+        "zh": "德仁天皇",
+        "ja": "徳仁天皇",
+        "es": "Emperador Naruhito"
+      },
+      {
+        "en": "Emperor Taisho",
+        "zh": "大正天皇",
+        "ja": "大正天皇",
+        "es": "Emperador Taisho"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Emperor Naruhito ascended the throne on May 1, 2019, beginning the Reiwa era.",
+      "zh": "德仁天皇于2019年5月1日即位，开启了令和时代。",
+      "ja": "徳仁天皇は2019年5月1日に即位し、令和の時代が始まりました。",
+      "es": "El emperador Naruhito ascendio al trono el 1 de mayo de 2019, iniciando la era Reiwa."
+    }
+  },
+  {
+    "id": "current_beginner_009",
+    "q": {
+      "en": "What is the name of the current Japanese era that began in 2019?",
+      "zh": "2019年开始的日本年号叫什么？",
+      "ja": "2019年に始まった現在の元号は何ですか？",
+      "es": "Como se llama la era japonesa actual que comenzo en 2019?"
+    },
+    "c": [
+      {
+        "en": "Showa",
+        "zh": "昭和",
+        "ja": "昭和",
+        "es": "Showa"
+      },
+      {
+        "en": "Heisei",
+        "zh": "平成",
+        "ja": "平成",
+        "es": "Heisei"
+      },
+      {
+        "en": "Reiwa",
+        "zh": "令和",
+        "ja": "令和",
+        "es": "Reiwa"
+      },
+      {
+        "en": "Taisho",
+        "zh": "大正",
+        "ja": "大正",
+        "es": "Taisho"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Reiwa can be translated as beautiful harmony. It was taken from the ancient Japanese poetry collection Manyoshu.",
+      "zh": "令和可以翻译为美丽的和谐，取自古代日本诗集万叶集。",
+      "ja": "令和は美しい調和と訳すことができ、古代日本の詩集である万葉集から取られました。",
+      "es": "Reiwa puede traducirse como bella armonia. Fue tomado de la antigua coleccion de poesia japonesa Manyoshu."
+    }
+  },
+  {
+    "id": "current_beginner_010",
+    "q": {
+      "en": "What flower is considered the unofficial national symbol of Japan?",
+      "zh": "什么花被视为日本非官方的国家象征？",
+      "ja": "日本の非公式な国の象徴とされる花は何ですか？",
+      "es": "Que flor se considera el simbolo nacional no oficial de Japon?"
+    },
+    "c": [
+      {
+        "en": "Lotus",
+        "zh": "莲花",
+        "ja": "蓮",
+        "es": "Loto"
+      },
+      {
+        "en": "Chrysanthemum",
+        "zh": "菊花",
+        "ja": "菊",
+        "es": "Crisantemo"
+      },
+      {
+        "en": "Cherry blossom",
+        "zh": "樱花",
+        "ja": "桜",
+        "es": "Flor de cerezo"
+      },
+      {
+        "en": "Plum blossom",
+        "zh": "梅花",
+        "ja": "梅",
+        "es": "Flor de ciruelo"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Cherry blossom season (hanami) draws millions of visitors each spring, typically peaking from late March to mid-April.",
+      "zh": "樱花季（花见）每年春天吸引数百万游客，通常在三月下旬到四月中旬达到高峰。",
+      "ja": "桜の季節（花見）は毎年春に何百万人もの人々を引きつけ、通常3月下旬から4月中旬に見頃を迎えます。",
+      "es": "La temporada de cerezos en flor (hanami) atrae a millones de visitantes cada primavera, alcanzando su pico de finales de marzo a mediados de abril."
+    }
+  },
+  {
+    "id": "current_beginner_011",
+    "q": {
+      "en": "What flower appears on the Imperial Seal of Japan?",
+      "zh": "日本皇室纹章上是什么花？",
+      "ja": "日本の皇室の紋章に使われている花は何ですか？",
+      "es": "Que flor aparece en el Sello Imperial de Japon?"
+    },
+    "c": [
+      {
+        "en": "Cherry blossom",
+        "zh": "樱花",
+        "ja": "桜",
+        "es": "Flor de cerezo"
+      },
+      {
+        "en": "Chrysanthemum",
+        "zh": "菊花",
+        "ja": "菊",
+        "es": "Crisantemo"
+      },
+      {
+        "en": "Rose",
+        "zh": "玫瑰",
+        "ja": "バラ",
+        "es": "Rosa"
+      },
+      {
+        "en": "Lily",
+        "zh": "百合",
+        "ja": "百合",
+        "es": "Lirio"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "The 16-petal chrysanthemum has been the symbol of the Japanese Imperial family for centuries.",
+      "zh": "16瓣菊花数百年来一直是日本皇室的象征。",
+      "ja": "16弁の菊花紋は何世紀にもわたり日本の皇室の象徴です。",
+      "es": "El crisantemo de 16 petalos ha sido el simbolo de la familia imperial japonesa durante siglos."
+    }
+  },
+  {
+    "id": "current_beginner_012",
+    "q": {
+      "en": "Which side of the road do people drive on in Japan?",
+      "zh": "日本人在道路的哪一侧行驶？",
+      "ja": "日本では道路のどちら側を走りますか？",
+      "es": "En que lado de la carretera se conduce en Japon?"
+    },
+    "c": [
+      {
+        "en": "Right side",
+        "zh": "右侧",
+        "ja": "右側",
+        "es": "Lado derecho"
+      },
+      {
+        "en": "Left side",
+        "zh": "左侧",
+        "ja": "左側",
+        "es": "Lado izquierdo"
+      },
+      {
+        "en": "It varies by region",
+        "zh": "因地区而异",
+        "ja": "地域によって異なる",
+        "es": "Varia segun la region"
+      },
+      {
+        "en": "Center",
+        "zh": "中间",
+        "ja": "中央",
+        "es": "Centro"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Japan drives on the left side, similar to the UK and Australia. This tradition dates back to the samurai era.",
+      "zh": "日本靠左行驶，与英国和澳大利亚相同。这个传统可以追溯到武士时代。",
+      "ja": "日本は左側通行で、イギリスやオーストラリアと同じです。この伝統は武士の時代に遡ります。",
+      "es": "Japon conduce por el lado izquierdo, similar al Reino Unido y Australia. Esta tradicion se remonta a la era samurai."
+    }
+  },
+  {
+    "id": "current_beginner_013",
+    "q": {
+      "en": "What time zone is Japan in?",
+      "zh": "日本在哪个时区？",
+      "ja": "日本はどの時間帯ですか？",
+      "es": "En que zona horaria esta Japon?"
+    },
+    "c": [
+      {
+        "en": "UTC+8",
+        "zh": "UTC+8",
+        "ja": "UTC+8",
+        "es": "UTC+8"
+      },
+      {
+        "en": "UTC+9",
+        "zh": "UTC+9",
+        "ja": "UTC+9",
+        "es": "UTC+9"
+      },
+      {
+        "en": "UTC+10",
+        "zh": "UTC+10",
+        "ja": "UTC+10",
+        "es": "UTC+10"
+      },
+      {
+        "en": "UTC+7",
+        "zh": "UTC+7",
+        "ja": "UTC+7",
+        "es": "UTC+7"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Japan uses Japan Standard Time (JST), which is UTC+9, and does not observe daylight saving time.",
+      "zh": "日本使用日本标准时间（JST），即UTC+9，不实行夏令时。",
+      "ja": "日本は日本標準時（JST）を使用しており、UTC+9です。サマータイムは実施していません。",
+      "es": "Japon usa la Hora Estandar de Japon (JST), que es UTC+9, y no observa el horario de verano."
+    }
+  },
+  {
+    "id": "current_beginner_014",
+    "q": {
+      "en": "Does Japan use daylight saving time?",
+      "zh": "日本使用夏令时吗？",
+      "ja": "日本はサマータイムを実施していますか？",
+      "es": "Japon usa el horario de verano?"
+    },
+    "c": [
+      {
+        "en": "Yes, in summer months",
+        "zh": "是的，在夏季",
+        "ja": "はい、夏の間",
+        "es": "Si, en los meses de verano"
+      },
+      {
+        "en": "Only in Hokkaido",
+        "zh": "仅在北海道",
+        "ja": "北海道のみ",
+        "es": "Solo en Hokkaido"
+      },
+      {
+        "en": "No, Japan does not use daylight saving time",
+        "zh": "不，日本不使用夏令时",
+        "ja": "いいえ、日本はサマータイムを実施していません",
+        "es": "No, Japon no usa el horario de verano"
+      },
+      {
+        "en": "Only in Okinawa",
+        "zh": "仅在冲绳",
+        "ja": "沖縄のみ",
+        "es": "Solo en Okinawa"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Japan briefly used daylight saving time during the Allied occupation (1948-1951) but abandoned it due to public opposition.",
+      "zh": "日本在盟军占领时期（1948-1951）曾短暂使用夏令时，但因公众反对而放弃。",
+      "ja": "日本は連合国占領期（1948-1951年）に一時的にサマータイムを導入しましたが、国民の反対により廃止しました。",
+      "es": "Japon uso brevemente el horario de verano durante la ocupacion aliada (1948-1951) pero lo abandono por oposicion publica."
+    }
+  },
+  {
+    "id": "current_beginner_015",
+    "q": {
+      "en": "What is the highest mountain in Japan?",
+      "zh": "日本最高的山是什么？",
+      "ja": "日本で一番高い山は何ですか？",
+      "es": "Cual es la montana mas alta de Japon?"
+    },
+    "c": [
+      {
+        "en": "Mt. Kita",
+        "zh": "北岳",
+        "ja": "北岳",
+        "es": "Monte Kita"
+      },
+      {
+        "en": "Mt. Fuji",
+        "zh": "富士山",
+        "ja": "富士山",
+        "es": "Monte Fuji"
+      },
+      {
+        "en": "Mt. Hotaka",
+        "zh": "�的高岳",
+        "ja": "穂高岳",
+        "es": "Monte Hotaka"
+      },
+      {
+        "en": "Mt. Aso",
+        "zh": "阿苏山",
+        "ja": "阿蘇山",
+        "es": "Monte Aso"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Mt. Fuji stands at 3,776 meters and is an active volcano. It was designated a UNESCO World Heritage Site in 2013.",
+      "zh": "富士山海拔3776米，是一座活火山。2013年被列为联合国教科文组织世界遗产。",
+      "ja": "富士山は標高3,776メートルで、活火山です。2013年にユネスコ世界文化遺産に登録されました。",
+      "es": "El Monte Fuji tiene 3,776 metros de altura y es un volcan activo. Fue designado Patrimonio de la Humanidad por la UNESCO en 2013."
+    }
+  },
+  {
+    "id": "current_beginner_016",
+    "q": {
+      "en": "What is the largest city in Japan by population?",
+      "zh": "日本人口最多的城市是哪个？",
+      "ja": "日本で最も人口が多い都市はどこですか？",
+      "es": "Cual es la ciudad mas grande de Japon por poblacion?"
+    },
+    "c": [
+      {
+        "en": "Osaka",
+        "zh": "大阪",
+        "ja": "大阪",
+        "es": "Osaka"
+      },
+      {
+        "en": "Yokohama",
+        "zh": "横滨",
+        "ja": "横浜",
+        "es": "Yokohama"
+      },
+      {
+        "en": "Tokyo",
+        "zh": "东京",
+        "ja": "東京",
+        "es": "Tokio"
+      },
+      {
+        "en": "Nagoya",
+        "zh": "名古屋",
+        "ja": "名古屋",
+        "es": "Nagoya"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "The Greater Tokyo Area is the most populous metropolitan area in the world, with over 37 million people.",
+      "zh": "大东京地区是世界上人口最多的都市圈，拥有超过3700万人口。",
+      "ja": "首都圏は世界で最も人口の多い都市圏で、3700万人以上が住んでいます。",
+      "es": "El area metropolitana de Tokio es la mas poblada del mundo, con mas de 37 millones de personas."
+    }
+  },
+  {
+    "id": "current_beginner_017",
+    "q": {
+      "en": "Which city has the second largest metropolitan area in Japan?",
+      "zh": "日本第二大都市圈是哪个城市？",
+      "ja": "日本で2番目に大きい都市圏はどこですか？",
+      "es": "Que ciudad tiene la segunda area metropolitana mas grande de Japon?"
+    },
+    "c": [
+      {
+        "en": "Nagoya",
+        "zh": "名古屋",
+        "ja": "名古屋",
+        "es": "Nagoya"
+      },
+      {
+        "en": "Fukuoka",
+        "zh": "福冈",
+        "ja": "福岡",
+        "es": "Fukuoka"
+      },
+      {
+        "en": "Osaka",
+        "zh": "大阪",
+        "ja": "大阪",
+        "es": "Osaka"
+      },
+      {
+        "en": "Sapporo",
+        "zh": "札幌",
+        "ja": "札幌",
+        "es": "Sapporo"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "The Osaka-Kobe-Kyoto metropolitan area, known as Keihanshin, has a population of over 19 million.",
+      "zh": "大阪-神户-京都都市圈，被称为京阪神，人口超过1900万。",
+      "ja": "大阪・神戸・京都の都市圏は京阪神と呼ばれ、人口は1900万人以上です。",
+      "es": "El area metropolitana de Osaka-Kobe-Kioto, conocida como Keihanshin, tiene una poblacion de mas de 19 millones."
+    }
+  },
+  {
+    "id": "current_beginner_018",
+    "q": {
+      "en": "What is the staple food of Japan?",
+      "zh": "日本的主食是什么？",
+      "ja": "日本の主食は何ですか？",
+      "es": "Cual es el alimento basico de Japon?"
+    },
+    "c": [
+      {
+        "en": "Bread",
+        "zh": "面包",
+        "ja": "パン",
+        "es": "Pan"
+      },
+      {
+        "en": "Noodles",
+        "zh": "面条",
+        "ja": "麺",
+        "es": "Fideos"
+      },
+      {
+        "en": "Potatoes",
+        "zh": "马铃薯",
+        "ja": "じゃがいも",
+        "es": "Papas"
+      },
+      {
+        "en": "Rice",
+        "zh": "米饭",
+        "ja": "米",
+        "es": "Arroz"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Rice is so central to Japanese culture that the word for cooked rice (gohan) also means meal in Japanese.",
+      "zh": "米饭在日本文化中如此重要，以至于日语中煮熟的米饭（ご飯）也有餐饭的意思。",
+      "ja": "ご飯は日本文化の中心であり、炊いたお米を意味する「ご飯」は食事そのものも意味します。",
+      "es": "El arroz es tan central en la cultura japonesa que la palabra para arroz cocido (gohan) tambien significa comida en japones."
+    }
+  },
+  {
+    "id": "current_beginner_019",
+    "q": {
+      "en": "What eating utensils are traditionally used in Japan?",
+      "zh": "日本传统上使用什么餐具？",
+      "ja": "日本で伝統的に使われる食器は何ですか？",
+      "es": "Que utensilios para comer se usan tradicionalmente en Japon?"
+    },
+    "c": [
+      {
+        "en": "Fork and knife",
+        "zh": "刀叉",
+        "ja": "フォークとナイフ",
+        "es": "Tenedor y cuchillo"
+      },
+      {
+        "en": "Chopsticks",
+        "zh": "筷子",
+        "ja": "箸",
+        "es": "Palillos"
+      },
+      {
+        "en": "Spoon only",
+        "zh": "仅勺子",
+        "ja": "スプーンのみ",
+        "es": "Solo cuchara"
+      },
+      {
+        "en": "Hands only",
+        "zh": "仅用手",
+        "ja": "手のみ",
+        "es": "Solo manos"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Japanese chopsticks (hashi) are typically shorter and more pointed than Chinese chopsticks.",
+      "zh": "日本筷子（箸）通常比中国筷子更短且更尖。",
+      "ja": "日本の箸は中国の箸より短く、先端が細いのが特徴です。",
+      "es": "Los palillos japoneses (hashi) son tipicamente mas cortos y puntiagudos que los palillos chinos."
+    }
+  },
+  {
+    "id": "current_beginner_020",
+    "q": {
+      "en": "What is the common greeting gesture in Japan?",
+      "zh": "日本常见的问候方式是什么？",
+      "ja": "日本での一般的な挨拶の仕方は何ですか？",
+      "es": "Cual es el gesto de saludo comun en Japon?"
+    },
+    "c": [
+      {
+        "en": "Handshake",
+        "zh": "握手",
+        "ja": "握手",
+        "es": "Apreton de manos"
+      },
+      {
+        "en": "Hug",
+        "zh": "拥抱",
+        "ja": "ハグ",
+        "es": "Abrazo"
+      },
+      {
+        "en": "Bowing",
+        "zh": "鞠躬",
+        "ja": "お辞儀",
+        "es": "Reverencia"
+      },
+      {
+        "en": "Cheek kiss",
+        "zh": "亲吻脸颊",
+        "ja": "ほっぺにキス",
+        "es": "Beso en la mejilla"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "The deeper the bow, the more respect or formality is shown. A casual bow is about 15 degrees, while a very formal bow can be 45 degrees or more.",
+      "zh": "鞠躬越深，表示越尊重或越正式。随意的鞠躬约15度，非常正式的鞠躬可以达到45度或以上。",
+      "ja": "お辞儀が深いほど、敬意や礼儀を示します。軽いお辞儀は約15度、とても丁寧なお辞儀は45度以上になります。",
+      "es": "Cuanto mas profunda es la reverencia, mas respeto o formalidad se muestra. Una reverencia casual es de unos 15 grados, mientras que una muy formal puede ser de 45 grados o mas."
+    }
+  },
+  {
+    "id": "current_beginner_021",
+    "q": {
+      "en": "What is a common custom when entering a Japanese home?",
+      "zh": "进入日本家庭时的常见习俗是什么？",
+      "ja": "日本の家に入るときの一般的な習慣は何ですか？",
+      "es": "Cual es una costumbre comun al entrar en una casa japonesa?"
+    },
+    "c": [
+      {
+        "en": "Clap your hands",
+        "zh": "拍手",
+        "ja": "手を叩く",
+        "es": "Aplaudir"
+      },
+      {
+        "en": "Take off your shoes",
+        "zh": "脱鞋",
+        "ja": "靴を脱ぐ",
+        "es": "Quitarse los zapatos"
+      },
+      {
+        "en": "Ring a bell",
+        "zh": "按铃",
+        "ja": "ベルを鳴らす",
+        "es": "Tocar una campana"
+      },
+      {
+        "en": "Wash your face",
+        "zh": "洗脸",
+        "ja": "顔を洗う",
+        "es": "Lavarse la cara"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Most Japanese homes have a genkan (entryway) where shoes are removed. Indoor slippers are often provided for guests.",
+      "zh": "大多数日本家庭都有一个玄关（入口处）用于脱鞋。通常会为客人提供室内拖鞋。",
+      "ja": "ほとんどの日本の家には玄関があり、そこで靴を脱ぎます。来客用のスリッパが用意されていることが多いです。",
+      "es": "La mayoria de los hogares japoneses tienen un genkan (entrada) donde se quitan los zapatos. A menudo se proporcionan zapatillas de interior para los invitados."
+    }
+  },
+  {
+    "id": "current_beginner_022",
+    "q": {
+      "en": "What are Japanese convenience stores commonly called?",
+      "zh": "日本的便利店通常被称为什么？",
+      "ja": "日本のコンビニエンスストアの通称は何ですか？",
+      "es": "Como se llaman comunmente las tiendas de conveniencia japonesas?"
+    },
+    "c": [
+      {
+        "en": "Konbini",
+        "zh": "便利店（Konbini）",
+        "ja": "コンビニ",
+        "es": "Konbini"
+      },
+      {
+        "en": "Depato",
+        "zh": "百货店",
+        "ja": "デパート",
+        "es": "Depato"
+      },
+      {
+        "en": "Supa",
+        "zh": "超市",
+        "ja": "スーパー",
+        "es": "Supa"
+      },
+      {
+        "en": "Mise",
+        "zh": "店铺",
+        "ja": "店",
+        "es": "Mise"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Japan has over 55,000 convenience stores. The big three chains are 7-Eleven, FamilyMart, and Lawson.",
+      "zh": "日本有超过55,000家便利店。三大连锁品牌是7-Eleven、全家和罗森。",
+      "ja": "日本には55,000以上のコンビニがあります。大手3社はセブンイレブン、ファミリーマート、ローソンです。",
+      "es": "Japon tiene mas de 55,000 tiendas de conveniencia. Las tres grandes cadenas son 7-Eleven, FamilyMart y Lawson."
+    }
+  },
+  {
+    "id": "current_beginner_023",
+    "q": {
+      "en": "Japan is famous for having millions of what kind of machines on its streets?",
+      "zh": "日本以街头拥有数百万台什么机器而闻名？",
+      "ja": "日本の街中に何百万台もある機械は何ですか？",
+      "es": "Japon es famoso por tener millones de que tipo de maquinas en sus calles?"
+    },
+    "c": [
+      {
+        "en": "ATMs",
+        "zh": "自动取款机",
+        "ja": "ATM",
+        "es": "Cajeros automaticos"
+      },
+      {
+        "en": "Vending machines",
+        "zh": "自动售货机",
+        "ja": "自動販売機",
+        "es": "Maquinas expendedoras"
+      },
+      {
+        "en": "Arcade machines",
+        "zh": "游戏机",
+        "ja": "アーケードゲーム",
+        "es": "Maquinas arcade"
+      },
+      {
+        "en": "Photo booths",
+        "zh": "照相亭",
+        "ja": "プリクラ",
+        "es": "Cabinas de fotos"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Japan has roughly 1 vending machine for every 23 people, selling everything from drinks and snacks to umbrellas and hot meals.",
+      "zh": "日本大约每23人就有一台自动售货机，售卖从饮料、零食到雨伞和热餐等各种商品。",
+      "ja": "日本には約23人に1台の自動販売機があり、飲料やお菓子から傘や温かい食事まで何でも売っています。",
+      "es": "Japon tiene aproximadamente 1 maquina expendedora por cada 23 personas, vendiendo desde bebidas y snacks hasta paraguas y comidas calientes."
+    }
+  },
+  {
+    "id": "current_beginner_024",
+    "q": {
+      "en": "What is the famous Japanese high-speed train called?",
+      "zh": "日本著名的高速列车叫什么？",
+      "ja": "日本の有名な高速列車は何と呼ばれていますか？",
+      "es": "Como se llama el famoso tren de alta velocidad japones?"
+    },
+    "c": [
+      {
+        "en": "Metro",
+        "zh": "地铁",
+        "ja": "メトロ",
+        "es": "Metro"
+      },
+      {
+        "en": "TGV",
+        "zh": "TGV",
+        "ja": "TGV",
+        "es": "TGV"
+      },
+      {
+        "en": "Shinkansen (Bullet Train)",
+        "zh": "新干线（子弹列车）",
+        "ja": "新幹線",
+        "es": "Shinkansen (Tren Bala)"
+      },
+      {
+        "en": "Maglev",
+        "zh": "磁悬浮",
+        "ja": "リニア",
+        "es": "Maglev"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "The Shinkansen launched in 1964 for the Tokyo Olympics. It has an incredible safety record with zero passenger fatalities from derailments.",
+      "zh": "新干线于1964年东京奥运会期间开通。它拥有令人难以置信的安全记录，从未因脱轨造成乘客死亡。",
+      "ja": "新幹線は1964年の東京オリンピックに合わせて開業しました。脱線による乗客の死亡事故ゼロという驚異的な安全記録を誇ります。",
+      "es": "El Shinkansen se inauguro en 1964 para los Juegos Olimpicos de Tokio. Tiene un increible historial de seguridad sin muertes de pasajeros por descarrilamientos."
+    }
+  },
+  {
+    "id": "current_beginner_025",
+    "q": {
+      "en": "Which of these is NOT a famous Japanese company?",
+      "zh": "以下哪个不是日本著名公司？",
+      "ja": "次のうち、日本の有名な企業でないのはどれですか？",
+      "es": "Cual de estas NO es una famosa empresa japonesa?"
+    },
+    "c": [
+      {
+        "en": "Toyota",
+        "zh": "丰田",
+        "ja": "トヨタ",
+        "es": "Toyota"
+      },
+      {
+        "en": "Samsung",
+        "zh": "三星",
+        "ja": "サムスン",
+        "es": "Samsung"
+      },
+      {
+        "en": "Sony",
+        "zh": "索尼",
+        "ja": "ソニー",
+        "es": "Sony"
+      },
+      {
+        "en": "Nintendo",
+        "zh": "任天堂",
+        "ja": "任天堂",
+        "es": "Nintendo"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Samsung is a South Korean company. Famous Japanese brands include Toyota, Sony, Nintendo, Honda, and Panasonic.",
+      "zh": "三星是一家韩国公司。日本著名品牌包括丰田、索尼、任天堂、本田和松下。",
+      "ja": "サムスンは韓国の企業です。日本の有名ブランドにはトヨタ、ソニー、任天堂、ホンダ、パナソニックなどがあります。",
+      "es": "Samsung es una empresa surcoreana. Las marcas japonesas famosas incluyen Toyota, Sony, Nintendo, Honda y Panasonic."
+    }
+  },
+  {
+    "id": "current_beginner_026",
+    "q": {
+      "en": "Do most Japanese students wear school uniforms?",
+      "zh": "大多数日本学生穿校服吗？",
+      "ja": "日本の学生のほとんどは制服を着ますか？",
+      "es": "La mayoria de los estudiantes japoneses usan uniformes escolares?"
+    },
+    "c": [
+      {
+        "en": "No, uniforms are rare",
+        "zh": "不，校服很少见",
+        "ja": "いいえ、制服は珍しいです",
+        "es": "No, los uniformes son raros"
+      },
+      {
+        "en": "Yes, most schools require uniforms",
+        "zh": "是的，大多数学校要求穿校服",
+        "ja": "はい、ほとんどの学校で制服が必要です",
+        "es": "Si, la mayoria de las escuelas requieren uniformes"
+      },
+      {
+        "en": "Only in private schools",
+        "zh": "仅在私立学校",
+        "ja": "私立学校のみ",
+        "es": "Solo en escuelas privadas"
+      },
+      {
+        "en": "Only in elementary schools",
+        "zh": "仅在小学",
+        "ja": "小学校のみ",
+        "es": "Solo en escuelas primarias"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Japanese school uniforms are iconic. Many middle and high schools use sailor-style uniforms for girls and military-style gakuran for boys.",
+      "zh": "日本校服具有标志性。许多中学使用水手服款式的女生校服和军装风格的男生校服。",
+      "ja": "日本の制服は象徴的です。多くの中学・高校ではセーラー服と詰襟の学ランが使われています。",
+      "es": "Los uniformes escolares japoneses son iconicos. Muchas escuelas secundarias usan uniformes estilo marinero para chicas y gakuran estilo militar para chicos."
+    }
+  },
+  {
+    "id": "current_beginner_027",
+    "q": {
+      "en": "When does the school year start in Japan?",
+      "zh": "日本的学年什么时候开始？",
+      "ja": "日本の学年はいつ始まりますか？",
+      "es": "Cuando comienza el ano escolar en Japon?"
+    },
+    "c": [
+      {
+        "en": "September",
+        "zh": "九月",
+        "ja": "9月",
+        "es": "Septiembre"
+      },
+      {
+        "en": "January",
+        "zh": "一月",
+        "ja": "1月",
+        "es": "Enero"
+      },
+      {
+        "en": "April",
+        "zh": "四月",
+        "ja": "4月",
+        "es": "Abril"
+      },
+      {
+        "en": "March",
+        "zh": "三月",
+        "ja": "3月",
+        "es": "Marzo"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "The Japanese school year starts in April, coinciding with cherry blossom season, making it a symbol of new beginnings.",
+      "zh": "日本学年从四月开始，恰逢樱花季，使其成为新开始的象征。",
+      "ja": "日本の学年は4月に始まり、桜の季節と重なるため、新しい始まりの象徴となっています。",
+      "es": "El ano escolar japones comienza en abril, coincidiendo con la temporada de cerezos en flor, convirtiendolo en un simbolo de nuevos comienzos."
+    }
+  },
+  {
+    "id": "current_beginner_028",
+    "q": {
+      "en": "What is the Japanese rainy season called?",
+      "zh": "日本的雨季叫什么？",
+      "ja": "日本の梅雨の名前は何ですか？",
+      "es": "Como se llama la temporada de lluvias japonesa?"
+    },
+    "c": [
+      {
+        "en": "Tsuyu",
+        "zh": "梅雨",
+        "ja": "梅雨（つゆ）",
+        "es": "Tsuyu"
+      },
+      {
+        "en": "Monsun",
+        "zh": "季风",
+        "ja": "モンスーン",
+        "es": "Monzon"
+      },
+      {
+        "en": "Ame",
+        "zh": "雨",
+        "ja": "雨",
+        "es": "Ame"
+      },
+      {
+        "en": "Kaze",
+        "zh": "风",
+        "ja": "風",
+        "es": "Kaze"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Tsuyu typically occurs in June and early July. The word literally means plum rain because it coincides with the plum ripening season.",
+      "zh": "梅雨通常发生在六月和七月初。这个词的字面意思是梅子雨，因为它与梅子成熟季节重合。",
+      "ja": "梅雨は通常6月から7月初旬に訪れます。梅の実が熟す時期と重なることから「梅雨」と呼ばれます。",
+      "es": "El tsuyu ocurre tipicamente en junio y principios de julio. La palabra significa literalmente lluvia de ciruelas porque coincide con la temporada de maduracion de ciruelas."
+    }
+  },
+  {
+    "id": "current_beginner_029",
+    "q": {
+      "en": "In which season do cherry blossoms bloom in Japan?",
+      "zh": "日本的樱花在哪个季节开花？",
+      "ja": "日本の桜はどの季節に咲きますか？",
+      "es": "En que estacion florecen los cerezos en Japon?"
+    },
+    "c": [
+      {
+        "en": "Summer",
+        "zh": "夏天",
+        "ja": "夏",
+        "es": "Verano"
+      },
+      {
+        "en": "Winter",
+        "zh": "冬天",
+        "ja": "冬",
+        "es": "Invierno"
+      },
+      {
+        "en": "Fall",
+        "zh": "秋天",
+        "ja": "秋",
+        "es": "Otono"
+      },
+      {
+        "en": "Spring",
+        "zh": "春天",
+        "ja": "春",
+        "es": "Primavera"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "The cherry blossom front (sakura zensen) moves northward from late March in southern Kyushu to May in Hokkaido.",
+      "zh": "樱花前线（樱前线）从三月下旬的南部九州向北移动，到五月到达北海道。",
+      "ja": "桜前線は3月下旬に九州南部から始まり、5月に北海道まで北上します。",
+      "es": "El frente de cerezos en flor (sakura zensen) se mueve hacia el norte desde finales de marzo en el sur de Kyushu hasta mayo en Hokkaido."
+    }
+  },
+  {
+    "id": "current_beginner_030",
+    "q": {
+      "en": "What is the Japanese term for the beautiful fall foliage season?",
+      "zh": "日本美丽的秋叶季节的日语名称是什么？",
+      "ja": "美しい紅葉の季節を日本語で何と言いますか？",
+      "es": "Cual es el termino japones para la hermosa temporada de follaje otonal?"
+    },
+    "c": [
+      {
+        "en": "Hanami",
+        "zh": "花见",
+        "ja": "花見",
+        "es": "Hanami"
+      },
+      {
+        "en": "Koyo",
+        "zh": "红叶",
+        "ja": "紅葉",
+        "es": "Koyo"
+      },
+      {
+        "en": "Tsuyu",
+        "zh": "梅雨",
+        "ja": "梅雨",
+        "es": "Tsuyu"
+      },
+      {
+        "en": "Obon",
+        "zh": "盂兰盆",
+        "ja": "お盆",
+        "es": "Obon"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Koyo season runs from September in Hokkaido to December in southern areas. Momiji (maple) leaves are the most popular to view.",
+      "zh": "红叶季节从九月的北海道持续到十二月的南部地区。枫叶（红叶）是最受欢迎的观赏对象。",
+      "ja": "紅葉シーズンは9月の北海道から12月の南部地域まで続きます。もみじ（楓）が最も人気のある観賞対象です。",
+      "es": "La temporada de koyo va desde septiembre en Hokkaido hasta diciembre en las areas del sur. Las hojas de momiji (arce) son las mas populares para contemplar."
+    }
+  },
+  {
+    "id": "current_beginner_031",
+    "q": {
+      "en": "Which part of Japan typically gets heavy snowfall in winter?",
+      "zh": "日本哪个地区冬季通常降雪量大？",
+      "ja": "日本のどの地域が冬に大雪になりますか？",
+      "es": "Que parte de Japon suele recibir fuertes nevadas en invierno?"
+    },
+    "c": [
+      {
+        "en": "Okinawa in the south",
+        "zh": "南部的冲绳",
+        "ja": "南部の沖縄",
+        "es": "Okinawa en el sur"
+      },
+      {
+        "en": "Northern regions like Hokkaido",
+        "zh": "北部地区如北海道",
+        "ja": "北海道などの北部地域",
+        "es": "Las regiones del norte como Hokkaido"
+      },
+      {
+        "en": "Tokyo area",
+        "zh": "东京地区",
+        "ja": "東京地域",
+        "es": "La zona de Tokio"
+      },
+      {
+        "en": "Shikoku island",
+        "zh": "四国岛",
+        "ja": "四国",
+        "es": "La isla de Shikoku"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Hokkaido and areas along the Sea of Japan coast receive some of the heaviest snowfall in the world, making them popular for skiing.",
+      "zh": "北海道和日本海沿岸地区的降雪量是世界上最大的之一，使其成为热门滑雪地。",
+      "ja": "北海道や日本海側の地域は世界でも有数の豪雪地帯で、スキーの人気スポットです。",
+      "es": "Hokkaido y las areas a lo largo de la costa del Mar de Japon reciben algunas de las nevadas mas fuertes del mundo, haciendolas populares para esquiar."
+    }
+  },
+  {
+    "id": "current_beginner_032",
+    "q": {
+      "en": "What is the biggest holiday celebration in Japan?",
+      "zh": "日本最大的节日庆祝活动是什么？",
+      "ja": "日本で最も大きな祝日は何ですか？",
+      "es": "Cual es la celebracion festiva mas grande de Japon?"
+    },
+    "c": [
+      {
+        "en": "Christmas",
+        "zh": "圣诞节",
+        "ja": "クリスマス",
+        "es": "Navidad"
+      },
+      {
+        "en": "Halloween",
+        "zh": "万圣节",
+        "ja": "ハロウィン",
+        "es": "Halloween"
+      },
+      {
+        "en": "New Year (Shogatsu)",
+        "zh": "新年（正月）",
+        "ja": "お正月",
+        "es": "Ano Nuevo (Shogatsu)"
+      },
+      {
+        "en": "Valentine Day",
+        "zh": "情人节",
+        "ja": "バレンタインデー",
+        "es": "Dia de San Valentin"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Japanese New Year (Oshogatsu) is celebrated from January 1-3. Families visit shrines, eat special foods called osechi, and send greeting cards called nengajo.",
+      "zh": "日本新年（正月）从1月1日到3日庆祝。家人会参拜神社、吃名为御节的特殊食品，并寄送名为年贺状的贺卡。",
+      "ja": "お正月は1月1日から3日まで祝われます。家族で初詣に行き、おせち料理を食べ、年賀状を送ります。",
+      "es": "El Ano Nuevo japones (Oshogatsu) se celebra del 1 al 3 de enero. Las familias visitan santuarios, comen comidas especiales llamadas osechi y envian tarjetas de saludo llamadas nengajo."
+    }
+  },
+  {
+    "id": "current_beginner_033",
+    "q": {
+      "en": "What is Golden Week in Japan?",
+      "zh": "日本的黄金周是什么？",
+      "ja": "ゴールデンウィークとは何ですか？",
+      "es": "Que es la Semana Dorada en Japon?"
+    },
+    "c": [
+      {
+        "en": "A week of sales in December",
+        "zh": "十二月的促销周",
+        "ja": "12月のセール週間",
+        "es": "Una semana de rebajas en diciembre"
+      },
+      {
+        "en": "A cluster of national holidays in late April to early May",
+        "zh": "四月下旬到五月初的一组国定假日",
+        "ja": "4月下旬から5月上旬にかけての祝日の集まり",
+        "es": "Un grupo de fiestas nacionales de finales de abril a principios de mayo"
+      },
+      {
+        "en": "A summer festival in August",
+        "zh": "八月的夏日祭",
+        "ja": "8月の夏祭り",
+        "es": "Un festival de verano en agosto"
+      },
+      {
+        "en": "A harvest celebration in October",
+        "zh": "十月的丰收庆典",
+        "ja": "10月の収穫祭",
+        "es": "Una celebracion de cosecha en octubre"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Golden Week includes Constitution Memorial Day, Greenery Day, and Children Day. Many Japanese travel during this holiday period.",
+      "zh": "黄金周包括宪法纪念日、绿色日和儿童节。许多日本人在这段假期出行。",
+      "ja": "ゴールデンウィークには憲法記念日、みどりの日、こどもの日が含まれます。多くの人がこの期間に旅行します。",
+      "es": "La Semana Dorada incluye el Dia de la Constitucion, el Dia del Verdor y el Dia del Nino. Muchos japoneses viajan durante este periodo vacacional."
+    }
+  },
+  {
+    "id": "current_beginner_034",
+    "q": {
+      "en": "What is Obon in Japan?",
+      "zh": "日本的盂兰盆节是什么？",
+      "ja": "お盆とは何ですか？",
+      "es": "Que es el Obon en Japon?"
+    },
+    "c": [
+      {
+        "en": "A spring planting festival",
+        "zh": "春季种植节",
+        "ja": "春の田植え祭り",
+        "es": "Un festival de siembra de primavera"
+      },
+      {
+        "en": "A Buddhist event honoring ancestral spirits in August",
+        "zh": "八月纪念祖先灵魂的佛教活动",
+        "ja": "8月に先祖の霊を祀る仏教行事",
+        "es": "Un evento budista que honra a los espiritus ancestrales en agosto"
+      },
+      {
+        "en": "A children festival in May",
+        "zh": "五月的儿童节",
+        "ja": "5月のこどもの祭り",
+        "es": "Un festival de ninos en mayo"
+      },
+      {
+        "en": "A winter snow festival",
+        "zh": "冬季雪节",
+        "ja": "冬の雪祭り",
+        "es": "Un festival de nieve en invierno"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "During Obon, many Japanese return to their hometowns. Bon Odori dances and floating lanterns are traditional practices.",
+      "zh": "盂兰盆节期间，许多日本人回到家乡。盆踊舞蹈和放流灯笼是传统习俗。",
+      "ja": "お盆には多くの人が故郷に帰省します。盆踊りや精霊流しが伝統的な習慣です。",
+      "es": "Durante el Obon, muchos japoneses regresan a sus ciudades natales. Las danzas Bon Odori y las linternas flotantes son practicas tradicionales."
+    }
+  },
+  {
+    "id": "current_beginner_035",
+    "q": {
+      "en": "What is Coming of Age Day in Japan?",
+      "zh": "日本的成人节是什么？",
+      "ja": "成人の日とは何ですか？",
+      "es": "Que es el Dia de la Mayoria de Edad en Japon?"
+    },
+    "c": [
+      {
+        "en": "A celebration for people turning 18 or 20, held in January",
+        "zh": "一月举行的庆祝年满18或20岁的活动",
+        "ja": "1月に行われる18歳または20歳を迎える人のお祝い",
+        "es": "Una celebracion para personas que cumplen 18 o 20 anos, celebrada en enero"
+      },
+      {
+        "en": "A day for senior citizens",
+        "zh": "老年人的节日",
+        "ja": "高齢者の日",
+        "es": "Un dia para personas mayores"
+      },
+      {
+        "en": "A children birthday celebration",
+        "zh": "儿童生日庆祝",
+        "ja": "子供の誕生日祝い",
+        "es": "Una celebracion de cumpleanos de ninos"
+      },
+      {
+        "en": "A graduation ceremony",
+        "zh": "毕业典礼",
+        "ja": "卒業式",
+        "es": "Una ceremonia de graduacion"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "On Coming of Age Day (Seijin no Hi), young women often wear beautiful furisode kimono. The age of adulthood was lowered from 20 to 18 in 2022.",
+      "zh": "在成人节（成人の日），年轻女性通常穿着美丽的振袖和服。成年年龄于2022年从20岁降至18岁。",
+      "ja": "成人の日には若い女性が美しい振袖を着ることが多いです。2022年に成人年齢が20歳から18歳に引き下げられました。",
+      "es": "En el Dia de la Mayoria de Edad (Seijin no Hi), las jovenes suelen llevar hermosos kimono furisode. La edad adulta se redujo de 20 a 18 anos en 2022."
+    }
+  },
+  {
+    "id": "current_beginner_036",
+    "q": {
+      "en": "Which denominations are common Japanese yen coins?",
+      "zh": "常见的日元硬币面额有哪些？",
+      "ja": "日本の一般的な硬貨の額面はどれですか？",
+      "es": "Cuales son las denominaciones comunes de monedas de yen japones?"
+    },
+    "c": [
+      {
+        "en": "1, 5, 10, 50, 100, 500 yen",
+        "zh": "1、5、10、50、100、500日元",
+        "ja": "1円、5円、10円、50円、100円、500円",
+        "es": "1, 5, 10, 50, 100, 500 yenes"
+      },
+      {
+        "en": "1, 2, 5, 10, 20, 50 yen",
+        "zh": "1、2、5、10、20、50日元",
+        "ja": "1円、2円、5円、10円、20円、50円",
+        "es": "1, 2, 5, 10, 20, 50 yenes"
+      },
+      {
+        "en": "5, 10, 25, 50, 100 yen",
+        "zh": "5、10、25、50、100日元",
+        "ja": "5円、10円、25円、50円、100円",
+        "es": "5, 10, 25, 50, 100 yenes"
+      },
+      {
+        "en": "1, 10, 100, 1000 yen",
+        "zh": "1、10、100、1000日元",
+        "ja": "1円、10円、100円、1000円",
+        "es": "1, 10, 100, 1000 yenes"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "The 5 yen coin is considered lucky and is often used when making wishes at shrines. Its name (go-en) sounds like the word for good fortune.",
+      "zh": "5日元硬币被认为是幸运的，常用于在神社许愿。它的名称（五缘）与好运的发音相似。",
+      "ja": "5円玉は縁起が良いとされ、神社でのお賽銭によく使われます。「ご縁」と同じ読みだからです。",
+      "es": "La moneda de 5 yenes se considera de buena suerte y se usa a menudo al pedir deseos en los santuarios. Su nombre (go-en) suena como la palabra para buena fortuna."
+    }
+  },
+  {
+    "id": "current_beginner_037",
+    "q": {
+      "en": "What are the denominations of Japanese yen banknotes?",
+      "zh": "日元纸币的面额是什么？",
+      "ja": "日本の紙幣の額面はどれですか？",
+      "es": "Cuales son las denominaciones de los billetes de yen japones?"
+    },
+    "c": [
+      {
+        "en": "500, 1000, 5000 yen",
+        "zh": "500、1000、5000日元",
+        "ja": "500円、1000円、5000円",
+        "es": "500, 1000, 5000 yenes"
+      },
+      {
+        "en": "1000, 5000, 10000 yen",
+        "zh": "1000、5000、10000日元",
+        "ja": "1000円、5000円、10000円",
+        "es": "1000, 5000, 10000 yenes"
+      },
+      {
+        "en": "100, 500, 1000 yen",
+        "zh": "100、500、1000日元",
+        "ja": "100円、500円、1000円",
+        "es": "100, 500, 1000 yenes"
+      },
+      {
+        "en": "2000, 5000, 10000 yen",
+        "zh": "2000、5000、10000日元",
+        "ja": "2000円、5000円、10000円",
+        "es": "2000, 5000, 10000 yenes"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Japan introduced new banknote designs in July 2024, featuring Shibusawa Eiichi on the 10,000 yen note with advanced 3D hologram technology.",
+      "zh": "日本于2024年7月推出新版纸币设计，一万日元纸币上印有涩泽荣一，并采用了先进的3D全息技术。",
+      "ja": "日本は2024年7月に新紙幣を発行し、一万円札には渋沢栄一が描かれ、最先端の3Dホログラム技術が採用されました。",
+      "es": "Japon introdujo nuevos disenos de billetes en julio de 2024, con Shibusawa Eiichi en el billete de 10,000 yenes con tecnologia holografica 3D avanzada."
+    }
+  },
+  {
+    "id": "current_beginner_038",
+    "q": {
+      "en": "What does the red circle on the Japanese flag represent?",
+      "zh": "日本国旗上的红色圆圈代表什么？",
+      "ja": "日本の国旗の赤い丸は何を表していますか？",
+      "es": "Que representa el circulo rojo en la bandera japonesa?"
+    },
+    "c": [
+      {
+        "en": "The moon",
+        "zh": "月亮",
+        "ja": "月",
+        "es": "La luna"
+      },
+      {
+        "en": "The sun",
+        "zh": "太阳",
+        "ja": "太陽",
+        "es": "El sol"
+      },
+      {
+        "en": "A cherry blossom",
+        "zh": "樱花",
+        "ja": "桜",
+        "es": "Una flor de cerezo"
+      },
+      {
+        "en": "Unity",
+        "zh": "团结",
+        "ja": "団結",
+        "es": "Unidad"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Japan is often called the Land of the Rising Sun (Nihon/Nippon), and the flag directly represents this with the red sun disc.",
+      "zh": "日本常被称为日出之国（日本），国旗上的红色太阳直接体现了这一含义。",
+      "ja": "日本は「日出づる国」と呼ばれ、国旗の赤い日の丸はそれを直接表しています。",
+      "es": "Japon es a menudo llamado la Tierra del Sol Naciente (Nihon/Nippon), y la bandera representa directamente esto con el disco solar rojo."
+    }
+  },
+  {
+    "id": "current_beginner_039",
+    "q": {
+      "en": "Japan is an island nation. Which ocean lies to its east?",
+      "zh": "日本是一个岛国。它的东面是哪个大洋？",
+      "ja": "日本は島国です。東側にある大洋は何ですか？",
+      "es": "Japon es una nacion insular. Que oceano se encuentra al este?"
+    },
+    "c": [
+      {
+        "en": "Atlantic Ocean",
+        "zh": "大西洋",
+        "ja": "大西洋",
+        "es": "Oceano Atlantico"
+      },
+      {
+        "en": "Indian Ocean",
+        "zh": "印度洋",
+        "ja": "インド洋",
+        "es": "Oceano Indico"
+      },
+      {
+        "en": "Arctic Ocean",
+        "zh": "北冰洋",
+        "ja": "北極海",
+        "es": "Oceano Artico"
+      },
+      {
+        "en": "Pacific Ocean",
+        "zh": "太平洋",
+        "ja": "太平洋",
+        "es": "Oceano Pacifico"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Japan is part of the Pacific Ring of Fire, which is why it experiences frequent earthquakes and has many volcanoes.",
+      "zh": "日本位于太平洋火环带上，这就是为什么它经常发生地震并拥有许多火山。",
+      "ja": "日本は環太平洋火山帯に位置しており、地震が頻繁に起こり、多くの火山があります。",
+      "es": "Japon es parte del Cinturon de Fuego del Pacifico, por eso experimenta terremotos frecuentes y tiene muchos volcanes."
+    }
+  },
+  {
+    "id": "current_beginner_040",
+    "q": {
+      "en": "What body of water lies to the west of Japan?",
+      "zh": "日本西面是什么水域？",
+      "ja": "日本の西側にある海は何ですか？",
+      "es": "Que cuerpo de agua se encuentra al oeste de Japon?"
+    },
+    "c": [
+      {
+        "en": "East China Sea",
+        "zh": "东海",
+        "ja": "東シナ海",
+        "es": "Mar de China Oriental"
+      },
+      {
+        "en": "Sea of Japan",
+        "zh": "日本海",
+        "ja": "日本海",
+        "es": "Mar de Japon"
+      },
+      {
+        "en": "Philippine Sea",
+        "zh": "菲律宾海",
+        "ja": "フィリピン海",
+        "es": "Mar de Filipinas"
+      },
+      {
+        "en": "Coral Sea",
+        "zh": "珊瑚海",
+        "ja": "珊瑚海",
+        "es": "Mar del Coral"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "The Sea of Japan separates Japan from the Korean Peninsula and mainland Asia. It is also called the East Sea by Korea.",
+      "zh": "日本海将日本与朝鲜半岛和亚洲大陆隔开。韩国也称之为东海。",
+      "ja": "日本海は日本と朝鮮半島、アジア大陸を隔てています。韓国では東海とも呼ばれています。",
+      "es": "El Mar de Japon separa a Japon de la Peninsula de Corea y Asia continental. Tambien es llamado Mar del Este por Corea."
+    }
+  },
+  {
+    "id": "current_beginner_041",
+    "q": {
+      "en": "Are earthquakes common in Japan?",
+      "zh": "日本地震频繁吗？",
+      "ja": "日本では地震は多いですか？",
+      "es": "Son comunes los terremotos en Japon?"
+    },
+    "c": [
+      {
+        "en": "No, earthquakes are very rare",
+        "zh": "不，地震非常罕见",
+        "ja": "いいえ、地震は非常に稀です",
+        "es": "No, los terremotos son muy raros"
+      },
+      {
+        "en": "Yes, Japan experiences earthquakes frequently",
+        "zh": "是的，日本经常发生地震",
+        "ja": "はい、日本では頻繁に地震が起きます",
+        "es": "Si, Japon experimenta terremotos con frecuencia"
+      },
+      {
+        "en": "Only once every 100 years",
+        "zh": "每100年一次",
+        "ja": "100年に一度だけ",
+        "es": "Solo una vez cada 100 anos"
+      },
+      {
+        "en": "Only in Hokkaido",
+        "zh": "仅在北海道",
+        "ja": "北海道のみ",
+        "es": "Solo en Hokkaido"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Japan accounts for about 20% of the world earthquakes of magnitude 6 or greater. Early warning systems are very advanced.",
+      "zh": "日本约占全球6级以上地震的20%。日本的地震预警系统非常先进。",
+      "ja": "日本はマグニチュード6以上の地震の約20%を占めています。緊急地震速報システムは非常に進んでいます。",
+      "es": "Japon representa aproximadamente el 20% de los terremotos mundiales de magnitud 6 o superior. Los sistemas de alerta temprana son muy avanzados."
+    }
+  },
+  {
+    "id": "current_beginner_042",
+    "q": {
+      "en": "When is typhoon season in Japan?",
+      "zh": "日本的台风季是什么时候？",
+      "ja": "日本の台風シーズンはいつですか？",
+      "es": "Cuando es la temporada de tifones en Japon?"
+    },
+    "c": [
+      {
+        "en": "January to March",
+        "zh": "一月到三月",
+        "ja": "1月から3月",
+        "es": "Enero a marzo"
+      },
+      {
+        "en": "August to October",
+        "zh": "八月到十月",
+        "ja": "8月から10月",
+        "es": "Agosto a octubre"
+      },
+      {
+        "en": "April to June",
+        "zh": "四月到六月",
+        "ja": "4月から6月",
+        "es": "Abril a junio"
+      },
+      {
+        "en": "November to December",
+        "zh": "十一月到十二月",
+        "ja": "11月から12月",
+        "es": "Noviembre a diciembre"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Japan is hit by an average of 6 to 7 typhoons per year. The peak month is September.",
+      "zh": "日本平均每年遭受6到7个台风袭击。高峰月份是九月。",
+      "ja": "日本には年間平均6〜7個の台風が上陸・接近します。ピークは9月です。",
+      "es": "Japon es golpeado por un promedio de 6 a 7 tifones por ano. El mes pico es septiembre."
+    }
+  },
+  {
+    "id": "current_beginner_043",
+    "q": {
+      "en": "What demographic trend is Japan currently facing?",
+      "zh": "日本目前面临什么人口趋势？",
+      "ja": "日本が現在直面している人口動態の傾向は何ですか？",
+      "es": "Que tendencia demografica enfrenta actualmente Japon?"
+    },
+    "c": [
+      {
+        "en": "Rapid population growth",
+        "zh": "人口快速增长",
+        "ja": "急速な人口増加",
+        "es": "Rapido crecimiento poblacional"
+      },
+      {
+        "en": "Population decline and aging society",
+        "zh": "人口减少和老龄化社会",
+        "ja": "人口減少と高齢化社会",
+        "es": "Disminucion de la poblacion y envejecimiento de la sociedad"
+      },
+      {
+        "en": "Large immigration wave",
+        "zh": "大规模移民潮",
+        "ja": "大規模な移民の波",
+        "es": "Gran ola de inmigracion"
+      },
+      {
+        "en": "Equal birth and death rates",
+        "zh": "出生率和死亡率相等",
+        "ja": "出生率と死亡率が同じ",
+        "es": "Tasas de natalidad y mortalidad iguales"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Japan has one of the lowest birth rates in the world. Over 29% of its population is aged 65 or older, making it the most aged country.",
+      "zh": "日本的出生率是世界上最低的之一。超过29%的人口年龄在65岁或以上，使其成为老龄化最严重的国家。",
+      "ja": "日本は世界で最も出生率が低い国の一つです。人口の29%以上が65歳以上で、世界で最も高齢化が進んだ国です。",
+      "es": "Japon tiene una de las tasas de natalidad mas bajas del mundo. Mas del 29% de su poblacion tiene 65 anos o mas, convirtiendolo en el pais mas envejecido."
+    }
+  },
+  {
+    "id": "current_beginner_044",
+    "q": {
+      "en": "Japanese trains are famous for being what?",
+      "zh": "日本的列车以什么而闻名？",
+      "ja": "日本の電車は何で有名ですか？",
+      "es": "Los trenes japoneses son famosos por ser que?"
+    },
+    "c": [
+      {
+        "en": "Very cheap",
+        "zh": "非常便宜",
+        "ja": "とても安い",
+        "es": "Muy baratos"
+      },
+      {
+        "en": "Very punctual",
+        "zh": "非常准时",
+        "ja": "非常に時間に正確",
+        "es": "Muy puntuales"
+      },
+      {
+        "en": "Very slow",
+        "zh": "非常慢",
+        "ja": "とても遅い",
+        "es": "Muy lentos"
+      },
+      {
+        "en": "Very noisy",
+        "zh": "非常吵",
+        "ja": "とてもうるさい",
+        "es": "Muy ruidosos"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Japanese trains have an average delay of less than 1 minute. Railway companies issue formal apology notices if trains are even slightly late.",
+      "zh": "日本列车的平均延误不到1分钟。如果列车稍有延迟，铁路公司就会发布正式的道歉通知。",
+      "ja": "日本の電車の平均遅延は1分未満です。わずかな遅延でも鉄道会社は正式なお詫びを出します。",
+      "es": "Los trenes japoneses tienen un retraso promedio de menos de 1 minuto. Las companias ferroviarias emiten avisos formales de disculpa si los trenes se retrasan aunque sea ligeramente."
+    }
+  },
+  {
+    "id": "current_beginner_045",
+    "q": {
+      "en": "Japanese streets are known for being remarkably what?",
+      "zh": "日本的街道以什么而著称？",
+      "ja": "日本の街はどのような点で有名ですか？",
+      "es": "Las calles japonesas son conocidas por ser notablemente que?"
+    },
+    "c": [
+      {
+        "en": "Wide",
+        "zh": "宽阔",
+        "ja": "広い",
+        "es": "Anchas"
+      },
+      {
+        "en": "Colorful",
+        "zh": "色彩丰富",
+        "ja": "カラフル",
+        "es": "Coloridas"
+      },
+      {
+        "en": "Clean",
+        "zh": "干净",
+        "ja": "清潔",
+        "es": "Limpias"
+      },
+      {
+        "en": "Crowded with cars",
+        "zh": "车辆拥挤",
+        "ja": "車で混雑",
+        "es": "Llenas de autos"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Japan has very few public trash cans, yet streets remain clean. People typically carry their trash home with them.",
+      "zh": "日本的公共垃圾桶很少，但街道依然保持清洁。人们通常会把垃圾带回家。",
+      "ja": "日本にはゴミ箱がほとんどありませんが、街はとても清潔です。人々は通常ゴミを持ち帰ります。",
+      "es": "Japon tiene muy pocos botes de basura publicos, pero las calles permanecen limpias. La gente generalmente lleva su basura a casa."
+    }
+  },
+  {
+    "id": "current_beginner_046",
+    "q": {
+      "en": "Japan is known for its strong culture of what environmental practice?",
+      "zh": "日本以哪种环保实践的文化而闻名？",
+      "ja": "日本はどのような環境活動の文化で知られていますか？",
+      "es": "Japon es conocido por su fuerte cultura de que practica ambiental?"
+    },
+    "c": [
+      {
+        "en": "Composting",
+        "zh": "堆肥",
+        "ja": "コンポスト",
+        "es": "Compostaje"
+      },
+      {
+        "en": "Recycling",
+        "zh": "回收利用",
+        "ja": "リサイクル",
+        "es": "Reciclaje"
+      },
+      {
+        "en": "Deforestation control",
+        "zh": "控制砍伐",
+        "ja": "森林伐採制御",
+        "es": "Control de deforestacion"
+      },
+      {
+        "en": "Ocean cleanup",
+        "zh": "海洋清理",
+        "ja": "海洋清掃",
+        "es": "Limpieza de oceanos"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Japanese recycling is very detailed. Trash is typically sorted into many categories including burnable, non-burnable, plastic, glass, cans, and PET bottles.",
+      "zh": "日本的回收非常细致。垃圾通常分为多个类别，包括可燃、不可燃、塑料、玻璃、罐头和PET瓶。",
+      "ja": "日本のリサイクルは非常に細かく分別されています。可燃ゴミ、不燃ゴミ、プラスチック、ガラス、缶、ペットボトルなど多くの分類があります。",
+      "es": "El reciclaje japones es muy detallado. La basura se clasifica tipicamente en muchas categorias incluyendo quemable, no quemable, plastico, vidrio, latas y botellas PET."
+    }
+  },
+  {
+    "id": "current_beginner_047",
+    "q": {
+      "en": "Manga and anime originate from which country?",
+      "zh": "漫画和动漫起源于哪个国家？",
+      "ja": "漫画とアニメはどの国が発祥ですか？",
+      "es": "De que pais se originan el manga y el anime?"
+    },
+    "c": [
+      {
+        "en": "South Korea",
+        "zh": "韩国",
+        "ja": "韓国",
+        "es": "Corea del Sur"
+      },
+      {
+        "en": "China",
+        "zh": "中国",
+        "ja": "中国",
+        "es": "China"
+      },
+      {
+        "en": "Japan",
+        "zh": "日本",
+        "ja": "日本",
+        "es": "Japon"
+      },
+      {
+        "en": "Taiwan",
+        "zh": "台湾",
+        "ja": "台湾",
+        "es": "Taiwan"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "The manga and anime industry generates billions of dollars annually. Popular titles like One Piece, Naruto, and Dragon Ball are enjoyed worldwide.",
+      "zh": "漫画和动漫产业每年创造数十亿美元的收入。《海贼王》、《火影忍者》和《龙珠》等热门作品在全球广受欢迎。",
+      "ja": "漫画・アニメ産業は年間数十億ドルの売上を生み出しています。ワンピース、ナルト、ドラゴンボールなどは世界中で楽しまれています。",
+      "es": "La industria del manga y anime genera miles de millones de dolares anualmente. Titulos populares como One Piece, Naruto y Dragon Ball son disfrutados en todo el mundo."
+    }
+  },
+  {
+    "id": "current_beginner_048",
+    "q": {
+      "en": "Where was karaoke invented?",
+      "zh": "卡拉OK是在哪里发明的？",
+      "ja": "カラオケはどこで発明されましたか？",
+      "es": "Donde se invento el karaoke?"
+    },
+    "c": [
+      {
+        "en": "USA",
+        "zh": "美国",
+        "ja": "アメリカ",
+        "es": "Estados Unidos"
+      },
+      {
+        "en": "South Korea",
+        "zh": "韩国",
+        "ja": "韓国",
+        "es": "Corea del Sur"
+      },
+      {
+        "en": "Philippines",
+        "zh": "菲律宾",
+        "ja": "フィリピン",
+        "es": "Filipinas"
+      },
+      {
+        "en": "Japan",
+        "zh": "日本",
+        "ja": "日本",
+        "es": "Japon"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Karaoke was invented in the early 1970s in Japan. The word combines kara (empty) and oke (short for orchestra).",
+      "zh": "卡拉OK于1970年代初在日本发明。这个词结合了kara（空）和oke（管弦乐的缩写）。",
+      "ja": "カラオケは1970年代初頭に日本で発明されました。「空」と「オーケストラ」の略「オケ」を合わせた言葉です。",
+      "es": "El karaoke fue inventado a principios de los anos 1970 en Japon. La palabra combina kara (vacio) y oke (abreviatura de orquesta)."
+    }
+  },
+  {
+    "id": "current_beginner_049",
+    "q": {
+      "en": "Which Japanese food is famous worldwide as a symbol of Japanese cuisine?",
+      "zh": "哪种日本食物作为日本料理的象征在世界闻名？",
+      "ja": "日本料理の象徴として世界的に有名な食べ物は何ですか？",
+      "es": "Que comida japonesa es famosa mundialmente como simbolo de la cocina japonesa?"
+    },
+    "c": [
+      {
+        "en": "Hamburgers",
+        "zh": "汉堡",
+        "ja": "ハンバーガー",
+        "es": "Hamburguesas"
+      },
+      {
+        "en": "Pizza",
+        "zh": "披萨",
+        "ja": "ピザ",
+        "es": "Pizza"
+      },
+      {
+        "en": "Sushi",
+        "zh": "寿司",
+        "ja": "寿司",
+        "es": "Sushi"
+      },
+      {
+        "en": "Tacos",
+        "zh": "墨西哥卷",
+        "ja": "タコス",
+        "es": "Tacos"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Traditional sushi uses vinegared rice with fresh fish. The Tsukiji and Toyosu fish markets in Tokyo are world-famous.",
+      "zh": "传统寿司使用醋饭搭配新鲜鱼类。东京的筑地和丰洲鱼市场世界闻名。",
+      "ja": "伝統的な寿司は酢飯と新鮮な魚を使います。東京の築地市場と豊洲市場は世界的に有名です。",
+      "es": "El sushi tradicional usa arroz avinagrado con pescado fresco. Los mercados de pescado Tsukiji y Toyosu en Tokio son mundialmente famosos."
+    }
+  },
+  {
+    "id": "current_beginner_050",
+    "q": {
+      "en": "Which noodle dish is one of Japan most beloved comfort foods?",
+      "zh": "哪种面条料理是日本最受欢迎的家常美食之一？",
+      "ja": "日本で最も愛されている麺料理の一つは何ですか？",
+      "es": "Que plato de fideos es una de las comidas reconfortantes mas queridas de Japon?"
+    },
+    "c": [
+      {
+        "en": "Pho",
+        "zh": "越南河粉",
+        "ja": "フォー",
+        "es": "Pho"
+      },
+      {
+        "en": "Ramen",
+        "zh": "拉面",
+        "ja": "ラーメン",
+        "es": "Ramen"
+      },
+      {
+        "en": "Pad Thai",
+        "zh": "泰式炒河粉",
+        "ja": "パッタイ",
+        "es": "Pad Thai"
+      },
+      {
+        "en": "Spaghetti",
+        "zh": "意大利面",
+        "ja": "スパゲッティ",
+        "es": "Espagueti"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Japan has countless regional ramen styles. Famous varieties include tonkotsu (Fukuoka), miso (Sapporo), and shoyu (Tokyo).",
+      "zh": "日本有无数种地方拉面风格。著名的有豚骨拉面（福冈）、味噌拉面（札幌）和酱油拉面（东京）。",
+      "ja": "日本には数え切れないほどのご当地ラーメンがあります。とんこつ（福岡）、味噌（札幌）、醤油（東京）が有名です。",
+      "es": "Japon tiene innumerables estilos regionales de ramen. Variedades famosas incluyen tonkotsu (Fukuoka), miso (Sapporo) y shoyu (Tokio)."
+    }
+  },
+  {
+    "id": "current_beginner_051",
+    "q": {
+      "en": "What is the traditional Japanese tea that is widely consumed?",
+      "zh": "在日本被广泛饮用的传统茶是什么？",
+      "ja": "日本で広く飲まれている伝統的なお茶は何ですか？",
+      "es": "Cual es el te tradicional japones que se consume ampliamente?"
+    },
+    "c": [
+      {
+        "en": "Black tea",
+        "zh": "红茶",
+        "ja": "紅茶",
+        "es": "Te negro"
+      },
+      {
+        "en": "Green tea",
+        "zh": "绿茶",
+        "ja": "緑茶",
+        "es": "Te verde"
+      },
+      {
+        "en": "Chamomile tea",
+        "zh": "洋甘菊茶",
+        "ja": "カモミールティー",
+        "es": "Te de manzanilla"
+      },
+      {
+        "en": "Oolong tea",
+        "zh": "乌龙茶",
+        "ja": "ウーロン茶",
+        "es": "Te oolong"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Green tea (ryokucha) is served for free at most Japanese restaurants. Matcha is a powdered form used in traditional tea ceremonies.",
+      "zh": "绿茶（绿茶）在大多数日本餐厅免费提供。抹茶是传统茶道中使用的粉末形式。",
+      "ja": "緑茶はほとんどの日本の飲食店で無料で提供されます。抹茶は伝統的な茶道で使われる粉末状のお茶です。",
+      "es": "El te verde (ryokucha) se sirve gratis en la mayoria de los restaurantes japoneses. El matcha es una forma en polvo usada en ceremonias de te tradicionales."
+    }
+  },
+  {
+    "id": "current_beginner_052",
+    "q": {
+      "en": "What are onsen in Japan?",
+      "zh": "日本的温泉是什么？",
+      "ja": "温泉とは何ですか？",
+      "es": "Que son los onsen en Japon?"
+    },
+    "c": [
+      {
+        "en": "Traditional restaurants",
+        "zh": "传统餐厅",
+        "ja": "伝統的なレストラン",
+        "es": "Restaurantes tradicionales"
+      },
+      {
+        "en": "Natural hot spring baths",
+        "zh": "天然温泉浴场",
+        "ja": "天然の温泉入浴施設",
+        "es": "Banos de aguas termales naturales"
+      },
+      {
+        "en": "Buddhist temples",
+        "zh": "佛教寺庙",
+        "ja": "仏教寺院",
+        "es": "Templos budistas"
+      },
+      {
+        "en": "Traditional gardens",
+        "zh": "传统花园",
+        "ja": "伝統的な庭園",
+        "es": "Jardines tradicionales"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Japan has over 27,000 hot spring sources. Bathing in onsen is a beloved cultural practice for relaxation and health.",
+      "zh": "日本有超过27,000个温泉源。泡温泉是深受喜爱的放松和健康文化习俗。",
+      "ja": "日本には27,000以上の温泉源があります。温泉入浴はリラクゼーションと健康のための大切な文化です。",
+      "es": "Japon tiene mas de 27,000 fuentes termales. Banarse en onsen es una practica cultural amada para la relajacion y la salud."
+    }
+  },
+  {
+    "id": "current_beginner_053",
+    "q": {
+      "en": "What is the difference between a shrine and a temple in Japan?",
+      "zh": "日本的神社和寺庙有什么区别？",
+      "ja": "日本の神社とお寺の違いは何ですか？",
+      "es": "Cual es la diferencia entre un santuario y un templo en Japon?"
+    },
+    "c": [
+      {
+        "en": "Shrines are Shinto, temples are Buddhist",
+        "zh": "神社是神道教的，寺庙是佛教的",
+        "ja": "神社は神道、お寺は仏教",
+        "es": "Los santuarios son sintoistas, los templos son budistas"
+      },
+      {
+        "en": "They are the same thing",
+        "zh": "它们是一样的",
+        "ja": "同じものです",
+        "es": "Son lo mismo"
+      },
+      {
+        "en": "Shrines are Buddhist, temples are Shinto",
+        "zh": "神社是佛教的，寺庙是神道教的",
+        "ja": "神社は仏教、お寺は神道",
+        "es": "Los santuarios son budistas, los templos son sintoistas"
+      },
+      {
+        "en": "Shrines are old, temples are new",
+        "zh": "神社是古老的，寺庙是新的",
+        "ja": "神社は古く、お寺は新しい",
+        "es": "Los santuarios son viejos, los templos son nuevos"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Shrines (jinja) are marked by torii gates and belong to Shinto. Temples (tera/ji) belong to Buddhism. Many Japanese visit both.",
+      "zh": "神社以鸟居门为标志，属于神道教。寺庙属于佛教。许多日本人两者都会参拜。",
+      "ja": "神社は鳥居が目印で神道のものです。お寺は仏教のものです。多くの日本人は両方を参拝します。",
+      "es": "Los santuarios (jinja) estan marcados por puertas torii y pertenecen al sintoismo. Los templos (tera/ji) pertenecen al budismo. Muchos japoneses visitan ambos."
+    }
+  },
+  {
+    "id": "current_beginner_054",
+    "q": {
+      "en": "What color are the famous torii gates at Shinto shrines?",
+      "zh": "神道教神社著名的鸟居门是什么颜色？",
+      "ja": "神社の有名な鳥居は何色ですか？",
+      "es": "De que color son las famosas puertas torii en los santuarios sintoistas?"
+    },
+    "c": [
+      {
+        "en": "Blue",
+        "zh": "蓝色",
+        "ja": "青",
+        "es": "Azul"
+      },
+      {
+        "en": "Green",
+        "zh": "绿色",
+        "ja": "緑",
+        "es": "Verde"
+      },
+      {
+        "en": "Red (vermillion)",
+        "zh": "红色（朱红色）",
+        "ja": "赤（朱色）",
+        "es": "Rojo (bermellon)"
+      },
+      {
+        "en": "White",
+        "zh": "白色",
+        "ja": "白",
+        "es": "Blanco"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "The red color of torii gates is believed to ward off evil spirits. Fushimi Inari Shrine in Kyoto has thousands of red torii gates in a row.",
+      "zh": "鸟居门的红色被认为可以驱除邪灵。京都的伏见稻荷大社有数千座连续排列的红色鸟居门。",
+      "ja": "鳥居の赤い色は魔除けの意味があるとされています。京都の伏見稲荷大社には数千本の赤い鳥居が連なっています。",
+      "es": "Se cree que el color rojo de las puertas torii ahuyenta a los espiritus malignos. El Santuario Fushimi Inari en Kioto tiene miles de puertas torii rojas en fila."
+    }
+  },
+  {
+    "id": "current_beginner_055",
+    "q": {
+      "en": "What does konnichiwa mean in Japanese?",
+      "zh": "日语中konnichiwa是什么意思？",
+      "ja": "「こんにちは」はどういう意味ですか？",
+      "es": "Que significa konnichiwa en japones?"
+    },
+    "c": [
+      {
+        "en": "Goodbye",
+        "zh": "再见",
+        "ja": "さようなら",
+        "es": "Adios"
+      },
+      {
+        "en": "Thank you",
+        "zh": "谢谢",
+        "ja": "ありがとう",
+        "es": "Gracias"
+      },
+      {
+        "en": "Hello / Good afternoon",
+        "zh": "你好/下午好",
+        "ja": "こんにちは（挨拶）",
+        "es": "Hola / Buenas tardes"
+      },
+      {
+        "en": "Good night",
+        "zh": "晚安",
+        "ja": "おやすみなさい",
+        "es": "Buenas noches"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Konnichiwa is the most well-known Japanese greeting. Other common greetings include ohayo gozaimasu (good morning) and konbanwa (good evening).",
+      "zh": "Konnichiwa是最著名的日语问候语。其他常见问候语包括ohayo gozaimasu（早上好）和konbanwa（晚上好）。",
+      "ja": "「こんにちは」は最もよく知られた日本語の挨拶です。他に「おはようございます」「こんばんは」などがあります。",
+      "es": "Konnichiwa es el saludo japones mas conocido. Otros saludos comunes incluyen ohayo gozaimasu (buenos dias) y konbanwa (buenas noches)."
+    }
+  },
+  {
+    "id": "current_beginner_056",
+    "q": {
+      "en": "What are tatami mats?",
+      "zh": "榻榻米是什么？",
+      "ja": "畳とは何ですか？",
+      "es": "Que son las esteras tatami?"
+    },
+    "c": [
+      {
+        "en": "Traditional Japanese straw floor mats",
+        "zh": "日本传统的草编地垫",
+        "ja": "日本の伝統的な藁の床材",
+        "es": "Esteras tradicionales japonesas de paja para el piso"
+      },
+      {
+        "en": "Japanese wall decorations",
+        "zh": "日本墙壁装饰",
+        "ja": "日本の壁飾り",
+        "es": "Decoraciones de pared japonesas"
+      },
+      {
+        "en": "Japanese cooking utensils",
+        "zh": "日本烹饪用具",
+        "ja": "日本の調理器具",
+        "es": "Utensilios de cocina japoneses"
+      },
+      {
+        "en": "Japanese musical instruments",
+        "zh": "日本乐器",
+        "ja": "日本の楽器",
+        "es": "Instrumentos musicales japoneses"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Tatami mats are made from woven rush grass and are used as flooring in traditional Japanese rooms. Room sizes in Japan are often measured in tatami.",
+      "zh": "榻榻米由编织的灯芯草制成，用作传统日式房间的地板。日本的房间大小通常以榻榻米为单位衡量。",
+      "ja": "畳はい草を編んで作られ、和室の床材として使われます。日本では部屋の広さを畳の数で表すことがあります。",
+      "es": "Las esteras tatami estan hechas de junco tejido y se usan como piso en las habitaciones japonesas tradicionales. El tamano de las habitaciones en Japon se mide a menudo en tatami."
+    }
+  },
+  {
+    "id": "current_beginner_057",
+    "q": {
+      "en": "What is a futon in Japan?",
+      "zh": "日本的布团是什么？",
+      "ja": "日本の布団とは何ですか？",
+      "es": "Que es un futon en Japon?"
+    },
+    "c": [
+      {
+        "en": "A type of sofa",
+        "zh": "一种沙发",
+        "ja": "ソファの一種",
+        "es": "Un tipo de sofa"
+      },
+      {
+        "en": "A traditional bedding set laid on the floor",
+        "zh": "铺在地板上的传统寝具",
+        "ja": "床に敷く伝統的な寝具",
+        "es": "Un juego de ropa de cama tradicional que se pone en el suelo"
+      },
+      {
+        "en": "A dining table",
+        "zh": "餐桌",
+        "ja": "食卓",
+        "es": "Una mesa de comedor"
+      },
+      {
+        "en": "A type of chair",
+        "zh": "一种椅子",
+        "ja": "椅子の一種",
+        "es": "Un tipo de silla"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Japanese futons are thin mattresses stored in closets during the day and laid out on tatami mats at night, saving space in small homes.",
+      "zh": "日本布团是薄床垫，白天收纳在壁橱里，晚上铺在榻榻米上，节省小户型的空间。",
+      "ja": "日本の布団は薄い敷布団で、昼間は押し入れに収納し、夜に畳の上に敷いて使います。狭い家でもスペースを有効活用できます。",
+      "es": "Los futones japoneses son colchones delgados que se guardan en armarios durante el dia y se extienden sobre tatami por la noche, ahorrando espacio en casas pequenas."
+    }
+  },
+  {
+    "id": "current_beginner_058",
+    "q": {
+      "en": "What is a kotatsu?",
+      "zh": "暖桌是什么？",
+      "ja": "こたつとは何ですか？",
+      "es": "Que es un kotatsu?"
+    },
+    "c": [
+      {
+        "en": "A Japanese sword",
+        "zh": "日本刀",
+        "ja": "日本刀",
+        "es": "Una espada japonesa"
+      },
+      {
+        "en": "A heated table with a blanket, used in winter",
+        "zh": "冬天使用的带毯子的加热桌",
+        "ja": "冬に使う布団付きの暖房テーブル",
+        "es": "Una mesa con calefaccion y manta, usada en invierno"
+      },
+      {
+        "en": "A type of Japanese drum",
+        "zh": "一种日本鼓",
+        "ja": "太鼓の一種",
+        "es": "Un tipo de tambor japones"
+      },
+      {
+        "en": "A Japanese garden lantern",
+        "zh": "日式花园灯笼",
+        "ja": "日本庭園の灯籠",
+        "es": "Una linterna de jardin japones"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "A kotatsu is a low table with a heater underneath and a blanket draped over it. Families gather around it in winter to stay warm.",
+      "zh": "暖桌是一张底部有加热器、上面盖着毯子的矮桌。冬天家人围坐在旁边取暖。",
+      "ja": "こたつはテーブルの下にヒーターがあり、布団をかけて使います。冬に家族が集まって温まります。",
+      "es": "Un kotatsu es una mesa baja con un calentador debajo y una manta cubriendo. Las familias se reunen alrededor en invierno para mantenerse calientes."
+    }
+  },
+  {
+    "id": "current_beginner_059",
+    "q": {
+      "en": "What is a hanko in Japan?",
+      "zh": "日本的印章是什么？",
+      "ja": "はんことは何ですか？",
+      "es": "Que es un hanko en Japon?"
+    },
+    "c": [
+      {
+        "en": "A type of food",
+        "zh": "一种食物",
+        "ja": "食べ物の一種",
+        "es": "Un tipo de comida"
+      },
+      {
+        "en": "A personal name seal used instead of signatures",
+        "zh": "代替签名使用的个人姓名印章",
+        "ja": "署名の代わりに使う個人の印鑑",
+        "es": "Un sello personal de nombre usado en lugar de firmas"
+      },
+      {
+        "en": "A festival decoration",
+        "zh": "节日装饰",
+        "ja": "祭りの飾り",
+        "es": "Una decoracion de festival"
+      },
+      {
+        "en": "A type of clothing",
+        "zh": "一种服装",
+        "ja": "衣服の一種",
+        "es": "Un tipo de ropa"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Hanko (personal seals) have been used in Japan for centuries to sign official documents. While digital signatures are growing, hanko remain widely used.",
+      "zh": "印章在日本已使用了几个世纪，用于签署正式文件。虽然数字签名在增长，但印章仍被广泛使用。",
+      "ja": "はんこは何世紀にもわたり公式文書の署名に使われてきました。デジタル署名が普及しつつありますが、まだ広く使われています。",
+      "es": "Los hanko (sellos personales) se han usado en Japon durante siglos para firmar documentos oficiales. Aunque las firmas digitales estan creciendo, los hanko siguen siendo ampliamente usados."
+    }
+  },
+  {
+    "id": "current_beginner_060",
+    "q": {
+      "en": "What are Japanese gardens known for?",
+      "zh": "日本花园以什么闻名？",
+      "ja": "日本庭園は何で知られていますか？",
+      "es": "Por que son conocidos los jardines japoneses?"
+    },
+    "c": [
+      {
+        "en": "Large swimming pools",
+        "zh": "大型游泳池",
+        "ja": "大きなプール",
+        "es": "Grandes piscinas"
+      },
+      {
+        "en": "Careful design with rocks, water, plants, and tranquility",
+        "zh": "精心设计的岩石、水、植物和宁静",
+        "ja": "岩、水、植物による精緻なデザインと静寂",
+        "es": "Diseno cuidadoso con rocas, agua, plantas y tranquilidad"
+      },
+      {
+        "en": "Roller coasters",
+        "zh": "过山车",
+        "ja": "ジェットコースター",
+        "es": "Montanas rusas"
+      },
+      {
+        "en": "Large parking areas",
+        "zh": "大型停车场",
+        "ja": "広い駐車場",
+        "es": "Grandes areas de estacionamiento"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Japanese gardens aim to create a miniature representation of nature. Zen rock gardens (karesansui) use raked gravel to represent water.",
+      "zh": "日本花园旨在创造自然的微缩景观。禅意枯山水花园用耙过的砾石来表现水。",
+      "ja": "日本庭園は自然の縮小版を作ることを目指しています。枯山水は砂利を水に見立てた禅の庭園です。",
+      "es": "Los jardines japoneses buscan crear una representacion en miniatura de la naturaleza. Los jardines de rocas zen (karesansui) usan grava rastrillada para representar agua."
+    }
+  },
+  {
+    "id": "current_beginner_061",
+    "q": {
+      "en": "What kind of forest is Japan famous for, especially in Kyoto?",
+      "zh": "日本以什么样的森林闻名，尤其是在京都？",
+      "ja": "日本、特に京都で有名な森は何ですか？",
+      "es": "Por que tipo de bosque es famoso Japon, especialmente en Kioto?"
+    },
+    "c": [
+      {
+        "en": "Pine forests",
+        "zh": "松树林",
+        "ja": "松林",
+        "es": "Bosques de pinos"
+      },
+      {
+        "en": "Bamboo forests",
+        "zh": "竹林",
+        "ja": "竹林",
+        "es": "Bosques de bambu"
+      },
+      {
+        "en": "Oak forests",
+        "zh": "橡树林",
+        "ja": "樫の森",
+        "es": "Bosques de robles"
+      },
+      {
+        "en": "Palm forests",
+        "zh": "棕榈林",
+        "ja": "ヤシの森",
+        "es": "Bosques de palmeras"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "The Arashiyama Bamboo Grove in Kyoto is one of Japan most photographed spots. Bamboo has deep cultural significance in Japan.",
+      "zh": "京都的岚山竹林是日本最受欢迎的拍照景点之一。竹子在日本有着深厚的文化意义。",
+      "ja": "京都の嵐山竹林は日本で最も写真に撮られるスポットの一つです。竹は日本文化で深い意味を持っています。",
+      "es": "El Bosque de Bambu de Arashiyama en Kioto es uno de los lugares mas fotografiados de Japon. El bambu tiene un profundo significado cultural en Japon."
+    }
+  },
+  {
+    "id": "current_beginner_062",
+    "q": {
+      "en": "What decorative fish are commonly found in Japanese ponds?",
+      "zh": "日本池塘中常见的观赏鱼是什么？",
+      "ja": "日本の池でよく見られる観賞魚は何ですか？",
+      "es": "Que peces decorativos se encuentran comunmente en los estanques japoneses?"
+    },
+    "c": [
+      {
+        "en": "Goldfish",
+        "zh": "金鱼",
+        "ja": "金魚",
+        "es": "Peces dorados"
+      },
+      {
+        "en": "Koi fish",
+        "zh": "锦鲤",
+        "ja": "鯉",
+        "es": "Peces koi"
+      },
+      {
+        "en": "Salmon",
+        "zh": "三文鱼",
+        "ja": "サーモン",
+        "es": "Salmon"
+      },
+      {
+        "en": "Tuna",
+        "zh": "金枪鱼",
+        "ja": "マグロ",
+        "es": "Atun"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Koi fish are symbols of perseverance and good fortune in Japan. Some prize koi can be worth hundreds of thousands of dollars.",
+      "zh": "锦鲤是日本毅力和好运的象征。一些珍贵的锦鲤价值可达数十万美元。",
+      "ja": "鯉は日本では忍耐と幸運の象徴です。高級な鯉は数千万円の価値があることもあります。",
+      "es": "Los peces koi son simbolos de perseverancia y buena fortuna en Japon. Algunos koi premiados pueden valer cientos de miles de dolares."
+    }
+  },
+  {
+    "id": "current_beginner_063",
+    "q": {
+      "en": "What is the national sport of Japan?",
+      "zh": "日本的国技是什么？",
+      "ja": "日本の国技は何ですか？",
+      "es": "Cual es el deporte nacional de Japon?"
+    },
+    "c": [
+      {
+        "en": "Baseball",
+        "zh": "棒球",
+        "ja": "野球",
+        "es": "Beisbol"
+      },
+      {
+        "en": "Soccer",
+        "zh": "足球",
+        "ja": "サッカー",
+        "es": "Futbol"
+      },
+      {
+        "en": "Sumo",
+        "zh": "相扑",
+        "ja": "相撲",
+        "es": "Sumo"
+      },
+      {
+        "en": "Judo",
+        "zh": "柔道",
+        "ja": "柔道",
+        "es": "Judo"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Sumo wrestling dates back over 1,500 years. Professional sumo tournaments (basho) are held six times a year in Japan.",
+      "zh": "相扑有超过1500年的历史。日本每年举行六次专业相扑锦标赛（场所）。",
+      "ja": "相撲は1,500年以上の歴史があります。大相撲本場所は年に6回開催されます。",
+      "es": "La lucha sumo tiene mas de 1,500 anos de historia. Los torneos profesionales de sumo (basho) se celebran seis veces al ano en Japon."
+    }
+  },
+  {
+    "id": "current_beginner_064",
+    "q": {
+      "en": "Which martial arts originated in Japan?",
+      "zh": "哪些武术起源于日本？",
+      "ja": "日本発祥の武道はどれですか？",
+      "es": "Que artes marciales se originaron en Japon?"
+    },
+    "c": [
+      {
+        "en": "Taekwondo and Kung Fu",
+        "zh": "跆拳道和功夫",
+        "ja": "テコンドーとカンフー",
+        "es": "Taekwondo y Kung Fu"
+      },
+      {
+        "en": "Judo and Karate",
+        "zh": "柔道和空手道",
+        "ja": "柔道と空手",
+        "es": "Judo y Karate"
+      },
+      {
+        "en": "Muay Thai and Capoeira",
+        "zh": "泰拳和卡波耶拉",
+        "ja": "ムエタイとカポエイラ",
+        "es": "Muay Thai y Capoeira"
+      },
+      {
+        "en": "Boxing and Wrestling",
+        "zh": "拳击和摔跤",
+        "ja": "ボクシングとレスリング",
+        "es": "Boxeo y Lucha libre"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Judo became an Olympic sport in 1964 at the Tokyo Olympics. Karate was added to the Olympics for the 2020 Tokyo Games.",
+      "zh": "柔道于1964年东京奥运会成为奥运项目。空手道于2020年东京奥运会被列入奥运项目。",
+      "ja": "柔道は1964年の東京オリンピックでオリンピック種目になりました。空手は2020年東京大会で追加されました。",
+      "es": "El judo se convirtio en deporte olimpico en 1964 en los Juegos Olimpicos de Tokio. El karate fue anadido para los Juegos de Tokio 2020."
+    }
+  },
+  {
+    "id": "current_beginner_065",
+    "q": {
+      "en": "What is the traditional formal garment of Japan called?",
+      "zh": "日本传统的正式服装叫什么？",
+      "ja": "日本の伝統的な正装は何と呼ばれていますか？",
+      "es": "Como se llama la prenda formal tradicional de Japon?"
+    },
+    "c": [
+      {
+        "en": "Hanbok",
+        "zh": "韩服",
+        "ja": "韓服",
+        "es": "Hanbok"
+      },
+      {
+        "en": "Kimono",
+        "zh": "和服",
+        "ja": "着物",
+        "es": "Kimono"
+      },
+      {
+        "en": "Cheongsam",
+        "zh": "旗袍",
+        "ja": "チャイナドレス",
+        "es": "Cheongsam"
+      },
+      {
+        "en": "Sari",
+        "zh": "纱丽",
+        "ja": "サリー",
+        "es": "Sari"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "The word kimono literally means thing to wear. Today, kimono are mainly worn for special occasions like weddings, tea ceremonies, and Coming of Age Day.",
+      "zh": "和服这个词的字面意思是穿的东西。如今，和服主要在婚礼、茶道和成人节等特殊场合穿着。",
+      "ja": "着物は文字通り「着るもの」を意味します。現在は結婚式、茶道、成人式などの特別な場面で着用されます。",
+      "es": "La palabra kimono significa literalmente cosa para vestir. Hoy en dia, los kimono se usan principalmente en ocasiones especiales como bodas, ceremonias de te y el Dia de la Mayoria de Edad."
+    }
+  },
+  {
+    "id": "current_beginner_066",
+    "q": {
+      "en": "What is a yukata?",
+      "zh": "浴衣是什么？",
+      "ja": "浴衣とは何ですか？",
+      "es": "Que es un yukata?"
+    },
+    "c": [
+      {
+        "en": "A type of Japanese food",
+        "zh": "一种日本食物",
+        "ja": "日本料理の一種",
+        "es": "Un tipo de comida japonesa"
+      },
+      {
+        "en": "A casual summer kimono made of cotton",
+        "zh": "棉质的休闲夏季和服",
+        "ja": "木綿の夏用の軽い着物",
+        "es": "Un kimono casual de verano hecho de algodon"
+      },
+      {
+        "en": "A Japanese board game",
+        "zh": "日本棋盘游戏",
+        "ja": "日本のボードゲーム",
+        "es": "Un juego de mesa japones"
+      },
+      {
+        "en": "A traditional Japanese weapon",
+        "zh": "日本传统武器",
+        "ja": "日本の伝統的な武器",
+        "es": "Un arma tradicional japonesa"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Yukata are commonly worn at summer festivals (matsuri), hot spring resorts, and after bathing at traditional inns (ryokan).",
+      "zh": "浴衣通常在夏季祭典（祭り）、温泉度假村和传统旅馆（�的馆）泡澡后穿着。",
+      "ja": "浴衣は夏祭り、温泉旅館、旅館での入浴後によく着用されます。",
+      "es": "Los yukata se usan comunmente en festivales de verano (matsuri), centros termales y despues del bano en posadas tradicionales (ryokan)."
+    }
+  },
+  {
+    "id": "current_beginner_067",
+    "q": {
+      "en": "What is the Japanese custom of bringing souvenirs back for friends and coworkers called?",
+      "zh": "日本给朋友和同事带纪念品回来的习俗叫什么？",
+      "ja": "旅行先から友人や同僚にお土産を買ってくる習慣を何と言いますか？",
+      "es": "Como se llama la costumbre japonesa de traer recuerdos para amigos y companeros de trabajo?"
+    },
+    "c": [
+      {
+        "en": "Omiyage",
+        "zh": "伴手礼",
+        "ja": "お土産",
+        "es": "Omiyage"
+      },
+      {
+        "en": "Origami",
+        "zh": "折纸",
+        "ja": "折り紙",
+        "es": "Origami"
+      },
+      {
+        "en": "Otaku",
+        "zh": "御宅",
+        "ja": "オタク",
+        "es": "Otaku"
+      },
+      {
+        "en": "Oshibori",
+        "zh": "热毛巾",
+        "ja": "おしぼり",
+        "es": "Oshibori"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "Omiyage culture is deeply rooted in Japan. Every tourist spot has unique local souvenirs, often beautifully packaged sweets or snacks.",
+      "zh": "伴手礼文化深植于日本。每个旅游景点都有独特的当地纪念品，通常是包装精美的糖果或零食。",
+      "ja": "お土産文化は日本に深く根付いています。観光地ごとに独自のお土産があり、多くは美しく包装されたお菓子です。",
+      "es": "La cultura del omiyage esta profundamente arraigada en Japon. Cada lugar turistico tiene recuerdos locales unicos, a menudo dulces o snacks bellamente empaquetados."
+    }
+  },
+  {
+    "id": "current_beginner_068",
+    "q": {
+      "en": "Is cash still commonly used in Japan?",
+      "zh": "日本还普遍使用现金吗？",
+      "ja": "日本ではまだ現金が一般的に使われていますか？",
+      "es": "Se sigue usando comunmente el efectivo en Japon?"
+    },
+    "c": [
+      {
+        "en": "No, everything is digital",
+        "zh": "不，一切都是数字化的",
+        "ja": "いいえ、すべてデジタルです",
+        "es": "No, todo es digital"
+      },
+      {
+        "en": "Yes, cash is still very commonly used",
+        "zh": "是的，现金仍然非常普遍使用",
+        "ja": "はい、まだ現金は非常によく使われています",
+        "es": "Si, el efectivo todavia se usa muy comunmente"
+      },
+      {
+        "en": "Only coins, no bills",
+        "zh": "只有硬币，没有纸币",
+        "ja": "硬貨のみ、紙幣なし",
+        "es": "Solo monedas, no billetes"
+      },
+      {
+        "en": "Cash was banned in 2020",
+        "zh": "2020年禁止使用现金",
+        "ja": "2020年に現金は廃止されました",
+        "es": "El efectivo fue prohibido en 2020"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Despite being a tech-advanced nation, Japan remains a cash-heavy society. Many small shops and restaurants still prefer cash payment.",
+      "zh": "尽管日本是科技先进国家，但仍然是一个以现金为主的社会。许多小商店和餐厅仍然偏好现金支付。",
+      "ja": "テクノロジー先進国にもかかわらず、日本は依然として現金社会です。多くの小さな店やレストランはまだ現金を好みます。",
+      "es": "A pesar de ser una nacion tecnologicamente avanzada, Japon sigue siendo una sociedad con mucho uso de efectivo. Muchas tiendas pequenas y restaurantes prefieren el pago en efectivo."
+    }
+  },
+  {
+    "id": "current_beginner_069",
+    "q": {
+      "en": "What hours are most Japanese convenience stores open?",
+      "zh": "大多数日本便利店的营业时间是？",
+      "ja": "日本のコンビニの営業時間は？",
+      "es": "En que horario estan abiertas la mayoria de las tiendas de conveniencia japonesas?"
+    },
+    "c": [
+      {
+        "en": "8 AM to 10 PM",
+        "zh": "早8点到晚10点",
+        "ja": "朝8時から夜10時",
+        "es": "8 AM a 10 PM"
+      },
+      {
+        "en": "24 hours a day",
+        "zh": "每天24小时",
+        "ja": "24時間営業",
+        "es": "24 horas al dia"
+      },
+      {
+        "en": "6 AM to midnight",
+        "zh": "早6点到午夜",
+        "ja": "朝6時から深夜0時",
+        "es": "6 AM a medianoche"
+      },
+      {
+        "en": "9 AM to 9 PM",
+        "zh": "早9点到晚9点",
+        "ja": "朝9時から夜9時",
+        "es": "9 AM a 9 PM"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Japanese konbini are open 24 hours, 7 days a week. They offer far more services than Western convenience stores, including bill payment and ticket purchases.",
+      "zh": "日本的便利店每周7天、每天24小时营业。它们提供的服务远多于西方便利店，包括缴费和购票。",
+      "ja": "日本のコンビニは年中無休24時間営業です。公共料金の支払いやチケット購入など、欧米のコンビニより多くのサービスを提供しています。",
+      "es": "Los konbini japoneses estan abiertos las 24 horas, los 7 dias de la semana. Ofrecen muchos mas servicios que las tiendas de conveniencia occidentales, incluyendo pago de facturas y compra de boletos."
+    }
+  },
+  {
+    "id": "current_beginner_070",
+    "q": {
+      "en": "Why are Japanese train stations notable?",
+      "zh": "日本火车站为什么引人注目？",
+      "ja": "日本の駅が注目される理由は何ですか？",
+      "es": "Por que son notables las estaciones de tren japonesas?"
+    },
+    "c": [
+      {
+        "en": "They are very small and simple",
+        "zh": "它们非常小而简单",
+        "ja": "非常に小さくてシンプル",
+        "es": "Son muy pequenas y simples"
+      },
+      {
+        "en": "They are huge complexes with many shops and restaurants",
+        "zh": "它们是拥有许多商店和餐厅的大型综合体",
+        "ja": "多くの店やレストランがある巨大な複合施設",
+        "es": "Son grandes complejos con muchas tiendas y restaurantes"
+      },
+      {
+        "en": "They have no signs",
+        "zh": "它们没有标志",
+        "ja": "案内表示がない",
+        "es": "No tienen senales"
+      },
+      {
+        "en": "They are outdoor only",
+        "zh": "它们只在室外",
+        "ja": "屋外のみ",
+        "es": "Solo son al aire libre"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Shinjuku Station in Tokyo is the busiest train station in the world, with over 3.5 million passengers passing through daily.",
+      "zh": "东京的新宿站是世界上最繁忙的火车站，每天有超过350万乘客通过。",
+      "ja": "東京の新宿駅は世界で最も利用者数の多い駅で、毎日350万人以上が利用しています。",
+      "es": "La estacion Shinjuku en Tokio es la estacion de tren mas concurrida del mundo, con mas de 3.5 millones de pasajeros diarios."
+    }
+  },
+  {
+    "id": "current_beginner_071",
+    "q": {
+      "en": "What is Tokyo Tower?",
+      "zh": "东京塔是什么？",
+      "ja": "東京タワーとは何ですか？",
+      "es": "Que es la Torre de Tokio?"
+    },
+    "c": [
+      {
+        "en": "A clock tower from the Edo period",
+        "zh": "江户时代的钟楼",
+        "ja": "江戸時代の時計塔",
+        "es": "Una torre de reloj del periodo Edo"
+      },
+      {
+        "en": "A red-and-white communications tower inspired by the Eiffel Tower",
+        "zh": "受埃菲尔铁塔启发的红白色通信塔",
+        "ja": "エッフェル塔に着想を得た赤と白の電波塔",
+        "es": "Una torre de comunicaciones roja y blanca inspirada en la Torre Eiffel"
+      },
+      {
+        "en": "A medieval castle",
+        "zh": "中世纪城堡",
+        "ja": "中世の城",
+        "es": "Un castillo medieval"
+      },
+      {
+        "en": "A modern office building",
+        "zh": "现代办公楼",
+        "ja": "近代的なオフィスビル",
+        "es": "Un edificio de oficinas moderno"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Tokyo Tower was completed in 1958 and stands 333 meters tall. It was Japan tallest structure until Tokyo Skytree surpassed it.",
+      "zh": "东京塔于1958年建成，高333米。它是日本最高的建筑，直到东京晴空塔超越了它。",
+      "ja": "東京タワーは1958年に完成し、高さ333メートルです。東京スカイツリーに抜かれるまで日本一高い建造物でした。",
+      "es": "La Torre de Tokio se completo en 1958 y mide 333 metros de altura. Fue la estructura mas alta de Japon hasta que Tokyo Skytree la supero."
+    }
+  },
+  {
+    "id": "current_beginner_072",
+    "q": {
+      "en": "What is the tallest tower in Japan?",
+      "zh": "日本最高的塔是什么？",
+      "ja": "日本で最も高いタワーは何ですか？",
+      "es": "Cual es la torre mas alta de Japon?"
+    },
+    "c": [
+      {
+        "en": "Tokyo Tower",
+        "zh": "东京塔",
+        "ja": "東京タワー",
+        "es": "Torre de Tokio"
+      },
+      {
+        "en": "Osaka Tower",
+        "zh": "大阪塔",
+        "ja": "大阪タワー",
+        "es": "Torre de Osaka"
+      },
+      {
+        "en": "Tokyo Skytree",
+        "zh": "东京晴空塔",
+        "ja": "東京スカイツリー",
+        "es": "Tokyo Skytree"
+      },
+      {
+        "en": "Kyoto Tower",
+        "zh": "京都塔",
+        "ja": "京都タワー",
+        "es": "Torre de Kioto"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Tokyo Skytree stands at 634 meters, making it the tallest tower in the world. It opened in 2012 and serves as a broadcasting and observation tower.",
+      "zh": "东京晴空塔高634米，是世界上最高的塔。它于2012年开放，用作广播和观景塔。",
+      "ja": "東京スカイツリーは高さ634メートルで、世界一高いタワーです。2012年に開業し、電波塔と展望台の役割を担っています。",
+      "es": "Tokyo Skytree mide 634 metros, convirtiendolo en la torre mas alta del mundo. Abrio en 2012 y sirve como torre de transmision y observacion."
+    }
+  },
+  {
+    "id": "current_beginner_073",
+    "q": {
+      "en": "What Japanese holiday is celebrated on the second Monday of January?",
+      "zh": "一月第二个星期一庆祝的日本节日是什么？",
+      "ja": "1月の第2月曜日に祝われる日本の祝日は何ですか？",
+      "es": "Que fiesta japonesa se celebra el segundo lunes de enero?"
+    },
+    "c": [
+      {
+        "en": "Sports Day",
+        "zh": "体育日",
+        "ja": "スポーツの日",
+        "es": "Dia del Deporte"
+      },
+      {
+        "en": "Coming of Age Day",
+        "zh": "成人节",
+        "ja": "成人の日",
+        "es": "Dia de la Mayoria de Edad"
+      },
+      {
+        "en": "Respect for the Aged Day",
+        "zh": "敬老节",
+        "ja": "敬老の日",
+        "es": "Dia del Respeto a los Mayores"
+      },
+      {
+        "en": "Children Day",
+        "zh": "儿童节",
+        "ja": "こどもの日",
+        "es": "Dia del Nino"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Coming of Age Day celebrates young people who have reached adulthood. Municipal governments host ceremonies for the new adults.",
+      "zh": "成人节庆祝年轻人达到成年。市政府为新成年人举办仪式。",
+      "ja": "成人の日は新成人を祝う祝日です。各自治体が成人式を開催します。",
+      "es": "El Dia de la Mayoria de Edad celebra a los jovenes que han alcanzado la edad adulta. Los gobiernos municipales organizan ceremonias para los nuevos adultos."
+    }
+  },
+  {
+    "id": "current_beginner_074",
+    "q": {
+      "en": "When is Respect for the Aged Day celebrated in Japan?",
+      "zh": "日本的敬老节在什么时候庆祝？",
+      "ja": "敬老の日はいつ祝われますか？",
+      "es": "Cuando se celebra el Dia del Respeto a los Mayores en Japon?"
+    },
+    "c": [
+      {
+        "en": "March",
+        "zh": "三月",
+        "ja": "3月",
+        "es": "Marzo"
+      },
+      {
+        "en": "July",
+        "zh": "七月",
+        "ja": "7月",
+        "es": "Julio"
+      },
+      {
+        "en": "September",
+        "zh": "九月",
+        "ja": "9月",
+        "es": "Septiembre"
+      },
+      {
+        "en": "December",
+        "zh": "十二月",
+        "ja": "12月",
+        "es": "Diciembre"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Respect for the Aged Day (Keiro no Hi) is held on the third Monday of September. It honors elderly citizens and celebrates their contributions.",
+      "zh": "敬老节在九月的第三个星期一举行。它向老年人致敬并庆祝他们的贡献。",
+      "ja": "敬老の日は9月の第3月曜日です。高齢者を敬い、その貢献を称えます。",
+      "es": "El Dia del Respeto a los Mayores (Keiro no Hi) se celebra el tercer lunes de septiembre. Honra a los ciudadanos mayores y celebra sus contribuciones."
+    }
+  },
+  {
+    "id": "current_beginner_075",
+    "q": {
+      "en": "When is Sports Day (formerly National Sports Day) celebrated in Japan?",
+      "zh": "日本的体育日（原名国民体育日）在什么时候庆祝？",
+      "ja": "スポーツの日（旧体育の日）はいつですか？",
+      "es": "Cuando se celebra el Dia del Deporte en Japon?"
+    },
+    "c": [
+      {
+        "en": "January",
+        "zh": "一月",
+        "ja": "1月",
+        "es": "Enero"
+      },
+      {
+        "en": "October",
+        "zh": "十月",
+        "ja": "10月",
+        "es": "Octubre"
+      },
+      {
+        "en": "June",
+        "zh": "六月",
+        "ja": "6月",
+        "es": "Junio"
+      },
+      {
+        "en": "December",
+        "zh": "十二月",
+        "ja": "12月",
+        "es": "Diciembre"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Sports Day is held on the second Monday of October. It commemorates the opening of the 1964 Tokyo Olympics.",
+      "zh": "体育日在十月的第二个星期一举行。它纪念1964年东京奥运会的开幕。",
+      "ja": "スポーツの日は10月の第2月曜日です。1964年の東京オリンピック開会式を記念しています。",
+      "es": "El Dia del Deporte se celebra el segundo lunes de octubre. Conmemora la inauguracion de los Juegos Olimpicos de Tokio de 1964."
+    }
+  },
+  {
+    "id": "current_beginner_076",
+    "q": {
+      "en": "What famous automobile company is headquartered in Toyota City, Japan?",
+      "zh": "哪家著名的汽车公司总部位于日本丰田市？",
+      "ja": "日本の豊田市に本社がある有名な自動車会社は？",
+      "es": "Que famosa compania de automoviles tiene su sede en la ciudad de Toyota, Japon?"
+    },
+    "c": [
+      {
+        "en": "Honda",
+        "zh": "本田",
+        "ja": "ホンダ",
+        "es": "Honda"
+      },
+      {
+        "en": "Nissan",
+        "zh": "日产",
+        "ja": "日産",
+        "es": "Nissan"
+      },
+      {
+        "en": "Toyota",
+        "zh": "丰田",
+        "ja": "トヨタ",
+        "es": "Toyota"
+      },
+      {
+        "en": "Mazda",
+        "zh": "马自达",
+        "ja": "マツダ",
+        "es": "Mazda"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Toyota is the world largest automobile manufacturer by sales volume. The city of Toyota was actually renamed after the company in 1959.",
+      "zh": "丰田是世界上按销量计最大的汽车制造商。丰田市实际上是在1959年以该公司的名字重新命名的。",
+      "ja": "トヨタは販売台数で世界最大の自動車メーカーです。豊田市は1959年に会社にちなんで改名されました。",
+      "es": "Toyota es el fabricante de automoviles mas grande del mundo por volumen de ventas. La ciudad de Toyota fue renombrada en honor a la compania en 1959."
+    }
+  },
+  {
+    "id": "current_beginner_077",
+    "q": {
+      "en": "Which Japanese company created the PlayStation gaming console?",
+      "zh": "哪家日本公司创造了PlayStation游戏机？",
+      "ja": "PlayStationを作った日本の会社はどこですか？",
+      "es": "Que compania japonesa creo la consola de juegos PlayStation?"
+    },
+    "c": [
+      {
+        "en": "Nintendo",
+        "zh": "任天堂",
+        "ja": "任天堂",
+        "es": "Nintendo"
+      },
+      {
+        "en": "Sony",
+        "zh": "索尼",
+        "ja": "ソニー",
+        "es": "Sony"
+      },
+      {
+        "en": "Panasonic",
+        "zh": "松下",
+        "ja": "パナソニック",
+        "es": "Panasonic"
+      },
+      {
+        "en": "Sega",
+        "zh": "世嘉",
+        "ja": "セガ",
+        "es": "Sega"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Sony launched the first PlayStation in 1994. The company is also famous for electronics, music, movies, and imaging products.",
+      "zh": "索尼于1994年推出了第一款PlayStation。该公司还以电子产品、音乐、电影和影像产品而闻名。",
+      "ja": "ソニーは1994年に初代PlayStationを発売しました。電子機器、音楽、映画、イメージング製品でも有名です。",
+      "es": "Sony lanzo la primera PlayStation en 1994. La compania tambien es famosa por electronica, musica, peliculas y productos de imagen."
+    }
+  },
+  {
+    "id": "current_beginner_078",
+    "q": {
+      "en": "Which Japanese company is famous for Mario and Pokemon games?",
+      "zh": "哪家日本公司以马里奥和宝可梦游戏而闻名？",
+      "ja": "マリオやポケモンのゲームで有名な日本の会社はどこですか？",
+      "es": "Que compania japonesa es famosa por los juegos de Mario y Pokemon?"
+    },
+    "c": [
+      {
+        "en": "Sony",
+        "zh": "索尼",
+        "ja": "ソニー",
+        "es": "Sony"
+      },
+      {
+        "en": "Honda",
+        "zh": "本田",
+        "ja": "ホンダ",
+        "es": "Honda"
+      },
+      {
+        "en": "Panasonic",
+        "zh": "松下",
+        "ja": "パナソニック",
+        "es": "Panasonic"
+      },
+      {
+        "en": "Nintendo",
+        "zh": "任天堂",
+        "ja": "任天堂",
+        "es": "Nintendo"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Nintendo was founded in 1889 originally as a playing card company in Kyoto. It transformed into one of the most influential video game companies in history.",
+      "zh": "任天堂于1889年在京都成立，最初是一家扑克牌公司。它转型为历史上最具影响力的电子游戏公司之一。",
+      "ja": "任天堂は1889年に京都で花札の会社として創業しました。現在は世界で最も影響力のあるゲーム会社の一つです。",
+      "es": "Nintendo fue fundada en 1889 originalmente como una compania de naipes en Kioto. Se transformo en una de las companias de videojuegos mas influyentes de la historia."
+    }
+  },
+  {
+    "id": "current_beginner_079",
+    "q": {
+      "en": "Which Japanese company is one of the largest motorcycle manufacturers in the world?",
+      "zh": "哪家日本公司是世界上最大的摩托车制造商之一？",
+      "ja": "世界最大のオートバイメーカーの一つである日本の会社はどこですか？",
+      "es": "Que compania japonesa es uno de los mayores fabricantes de motocicletas del mundo?"
+    },
+    "c": [
+      {
+        "en": "Toyota",
+        "zh": "丰田",
+        "ja": "トヨタ",
+        "es": "Toyota"
+      },
+      {
+        "en": "Honda",
+        "zh": "本田",
+        "ja": "ホンダ",
+        "es": "Honda"
+      },
+      {
+        "en": "Sony",
+        "zh": "索尼",
+        "ja": "ソニー",
+        "es": "Sony"
+      },
+      {
+        "en": "Nintendo",
+        "zh": "任天堂",
+        "ja": "任天堂",
+        "es": "Nintendo"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Honda is the world largest motorcycle manufacturer and also produces cars, power equipment, and aircraft engines.",
+      "zh": "本田是世界上最大的摩托车制造商，还生产汽车、电力设备和飞机发动机。",
+      "ja": "ホンダは世界最大のオートバイメーカーで、自動車、パワープロダクツ、航空機エンジンも製造しています。",
+      "es": "Honda es el mayor fabricante de motocicletas del mundo y tambien produce autos, equipos de energia y motores de avion."
+    }
+  },
+  {
+    "id": "current_beginner_080",
+    "q": {
+      "en": "What Japanese electronics company makes appliances and batteries and is based in Osaka?",
+      "zh": "哪家位于大阪的日本电子公司制造家电和电池？",
+      "ja": "大阪に本社がある家電やバッテリーを製造する日本の電機メーカーは？",
+      "es": "Que compania japonesa de electronica hace electrodomesticos y baterias y tiene sede en Osaka?"
+    },
+    "c": [
+      {
+        "en": "Sony",
+        "zh": "索尼",
+        "ja": "ソニー",
+        "es": "Sony"
+      },
+      {
+        "en": "Panasonic",
+        "zh": "松下",
+        "ja": "パナソニック",
+        "es": "Panasonic"
+      },
+      {
+        "en": "Nintendo",
+        "zh": "任天堂",
+        "ja": "任天堂",
+        "es": "Nintendo"
+      },
+      {
+        "en": "Toyota",
+        "zh": "丰田",
+        "ja": "トヨタ",
+        "es": "Toyota"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Panasonic was founded in 1918 by Konosuke Matsushita. It is one of the largest electronics manufacturers in the world, producing everything from TVs to EV batteries.",
+      "zh": "松下由松下幸之助于1918年创立。它是世界上最大的电子制造商之一，产品从电视到电动汽车电池。",
+      "ja": "パナソニックは1918年に松下幸之助によって創業されました。テレビからEV用バッテリーまで製造する世界最大の電機メーカーの一つです。",
+      "es": "Panasonic fue fundada en 1918 por Konosuke Matsushita. Es uno de los mayores fabricantes de electronica del mundo, produciendo desde televisores hasta baterias para vehiculos electricos."
+    }
+  },
+  {
+    "id": "current_beginner_081",
+    "q": {
+      "en": "What is Japan sometimes called due to its geographic location?",
+      "zh": "由于地理位置，日本有时被称为什么？",
+      "ja": "日本はその地理的位置からどう呼ばれることがありますか？",
+      "es": "Como se llama a veces a Japon debido a su ubicacion geografica?"
+    },
+    "c": [
+      {
+        "en": "The Land of the Rising Sun",
+        "zh": "日出之国",
+        "ja": "日出づる国",
+        "es": "La Tierra del Sol Naciente"
+      },
+      {
+        "en": "The Land of the Setting Sun",
+        "zh": "日落之国",
+        "ja": "日没の国",
+        "es": "La Tierra del Sol Poniente"
+      },
+      {
+        "en": "The Land of Snow",
+        "zh": "雪之国",
+        "ja": "雪の国",
+        "es": "La Tierra de la Nieve"
+      },
+      {
+        "en": "The Land of Wind",
+        "zh": "风之国",
+        "ja": "風の国",
+        "es": "La Tierra del Viento"
+      }
+    ],
+    "a": 0,
+    "trivia": {
+      "en": "The name Nihon (Japan) literally means origin of the sun. Japan is located east of the Asian mainland, where the sun rises.",
+      "zh": "日本（Nihon）的名字字面意思是太阳的起源。日本位于亚洲大陆以东，即太阳升起的方向。",
+      "ja": "「日本」は文字通り「太陽の起源」を意味します。日本はアジア大陸の東、太陽が昇る方角に位置しています。",
+      "es": "El nombre Nihon (Japon) significa literalmente origen del sol. Japon esta ubicado al este del continente asiatico, donde sale el sol."
+    }
+  },
+  {
+    "id": "current_beginner_082",
+    "q": {
+      "en": "How do Japanese summers generally feel?",
+      "zh": "日本的夏天一般感觉如何？",
+      "ja": "日本の夏は一般的にどのような気候ですか？",
+      "es": "Como se sienten generalmente los veranos japoneses?"
+    },
+    "c": [
+      {
+        "en": "Cold and dry",
+        "zh": "寒冷干燥",
+        "ja": "寒くて乾燥",
+        "es": "Frios y secos"
+      },
+      {
+        "en": "Hot and humid",
+        "zh": "炎热潮湿",
+        "ja": "暑くて湿度が高い",
+        "es": "Calurosos y humedos"
+      },
+      {
+        "en": "Mild and breezy",
+        "zh": "温和多风",
+        "ja": "穏やかで風が心地よい",
+        "es": "Suaves y ventosos"
+      },
+      {
+        "en": "Rainy and cold",
+        "zh": "多雨寒冷",
+        "ja": "雨が多くて寒い",
+        "es": "Lluviosos y frios"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Japanese summers, especially in Tokyo and Osaka, are known for extreme heat and humidity. Temperatures often exceed 35 degrees Celsius.",
+      "zh": "日本的夏天，尤其是东京和大阪，以极端炎热和潮湿而闻名。气温经常超过35摄氏度。",
+      "ja": "日本の夏は特に東京や大阪で酷暑と高湿度で知られています。気温は35度を超えることもよくあります。",
+      "es": "Los veranos japoneses, especialmente en Tokio y Osaka, son conocidos por el calor extremo y la humedad. Las temperaturas a menudo superan los 35 grados Celsius."
+    }
+  },
+  {
+    "id": "current_beginner_083",
+    "q": {
+      "en": "What Japanese word means hello when answering the phone?",
+      "zh": "日语中接电话时说的问候语是什么？",
+      "ja": "電話に出るときの日本語の挨拶は何ですか？",
+      "es": "Que palabra japonesa se dice al contestar el telefono?"
+    },
+    "c": [
+      {
+        "en": "Konnichiwa",
+        "zh": "你好",
+        "ja": "こんにちは",
+        "es": "Konnichiwa"
+      },
+      {
+        "en": "Sayonara",
+        "zh": "再见",
+        "ja": "さようなら",
+        "es": "Sayonara"
+      },
+      {
+        "en": "Moshi moshi",
+        "zh": "喂喂",
+        "ja": "もしもし",
+        "es": "Moshi moshi"
+      },
+      {
+        "en": "Sumimasen",
+        "zh": "对不起",
+        "ja": "すみません",
+        "es": "Sumimasen"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Moshi moshi is used exclusively for phone calls and is not used as a face-to-face greeting. It roughly translates to I speak, I speak.",
+      "zh": "Moshi moshi仅用于电话通话，不用于面对面问候。它大致翻译为我说，我说。",
+      "ja": "「もしもし」は電話専用の挨拶で、対面では使いません。「申す、申す」が語源とされています。",
+      "es": "Moshi moshi se usa exclusivamente para llamadas telefonicas y no se usa como saludo cara a cara. Se traduce aproximadamente como hablo, hablo."
+    }
+  },
+  {
+    "id": "current_beginner_084",
+    "q": {
+      "en": "What does arigatou gozaimasu mean in Japanese?",
+      "zh": "日语中arigatou gozaimasu是什么意思？",
+      "ja": "「ありがとうございます」はどういう意味ですか？",
+      "es": "Que significa arigatou gozaimasu en japones?"
+    },
+    "c": [
+      {
+        "en": "Excuse me",
+        "zh": "对不起",
+        "ja": "すみません",
+        "es": "Disculpe"
+      },
+      {
+        "en": "Good morning",
+        "zh": "早上好",
+        "ja": "おはようございます",
+        "es": "Buenos dias"
+      },
+      {
+        "en": "Thank you very much",
+        "zh": "非常感谢",
+        "ja": "大変感謝しています",
+        "es": "Muchas gracias"
+      },
+      {
+        "en": "Goodbye",
+        "zh": "再见",
+        "ja": "さようなら",
+        "es": "Adios"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Arigatou gozaimasu is the polite form of thank you. The casual version is simply arigatou, used with friends and family.",
+      "zh": "Arigatou gozaimasu是谢谢的礼貌形式。随意版本是简单的arigatou，用于朋友和家人之间。",
+      "ja": "「ありがとうございます」は丁寧な感謝の表現です。友人や家族には「ありがとう」とカジュアルに言います。",
+      "es": "Arigatou gozaimasu es la forma educada de gracias. La version casual es simplemente arigatou, usada con amigos y familia."
+    }
+  },
+  {
+    "id": "current_beginner_085",
+    "q": {
+      "en": "What Japanese word means goodbye?",
+      "zh": "哪个日语词的意思是再见？",
+      "ja": "「さようなら」はどういう意味ですか？",
+      "es": "Que palabra japonesa significa adios?"
+    },
+    "c": [
+      {
+        "en": "Ohayo",
+        "zh": "早上好",
+        "ja": "おはよう",
+        "es": "Ohayo"
+      },
+      {
+        "en": "Sayonara",
+        "zh": "再见",
+        "ja": "さようなら",
+        "es": "Sayonara"
+      },
+      {
+        "en": "Itadakimasu",
+        "zh": "我开动了",
+        "ja": "いただきます",
+        "es": "Itadakimasu"
+      },
+      {
+        "en": "Ganbatte",
+        "zh": "加油",
+        "ja": "頑張って",
+        "es": "Ganbatte"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Sayonara has a somewhat formal or final tone. In daily life, Japanese people more often say ja ne (see you) or mata ne (see you later).",
+      "zh": "Sayonara带有正式或永别的语气。在日常生活中，日本人更常说ja ne（再见）或mata ne（回头见）。",
+      "ja": "「さようなら」はやや改まった響きがあります。日常ではもっとカジュアルな「じゃあね」「またね」をよく使います。",
+      "es": "Sayonara tiene un tono algo formal o definitivo. En la vida diaria, los japoneses dicen mas a menudo ja ne (nos vemos) o mata ne (hasta luego)."
+    }
+  },
+  {
+    "id": "current_beginner_086",
+    "q": {
+      "en": "Which island of Japan is the northernmost main island?",
+      "zh": "日本最北端的主要岛屿是哪个？",
+      "ja": "日本の主要な島で最も北にあるのはどれですか？",
+      "es": "Cual isla de Japon es la isla principal mas al norte?"
+    },
+    "c": [
+      {
+        "en": "Honshu",
+        "zh": "本州",
+        "ja": "本州",
+        "es": "Honshu"
+      },
+      {
+        "en": "Shikoku",
+        "zh": "四国",
+        "ja": "四国",
+        "es": "Shikoku"
+      },
+      {
+        "en": "Kyushu",
+        "zh": "九州",
+        "ja": "九州",
+        "es": "Kyushu"
+      },
+      {
+        "en": "Hokkaido",
+        "zh": "北海道",
+        "ja": "北海道",
+        "es": "Hokkaido"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Hokkaido is known for its cooler climate, dairy farming, lavender fields, and the famous Sapporo Snow Festival held every February.",
+      "zh": "北海道以其凉爽的气候、乳制品业、薰衣草田和每年二月举行的著名札幌冰雪节而闻名。",
+      "ja": "北海道は涼しい気候、酪農、ラベンダー畑、毎年2月に開催される札幌雪まつりで知られています。",
+      "es": "Hokkaido es conocido por su clima mas fresco, ganaderia lechera, campos de lavanda y el famoso Festival de Nieve de Sapporo que se celebra cada febrero."
+    }
+  },
+  {
+    "id": "current_beginner_087",
+    "q": {
+      "en": "Which of the four main islands is the smallest?",
+      "zh": "四个主要岛屿中最小的是哪个？",
+      "ja": "4つの主要な島の中で最も小さいのはどれですか？",
+      "es": "Cual de las cuatro islas principales es la mas pequena?"
+    },
+    "c": [
+      {
+        "en": "Honshu",
+        "zh": "本州",
+        "ja": "本州",
+        "es": "Honshu"
+      },
+      {
+        "en": "Hokkaido",
+        "zh": "北海道",
+        "ja": "北海道",
+        "es": "Hokkaido"
+      },
+      {
+        "en": "Kyushu",
+        "zh": "九州",
+        "ja": "九州",
+        "es": "Kyushu"
+      },
+      {
+        "en": "Shikoku",
+        "zh": "四国",
+        "ja": "四国",
+        "es": "Shikoku"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Shikoku is the smallest of the four main islands. It is famous for the 88-temple pilgrimage route associated with the Buddhist monk Kukai.",
+      "zh": "四国是四个主要岛屿中最小的。它以与佛教僧人空海相关的88座寺庙朝圣路线而闻名。",
+      "ja": "四国は4つの主要な島の中で最も小さいです。弘法大師空海にゆかりのある四国八十八ヶ所の遍路が有名です。",
+      "es": "Shikoku es la mas pequena de las cuatro islas principales. Es famosa por la ruta de peregrinacion de 88 templos asociada con el monje budista Kukai."
+    }
+  },
+  {
+    "id": "current_beginner_088",
+    "q": {
+      "en": "What is the Expo 2025 being held in?",
+      "zh": "2025年世博会在哪里举行？",
+      "ja": "2025年の万博はどこで開催されますか？",
+      "es": "Donde se celebra la Expo 2025?"
+    },
+    "c": [
+      {
+        "en": "Tokyo",
+        "zh": "东京",
+        "ja": "東京",
+        "es": "Tokio"
+      },
+      {
+        "en": "Kyoto",
+        "zh": "京都",
+        "ja": "京都",
+        "es": "Kioto"
+      },
+      {
+        "en": "Osaka",
+        "zh": "大阪",
+        "ja": "大阪",
+        "es": "Osaka"
+      },
+      {
+        "en": "Nagoya",
+        "zh": "名古屋",
+        "ja": "名古屋",
+        "es": "Nagoya"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Expo 2025 Osaka is held on the artificial island of Yumeshima. Its theme is Designing Future Society for Our Lives.",
+      "zh": "2025年大阪世博会在人工岛梦洲举行。其主题是为我们的生活设计未来社会。",
+      "ja": "2025年大阪万博は人工島の夢洲で開催されます。テーマは「いのち輝く未来社会のデザイン」です。",
+      "es": "La Expo 2025 Osaka se celebra en la isla artificial de Yumeshima. Su tema es Disenar la Sociedad Futura para Nuestras Vidas."
+    }
+  },
+  {
+    "id": "current_beginner_089",
+    "q": {
+      "en": "What is a typical way to show gratitude before eating in Japan?",
+      "zh": "在日本吃饭前表示感谢的典型方式是什么？",
+      "ja": "日本で食事の前に感謝を示す一般的な方法は何ですか？",
+      "es": "Cual es una forma tipica de mostrar gratitud antes de comer en Japon?"
+    },
+    "c": [
+      {
+        "en": "Clap three times",
+        "zh": "拍三次手",
+        "ja": "3回手を叩く",
+        "es": "Aplaudir tres veces"
+      },
+      {
+        "en": "Say itadakimasu",
+        "zh": "说itadakimasu（我开动了）",
+        "ja": "「いただきます」と言う",
+        "es": "Decir itadakimasu"
+      },
+      {
+        "en": "Stand up and bow",
+        "zh": "站起来鞠躬",
+        "ja": "立ち上がってお辞儀する",
+        "es": "Levantarse y hacer una reverencia"
+      },
+      {
+        "en": "Ring a bell",
+        "zh": "按铃",
+        "ja": "ベルを鳴らす",
+        "es": "Tocar una campana"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Itadakimasu roughly means I humbly receive. After eating, Japanese people say gochisousama deshita to express gratitude for the meal.",
+      "zh": "Itadakimasu大致意思是我谦恭地接受。饭后，日本人说gochisousama deshita来表达对这顿饭的感谢。",
+      "ja": "「いただきます」は謙虚に受け取るという意味です。食後は「ごちそうさまでした」と言って感謝を表します。",
+      "es": "Itadakimasu significa aproximadamente recibo humildemente. Despues de comer, los japoneses dicen gochisousama deshita para expresar gratitud por la comida."
+    }
+  },
+  {
+    "id": "current_beginner_090",
+    "q": {
+      "en": "How many islands make up the country of Japan approximately?",
+      "zh": "日本大约由多少个岛屿组成？",
+      "ja": "日本は約何個の島で構成されていますか？",
+      "es": "Aproximadamente cuantas islas componen el pais de Japon?"
+    },
+    "c": [
+      {
+        "en": "About 100",
+        "zh": "约100个",
+        "ja": "約100",
+        "es": "Aproximadamente 100"
+      },
+      {
+        "en": "About 1,000",
+        "zh": "约1,000个",
+        "ja": "約1,000",
+        "es": "Aproximadamente 1,000"
+      },
+      {
+        "en": "About 7,000",
+        "zh": "约7,000个",
+        "ja": "約7,000",
+        "es": "Aproximadamente 7,000"
+      },
+      {
+        "en": "About 14,000",
+        "zh": "约14,000个",
+        "ja": "約14,000",
+        "es": "Aproximadamente 14,000"
+      }
+    ],
+    "a": 3,
+    "trivia": {
+      "en": "Japan is an archipelago of approximately 14,000 islands, though most are very small. Only about 430 are inhabited.",
+      "zh": "日本是一个由大约14,000个岛屿组成的群岛，但大多数非常小。只有约430个有人居住。",
+      "ja": "日本は約14,000の島からなる群島ですが、ほとんどは非常に小さいです。有人島は約430島です。",
+      "es": "Japon es un archipielago de aproximadamente 14,000 islas, aunque la mayoria son muy pequenas. Solo unas 430 estan habitadas."
+    }
+  },
+  {
+    "id": "current_beginner_091",
+    "q": {
+      "en": "What type of natural disaster frequently occurs during August to October in Japan?",
+      "zh": "日本在八月到十月期间经常发生什么类型的自然灾害？",
+      "ja": "日本で8月から10月に頻繁に発生する自然災害は何ですか？",
+      "es": "Que tipo de desastre natural ocurre frecuentemente de agosto a octubre en Japon?"
+    },
+    "c": [
+      {
+        "en": "Blizzards",
+        "zh": "暴风雪",
+        "ja": "吹雪",
+        "es": "Ventiscas"
+      },
+      {
+        "en": "Typhoons",
+        "zh": "台风",
+        "ja": "台風",
+        "es": "Tifones"
+      },
+      {
+        "en": "Droughts",
+        "zh": "干旱",
+        "ja": "干ばつ",
+        "es": "Sequias"
+      },
+      {
+        "en": "Sandstorms",
+        "zh": "沙尘暴",
+        "ja": "砂嵐",
+        "es": "Tormentas de arena"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Typhoons form in the western Pacific and can bring destructive winds, heavy rain, and flooding to Japan. Modern warning systems help reduce damage.",
+      "zh": "台风在西太平洋形成，可以给日本带来破坏性的大风、暴雨和洪水。现代预警系统有助于减少损失。",
+      "ja": "台風は西太平洋で発生し、日本に暴風雨や洪水をもたらします。現代の警報システムが被害軽減に役立っています。",
+      "es": "Los tifones se forman en el Pacifico occidental y pueden traer vientos destructivos, lluvias intensas e inundaciones a Japon. Los sistemas de alerta modernos ayudan a reducir los danos."
+    }
+  },
+  {
+    "id": "current_beginner_092",
+    "q": {
+      "en": "What is special about Japan aging society?",
+      "zh": "日本老龄化社会有什么特别之处？",
+      "ja": "日本の高齢化社会の特徴は何ですか？",
+      "es": "Que tiene de especial la sociedad envejecida de Japon?"
+    },
+    "c": [
+      {
+        "en": "It has the youngest population in Asia",
+        "zh": "它拥有亚洲最年轻的人口",
+        "ja": "アジアで最も若い人口を持つ",
+        "es": "Tiene la poblacion mas joven de Asia"
+      },
+      {
+        "en": "It has one of the highest proportions of elderly people in the world",
+        "zh": "它拥有世界上最高比例的老年人之一",
+        "ja": "世界で最も高い高齢者の割合を持つ国の一つ",
+        "es": "Tiene una de las proporciones mas altas de personas mayores en el mundo"
+      },
+      {
+        "en": "Most people are under 30",
+        "zh": "大多数人不到30岁",
+        "ja": "ほとんどの人が30歳未満",
+        "es": "La mayoria de la gente tiene menos de 30 anos"
+      },
+      {
+        "en": "The average age is 25",
+        "zh": "平均年龄为25岁",
+        "ja": "平均年齢は25歳",
+        "es": "La edad promedio es 25"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Japan median age is over 48 years, one of the highest in the world. The government is working on policies to support elderly care and boost birth rates.",
+      "zh": "日本的中位年龄超过48岁，是世界上最高的之一。政府正在制定政策以支持老年护理和提高出生率。",
+      "ja": "日本の年齢中央値は48歳以上で、世界最高水準です。政府は高齢者介護の支援と出生率向上の政策に取り組んでいます。",
+      "es": "La edad mediana de Japon es superior a 48 anos, una de las mas altas del mundo. El gobierno esta trabajando en politicas para apoyar el cuidado de ancianos y aumentar las tasas de natalidad."
+    }
+  },
+  {
+    "id": "current_beginner_093",
+    "q": {
+      "en": "What is the main religion associated with shrines in Japan?",
+      "zh": "日本与神社相关的主要宗教是什么？",
+      "ja": "日本の神社に関連する主な宗教は何ですか？",
+      "es": "Cual es la religion principal asociada con los santuarios en Japon?"
+    },
+    "c": [
+      {
+        "en": "Buddhism",
+        "zh": "佛教",
+        "ja": "仏教",
+        "es": "Budismo"
+      },
+      {
+        "en": "Christianity",
+        "zh": "基督教",
+        "ja": "キリスト教",
+        "es": "Cristianismo"
+      },
+      {
+        "en": "Shinto",
+        "zh": "神道教",
+        "ja": "神道",
+        "es": "Sintoismo"
+      },
+      {
+        "en": "Hinduism",
+        "zh": "印度教",
+        "ja": "ヒンドゥー教",
+        "es": "Hinduismo"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Shinto is Japan indigenous spiritual practice focused on kami (spirits/gods) found in nature. It coexists harmoniously with Buddhism in Japanese culture.",
+      "zh": "神道是日本本土的精神信仰，关注自然中的神灵。它与佛教在日本文化中和谐共存。",
+      "ja": "神道は日本固有の信仰で、自然に宿る神（かみ）を崇めます。仏教と調和的に共存しています。",
+      "es": "El sintoismo es la practica espiritual indigena de Japon centrada en los kami (espiritus/dioses) encontrados en la naturaleza. Coexiste armoniosamente con el budismo en la cultura japonesa."
+    }
+  },
+  {
+    "id": "current_beginner_094",
+    "q": {
+      "en": "Which traditional Japanese drink is made from fermented rice?",
+      "zh": "哪种日本传统饮料是用发酵米制成的？",
+      "ja": "発酵した米から作られる日本の伝統的な飲み物は何ですか？",
+      "es": "Que bebida tradicional japonesa esta hecha de arroz fermentado?"
+    },
+    "c": [
+      {
+        "en": "Shochu",
+        "zh": "烧酒",
+        "ja": "焼酎",
+        "es": "Shochu"
+      },
+      {
+        "en": "Sake (Nihonshu)",
+        "zh": "日本清酒",
+        "ja": "日本酒",
+        "es": "Sake (Nihonshu)"
+      },
+      {
+        "en": "Beer",
+        "zh": "啤酒",
+        "ja": "ビール",
+        "es": "Cerveza"
+      },
+      {
+        "en": "Whisky",
+        "zh": "威士忌",
+        "ja": "ウイスキー",
+        "es": "Whisky"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Sake has been brewed in Japan for over 2,000 years. It is an important part of religious ceremonies and celebrations.",
+      "zh": "清酒在日本已酿造超过2000年。它是宗教仪式和庆典的重要组成部分。",
+      "ja": "日本酒は2,000年以上の歴史があります。神事やお祝いの場で重要な役割を果たしています。",
+      "es": "El sake se ha elaborado en Japon durante mas de 2,000 anos. Es una parte importante de las ceremonias religiosas y celebraciones."
+    }
+  },
+  {
+    "id": "current_beginner_095",
+    "q": {
+      "en": "What is the most famous mountain visible from Tokyo on clear days?",
+      "zh": "晴天从东京可以看到的最著名的山是什么？",
+      "ja": "晴れた日に東京から見える最も有名な山は何ですか？",
+      "es": "Cual es la montana mas famosa visible desde Tokio en dias despejados?"
+    },
+    "c": [
+      {
+        "en": "Mt. Aso",
+        "zh": "阿苏山",
+        "ja": "阿蘇山",
+        "es": "Monte Aso"
+      },
+      {
+        "en": "Mt. Takao",
+        "zh": "高尾山",
+        "ja": "高尾山",
+        "es": "Monte Takao"
+      },
+      {
+        "en": "Mt. Fuji",
+        "zh": "富士山",
+        "ja": "富士山",
+        "es": "Monte Fuji"
+      },
+      {
+        "en": "Mt. Koya",
+        "zh": "高野山",
+        "ja": "高野山",
+        "es": "Monte Koya"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Mt. Fuji is about 100 kilometers southwest of Tokyo. On clear days, especially in winter, its snow-capped peak is visible from the city skyline.",
+      "zh": "富士山位于东京西南约100公里处。在晴朗的日子，尤其是冬天，可以从城市天际线看到其白雪覆盖的山峰。",
+      "ja": "富士山は東京の南西約100キロメートルに位置しています。特に冬の晴れた日には、都心からその雪をかぶった姿を見ることができます。",
+      "es": "El Monte Fuji esta a unos 100 kilometros al suroeste de Tokio. En dias despejados, especialmente en invierno, su cima nevada es visible desde el horizonte de la ciudad."
+    }
+  },
+  {
+    "id": "current_beginner_096",
+    "q": {
+      "en": "What is origami?",
+      "zh": "折纸是什么？",
+      "ja": "折り紙とは何ですか？",
+      "es": "Que es el origami?"
+    },
+    "c": [
+      {
+        "en": "Japanese flower arranging",
+        "zh": "日本插花",
+        "ja": "生け花",
+        "es": "Arreglo floral japones"
+      },
+      {
+        "en": "Japanese paper folding art",
+        "zh": "日本折纸艺术",
+        "ja": "日本の紙を折る芸術",
+        "es": "Arte japones de plegado de papel"
+      },
+      {
+        "en": "Japanese calligraphy",
+        "zh": "日本书法",
+        "ja": "書道",
+        "es": "Caligrafia japonesa"
+      },
+      {
+        "en": "Japanese sword making",
+        "zh": "日本制刀",
+        "ja": "刀鍛冶",
+        "es": "Fabricacion de espadas japonesas"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Origami comes from ori (folding) and kami (paper). The most iconic origami figure is the crane, which symbolizes peace and longevity.",
+      "zh": "折纸来自ori（折叠）和kami（纸）。最具标志性的折纸形象是鹤，象征和平与长寿。",
+      "ja": "折り紙は「折る」と「紙」から来ています。最も象徴的な折り紙は鶴で、平和と長寿の象徴です。",
+      "es": "Origami viene de ori (plegar) y kami (papel). La figura de origami mas iconica es la grulla, que simboliza la paz y la longevidad."
+    }
+  },
+  {
+    "id": "current_beginner_097",
+    "q": {
+      "en": "What are the hot summers in Japan typically like in major cities?",
+      "zh": "日本大城市的炎热夏天通常是什么样的？",
+      "ja": "日本の主要都市の暑い夏はどのようなものですか？",
+      "es": "Como son tipicamente los veranos calurosos en Japon en las grandes ciudades?"
+    },
+    "c": [
+      {
+        "en": "Dry heat with no humidity",
+        "zh": "无湿度的干热",
+        "ja": "湿度のない乾燥した暑さ",
+        "es": "Calor seco sin humedad"
+      },
+      {
+        "en": "Extreme heat with high humidity",
+        "zh": "极端炎热伴高湿度",
+        "ja": "高湿度を伴う猛暑",
+        "es": "Calor extremo con alta humedad"
+      },
+      {
+        "en": "Cool and comfortable",
+        "zh": "凉爽舒适",
+        "ja": "涼しくて快適",
+        "es": "Frescos y comodos"
+      },
+      {
+        "en": "Constant rain and cold",
+        "zh": "持续下雨和寒冷",
+        "ja": "常に雨で寒い",
+        "es": "Lluvia constante y frio"
+      }
+    ],
+    "a": 1,
+    "trivia": {
+      "en": "Summer temperatures in Tokyo regularly reach 35 degrees Celsius or more. The government issues heat stroke warnings and encourages hydration.",
+      "zh": "东京夏季气温经常达到35摄氏度或以上。政府发布中暑警告并鼓励补充水分。",
+      "ja": "東京の夏の気温は35度以上になることも珍しくありません。政府は熱中症警戒アラートを発表し、水分補給を呼びかけています。",
+      "es": "Las temperaturas de verano en Tokio regularmente alcanzan los 35 grados Celsius o mas. El gobierno emite alertas de golpe de calor y fomenta la hidratacion."
+    }
+  },
+  {
+    "id": "current_beginner_098",
+    "q": {
+      "en": "What is the Japanese word for the number one (1)?",
+      "zh": "日语中数字一（1）怎么说？",
+      "ja": "日本語で1はどう読みますか？",
+      "es": "Cual es la palabra japonesa para el numero uno (1)?"
+    },
+    "c": [
+      {
+        "en": "Ni",
+        "zh": "二",
+        "ja": "に",
+        "es": "Ni"
+      },
+      {
+        "en": "San",
+        "zh": "三",
+        "ja": "さん",
+        "es": "San"
+      },
+      {
+        "en": "Ichi",
+        "zh": "一",
+        "ja": "いち",
+        "es": "Ichi"
+      },
+      {
+        "en": "Shi",
+        "zh": "四",
+        "ja": "し",
+        "es": "Shi"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Japanese has two number systems: native Japanese (hitotsu, futatsu...) and Chinese-derived (ichi, ni, san...). The Chinese-derived system is more commonly used.",
+      "zh": "日语有两套数字系统：日本原生（hitotsu, futatsu...）和中文衍生（ichi, ni, san...）。中文衍生系统更常用。",
+      "ja": "日本語には和語の数え方（ひとつ、ふたつ…）と漢語の数え方（いち、に、さん…）の二つがあります。漢語の方がより一般的です。",
+      "es": "El japones tiene dos sistemas numericos: japones nativo (hitotsu, futatsu...) y derivado del chino (ichi, ni, san...). El sistema derivado del chino es mas usado."
+    }
+  },
+  {
+    "id": "current_beginner_099",
+    "q": {
+      "en": "What is the famous Japanese art of flower arranging called?",
+      "zh": "日本著名的插花艺术叫什么？",
+      "ja": "日本の有名な花を生ける芸術は何と呼ばれていますか？",
+      "es": "Como se llama el famoso arte japones de arreglo floral?"
+    },
+    "c": [
+      {
+        "en": "Origami",
+        "zh": "折纸",
+        "ja": "折り紙",
+        "es": "Origami"
+      },
+      {
+        "en": "Bonsai",
+        "zh": "盆栽",
+        "ja": "盆栽",
+        "es": "Bonsai"
+      },
+      {
+        "en": "Ikebana",
+        "zh": "插花",
+        "ja": "生け花",
+        "es": "Ikebana"
+      },
+      {
+        "en": "Shodo",
+        "zh": "书道",
+        "ja": "書道",
+        "es": "Shodo"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Ikebana emphasizes shape, line, and form rather than just color. It is considered a meditative practice that connects humans with nature.",
+      "zh": "插花强调形状、线条和形态，而不仅仅是颜色。它被视为一种连接人与自然的冥想实践。",
+      "ja": "生け花は色だけでなく、形、線、構成を重視します。人と自然を結ぶ瞑想的な芸術とされています。",
+      "es": "El ikebana enfatiza la forma, la linea y la estructura en lugar de solo el color. Se considera una practica meditativa que conecta a los humanos con la naturaleza."
+    }
+  },
+  {
+    "id": "current_beginner_100",
+    "q": {
+      "en": "What is the art of growing miniature trees in Japan called?",
+      "zh": "日本种植微型树木的艺术叫什么？",
+      "ja": "日本でミニチュアの木を育てる芸術は何と呼ばれていますか？",
+      "es": "Como se llama el arte de cultivar arboles en miniatura en Japon?"
+    },
+    "c": [
+      {
+        "en": "Ikebana",
+        "zh": "插花",
+        "ja": "生け花",
+        "es": "Ikebana"
+      },
+      {
+        "en": "Origami",
+        "zh": "折纸",
+        "ja": "折り紙",
+        "es": "Origami"
+      },
+      {
+        "en": "Bonsai",
+        "zh": "盆栽",
+        "ja": "盆栽",
+        "es": "Bonsai"
+      },
+      {
+        "en": "Kabuki",
+        "zh": "歌舞伎",
+        "ja": "歌舞伎",
+        "es": "Kabuki"
+      }
+    ],
+    "a": 2,
+    "trivia": {
+      "en": "Bonsai originated in China but was refined into a distinct art form in Japan. Some bonsai trees are hundreds of years old and extremely valuable.",
+      "zh": "盆栽起源于中国，但在日本被发展为独特的艺术形式。一些盆栽已有数百年历史，价值极高。",
+      "ja": "盆栽は中国で生まれましたが、日本で独自の芸術として洗練されました。数百年の歴史を持つ盆栽もあり、非常に高価です。",
+      "es": "El bonsai se origino en China pero fue refinado como una forma de arte distintiva en Japon. Algunos arboles bonsai tienen cientos de anos y son extremadamente valiosos."
+    }
+  }
+]

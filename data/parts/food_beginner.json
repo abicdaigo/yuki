@@ -1,0 +1,2202 @@
+[
+{
+"id": "food_beginner_001",
+"q": {
+"en": "What is the most common type of rice used in Japanese cuisine?",
+"zh": "日本料理中最常用的米是哪种？",
+"ja": "日本料理で最も一般的に使われるお米の種類は？",
+"es": "Cual es el tipo de arroz mas comun en la cocina japonesa?"
+},
+"c": [
+{"en": "Basmati rice", "zh": "印度香米", "ja": "バスマティライス", "es": "Arroz basmati"},
+{"en": "Short-grain white rice", "zh": "短粒白米", "ja": "短粒白米", "es": "Arroz blanco de grano corto"},
+{"en": "Wild rice", "zh": "野米", "ja": "ワイルドライス", "es": "Arroz silvestre"},
+{"en": "Jasmine rice", "zh": "茉莉香米", "ja": "ジャスミンライス", "es": "Arroz jazmin"}
+],
+"a": 1,
+"trivia": {
+"en": "Japanese short-grain rice becomes sticky when cooked, making it perfect for sushi and onigiri.",
+"zh": "日本短粒米煮熟后会变得粘稠，非常适合做寿司和饭团。",
+"ja": "日本の短粒米は炊くと粘りが出て、寿司やおにぎりに最適です。",
+"es": "El arroz japones de grano corto se vuelve pegajoso al cocinarse, perfecto para sushi y onigiri."
+}
+},
+{
+"id": "food_beginner_002",
+"q": {
+"en": "What is miso soup made from?",
+"zh": "味噌汤是用什么做的？",
+"ja": "味噌汁は何から作られますか？",
+"es": "De que esta hecho el sopa de miso?"
+},
+"c": [
+{"en": "Fermented soybean paste and dashi", "zh": "发酵大豆酱和高汤", "ja": "発酵大豆味噌と出汁", "es": "Pasta de soja fermentada y dashi"},
+{"en": "Tomato paste and cream", "zh": "番茄酱和奶油", "ja": "トマトペーストとクリーム", "es": "Pasta de tomate y crema"},
+{"en": "Chicken broth and lemon", "zh": "鸡汤和柠檬", "ja": "チキンブロスとレモン", "es": "Caldo de pollo y limon"},
+{"en": "Coconut milk and curry", "zh": "椰奶和咖喱", "ja": "ココナッツミルクとカレー", "es": "Leche de coco y curry"}
+],
+"a": 0,
+"trivia": {
+"en": "Miso soup is eaten daily by most Japanese people and is considered a staple of the traditional breakfast.",
+"zh": "大多数日本人每天都喝味噌汤，它被视为传统早餐的主食。",
+"ja": "味噌汁はほとんどの日本人が毎日飲んでおり、伝統的な朝食の定番です。",
+"es": "La sopa de miso se consume diariamente por la mayoria de los japoneses y es un alimento basico del desayuno tradicional."
+}
+},
+{
+"id": "food_beginner_003",
+"q": {
+"en": "What is sushi rice seasoned with?",
+"zh": "寿司饭是用什么调味的？",
+"ja": "寿司飯には何で味付けしますか？",
+"es": "Con que se sazona el arroz para sushi?"
+},
+"c": [
+{"en": "Soy sauce and sugar", "zh": "酱油和糖", "ja": "醤油と砂糖", "es": "Salsa de soja y azucar"},
+{"en": "Butter and salt", "zh": "黄油和盐", "ja": "バターと塩", "es": "Mantequilla y sal"},
+{"en": "Rice vinegar, sugar, and salt", "zh": "米醋、糖和盐", "ja": "米酢、砂糖、塩", "es": "Vinagre de arroz, azucar y sal"},
+{"en": "Lemon juice and pepper", "zh": "柠檬汁和胡椒", "ja": "レモン汁と胡椒", "es": "Jugo de limon y pimienta"}
+],
+"a": 2,
+"trivia": {
+"en": "The word 'sushi' actually refers to the seasoned rice, not the fish topping.",
+"zh": "'寿司'这个词实际上指的是调味饭，而不是鱼肉配料。",
+"ja": "「寿司」という言葉は実際には味付けしたご飯を指し、魚のネタではありません。",
+"es": "La palabra 'sushi' en realidad se refiere al arroz sazonado, no al pescado."
+}
+},
+{
+"id": "food_beginner_004",
+"q": {
+"en": "What is tempura?",
+"zh": "天妇罗是什么？",
+"ja": "天ぷらとは何ですか？",
+"es": "Que es la tempura?"
+},
+"c": [
+{"en": "Grilled meat on skewers", "zh": "烤肉串", "ja": "焼き鳥", "es": "Carne a la parrilla en brochetas"},
+{"en": "Raw fish slices", "zh": "生鱼片", "ja": "刺身", "es": "Rebanadas de pescado crudo"},
+{"en": "Steamed dumplings", "zh": "蒸饺", "ja": "蒸し餃子", "es": "Dumplings al vapor"},
+{"en": "Battered and deep-fried seafood or vegetables", "zh": "裹面糊油炸的海鲜或蔬菜", "ja": "衣をつけて揚げた魚介類や野菜", "es": "Mariscos o verduras rebozados y fritos"}
+],
+"a": 3,
+"trivia": {
+"en": "Tempura was introduced to Japan by Portuguese missionaries in the 16th century.",
+"zh": "天妇罗是16世纪由葡萄牙传教士传入日本的。",
+"ja": "天ぷらは16世紀にポルトガルの宣教師によって日本に伝えられました。",
+"es": "La tempura fue introducida en Japon por misioneros portugueses en el siglo XVI."
+}
+},
+{
+"id": "food_beginner_005",
+"q": {
+"en": "What is the green paste commonly served with sushi?",
+"zh": "寿司常配的绿色酱料是什么？",
+"ja": "寿司に添えられる緑色のペーストは何ですか？",
+"es": "Cual es la pasta verde que se sirve comunmente con el sushi?"
+},
+"c": [
+{"en": "Guacamole", "zh": "牛油果酱", "ja": "ワカモレ", "es": "Guacamole"},
+{"en": "Pesto", "zh": "青酱", "ja": "ペスト", "es": "Pesto"},
+{"en": "Wasabi", "zh": "芥末", "ja": "わさび", "es": "Wasabi"},
+{"en": "Matcha paste", "zh": "抹茶酱", "ja": "抹茶ペースト", "es": "Pasta de matcha"}
+],
+"a": 2,
+"trivia": {
+"en": "Real wasabi is very expensive and most restaurants use horseradish dyed green as a substitute.",
+"zh": "真正的芥末非常昂贵，大多数餐厅使用染成绿色的辣根作为替代品。",
+"ja": "本物のわさびは非常に高価で、多くのレストランでは緑色に着色した西洋わさびを代用しています。",
+"es": "El wasabi real es muy caro y la mayoria de los restaurantes usan rabano picante tenido de verde como sustituto."
+}
+},
+{
+"id": "food_beginner_006",
+"q": {
+"en": "What is ramen?",
+"zh": "拉面是什么？",
+"ja": "ラーメンとは何ですか？",
+"es": "Que es el ramen?"
+},
+"c": [
+{"en": "A type of cold salad", "zh": "一种凉拌沙拉", "ja": "冷たいサラダの一種", "es": "Un tipo de ensalada fria"},
+{"en": "Japanese noodle soup with broth and toppings", "zh": "日本汤面配高汤和配料", "ja": "スープと具材が入った日本の麺料理", "es": "Sopa japonesa de fideos con caldo y acompanamentos"},
+{"en": "A rice bowl dish", "zh": "一种盖饭", "ja": "丼物料理", "es": "Un plato de arroz"},
+{"en": "Fried rice wrapped in seaweed", "zh": "海苔包炒饭", "ja": "海苔で包んだチャーハン", "es": "Arroz frito envuelto en algas"}
+],
+"a": 1,
+"trivia": {
+"en": "Ramen originated from Chinese noodle dishes but evolved into a uniquely Japanese comfort food with thousands of regional varieties.",
+"zh": "拉面源自中国面食，但发展成为独特的日本料理，有数千种地方变体。",
+"ja": "ラーメンは中国の麺料理が起源ですが、日本独自の料理に進化し、数千もの地方バリエーションがあります。",
+"es": "El ramen se origino de platos de fideos chinos pero evoluciono en una comida reconfortante japonesa unica con miles de variedades regionales."
+}
+},
+{
+"id": "food_beginner_007",
+"q": {
+"en": "What utensils do Japanese people traditionally use to eat?",
+"zh": "日本人传统上用什么餐具吃饭？",
+"ja": "日本人は伝統的にどんな食器で食べますか？",
+"es": "Que utensilios usan tradicionalmente los japoneses para comer?"
+},
+"c": [
+{"en": "Fork and knife", "zh": "叉子和刀", "ja": "フォークとナイフ", "es": "Tenedor y cuchillo"},
+{"en": "Spoon only", "zh": "只用勺子", "ja": "スプーンのみ", "es": "Solo cuchara"},
+{"en": "Hands only", "zh": "只用手", "ja": "手のみ", "es": "Solo con las manos"},
+{"en": "Chopsticks", "zh": "筷子", "ja": "箸", "es": "Palillos"}
+],
+"a": 3,
+"trivia": {
+"en": "Japanese chopsticks (hashi) are typically shorter and more pointed than Chinese chopsticks.",
+"zh": "日本筷子（箸）通常比中国筷子更短更尖。",
+"ja": "日本の箸は中国の箸に比べて短く、先が細いのが特徴です。",
+"es": "Los palillos japoneses (hashi) son tipicamente mas cortos y puntiagudos que los palillos chinos."
+}
+},
+{
+"id": "food_beginner_008",
+"q": {
+"en": "What is the Japanese word for a boxed lunch?",
+"zh": "日语中便当怎么说？",
+"ja": "お弁当は英語で何と言いますか？",
+"es": "Cual es la palabra japonesa para un almuerzo en caja?"
+},
+"c": [
+{"en": "Bento", "zh": "便当", "ja": "弁当", "es": "Bento"},
+{"en": "Donburi", "zh": "盖饭", "ja": "丼", "es": "Donburi"},
+{"en": "Onigiri", "zh": "饭团", "ja": "おにぎり", "es": "Onigiri"},
+{"en": "Kaiseki", "zh": "怀石", "ja": "懐石", "es": "Kaiseki"}
+],
+"a": 0,
+"trivia": {
+"en": "Bento boxes are an art form in Japan, with mothers creating elaborate character-themed lunches called 'kyaraben' for their children.",
+"zh": "便当在日本是一种艺术形式，妈妈们会为孩子制作精致的卡通造型便当，称为'角色便当'。",
+"ja": "弁当は日本では芸術の一種で、お母さんたちは子供のために「キャラ弁」と呼ばれる手の込んだキャラクター弁当を作ります。",
+"es": "Las cajas bento son una forma de arte en Japon, con madres creando almuerzos elaborados con temas de personajes llamados 'kyaraben' para sus hijos."
+}
+},
+{
+"id": "food_beginner_009",
+"q": {
+"en": "What is sake made from?",
+"zh": "清酒是用什么酿造的？",
+"ja": "日本酒は何から作られますか？",
+"es": "De que esta hecho el sake?"
+},
+"c": [
+{"en": "Wheat", "zh": "小麦", "ja": "小麦", "es": "Trigo"},
+{"en": "Potatoes", "zh": "土豆", "ja": "じゃがいも", "es": "Papas"},
+{"en": "Grapes", "zh": "葡萄", "ja": "ブドウ", "es": "Uvas"},
+{"en": "Rice", "zh": "大米", "ja": "お米", "es": "Arroz"}
+],
+"a": 3,
+"trivia": {
+"en": "Sake brewing requires a special mold called koji to convert rice starch into sugar before fermentation.",
+"zh": "清酒酿造需要一种叫做曲的特殊霉菌，在发酵前将米淀粉转化为糖。",
+"ja": "日本酒の醸造には、発酵前に米のデンプンを糖に変える麹という特殊なカビが必要です。",
+"es": "La elaboracion del sake requiere un moho especial llamado koji para convertir el almidon del arroz en azucar antes de la fermentacion."
+}
+},
+{
+"id": "food_beginner_010",
+"q": {
+"en": "What do Japanese people say before eating a meal?",
+"zh": "日本人吃饭前会说什么？",
+"ja": "日本人は食事の前に何と言いますか？",
+"es": "Que dicen los japoneses antes de comer?"
+},
+"c": [
+{"en": "Konnichiwa", "zh": "你好", "ja": "こんにちは", "es": "Konnichiwa"},
+{"en": "Itadakimasu", "zh": "我开动了", "ja": "いただきます", "es": "Itadakimasu"},
+{"en": "Sayonara", "zh": "再见", "ja": "さようなら", "es": "Sayonara"},
+{"en": "Arigatou", "zh": "谢谢", "ja": "ありがとう", "es": "Arigatou"}
+],
+"a": 1,
+"trivia": {
+"en": "Itadakimasu literally means 'I humbly receive' and expresses gratitude for the food, the cook, and the ingredients.",
+"zh": "'いただきます'字面意思是'我谦卑地接受'，表达对食物、厨师和食材的感激之情。",
+"ja": "「いただきます」は文字通り「謙虚にいただく」という意味で、食べ物、料理人、食材への感謝を表しています。",
+"es": "Itadakimasu literalmente significa 'recibo humildemente' y expresa gratitud por la comida, el cocinero y los ingredientes."
+}
+},
+{
+"id": "food_beginner_011",
+"q": {
+"en": "What is soy sauce called in Japanese?",
+"zh": "酱油用日语怎么说？",
+"ja": "醤油は英語で何と言いますか？",
+"es": "Como se llama la salsa de soja en japones?"
+},
+"c": [
+{"en": "Mirin", "zh": "味醂", "ja": "みりん", "es": "Mirin"},
+{"en": "Ponzu", "zh": "柚子醋", "ja": "ポン酢", "es": "Ponzu"},
+{"en": "Shoyu", "zh": "酱油", "ja": "醤油", "es": "Shoyu"},
+{"en": "Dashi", "zh": "高汤", "ja": "出汁", "es": "Dashi"}
+],
+"a": 2,
+"trivia": {
+"en": "Japanese soy sauce (shoyu) is typically brewed for months and has a more delicate flavor than Chinese soy sauce.",
+"zh": "日本酱油（しょうゆ）通常酿造数月，味道比中国酱油更细腻。",
+"ja": "日本の醤油は通常数か月かけて醸造され、中国の醤油より繊細な味わいです。",
+"es": "La salsa de soja japonesa (shoyu) se fermenta durante meses y tiene un sabor mas delicado que la salsa de soja china."
+}
+},
+{
+"id": "food_beginner_012",
+"q": {
+"en": "What is onigiri?",
+"zh": "饭团是什么？",
+"ja": "おにぎりとは何ですか？",
+"es": "Que es el onigiri?"
+},
+"c": [
+{"en": "A type of pancake", "zh": "一种煎饼", "ja": "パンケーキの一種", "es": "Un tipo de panqueque"},
+{"en": "A rice ball often wrapped in seaweed", "zh": "常用海苔包裹的饭团", "ja": "海苔で包まれることが多いおむすび", "es": "Una bola de arroz a menudo envuelta en algas"},
+{"en": "A fried tofu dish", "zh": "一种炸豆腐菜", "ja": "揚げ豆腐料理", "es": "Un plato de tofu frito"},
+{"en": "A type of sushi roll", "zh": "一种寿司卷", "ja": "巻き寿司の一種", "es": "Un tipo de rollo de sushi"}
+],
+"a": 1,
+"trivia": {
+"en": "Onigiri is the most popular snack sold in Japanese convenience stores, with billions sold every year.",
+"zh": "饭团是日本便利店最畅销的零食，每年售出数十亿个。",
+"ja": "おにぎりは日本のコンビニで最も人気のある食品で、毎年数十億個が販売されています。",
+"es": "El onigiri es el bocadillo mas popular en las tiendas de conveniencia japonesas, con miles de millones vendidos cada ano."
+}
+},
+{
+"id": "food_beginner_013",
+"q": {
+"en": "What type of seaweed is used to wrap sushi rolls?",
+"zh": "寿司卷用什么海苔包裹？",
+"ja": "巻き寿司に使われる海苔の種類は？",
+"es": "Que tipo de alga se usa para envolver los rollos de sushi?"
+},
+"c": [
+{"en": "Wakame", "zh": "裙带菜", "ja": "わかめ", "es": "Wakame"},
+{"en": "Kombu", "zh": "昆布", "ja": "昆布", "es": "Kombu"},
+{"en": "Nori", "zh": "紫菜", "ja": "海苔", "es": "Nori"},
+{"en": "Hijiki", "zh": "羊栖菜", "ja": "ひじき", "es": "Hijiki"}
+],
+"a": 2,
+"trivia": {
+"en": "Nori is dried and pressed into thin sheets. Japan produces about 10 billion sheets of nori every year.",
+"zh": "紫菜被干燥压制成薄片。日本每年生产约100亿张紫菜。",
+"ja": "海苔は乾燥させて薄いシート状にします。日本では毎年約100億枚の海苔が生産されています。",
+"es": "El nori se seca y se prensa en laminas delgadas. Japon produce alrededor de 10 mil millones de laminas de nori cada ano."
+}
+},
+{
+"id": "food_beginner_014",
+"q": {
+"en": "What is matcha?",
+"zh": "抹茶是什么？",
+"ja": "抹茶とは何ですか？",
+"es": "Que es el matcha?"
+},
+"c": [
+{"en": "A type of rice wine", "zh": "一种米酒", "ja": "米酒の一種", "es": "Un tipo de vino de arroz"},
+{"en": "Powdered green tea", "zh": "绿茶粉", "ja": "粉末状の緑茶", "es": "Te verde en polvo"},
+{"en": "A fermented soybean dish", "zh": "一种发酵大豆食品", "ja": "発酵大豆料理", "es": "Un plato de soja fermentada"},
+{"en": "A type of mushroom", "zh": "一种蘑菇", "ja": "キノコの一種", "es": "Un tipo de hongo"}
+],
+"a": 1,
+"trivia": {
+"en": "Matcha is central to the Japanese tea ceremony (chado) and is made by grinding specially grown green tea leaves into a fine powder.",
+"zh": "抹茶是日本茶道的核心，由特殊种植的绿茶叶研磨成细粉制成。",
+"ja": "抹茶は日本の茶道の中心であり、特別に栽培された緑茶の葉を細かい粉末に挽いて作られます。",
+"es": "El matcha es central en la ceremonia del te japonesa (chado) y se hace moliendo hojas de te verde especialmente cultivadas en un polvo fino."
+}
+},
+{
+"id": "food_beginner_015",
+"q": {
+"en": "What is tofu made from?",
+"zh": "豆腐是用什么做的？",
+"ja": "豆腐は何から作られますか？",
+"es": "De que esta hecho el tofu?"
+},
+"c": [
+{"en": "Rice flour", "zh": "米粉", "ja": "米粉", "es": "Harina de arroz"},
+{"en": "Soybeans", "zh": "大豆", "ja": "大豆", "es": "Soja"},
+{"en": "Wheat", "zh": "小麦", "ja": "小麦", "es": "Trigo"},
+{"en": "Corn", "zh": "玉米", "ja": "トウモロコシ", "es": "Maiz"}
+],
+"a": 1,
+"trivia": {
+"en": "Tofu has been a staple protein source in Japanese cuisine for over 1,000 years, introduced from China.",
+"zh": "豆腐从中国传入后，已成为日本料理中的主要蛋白质来源超过1000年。",
+"ja": "豆腐は中国から伝わり、1000年以上にわたって日本料理の主要なタンパク源となっています。",
+"es": "El tofu ha sido una fuente de proteina basica en la cocina japonesa durante mas de 1,000 anos, introducido desde China."
+}
+},
+{
+"id": "food_beginner_016",
+"q": {
+"en": "What is the pink pickled ginger served with sushi called?",
+"zh": "寿司旁边配的粉色腌姜叫什么？",
+"ja": "寿司と一緒に出されるピンク色の甘酢生姜は何と呼ばれますか？",
+"es": "Como se llama el jengibre rosado encurtido que se sirve con el sushi?"
+},
+"c": [
+{"en": "Gari", "zh": "甜醋姜", "ja": "ガリ", "es": "Gari"},
+{"en": "Beni shoga", "zh": "红姜", "ja": "紅しょうが", "es": "Beni shoga"},
+{"en": "Myoga", "zh": "茗荷", "ja": "みょうが", "es": "Myoga"},
+{"en": "Shiso", "zh": "紫苏", "ja": "しそ", "es": "Shiso"}
+],
+"a": 0,
+"trivia": {
+"en": "Gari is meant to cleanse your palate between different types of sushi, not to be eaten together with the sushi.",
+"zh": "甜醋姜是用来在不同寿司之间清洁味蕾的，而不是和寿司一起吃的。",
+"ja": "ガリは異なる種類の寿司の間に口直しとして食べるもので、寿司と一緒に食べるものではありません。",
+"es": "El gari esta destinado a limpiar el paladar entre diferentes tipos de sushi, no para comerlo junto con el sushi."
+}
+},
+{
+"id": "food_beginner_017",
+"q": {
+"en": "What is the most popular flavor of ramen broth in Japan?",
+"zh": "日本最受欢迎的拉面汤底口味是什么？",
+"ja": "日本で最も人気のあるラーメンのスープの味は？",
+"es": "Cual es el sabor de caldo de ramen mas popular en Japon?"
+},
+"c": [
+{"en": "Tomato", "zh": "番茄", "ja": "トマト", "es": "Tomate"},
+{"en": "Curry", "zh": "咖喱", "ja": "カレー", "es": "Curry"},
+{"en": "Tonkotsu (pork bone)", "zh": "豚骨（猪骨）", "ja": "豚骨", "es": "Tonkotsu (hueso de cerdo)"},
+{"en": "Cheese", "zh": "芝士", "ja": "チーズ", "es": "Queso"}
+],
+"a": 2,
+"trivia": {
+"en": "Tonkotsu broth is made by boiling pork bones for many hours until the broth becomes rich and milky white.",
+"zh": "豚骨汤是将猪骨煮很多个小时，直到汤汁变得浓郁呈乳白色。",
+"ja": "豚骨スープは豚の骨を何時間も煮込んで、濃厚で乳白色のスープに仕上げます。",
+"es": "El caldo tonkotsu se hace hirviendo huesos de cerdo durante muchas horas hasta que el caldo se vuelve rico y de color blanco lechoso."
+}
+},
+{
+"id": "food_beginner_018",
+"q": {
+"en": "What do Japanese people say after finishing a meal?",
+"zh": "日本人吃完饭后会说什么？",
+"ja": "日本人は食事の後に何と言いますか？",
+"es": "Que dicen los japoneses despues de terminar una comida?"
+},
+"c": [
+{"en": "Sumimasen", "zh": "对不起", "ja": "すみません", "es": "Sumimasen"},
+{"en": "Oishii", "zh": "好吃", "ja": "おいしい", "es": "Oishii"},
+{"en": "Kampai", "zh": "干杯", "ja": "乾杯", "es": "Kampai"},
+{"en": "Gochisousama deshita", "zh": "多谢款待", "ja": "ごちそうさまでした", "es": "Gochisousama deshita"}
+],
+"a": 3,
+"trivia": {
+"en": "Gochisousama deshita means 'it was a feast' and expresses gratitude to everyone involved in preparing the meal.",
+"zh": "'ごちそうさまでした'意思是'这是一顿盛宴'，表达对所有参与准备餐食的人的感谢。",
+"ja": "「ごちそうさまでした」は「ご馳走でした」という意味で、食事を準備してくれた全ての人への感謝を表します。",
+"es": "Gochisousama deshita significa 'fue un banquete' y expresa gratitud a todos los involucrados en preparar la comida."
+}
+},
+{
+"id": "food_beginner_019",
+"q": {
+"en": "What is edamame?",
+"zh": "毛豆是什么？",
+"ja": "枝豆とは何ですか？",
+"es": "Que es el edamame?"
+},
+"c": [
+{"en": "Young soybeans in the pod", "zh": "豆荚中的嫩大豆", "ja": "さやに入った若い大豆", "es": "Soja joven en la vaina"},
+{"en": "Dried seaweed snack", "zh": "干海苔零食", "ja": "乾燥海苔スナック", "es": "Bocadillo de algas secas"},
+{"en": "Pickled radish", "zh": "腌萝卜", "ja": "漬物大根", "es": "Rabano encurtido"},
+{"en": "Sweet rice cake", "zh": "甜年糕", "ja": "甘い餅", "es": "Pastel de arroz dulce"}
+],
+"a": 0,
+"trivia": {
+"en": "Edamame is a popular appetizer in izakayas (Japanese pubs) and is simply boiled and salted.",
+"zh": "毛豆是居酒屋（日本酒吧）的热门开胃菜，做法很简单，只需水煮加盐。",
+"ja": "枝豆は居酒屋の定番おつまみで、茹でて塩をふるだけのシンプルな料理です。",
+"es": "El edamame es un aperitivo popular en los izakayas (bares japoneses) y simplemente se hierve y se sala."
+}
+},
+{
+"id": "food_beginner_020",
+"q": {
+"en": "What is the Japanese rice wine used in cooking called?",
+"zh": "用于烹饪的日本米酒叫什么？",
+"ja": "料理に使う日本の米酒は何と呼ばれますか？",
+"es": "Como se llama el vino de arroz japones usado en la cocina?"
+},
+"c": [
+{"en": "Shochu", "zh": "烧酒", "ja": "焼酎", "es": "Shochu"},
+{"en": "Sake", "zh": "清酒", "ja": "日本酒", "es": "Sake"},
+{"en": "Mirin", "zh": "味醂", "ja": "みりん", "es": "Mirin"},
+{"en": "Umeshu", "zh": "梅酒", "ja": "梅酒", "es": "Umeshu"}
+],
+"a": 2,
+"trivia": {
+"en": "Mirin is a sweet rice wine with lower alcohol content than sake, giving dishes a mild sweetness and glossy finish.",
+"zh": "味醂是一种甜米酒，酒精含量比清酒低，能给菜肴带来温和的甜味和光泽。",
+"ja": "みりんは日本酒より低アルコールの甘い米酒で、料理にほんのりとした甘みと照りを与えます。",
+"es": "El mirin es un vino de arroz dulce con menor contenido de alcohol que el sake, dando a los platos un dulzor suave y un acabado brillante."
+}
+},
+{
+"id": "food_beginner_021",
+"q": {
+"en": "What is the Japanese word for 'delicious'?",
+"zh": "'好吃'用日语怎么说？",
+"ja": "「おいしい」は英語で何と言いますか？",
+"es": "Cual es la palabra japonesa para 'delicioso'?"
+},
+"c": [
+{"en": "Kawaii", "zh": "可爱", "ja": "かわいい", "es": "Kawaii"},
+{"en": "Sugoi", "zh": "厉害", "ja": "すごい", "es": "Sugoi"},
+{"en": "Oishii", "zh": "好吃", "ja": "おいしい", "es": "Oishii"},
+{"en": "Kirei", "zh": "漂亮", "ja": "きれい", "es": "Kirei"}
+],
+"a": 2,
+"trivia": {
+"en": "Saying 'oishii' while eating is considered a compliment to the chef in Japan.",
+"zh": "在日本，吃东西时说'おいしい'被视为对厨师的赞美。",
+"ja": "食事中に「おいしい」と言うことは、日本では料理人への褒め言葉とされています。",
+"es": "Decir 'oishii' mientras se come se considera un cumplido para el chef en Japon."
+}
+},
+{
+"id": "food_beginner_022",
+"q": {
+"en": "What is yakitori?",
+"zh": "烤鸡肉串是什么？",
+"ja": "焼き鳥とは何ですか？",
+"es": "Que es el yakitori?"
+},
+"c": [
+{"en": "Fried pork cutlet", "zh": "炸猪排", "ja": "豚カツ", "es": "Chuleta de cerdo frita"},
+{"en": "Grilled chicken skewers", "zh": "烤鸡肉串", "ja": "焼き鳥", "es": "Brochetas de pollo a la parrilla"},
+{"en": "Steamed fish", "zh": "蒸鱼", "ja": "蒸し魚", "es": "Pescado al vapor"},
+{"en": "Beef stew", "zh": "炖牛肉", "ja": "ビーフシチュー", "es": "Estofado de res"}
+],
+"a": 1,
+"trivia": {
+"en": "Yakitori stalls are found under train tracks throughout Tokyo, a tradition dating back to the post-war era.",
+"zh": "东京各处的铁轨下都有烤鸡肉串摊位，这一传统可追溯到战后时代。",
+"ja": "焼き鳥の屋台は東京中の高架下にあり、この伝統は戦後時代にさかのぼります。",
+"es": "Los puestos de yakitori se encuentran bajo las vias del tren en todo Tokio, una tradicion que data de la era de posguerra."
+}
+},
+{
+"id": "food_beginner_023",
+"q": {
+"en": "What is dashi?",
+"zh": "出汁是什么？",
+"ja": "出汁とは何ですか？",
+"es": "Que es el dashi?"
+},
+"c": [
+{"en": "A sweet dessert", "zh": "一种甜品", "ja": "甘いデザート", "es": "Un postre dulce"},
+{"en": "A spicy chili sauce", "zh": "一种辣椒酱", "ja": "辛いチリソース", "es": "Una salsa de chile picante"},
+{"en": "A Japanese soup stock", "zh": "日本高汤", "ja": "日本の出汁", "es": "Un caldo base japones"},
+{"en": "A type of noodle", "zh": "一种面条", "ja": "麺の一種", "es": "Un tipo de fideo"}
+],
+"a": 2,
+"trivia": {
+"en": "Dashi is the foundation of Japanese cooking, typically made from kombu seaweed and bonito fish flakes.",
+"zh": "出汁是日本料理的基础，通常由昆布海带和�的鲣鱼片制成。",
+"ja": "出汁は日本料理の基本で、通常は昆布と鰹節から作られます。",
+"es": "El dashi es la base de la cocina japonesa, tipicamente hecho de alga kombu y copos de bonito."
+}
+},
+{
+"id": "food_beginner_024",
+"q": {
+"en": "What is the traditional Japanese multi-course haute cuisine called?",
+"zh": "传统的日本多道菜高级料理叫什么？",
+"ja": "日本の伝統的な多品目の高級料理は何と呼ばれますか？",
+"es": "Como se llama la alta cocina tradicional japonesa de multiples platos?"
+},
+"c": [
+{"en": "Yakitori", "zh": "烤鸡肉串", "ja": "焼き鳥", "es": "Yakitori"},
+{"en": "Kaiseki", "zh": "怀石料理", "ja": "懐石料理", "es": "Kaiseki"},
+{"en": "Okonomiyaki", "zh": "大阪烧", "ja": "お好み焼き", "es": "Okonomiyaki"},
+{"en": "Gyudon", "zh": "牛肉饭", "ja": "牛丼", "es": "Gyudon"}
+],
+"a": 1,
+"trivia": {
+"en": "Kaiseki originated from the simple meals served during tea ceremonies and evolved into Japan's most refined dining experience.",
+"zh": "怀石料理起源于茶道中供应的简单餐食，后发展为日本最精致的用餐体验。",
+"ja": "懐石料理は茶会で出される質素な食事が起源で、日本で最も洗練された食事体験に発展しました。",
+"es": "El kaiseki se origino de las comidas simples servidas durante las ceremonias del te y evoluciono en la experiencia gastronomica mas refinada de Japon."
+}
+},
+{
+"id": "food_beginner_025",
+"q": {
+"en": "What is the conveyor belt sushi restaurant system called?",
+"zh": "回转寿司餐厅系统叫什么？",
+"ja": "回転寿司のシステムは何と呼ばれますか？",
+"es": "Como se llama el sistema de restaurante de sushi con cinta transportadora?"
+},
+"c": [
+{"en": "Kaiten-zushi", "zh": "回转寿司", "ja": "回転寿司", "es": "Kaiten-zushi"},
+{"en": "Omakase", "zh": "厨师推荐", "ja": "おまかせ", "es": "Omakase"},
+{"en": "Teppanyaki", "zh": "铁板烧", "ja": "鉄板焼き", "es": "Teppanyaki"},
+{"en": "Robatayaki", "zh": "�的炉端烧", "ja": "炉端焼き", "es": "Robatayaki"}
+],
+"a": 0,
+"trivia": {
+"en": "The first kaiten-zushi restaurant opened in Osaka in 1958, inspired by beer bottles on a conveyor belt in a brewery.",
+"zh": "第一家回转寿司餐厅于1958年在大阪开业，灵感来自啤酒厂传送带上的啤酒瓶。",
+"ja": "最初の回転寿司店は1958年に大阪で開店し、ビール工場のベルトコンベアにヒントを得ました。",
+"es": "El primer restaurante kaiten-zushi abrio en Osaka en 1958, inspirado por botellas de cerveza en una cinta transportadora de una cerveceria."
+}
+},
+{
+"id": "food_beginner_026",
+"q": {
+"en": "What is mochi?",
+"zh": "年糕（麻薯）是什么？",
+"ja": "餅とは何ですか？",
+"es": "Que es el mochi?"
+},
+"c": [
+{"en": "A type of fish", "zh": "一种鱼", "ja": "魚の一種", "es": "Un tipo de pescado"},
+{"en": "A pickled vegetable", "zh": "一种腌菜", "ja": "漬物", "es": "Un vegetal encurtido"},
+{"en": "A sticky rice cake", "zh": "一种糯米糕", "ja": "もち米から作った餅", "es": "Un pastel de arroz glutinoso"},
+{"en": "A type of tea", "zh": "一种茶", "ja": "茶の一種", "es": "Un tipo de te"}
+],
+"a": 2,
+"trivia": {
+"en": "Mochi is traditionally made by pounding steamed glutinous rice in a ceremony called mochitsuki, often held at New Year.",
+"zh": "年糕传统上是在一种叫做捣年糕的仪式中将蒸糯米捣制而成，通常在新年举行。",
+"ja": "餅は伝統的に餅つきという行事で蒸したもち米をついて作り、主にお正月に行われます。",
+"es": "El mochi se hace tradicionalmente golpeando arroz glutinoso al vapor en una ceremonia llamada mochitsuki, que se celebra a menudo en Ano Nuevo."
+}
+},
+{
+"id": "food_beginner_027",
+"q": {
+"en": "Which city is famous for its okonomiyaki (savory pancake)?",
+"zh": "哪个城市以大阪烧（咸味煎饼）闻名？",
+"ja": "お好み焼きで有名な都市はどこですか？",
+"es": "Que ciudad es famosa por su okonomiyaki (panqueque salado)?"
+},
+"c": [
+{"en": "Tokyo", "zh": "东京", "ja": "東京", "es": "Tokio"},
+{"en": "Osaka", "zh": "大阪", "ja": "大阪", "es": "Osaka"},
+{"en": "Sapporo", "zh": "札幌", "ja": "札幌", "es": "Sapporo"},
+{"en": "Okinawa", "zh": "冲绳", "ja": "沖縄", "es": "Okinawa"}
+],
+"a": 1,
+"trivia": {
+"en": "Osaka is called 'Japan's Kitchen' (tenka no daidokoro) due to its rich food culture.",
+"zh": "大阪被称为'天下的厨房'，因为其丰富的饮食文化。",
+"ja": "大阪はその豊かな食文化から「天下の台所」と呼ばれています。",
+"es": "Osaka es llamada 'la cocina de Japon' (tenka no daidokoro) debido a su rica cultura gastronomica."
+}
+},
+{
+"id": "food_beginner_028",
+"q": {
+"en": "What is the thin, sliced raw fish dish called?",
+"zh": "切成薄片的生鱼片菜叫什么？",
+"ja": "薄く切った生魚の料理は何と呼ばれますか？",
+"es": "Como se llama el plato de pescado crudo en rodajas finas?"
+},
+"c": [
+{"en": "Sashimi", "zh": "刺身", "ja": "刺身", "es": "Sashimi"},
+{"en": "Teriyaki", "zh": "照烧", "ja": "照り焼き", "es": "Teriyaki"},
+{"en": "Sukiyaki", "zh": "寿喜烧", "ja": "すき焼き", "es": "Sukiyaki"},
+{"en": "Takoyaki", "zh": "章鱼烧", "ja": "たこ焼き", "es": "Takoyaki"}
+],
+"a": 0,
+"trivia": {
+"en": "Sashimi is served with no rice, unlike sushi. The freshness and quality of the fish is everything.",
+"zh": "刺身不配米饭，与寿司不同。鱼的新鲜度和品质是最重要的。",
+"ja": "刺身は寿司と違ってご飯なしで提供されます。魚の鮮度と品質が全てです。",
+"es": "El sashimi se sirve sin arroz, a diferencia del sushi. La frescura y calidad del pescado lo es todo."
+}
+},
+{
+"id": "food_beginner_029",
+"q": {
+"en": "What is udon?",
+"zh": "乌冬面是什么？",
+"ja": "うどんとは何ですか？",
+"es": "Que es el udon?"
+},
+"c": [
+{"en": "Thin buckwheat noodles", "zh": "细荞麦面", "ja": "細いそば", "es": "Fideos finos de trigo sarraceno"},
+{"en": "Thick wheat flour noodles", "zh": "粗小麦粉面条", "ja": "太い小麦粉の麺", "es": "Fideos gruesos de harina de trigo"},
+{"en": "Glass noodles", "zh": "粉丝", "ja": "春雨", "es": "Fideos de vidrio"},
+{"en": "Egg noodles", "zh": "鸡蛋面", "ja": "卵麺", "es": "Fideos de huevo"}
+],
+"a": 1,
+"trivia": {
+"en": "Kagawa Prefecture on Shikoku island is called 'Udon Prefecture' because of its devotion to udon noodles.",
+"zh": "四国岛上的香川县被称为'乌冬县'，因为当地人对乌冬面的热爱。",
+"ja": "四国の香川県はうどんへの情熱から「うどん県」と呼ばれています。",
+"es": "La prefectura de Kagawa en la isla de Shikoku se llama 'la prefectura del udon' por su devocion a los fideos udon."
+}
+},
+{
+"id": "food_beginner_030",
+"q": {
+"en": "What is the Japanese word for 'cheers' when drinking?",
+"zh": "日语中喝酒时说的'干杯'怎么说？",
+"ja": "乾杯は英語で何と言いますか？",
+"es": "Cual es la palabra japonesa para 'salud' al brindar?"
+},
+"c": [
+{"en": "Banzai", "zh": "万岁", "ja": "万歳", "es": "Banzai"},
+{"en": "Yatta", "zh": "太好了", "ja": "やった", "es": "Yatta"},
+{"en": "Kanpai", "zh": "干杯", "ja": "乾杯", "es": "Kanpai"},
+{"en": "Gambatte", "zh": "加油", "ja": "頑張って", "es": "Gambatte"}
+],
+"a": 2,
+"trivia": {
+"en": "In Japan, it is considered rude to start drinking before everyone has their glass raised and 'kanpai' has been said.",
+"zh": "在日本，在所有人举杯说'干杯'之前就开始喝酒被认为是不礼貌的。",
+"ja": "日本では、全員がグラスを掲げて「乾杯」と言う前に飲み始めるのは失礼とされています。",
+"es": "En Japon, se considera de mala educacion empezar a beber antes de que todos hayan levantado su vaso y se haya dicho 'kanpai'."
+}
+},
+{
+"id": "food_beginner_031",
+"q": {
+"en": "What is takoyaki?",
+"zh": "章鱼烧是什么？",
+"ja": "たこ焼きとは何ですか？",
+"es": "Que es el takoyaki?"
+},
+"c": [
+{"en": "Octopus-filled fried balls", "zh": "章鱼馅炸丸子", "ja": "タコ入りの焼き丸", "es": "Bolas fritas rellenas de pulpo"},
+{"en": "Grilled squid", "zh": "烤鱿鱼", "ja": "焼きイカ", "es": "Calamar a la parrilla"},
+{"en": "Shrimp tempura", "zh": "炸虾天妇罗", "ja": "エビ天ぷら", "es": "Tempura de camaron"},
+{"en": "Crab sushi", "zh": "蟹肉寿司", "ja": "カニ寿司", "es": "Sushi de cangrejo"}
+],
+"a": 0,
+"trivia": {
+"en": "Takoyaki was invented in Osaka in 1935 and is one of Japan's most beloved street foods.",
+"zh": "章鱼烧于1935年在大阪发明，是日本最受喜爱的街头小吃之一。",
+"ja": "たこ焼きは1935年に大阪で発明され、日本で最も愛される屋台料理の一つです。",
+"es": "El takoyaki fue inventado en Osaka en 1935 y es una de las comidas callejeras mas queridas de Japon."
+}
+},
+{
+"id": "food_beginner_032",
+"q": {
+"en": "Is it considered polite to slurp noodles in Japan?",
+"zh": "在日本吃面条时发出声音是礼貌的吗？",
+"ja": "日本では麺をすすることはマナー違反ですか？",
+"es": "Se considera educado sorber fideos en Japon?"
+},
+"c": [
+{"en": "No, it is very rude", "zh": "不，非常不礼貌", "ja": "いいえ、とても失礼です", "es": "No, es muy grosero"},
+{"en": "Yes, it shows you enjoy the food", "zh": "是的，这表示你喜欢这道菜", "ja": "はい、美味しさを表現しています", "es": "Si, muestra que disfrutas la comida"},
+{"en": "Only at formal dinners", "zh": "只在正式晚宴上", "ja": "正式な食事の時だけ", "es": "Solo en cenas formales"},
+{"en": "Only when eating alone", "zh": "只在一个人吃饭时", "ja": "一人で食べる時だけ", "es": "Solo cuando se come solo"}
+],
+"a": 1,
+"trivia": {
+"en": "Slurping noodles in Japan is believed to enhance the flavor and also helps cool down hot noodles.",
+"zh": "在日本，吸面条被认为可以增强风味，也有助于冷却热面条。",
+"ja": "日本では麺をすすることで風味が増し、熱い麺を冷ますのにも役立つと言われています。",
+"es": "Sorber fideos en Japon se cree que mejora el sabor y tambien ayuda a enfriar los fideos calientes."
+}
+},
+{
+"id": "food_beginner_033",
+"q": {
+"en": "What is the Japanese term for traditional cuisine recognized by UNESCO?",
+"zh": "被联合国教科文组织认可的日本传统料理叫什么？",
+"ja": "ユネスコに認められた日本の伝統的な食文化は何と呼ばれますか？",
+"es": "Cual es el termino japones para la cocina tradicional reconocida por la UNESCO?"
+},
+"c": [
+{"en": "Yoshoku", "zh": "洋食", "ja": "洋食", "es": "Yoshoku"},
+{"en": "Chuka", "zh": "中华料理", "ja": "中華", "es": "Chuka"},
+{"en": "Washoku", "zh": "和食", "ja": "和食", "es": "Washoku"},
+{"en": "B-kyu gourmet", "zh": "B级美食", "ja": "B級グルメ", "es": "B-kyu gourmet"}
+],
+"a": 2,
+"trivia": {
+"en": "Washoku was added to UNESCO's Intangible Cultural Heritage list in 2013 for its emphasis on seasonal ingredients and balanced nutrition.",
+"zh": "和食于2013年被列入联合国教科文组织非物质文化遗产名录，因其强调时令食材和均衡营养。",
+"ja": "和食は季節の食材と栄養バランスを重視することから、2013年にユネスコの無形文化遺産に登録されました。",
+"es": "El washoku fue anadido a la lista del Patrimonio Cultural Inmaterial de la UNESCO en 2013 por su enfasis en ingredientes de temporada y nutricion equilibrada."
+}
+},
+{
+"id": "food_beginner_034",
+"q": {
+"en": "What is gyoza?",
+"zh": "饺子是什么？",
+"ja": "餃子とは何ですか？",
+"es": "Que es el gyoza?"
+},
+"c": [
+{"en": "A rice cracker", "zh": "一种米饼", "ja": "せんべい", "es": "Una galleta de arroz"},
+{"en": "A custard pudding", "zh": "一种布丁", "ja": "プリン", "es": "Un pudin de crema"},
+{"en": "Japanese pan-fried dumplings", "zh": "日式煎饺", "ja": "日本の焼き餃子", "es": "Empanadillas japonesas a la plancha"},
+{"en": "A type of sashimi", "zh": "一种刺身", "ja": "刺身の一種", "es": "Un tipo de sashimi"}
+],
+"a": 2,
+"trivia": {
+"en": "Japanese gyoza are typically pan-fried on one side to create a crispy bottom, unlike Chinese dumplings which are often fully steamed or boiled.",
+"zh": "日式饺子通常一面煎至酥脆，与中国饺子常见的全蒸或水煮不同。",
+"ja": "日本の餃子は片面をパリッと焼くのが特徴で、蒸しや水餃子が多い中国の餃子とは異なります。",
+"es": "Los gyoza japoneses tipicamente se frien por un lado para crear un fondo crujiente, a diferencia de los dumplings chinos que a menudo se cuecen al vapor o se hierven."
+}
+},
+{
+"id": "food_beginner_035",
+"q": {
+"en": "What is Japanese curry typically served with?",
+"zh": "日式咖喱通常配什么？",
+"ja": "日本のカレーは通常何と一緒に食べますか？",
+"es": "Con que se sirve tipicamente el curry japones?"
+},
+"c": [
+{"en": "Naan bread", "zh": "馕饼", "ja": "ナン", "es": "Pan naan"},
+{"en": "Rice", "zh": "米饭", "ja": "ご飯", "es": "Arroz"},
+{"en": "Tortillas", "zh": "玉米饼", "ja": "トルティーヤ", "es": "Tortillas"},
+{"en": "Pasta", "zh": "意面", "ja": "パスタ", "es": "Pasta"}
+],
+"a": 1,
+"trivia": {
+"en": "Japanese curry (kare raisu) is one of the most popular home-cooked dishes in Japan, eaten by most families at least once a week.",
+"zh": "日式咖喱饭是日本最受欢迎的家常菜之一，大多数家庭每周至少吃一次。",
+"ja": "カレーライスは日本で最も人気のある家庭料理の一つで、ほとんどの家庭が週に一度は食べています。",
+"es": "El curry japones (kare raisu) es uno de los platos caseros mas populares en Japon, consumido por la mayoria de las familias al menos una vez por semana."
+}
+},
+{
+"id": "food_beginner_036",
+"q": {
+"en": "What is the fifth basic taste discovered by a Japanese scientist?",
+"zh": "由日本科学家发现的第五种基本味觉是什么？",
+"ja": "日本の科学者が発見した5番目の基本味覚は何ですか？",
+"es": "Cual es el quinto sabor basico descubierto por un cientifico japones?"
+},
+"c": [
+{"en": "Spicy", "zh": "辣", "ja": "辛い", "es": "Picante"},
+{"en": "Umami", "zh": "鲜味", "ja": "うま味", "es": "Umami"},
+{"en": "Smoky", "zh": "烟熏味", "ja": "スモーキー", "es": "Ahumado"},
+{"en": "Tangy", "zh": "酸涩味", "ja": "ピリッとした味", "es": "Acido"}
+],
+"a": 1,
+"trivia": {
+"en": "Umami was identified by Professor Kikunae Ikeda in 1908 while studying the taste of kombu seaweed broth.",
+"zh": "鲜味是池田菊苗教授在1908年研究昆布海带汤的味道时发现的。",
+"ja": "うま味は1908年に池田菊苗教授が昆布だしの味を研究中に発見しました。",
+"es": "El umami fue identificado por el profesor Kikunae Ikeda en 1908 mientras estudiaba el sabor del caldo de alga kombu."
+}
+},
+{
+"id": "food_beginner_037",
+"q": {
+"en": "What is tonkatsu?",
+"zh": "炸猪排是什么？",
+"ja": "とんかつとは何ですか？",
+"es": "Que es el tonkatsu?"
+},
+"c": [
+{"en": "Grilled tuna steak", "zh": "烤金枪鱼排", "ja": "マグロのグリル", "es": "Filete de atun a la parrilla"},
+{"en": "Deep-fried breaded pork cutlet", "zh": "裹面包屑油炸的猪排", "ja": "パン粉をつけて揚げた豚カツ", "es": "Chuleta de cerdo empanizada y frita"},
+{"en": "Braised chicken", "zh": "红烧鸡", "ja": "鶏の煮込み", "es": "Pollo estofado"},
+{"en": "Steamed pork belly", "zh": "蒸猪五花", "ja": "蒸し豚バラ", "es": "Panceta de cerdo al vapor"}
+],
+"a": 1,
+"trivia": {
+"en": "Tonkatsu is often eaten before exams because 'katsu' sounds like the Japanese word for 'to win' (katsu).",
+"zh": "考试前常吃炸猪排，因为'かつ'与日语中'胜利'（勝つ）同音。",
+"ja": "とんかつは試験前によく食べられます。「カツ」が「勝つ」と同じ発音だからです。",
+"es": "El tonkatsu se come a menudo antes de examenes porque 'katsu' suena como la palabra japonesa para 'ganar' (katsu)."
+}
+},
+{
+"id": "food_beginner_038",
+"q": {
+"en": "What is the traditional Japanese breakfast soup?",
+"zh": "日本传统早餐汤是什么？",
+"ja": "日本の伝統的な朝食のスープは何ですか？",
+"es": "Cual es la sopa tradicional del desayuno japones?"
+},
+"c": [
+{"en": "Chicken noodle soup", "zh": "鸡汤面", "ja": "チキンヌードルスープ", "es": "Sopa de fideos con pollo"},
+{"en": "Tomato soup", "zh": "番茄汤", "ja": "トマトスープ", "es": "Sopa de tomate"},
+{"en": "Miso soup", "zh": "味噌汤", "ja": "味噌汁", "es": "Sopa de miso"},
+{"en": "Corn chowder", "zh": "玉米浓汤", "ja": "コーンチャウダー", "es": "Crema de maiz"}
+],
+"a": 2,
+"trivia": {
+"en": "A traditional Japanese breakfast typically includes miso soup, rice, grilled fish, pickles, and a raw egg.",
+"zh": "传统的日本早餐通常包括味噌汤、米饭、烤鱼、腌菜和一个生鸡蛋。",
+"ja": "伝統的な日本の朝食は味噌汁、ご飯、焼き魚、漬物、生卵が定番です。",
+"es": "Un desayuno japones tradicional tipicamente incluye sopa de miso, arroz, pescado a la parrilla, encurtidos y un huevo crudo."
+}
+},
+{
+"id": "food_beginner_039",
+"q": {
+"en": "What type of noodles are made from buckwheat flour?",
+"zh": "哪种面条是用荞麦粉做的？",
+"ja": "そば粉から作られる麺は何ですか？",
+"es": "Que tipo de fideos se hacen con harina de trigo sarraceno?"
+},
+"c": [
+{"en": "Udon", "zh": "乌冬面", "ja": "うどん", "es": "Udon"},
+{"en": "Ramen", "zh": "拉面", "ja": "ラーメン", "es": "Ramen"},
+{"en": "Somen", "zh": "素面", "ja": "そうめん", "es": "Somen"},
+{"en": "Soba", "zh": "荞麦面", "ja": "そば", "es": "Soba"}
+],
+"a": 3,
+"trivia": {
+"en": "Eating soba noodles on New Year's Eve (toshikoshi soba) is a Japanese tradition symbolizing longevity and cutting away the old year's troubles.",
+"zh": "除夕吃荞麦面（跨年荞麦面）是日本的传统，象征着长寿和断绝旧年的烦恼。",
+"ja": "大晦日に年越しそばを食べるのは日本の伝統で、長寿と旧年の厄を断ち切ることを象徴しています。",
+"es": "Comer fideos soba en la vispera de Ano Nuevo (toshikoshi soba) es una tradicion japonesa que simboliza la longevidad y cortar los problemas del ano viejo."
+}
+},
+{
+"id": "food_beginner_040",
+"q": {
+"en": "What is natto?",
+"zh": "纳豆是什么？",
+"ja": "納豆とは何ですか？",
+"es": "Que es el natto?"
+},
+"c": [
+{"en": "Fermented soybeans with a sticky texture", "zh": "带有粘稠口感的发酵大豆", "ja": "粘り気のある発酵大豆", "es": "Soja fermentada con textura pegajosa"},
+{"en": "A type of green tea", "zh": "一种绿茶", "ja": "緑茶の一種", "es": "Un tipo de te verde"},
+{"en": "Sweet red bean paste", "zh": "甜红豆沙", "ja": "甘いあんこ", "es": "Pasta dulce de frijol rojo"},
+{"en": "Dried bonito flakes", "zh": "干鲣鱼片", "ja": "かつお節", "es": "Copos de bonito seco"}
+],
+"a": 0,
+"trivia": {
+"en": "Natto has a very strong smell and sticky strings, making it one of the most divisive foods even among Japanese people.",
+"zh": "纳豆气味浓烈且有粘丝，即使在日本人中也是最具争议的食物之一。",
+"ja": "納豆は強い匂いと粘り気があり、日本人の間でも好き嫌いが大きく分かれる食べ物です。",
+"es": "El natto tiene un olor muy fuerte e hilos pegajosos, siendo uno de los alimentos mas divisivos incluso entre los japoneses."
+}
+},
+{
+"id": "food_beginner_041",
+"q": {
+"en": "What is a donburi?",
+"zh": "盖饭是什么？",
+"ja": "丼とは何ですか？",
+"es": "Que es un donburi?"
+},
+"c": [
+{"en": "A deep-fried snack", "zh": "一种油炸小吃", "ja": "揚げ物スナック", "es": "Un bocadillo frito"},
+{"en": "A cold noodle dish", "zh": "一种冷面", "ja": "冷たい麺料理", "es": "Un plato de fideos frios"},
+{"en": "A bowl of rice topped with meat, fish, or vegetables", "zh": "一碗盖有肉、鱼或蔬菜的米饭", "ja": "肉や魚、野菜をのせたご飯", "es": "Un tazon de arroz con carne, pescado o verduras encima"},
+{"en": "A type of sushi", "zh": "一种寿司", "ja": "寿司の一種", "es": "Un tipo de sushi"}
+],
+"a": 2,
+"trivia": {
+"en": "Popular types of donburi include gyudon (beef), katsudon (pork cutlet), oyakodon (chicken and egg), and tendon (tempura).",
+"zh": "常见的盖饭种类有牛丼（牛肉）、猪排饭（炸猪排）、亲子丼（鸡肉和鸡蛋）和天丼（天妇罗）。",
+"ja": "人気の丼ものには牛丼、カツ丼、親子丼、天丼などがあります。",
+"es": "Los tipos populares de donburi incluyen gyudon (res), katsudon (chuleta de cerdo), oyakodon (pollo y huevo) y tendon (tempura)."
+}
+},
+{
+"id": "food_beginner_042",
+"q": {
+"en": "What is the main ingredient in traditional wagashi (Japanese sweets)?",
+"zh": "传统和�的主要原料是什么？",
+"ja": "伝統的な和菓子の主な材料は何ですか？",
+"es": "Cual es el ingrediente principal en los wagashi (dulces japoneses) tradicionales?"
+},
+"c": [
+{"en": "Chocolate", "zh": "巧克力", "ja": "チョコレート", "es": "Chocolate"},
+{"en": "Butter and cream", "zh": "黄油和奶油", "ja": "バターとクリーム", "es": "Mantequilla y crema"},
+{"en": "Sweet red bean paste (anko)", "zh": "甜红豆沙（馅）", "ja": "あんこ（甘い小豆餡）", "es": "Pasta dulce de frijol rojo (anko)"},
+{"en": "Maple syrup", "zh": "枫糖浆", "ja": "メープルシロップ", "es": "Jarabe de arce"}
+],
+"a": 2,
+"trivia": {
+"en": "Wagashi are designed to complement the bitter taste of matcha tea and often reflect the current season in their shapes.",
+"zh": "和菓子的设计是为了配合抹茶的苦味，其造型通常反映当季的季节特色。",
+"ja": "和菓子は抹茶の苦みに合うように作られ、その形は季節を表現していることが多いです。",
+"es": "Los wagashi estan disenados para complementar el sabor amargo del te matcha y a menudo reflejan la temporada actual en sus formas."
+}
+},
+{
+"id": "food_beginner_043",
+"q": {
+"en": "What is the Japanese hot pot dish where ingredients are cooked at the table?",
+"zh": "在桌上涮煮食材的日本火锅叫什么？",
+"ja": "テーブルで具材を煮る日本の鍋料理は何ですか？",
+"es": "Cual es el plato japones de olla caliente donde los ingredientes se cocinan en la mesa?"
+},
+"c": [
+{"en": "Nabe", "zh": "火锅", "ja": "鍋", "es": "Nabe"},
+{"en": "Yakimeshi", "zh": "炒饭", "ja": "焼き飯", "es": "Yakimeshi"},
+{"en": "Zaru soba", "zh": "竹笼荞麦面", "ja": "ざるそば", "es": "Zaru soba"},
+{"en": "Chazuke", "zh": "茶泡饭", "ja": "お茶漬け", "es": "Chazuke"}
+],
+"a": 0,
+"trivia": {
+"en": "Nabe is a communal dish that brings families and friends together, especially popular during the cold winter months.",
+"zh": "火锅是一道聚餐菜肴，将家人和朋友聚在一起，在寒冷的冬季尤为受欢迎。",
+"ja": "鍋は家族や友人が集まる料理で、特に寒い冬の時期に人気があります。",
+"es": "El nabe es un plato comunal que reune a familias y amigos, especialmente popular durante los frios meses de invierno."
+}
+},
+{
+"id": "food_beginner_044",
+"q": {
+"en": "What is tamagoyaki?",
+"zh": "玉子烧是什么？",
+"ja": "卵焼きとは何ですか？",
+"es": "Que es el tamagoyaki?"
+},
+"c": [
+{"en": "Fried chicken", "zh": "炸鸡", "ja": "フライドチキン", "es": "Pollo frito"},
+{"en": "Grilled eel", "zh": "烤鳗鱼", "ja": "焼きうなぎ", "es": "Anguila a la parrilla"},
+{"en": "Rolled Japanese omelette", "zh": "日式厚蛋卷", "ja": "巻いた日本の卵焼き", "es": "Tortilla japonesa enrollada"},
+{"en": "Steamed egg custard", "zh": "蒸蛋羹", "ja": "茶碗蒸し", "es": "Flan de huevo al vapor"}
+],
+"a": 2,
+"trivia": {
+"en": "Tamagoyaki is made by rolling thin layers of seasoned egg in a special rectangular pan and is a staple in bento boxes.",
+"zh": "玉子烧是用一种特殊的长方形锅将调味蛋液一层层卷起来制作的，是便当的定番菜。",
+"ja": "卵焼きは専用の長方形のフライパンで味付きの卵を薄く何層にも巻いて作り、弁当の定番です。",
+"es": "El tamagoyaki se hace enrollando capas finas de huevo sazonado en una sarten rectangular especial y es un elemento basico en las cajas bento."
+}
+},
+{
+"id": "food_beginner_045",
+"q": {
+"en": "What is the most popular drink from Japanese vending machines?",
+"zh": "日本自动贩卖机最受欢迎的饮料是什么？",
+"ja": "日本の自動販売機で最も人気のある飲み物は？",
+"es": "Cual es la bebida mas popular de las maquinas expendedoras japonesas?"
+},
+"c": [
+{"en": "Orange juice", "zh": "橙汁", "ja": "オレンジジュース", "es": "Jugo de naranja"},
+{"en": "Green tea", "zh": "绿茶", "ja": "緑茶", "es": "Te verde"},
+{"en": "Cola", "zh": "可乐", "ja": "コーラ", "es": "Cola"},
+{"en": "Milk", "zh": "牛奶", "ja": "牛乳", "es": "Leche"}
+],
+"a": 1,
+"trivia": {
+"en": "Japan has over 5 million vending machines, one for roughly every 23 people, selling everything from hot tea to soup.",
+"zh": "日本有超过500万台自动贩卖机，大约每23人就有一台，出售从热茶到汤的各种商品。",
+"ja": "日本には500万台以上の自動販売機があり、約23人に1台の割合で、温かいお茶からスープまで何でも売っています。",
+"es": "Japon tiene mas de 5 millones de maquinas expendedoras, aproximadamente una por cada 23 personas, vendiendo desde te caliente hasta sopa."
+}
+},
+{
+"id": "food_beginner_046",
+"q": {
+"en": "What is teriyaki?",
+"zh": "照烧是什么？",
+"ja": "照り焼きとは何ですか？",
+"es": "Que es el teriyaki?"
+},
+"c": [
+{"en": "A raw fish preparation", "zh": "一种生鱼做法", "ja": "生魚の調理法", "es": "Una preparacion de pescado crudo"},
+{"en": "A deep-frying technique", "zh": "一种油炸技术", "ja": "揚げ物の技法", "es": "Una tecnica de fritura"},
+{"en": "A steaming method", "zh": "一种蒸制方法", "ja": "蒸し調理法", "es": "Un metodo de coccion al vapor"},
+{"en": "A grilling technique using a sweet soy glaze", "zh": "使用甜酱油汁的烧烤技术", "ja": "甘い醤油ダレで焼く調理法", "es": "Una tecnica de asado con glaseado dulce de soja"}
+],
+"a": 3,
+"trivia": {
+"en": "The word teriyaki comes from 'teri' meaning luster or shine, and 'yaki' meaning grilled or broiled.",
+"zh": "'照烧'由'照'（光泽）和'烧'（烤）组成。",
+"ja": "「照り焼き」は「照り」（つや）と「焼き」（焼く）から来ています。",
+"es": "La palabra teriyaki viene de 'teri' que significa brillo o lustre, y 'yaki' que significa asado o a la parrilla."
+}
+},
+{
+"id": "food_beginner_047",
+"q": {
+"en": "What is the traditional way to eat sushi with your hands?",
+"zh": "用手吃寿司的传统方式是什么？",
+"ja": "手で寿司を食べる伝統的な方法は？",
+"es": "Cual es la forma tradicional de comer sushi con las manos?"
+},
+"c": [
+{"en": "Turn it upside down and dip the fish side in soy sauce", "zh": "翻转过来将鱼肉面蘸酱油", "ja": "ひっくり返してネタの方を醤油につける", "es": "Darle la vuelta y mojar el lado del pescado en salsa de soja"},
+{"en": "Dip the rice side in soy sauce", "zh": "将米饭面蘸酱油", "ja": "ご飯の方を醤油につける", "es": "Mojar el lado del arroz en salsa de soja"},
+{"en": "Pour soy sauce over the entire piece", "zh": "将酱油倒在整块寿司上", "ja": "醤油を全体にかける", "es": "Verter salsa de soja sobre toda la pieza"},
+{"en": "Eat it without any soy sauce", "zh": "不蘸任何酱油直接吃", "ja": "醤油なしで食べる", "es": "Comerlo sin salsa de soja"}
+],
+"a": 0,
+"trivia": {
+"en": "Dipping the rice side in soy sauce is considered improper because the rice absorbs too much soy sauce and may fall apart.",
+"zh": "将米饭面蘸酱油被认为是不正确的，因为米饭会吸收太多酱油且可能散开。",
+"ja": "ご飯の方を醤油につけるのはマナー違反とされています。ご飯が醤油を吸いすぎて崩れてしまうからです。",
+"es": "Mojar el lado del arroz en salsa de soja se considera inapropiado porque el arroz absorbe demasiada salsa y puede desmoronarse."
+}
+},
+{
+"id": "food_beginner_048",
+"q": {
+"en": "Which region of Japan is known for Sapporo-style miso ramen?",
+"zh": "日本哪个地区以札幌味噌拉面闻名？",
+"ja": "札幌味噌ラーメンで有名な地域はどこですか？",
+"es": "Que region de Japon es conocida por el ramen miso estilo Sapporo?"
+},
+"c": [
+{"en": "Kyushu", "zh": "九州", "ja": "九州", "es": "Kyushu"},
+{"en": "Kansai", "zh": "关西", "ja": "関西", "es": "Kansai"},
+{"en": "Hokkaido", "zh": "北海道", "ja": "北海道", "es": "Hokkaido"},
+{"en": "Shikoku", "zh": "四国", "ja": "四国", "es": "Shikoku"}
+],
+"a": 2,
+"trivia": {
+"en": "Sapporo miso ramen features a rich miso-based broth topped with butter and corn, reflecting Hokkaido's dairy and agricultural heritage.",
+"zh": "札幌味噌拉面以浓郁的味噌汤底为特色，上面加黄油和玉米，反映了北海道的乳制品和农业传统。",
+"ja": "札幌味噌ラーメンは濃厚な味噌ベースのスープにバターとコーンをのせるのが特徴で、北海道の酪農と農業を反映しています。",
+"es": "El ramen miso de Sapporo presenta un rico caldo a base de miso con mantequilla y maiz, reflejando la herencia lactea y agricola de Hokkaido."
+}
+},
+{
+"id": "food_beginner_049",
+"q": {
+"en": "What are the small dishes served at a Japanese pub (izakaya) called?",
+"zh": "日式居酒屋的小菜叫什么？",
+"ja": "居酒屋で出される小皿料理は何と呼ばれますか？",
+"es": "Como se llaman los pequenos platos servidos en un bar japones (izakaya)?"
+},
+"c": [
+{"en": "Teishoku", "zh": "定食", "ja": "定食", "es": "Teishoku"},
+{"en": "Otoshi or tsukidashi", "zh": "小菜/开胃菜", "ja": "お通し・突き出し", "es": "Otoshi o tsukidashi"},
+{"en": "Obento", "zh": "便当", "ja": "お弁当", "es": "Obento"},
+{"en": "Osechi", "zh": "年菜", "ja": "おせち", "es": "Osechi"}
+],
+"a": 1,
+"trivia": {
+"en": "Otoshi is a small appetizer automatically served when you sit down at an izakaya, and it typically comes with a small cover charge.",
+"zh": "小菜是你在居酒屋坐下时自动提供的开胃菜，通常附带少量座位费。",
+"ja": "お通しは居酒屋で着席時に自動的に出される小さなおつまみで、通常お通し代がかかります。",
+"es": "El otoshi es un pequeno aperitivo que se sirve automaticamente al sentarse en un izakaya, y tipicamente incluye un pequeno cargo de cubierto."
+}
+},
+{
+"id": "food_beginner_050",
+"q": {
+"en": "What is the name of the Japanese fermented rice drink that is slightly sweet?",
+"zh": "日本那种微甜的发酵米饮叫什么？",
+"ja": "ほんのり甘い日本の発酵米飲料の名前は何ですか？",
+"es": "Cual es el nombre de la bebida japonesa de arroz fermentado ligeramente dulce?"
+},
+"c": [
+{"en": "Mugicha", "zh": "麦茶", "ja": "麦茶", "es": "Mugicha"},
+{"en": "Calpis", "zh": "可尔必思", "ja": "カルピス", "es": "Calpis"},
+{"en": "Amazake", "zh": "甘酒", "ja": "甘酒", "es": "Amazake"},
+{"en": "Ramune", "zh": "弹珠汽水", "ja": "ラムネ", "es": "Ramune"}
+],
+"a": 2,
+"trivia": {
+"en": "Amazake has very low or no alcohol content and is traditionally drunk during New Year festivals and at shrines.",
+"zh": "甘酒酒精含量极低或不含酒精，传统上在新年节日和神社饮用。",
+"ja": "甘酒はアルコール度数が非常に低いかゼロで、伝統的にお正月や神社で飲まれています。",
+"es": "El amazake tiene muy poco o ningun contenido de alcohol y se bebe tradicionalmente durante los festivales de Ano Nuevo y en los santuarios."
+}
+},
+{
+"id": "food_beginner_051",
+"q": {
+"en": "What is the traditional New Year's food in Japan called?",
+"zh": "日本传统的新年食物叫什么？",
+"ja": "日本の伝統的なお正月料理は何と呼ばれますか？",
+"es": "Como se llama la comida tradicional de Ano Nuevo en Japon?"
+},
+"c": [
+{"en": "Hanami bento", "zh": "赏花便当", "ja": "花見弁当", "es": "Hanami bento"},
+{"en": "Osechi ryori", "zh": "御节料理", "ja": "おせち料理", "es": "Osechi ryori"},
+{"en": "Sukiyaki", "zh": "寿喜烧", "ja": "すき焼き", "es": "Sukiyaki"},
+{"en": "Shabu-shabu", "zh": "涮涮锅", "ja": "しゃぶしゃぶ", "es": "Shabu-shabu"}
+],
+"a": 1,
+"trivia": {
+"en": "Osechi ryori is prepared before New Year's Day so families can rest during the holidays. Each dish has a symbolic meaning for good fortune.",
+"zh": "御节料理在元旦前准备好，这样家人可以在假期休息。每道菜都有象征好运的含义。",
+"ja": "おせち料理はお正月に家族が休めるよう事前に準備します。各料理には縁起の良い意味が込められています。",
+"es": "El osechi ryori se prepara antes del Dia de Ano Nuevo para que las familias puedan descansar durante las fiestas. Cada plato tiene un significado simbolico de buena fortuna."
+}
+},
+{
+"id": "food_beginner_052",
+"q": {
+"en": "What is shabu-shabu?",
+"zh": "涮涮锅是什么？",
+"ja": "しゃぶしゃぶとは何ですか？",
+"es": "Que es el shabu-shabu?"
+},
+"c": [
+{"en": "A type of fried noodle", "zh": "一种炒面", "ja": "焼きそばの一種", "es": "Un tipo de fideo frito"},
+{"en": "A grilled fish dish", "zh": "一种烤鱼菜", "ja": "焼き魚料理", "es": "Un plato de pescado a la parrilla"},
+{"en": "A hot pot where thin slices of meat are swished in broth", "zh": "将薄切肉片在汤中涮的火锅", "ja": "薄切り肉をだしにくぐらせる鍋料理", "es": "Una olla caliente donde finas rebanadas de carne se agitan en caldo"},
+{"en": "A rice porridge", "zh": "一种粥", "ja": "おかゆ", "es": "Una papilla de arroz"}
+],
+"a": 2,
+"trivia": {
+"en": "The name 'shabu-shabu' is onomatopoeia for the swishing sound made when moving the meat through the hot broth.",
+"zh": "'涮涮锅'这个名字是拟声词，模仿肉在热汤中涮动的声音。",
+"ja": "「しゃぶしゃぶ」という名前は、肉を熱い出汁の中でくぐらせる時の音の擬音語です。",
+"es": "El nombre 'shabu-shabu' es una onomatopeya del sonido que se hace al mover la carne en el caldo caliente."
+}
+},
+{
+"id": "food_beginner_053",
+"q": {
+"en": "What is a popular Japanese convenience store chain known for its food quality?",
+"zh": "以食品质量闻名的日本便利店连锁品牌是什么？",
+"ja": "食品の品質で知られる日本のコンビニチェーンはどこですか？",
+"es": "Cual es la popular cadena de tiendas de conveniencia japonesa conocida por la calidad de su comida?"
+},
+"c": [
+{"en": "Walmart", "zh": "沃尔玛", "ja": "ウォルマート", "es": "Walmart"},
+{"en": "7-Eleven", "zh": "7-11", "ja": "セブンイレブン", "es": "7-Eleven"},
+{"en": "Costco", "zh": "好市多", "ja": "コストコ", "es": "Costco"},
+{"en": "Tesco", "zh": "乐购", "ja": "テスコ", "es": "Tesco"}
+],
+"a": 1,
+"trivia": {
+"en": "Japanese convenience stores (konbini) offer restaurant-quality meals, fresh sandwiches, and hot foods 24 hours a day.",
+"zh": "日本便利店全天24小时提供餐厅级别的餐食、新鲜三明治和热食。",
+"ja": "日本のコンビニは24時間、レストラン品質の食事、新鮮なサンドイッチ、ホットフードを提供しています。",
+"es": "Las tiendas de conveniencia japonesas (konbini) ofrecen comidas de calidad de restaurante, sandwiches frescos y comidas calientes las 24 horas del dia."
+}
+},
+{
+"id": "food_beginner_054",
+"q": {
+"en": "What is unagi?",
+"zh": "鳗鱼是什么？",
+"ja": "うなぎとは何ですか？",
+"es": "Que es el unagi?"
+},
+"c": [
+{"en": "Sea urchin", "zh": "海胆", "ja": "ウニ", "es": "Erizo de mar"},
+{"en": "Freshwater eel", "zh": "淡水鳗鱼", "ja": "淡水うなぎ", "es": "Anguila de agua dulce"},
+{"en": "Salmon", "zh": "三文鱼", "ja": "サーモン", "es": "Salmon"},
+{"en": "Tuna", "zh": "金枪鱼", "ja": "マグロ", "es": "Atun"}
+],
+"a": 1,
+"trivia": {
+"en": "Unagi is traditionally eaten on the Day of the Ox in summer (doyo no ushi no hi) to gain stamina against the heat.",
+"zh": "鳗鱼传统上在夏天的土用丑日食用，以增强体力抵抗暑热。",
+"ja": "うなぎは伝統的に夏の土用の丑の日に食べ、暑さに負けない体力をつけるとされています。",
+"es": "El unagi se come tradicionalmente en el Dia del Buey en verano (doyo no ushi no hi) para ganar resistencia contra el calor."
+}
+},
+{
+"id": "food_beginner_055",
+"q": {
+"en": "What is the difference between nigiri and maki sushi?",
+"zh": "握寿司和卷寿司有什么区别？",
+"ja": "握り寿司と巻き寿司の違いは何ですか？",
+"es": "Cual es la diferencia entre nigiri y maki sushi?"
+},
+"c": [
+{"en": "Nigiri is fried, maki is steamed", "zh": "握寿司是炸的，卷寿司是蒸的", "ja": "握りは揚げたもの、巻きは蒸したもの", "es": "El nigiri es frito, el maki es al vapor"},
+{"en": "Nigiri is hand-pressed rice with topping; maki is rice rolled in seaweed", "zh": "握寿司是手压饭团上放配料；卷寿司是用海苔卷的米饭", "ja": "握りは手で握ったご飯にネタをのせたもの、巻きは海苔で巻いたもの", "es": "El nigiri es arroz presionado a mano con cobertura; el maki es arroz enrollado en algas"},
+{"en": "They are exactly the same thing", "zh": "它们完全一样", "ja": "全く同じものです", "es": "Son exactamente lo mismo"},
+{"en": "Nigiri uses brown rice, maki uses white rice", "zh": "握寿司用糙米，卷寿司用白米", "ja": "握りは玄米、巻きは白米を使う", "es": "El nigiri usa arroz integral, el maki usa arroz blanco"}
+],
+"a": 1,
+"trivia": {
+"en": "Nigiri literally means 'to grip' because the chef shapes the rice by hand and places the fish on top.",
+"zh": "'握り'字面意思是'握'，因为寿司师傅用手捏饭团并在上面放鱼。",
+"ja": "「握り」は文字通り「握る」という意味で、職人が手でご飯を握りネタをのせて作ります。",
+"es": "Nigiri literalmente significa 'agarrar' porque el chef da forma al arroz con la mano y coloca el pescado encima."
+}
+},
+{
+"id": "food_beginner_056",
+"q": {
+"en": "What is the refreshing Japanese soda in a uniquely shaped bottle?",
+"zh": "那种装在独特造型瓶子里的日本清凉汽水叫什么？",
+"ja": "独特な形の瓶に入った日本の爽やかな炭酸飲料は何ですか？",
+"es": "Cual es el refresco japones refrescante en una botella de forma unica?"
+},
+"c": [
+{"en": "Pocari Sweat", "zh": "宝矿力", "ja": "ポカリスエット", "es": "Pocari Sweat"},
+{"en": "Ramune", "zh": "弹珠汽水", "ja": "ラムネ", "es": "Ramune"},
+{"en": "Mitsuya Cider", "zh": "三矢苹果汁", "ja": "三ツ矢サイダー", "es": "Mitsuya Cider"},
+{"en": "CC Lemon", "zh": "CC柠檬", "ja": "CCレモン", "es": "CC Limon"}
+],
+"a": 1,
+"trivia": {
+"en": "Ramune bottles are sealed with a glass marble that you push down to open, creating a distinctive popping sound.",
+"zh": "弹珠汽水瓶用玻璃弹珠密封，按下弹珠即可打开，会发出独特的声音。",
+"ja": "ラムネの瓶はガラス玉で密封されていて、押し込んで開けると独特な音がします。",
+"es": "Las botellas de ramune estan selladas con una canica de vidrio que se empuja hacia abajo para abrir, creando un sonido distintivo."
+}
+},
+{
+"id": "food_beginner_057",
+"q": {
+"en": "What is sukiyaki?",
+"zh": "寿喜烧是什么？",
+"ja": "すき焼きとは何ですか？",
+"es": "Que es el sukiyaki?"
+},
+"c": [
+{"en": "A cold noodle salad", "zh": "一种冷面沙拉", "ja": "冷たい麺サラダ", "es": "Una ensalada de fideos frios"},
+{"en": "A sweet and savory hot pot with thinly sliced beef", "zh": "用薄切牛肉做的甜咸火锅", "ja": "薄切り牛肉を使った甘辛い鍋料理", "es": "Una olla caliente dulce y salada con carne de res en rodajas finas"},
+{"en": "Deep-fried tofu", "zh": "炸豆腐", "ja": "揚げ豆腐", "es": "Tofu frito"},
+{"en": "A type of sushi", "zh": "一种寿司", "ja": "寿司の一種", "es": "Un tipo de sushi"}
+],
+"a": 1,
+"trivia": {
+"en": "Sukiyaki meat is traditionally dipped in raw beaten egg before eating, which adds richness and cools the hot meat.",
+"zh": "寿喜烧的肉传统上在吃之前蘸生鸡蛋液，增加口感并冷却热肉。",
+"ja": "すき焼きの肉は伝統的に溶き卵につけて食べ、コクを加えて熱い肉を冷ます効果があります。",
+"es": "La carne de sukiyaki se sumerge tradicionalmente en huevo crudo batido antes de comer, lo que agrega riqueza y enfria la carne caliente."
+}
+},
+{
+"id": "food_beginner_058",
+"q": {
+"en": "What is Japanese green tea called?",
+"zh": "日本绿茶叫什么？",
+"ja": "日本の緑茶は何と呼ばれますか？",
+"es": "Como se llama el te verde japones?"
+},
+"c": [
+{"en": "Oolong", "zh": "乌龙茶", "ja": "ウーロン茶", "es": "Oolong"},
+{"en": "Earl Grey", "zh": "伯爵茶", "ja": "アールグレイ", "es": "Earl Grey"},
+{"en": "Sencha", "zh": "煎茶", "ja": "煎茶", "es": "Sencha"},
+{"en": "Chai", "zh": "印度奶茶", "ja": "チャイ", "es": "Chai"}
+],
+"a": 2,
+"trivia": {
+"en": "Sencha accounts for about 80% of all tea produced in Japan and is the most commonly drunk tea in everyday life.",
+"zh": "煎茶约占日本所有茶叶产量的80%，是日常生活中最常饮用的茶。",
+"ja": "煎茶は日本で生産されるお茶の約80%を占め、日常生活で最もよく飲まれるお茶です。",
+"es": "El sencha representa aproximadamente el 80% de todo el te producido en Japon y es el te mas consumido en la vida cotidiana."
+}
+},
+{
+"id": "food_beginner_059",
+"q": {
+"en": "What Japanese dish consists of rice topped with raw fish, also known as a 'scattered sushi'?",
+"zh": "什么日本菜是在米饭上铺生鱼片，也被称为'散寿司'？",
+"ja": "ご飯の上に刺身をのせた「ちらし寿司」とも呼ばれる料理は何ですか？",
+"es": "Que plato japones consiste en arroz con pescado crudo encima, tambien conocido como 'sushi esparcido'?"
+},
+"c": [
+{"en": "Chirashizushi", "zh": "散寿司", "ja": "ちらし寿司", "es": "Chirashizushi"},
+{"en": "Temaki", "zh": "手卷", "ja": "手巻き", "es": "Temaki"},
+{"en": "Inari", "zh": "稻荷寿司", "ja": "いなり寿司", "es": "Inari"},
+{"en": "Oshizushi", "zh": "押寿司", "ja": "押し寿司", "es": "Oshizushi"}
+],
+"a": 0,
+"trivia": {
+"en": "Chirashizushi is popular on Girls' Day (Hinamatsuri) on March 3rd and is one of the easiest types of sushi to make at home.",
+"zh": "散寿司在3月3日女儿节时很受欢迎，是最容易在家制作的寿司之一。",
+"ja": "ちらし寿司は3月3日のひな祭りに人気で、家庭で最も作りやすい寿司の一つです。",
+"es": "El chirashizushi es popular en el Dia de las Ninas (Hinamatsuri) el 3 de marzo y es uno de los tipos de sushi mas faciles de hacer en casa."
+}
+},
+{
+"id": "food_beginner_060",
+"q": {
+"en": "What is the name of the thin, crispy Japanese pancake filled with cabbage?",
+"zh": "那种薄而酥脆、以卷心菜为主料的日式煎饼叫什么？",
+"ja": "キャベツが入った薄くてパリパリの日本のお好み焼きは何と呼ばれますか？",
+"es": "Cual es el nombre del panqueque japones delgado y crujiente relleno de repollo?"
+},
+"c": [
+{"en": "Takoyaki", "zh": "章鱼烧", "ja": "たこ焼き", "es": "Takoyaki"},
+{"en": "Yakisoba", "zh": "日式炒面", "ja": "焼きそば", "es": "Yakisoba"},
+{"en": "Okonomiyaki", "zh": "大阪烧", "ja": "お好み焼き", "es": "Okonomiyaki"},
+{"en": "Monjayaki", "zh": "文字烧", "ja": "もんじゃ焼き", "es": "Monjayaki"}
+],
+"a": 2,
+"trivia": {
+"en": "Okonomiyaki means 'grilled as you like it' because you can add any toppings and ingredients you prefer.",
+"zh": "大阪烧的意思是'随你喜好烤'，因为你可以添加任何喜欢的配料。",
+"ja": "お好み焼きは「お好みで焼く」という意味で、好きな具材を自由に入れて作れます。",
+"es": "Okonomiyaki significa 'a la parrilla como te guste' porque puedes agregar los ingredientes que prefieras."
+}
+},
+{
+"id": "food_beginner_061",
+"q": {
+"en": "What color is the pickled plum (umeboshi) commonly found in bento?",
+"zh": "便当中常见的腌梅子是什么颜色？",
+"ja": "弁当に入っている梅干しは一般的に何色ですか？",
+"es": "De que color es la ciruela encurtida (umeboshi) que se encuentra comunmente en el bento?"
+},
+"c": [
+{"en": "Green", "zh": "绿色", "ja": "緑", "es": "Verde"},
+{"en": "Yellow", "zh": "黄色", "ja": "黄色", "es": "Amarillo"},
+{"en": "Red", "zh": "红色", "ja": "赤", "es": "Rojo"},
+{"en": "Blue", "zh": "蓝色", "ja": "青", "es": "Azul"}
+],
+"a": 2,
+"trivia": {
+"en": "A single red umeboshi placed on white rice is called 'hinomaru bento' because it resembles the Japanese flag.",
+"zh": "白米饭上放一颗红色梅干被称为'日之丸便当'，因为它像日本国旗。",
+"ja": "白いご飯の上に赤い梅干しを一つのせた弁当は「日の丸弁当」と呼ばれ、日本の国旗に似ています。",
+"es": "Una sola umeboshi roja colocada sobre arroz blanco se llama 'hinomaru bento' porque se parece a la bandera japonesa."
+}
+},
+{
+"id": "food_beginner_062",
+"q": {
+"en": "What is the crispy coating on tonkatsu made from?",
+"zh": "炸猪排表面酥脆的外层是用什么做的？",
+"ja": "とんかつのサクサクした衣は何で作られていますか？",
+"es": "De que esta hecho el recubrimiento crujiente del tonkatsu?"
+},
+"c": [
+{"en": "Cornflakes", "zh": "玉米片", "ja": "コーンフレーク", "es": "Hojuelas de maiz"},
+{"en": "Panko breadcrumbs", "zh": "面包糠", "ja": "パン粉", "es": "Pan rallado panko"},
+{"en": "Rice flour", "zh": "米粉", "ja": "米粉", "es": "Harina de arroz"},
+{"en": "Potato starch", "zh": "土豆淀粉", "ja": "片栗粉", "es": "Almidon de papa"}
+],
+"a": 1,
+"trivia": {
+"en": "Panko breadcrumbs are lighter and flakier than Western breadcrumbs, creating an extra-crispy texture when fried.",
+"zh": "面包糠比西式面包屑更轻更蓬松，油炸后会产生特别酥脆的口感。",
+"ja": "パン粉は西洋のパン粉より軽くてフレーク状で、揚げるとより一層サクサクの食感になります。",
+"es": "El panko es mas ligero y escamoso que el pan rallado occidental, creando una textura extra crujiente al freir."
+}
+},
+{
+"id": "food_beginner_063",
+"q": {
+"en": "What is the popular Osaka street food made of wheat batter cooked on a griddle?",
+"zh": "大阪用小麦面糊在铁板上烤的人气街头小吃是什么？",
+"ja": "小麦粉の生地を鉄板で焼く大阪の人気の屋台料理は何ですか？",
+"es": "Cual es la popular comida callejera de Osaka hecha de masa de trigo cocinada en una plancha?"
+},
+"c": [
+{"en": "Imagawayaki", "zh": "今川烧", "ja": "今川焼き", "es": "Imagawayaki"},
+{"en": "Okonomiyaki", "zh": "大阪烧", "ja": "お好み焼き", "es": "Okonomiyaki"},
+{"en": "Taiyaki", "zh": "鲷鱼烧", "ja": "たい焼き", "es": "Taiyaki"},
+{"en": "Yakitori", "zh": "烤鸡肉串", "ja": "焼き鳥", "es": "Yakitori"}
+],
+"a": 1,
+"trivia": {
+"en": "In Osaka's Dotonbori district, you can find countless okonomiyaki restaurants competing for the title of the best.",
+"zh": "在大阪道顿堀地区，无数大阪烧餐厅争夺最佳称号。",
+"ja": "大阪の道頓堀では、数えきれないほどのお好み焼き店が最高の味を競い合っています。",
+"es": "En el distrito Dotonbori de Osaka, puedes encontrar innumerables restaurantes de okonomiyaki compitiendo por el titulo del mejor."
+}
+},
+{
+"id": "food_beginner_064",
+"q": {
+"en": "What Japanese food is shaped like a fish and filled with sweet bean paste?",
+"zh": "哪种日本食物形状像鱼，里面包着甜豆沙？",
+"ja": "魚の形をしていて、あんこが入った日本の食べ物は何ですか？",
+"es": "Que comida japonesa tiene forma de pez y esta rellena de pasta dulce de frijol?"
+},
+"c": [
+{"en": "Dorayaki", "zh": "铜锣烧", "ja": "どら焼き", "es": "Dorayaki"},
+{"en": "Manju", "zh": "馒头", "ja": "まんじゅう", "es": "Manju"},
+{"en": "Taiyaki", "zh": "鲷鱼烧", "ja": "たい焼き", "es": "Taiyaki"},
+{"en": "Daifuku", "zh": "大福", "ja": "大福", "es": "Daifuku"}
+],
+"a": 2,
+"trivia": {
+"en": "Taiyaki is shaped like a sea bream (tai), which is considered a lucky fish in Japan. Modern versions come with custard, chocolate, and cheese fillings.",
+"zh": "鲷鱼烧的形状是鲷鱼，在日本被认为是吉祥的鱼。现代版本有卡仕达、巧克力和奶酪馅。",
+"ja": "たい焼きは縁起の良い魚とされる鯛の形をしています。最近はカスタード、チョコレート、チーズなどの変わり種もあります。",
+"es": "El taiyaki tiene forma de dorada (tai), que se considera un pez de la suerte en Japon. Las versiones modernas vienen con rellenos de crema, chocolate y queso."
+}
+},
+{
+"id": "food_beginner_065",
+"q": {
+"en": "What is the traditional Japanese alcoholic drink distilled from barley, sweet potato, or rice?",
+"zh": "用大麦、红薯或大米蒸馏的传统日本酒精饮料叫什么？",
+"ja": "麦、芋、米などから蒸留される日本の伝統的な酒は何ですか？",
+"es": "Cual es la bebida alcoholica tradicional japonesa destilada de cebada, camote o arroz?"
+},
+"c": [
+{"en": "Sake", "zh": "清酒", "ja": "日本酒", "es": "Sake"},
+{"en": "Shochu", "zh": "烧酒", "ja": "焼酎", "es": "Shochu"},
+{"en": "Awamori", "zh": "泡盛", "ja": "泡盛", "es": "Awamori"},
+{"en": "Whisky", "zh": "威士忌", "ja": "ウイスキー", "es": "Whisky"}
+],
+"a": 1,
+"trivia": {
+"en": "Shochu has a higher alcohol content than sake (typically 25-35%) and can be enjoyed on the rocks, with water, or mixed with soda.",
+"zh": "烧酒的酒精含量比清酒高（通常25-35%），可以加冰、加水或加苏打水饮用。",
+"ja": "焼酎は日本酒より度数が高く（通常25～35%）、ロック、水割り、ソーダ割りなどで楽しめます。",
+"es": "El shochu tiene un mayor contenido de alcohol que el sake (tipicamente 25-35%) y se puede disfrutar con hielo, con agua o mezclado con soda."
+}
+},
+{
+"id": "food_beginner_066",
+"q": {
+"en": "What is the seaweed commonly used for wrapping onigiri?",
+"zh": "饭团通常用什么海苔包裹？",
+"ja": "おにぎりを包むのに使われる海苔は何ですか？",
+"es": "Cual es el alga marina que se usa comunmente para envolver onigiri?"
+},
+"c": [
+{"en": "Kelp", "zh": "海带", "ja": "昆布", "es": "Alga kelp"},
+{"en": "Nori", "zh": "紫菜", "ja": "海苔", "es": "Nori"},
+{"en": "Dulse", "zh": "红藻", "ja": "ダルス", "es": "Dulse"},
+{"en": "Spirulina", "zh": "螺旋藻", "ja": "スピルリナ", "es": "Espirulina"}
+],
+"a": 1,
+"trivia": {
+"en": "Convenience store onigiri have a special packaging that keeps the nori separate from the rice until you open it, so it stays crispy.",
+"zh": "便利店的饭团有特殊包装，将紫菜和米饭分开，直到打开时才接触，以保持酥脆。",
+"ja": "コンビニのおにぎりは開封するまで海苔とご飯が離れている特別な包装で、海苔がパリパリのまま保たれます。",
+"es": "Los onigiri de tiendas de conveniencia tienen un empaque especial que mantiene el nori separado del arroz hasta que lo abres, para que se mantenga crujiente."
+}
+},
+{
+"id": "food_beginner_067",
+"q": {
+"en": "What Japanese dish literally translates to 'parent and child bowl'?",
+"zh": "哪道日本菜的字面意思是'亲子盖饭'？",
+"ja": "「親子丼」の名前の由来は何ですか？",
+"es": "Que plato japones se traduce literalmente como 'tazon de padre e hijo'?"
+},
+"c": [
+{"en": "Katsudon", "zh": "猪排饭", "ja": "カツ丼", "es": "Katsudon"},
+{"en": "Gyudon", "zh": "牛肉饭", "ja": "牛丼", "es": "Gyudon"},
+{"en": "Oyakodon", "zh": "亲子丼", "ja": "親子丼", "es": "Oyakodon"},
+{"en": "Tendon", "zh": "天丼", "ja": "天丼", "es": "Tendon"}
+],
+"a": 2,
+"trivia": {
+"en": "Oyakodon uses both chicken (parent) and egg (child), hence the playful name 'parent and child rice bowl.'",
+"zh": "亲子丼同时使用鸡肉（亲）和鸡蛋（子），因此有了'亲子盖饭'这个有趣的名字。",
+"ja": "親子丼は鶏肉（親）と卵（子）を使うことから「親子」という名前がついています。",
+"es": "El oyakodon usa tanto pollo (padre) como huevo (hijo), de ahi el nombre jugueton 'tazon de arroz de padre e hijo.'"
+}
+},
+{
+"id": "food_beginner_068",
+"q": {
+"en": "Is it customary to tip at restaurants in Japan?",
+"zh": "在日本餐厅给小费是惯例吗？",
+"ja": "日本のレストランでチップを渡す習慣はありますか？",
+"es": "Es costumbre dejar propina en los restaurantes en Japon?"
+},
+"c": [
+{"en": "Yes, 20% is standard", "zh": "是的，20%是标准", "ja": "はい、20%が標準です", "es": "Si, el 20% es estandar"},
+{"en": "Yes, but only 5%", "zh": "是的，但只给5%", "ja": "はい、でも5%だけ", "es": "Si, pero solo el 5%"},
+{"en": "No, tipping is not customary and can even be considered rude", "zh": "不，给小费不是惯例，甚至可能被认为是不礼貌的", "ja": "いいえ、チップの習慣はなく、失礼とみなされることもあります", "es": "No, dar propina no es costumbre e incluso puede considerarse grosero"},
+{"en": "Only at fancy restaurants", "zh": "只在高档餐厅", "ja": "高級レストランのみ", "es": "Solo en restaurantes elegantes"}
+],
+"a": 2,
+"trivia": {
+"en": "In Japan, excellent service is considered the standard and is already included in the price. Leaving a tip may confuse the staff.",
+"zh": "在日本，优质服务被视为标准，已包含在价格中。留小费可能会让店员感到困惑。",
+"ja": "日本では優れたサービスは当然のことで、料金に含まれています。チップを置くとスタッフが困惑することがあります。",
+"es": "En Japon, el servicio excelente se considera el estandar y ya esta incluido en el precio. Dejar propina puede confundir al personal."
+}
+},
+{
+"id": "food_beginner_069",
+"q": {
+"en": "What is the Japanese word for a set meal with multiple small dishes?",
+"zh": "包含多道小菜的日本套餐叫什么？",
+"ja": "複数の小皿料理がセットになった定食は何と呼ばれますか？",
+"es": "Cual es la palabra japonesa para una comida con multiples platos pequenos?"
+},
+"c": [
+{"en": "Teishoku", "zh": "定食", "ja": "定食", "es": "Teishoku"},
+{"en": "Izakaya", "zh": "居酒屋", "ja": "居酒屋", "es": "Izakaya"},
+{"en": "Bentoya", "zh": "便当店", "ja": "弁当屋", "es": "Bentoya"},
+{"en": "Shokudo", "zh": "食堂", "ja": "食堂", "es": "Shokudo"}
+],
+"a": 0,
+"trivia": {
+"en": "A typical teishoku includes a main dish, rice, miso soup, and pickled vegetables, offering a balanced and affordable meal.",
+"zh": "典型的定食包括主菜、米饭、味噌汤和腌菜，提供均衡且实惠的一餐。",
+"ja": "定食は一般的に主菜、ご飯、味噌汁、漬物がセットになった、バランスのとれた手頃な食事です。",
+"es": "Un teishoku tipico incluye un plato principal, arroz, sopa de miso y verduras encurtidas, ofreciendo una comida equilibrada y economica."
+}
+},
+{
+"id": "food_beginner_070",
+"q": {
+"en": "What is the Japanese style of cooking on a flat iron griddle at the table called?",
+"zh": "在桌上用平铁板烹饪的日式料理叫什么？",
+"ja": "テーブルで鉄板を使って焼く日本の料理法は何と呼ばれますか？",
+"es": "Como se llama el estilo japones de cocinar en una plancha de hierro plana en la mesa?"
+},
+"c": [
+{"en": "Tempura", "zh": "天妇罗", "ja": "天ぷら", "es": "Tempura"},
+{"en": "Teppanyaki", "zh": "铁板烧", "ja": "鉄板焼き", "es": "Teppanyaki"},
+{"en": "Robatayaki", "zh": "炉端烧", "ja": "炉端焼き", "es": "Robatayaki"},
+{"en": "Kushikatsu", "zh": "串炸", "ja": "串カツ", "es": "Kushikatsu"}
+],
+"a": 1,
+"trivia": {
+"en": "Teppanyaki chefs are famous for their theatrical cooking performances, flipping shrimp and juggling utensils.",
+"zh": "铁板烧厨师以表演性的烹饪技巧闻名，抛虾和耍餐具。",
+"ja": "鉄板焼きのシェフはエビを投げたり調理器具を操る劇的なパフォーマンスで有名です。",
+"es": "Los chefs de teppanyaki son famosos por sus actuaciones teatrales al cocinar, lanzando camarones y haciendo malabares con utensilios."
+}
+},
+{
+"id": "food_beginner_071",
+"q": {
+"en": "What is the most common filling for onigiri?",
+"zh": "饭团最常见的馅料是什么？",
+"ja": "おにぎりの最も一般的な具材は何ですか？",
+"es": "Cual es el relleno mas comun del onigiri?"
+},
+"c": [
+{"en": "Cheese", "zh": "奶酪", "ja": "チーズ", "es": "Queso"},
+{"en": "Chicken", "zh": "鸡肉", "ja": "鶏肉", "es": "Pollo"},
+{"en": "Umeboshi (pickled plum)", "zh": "梅干（腌酸梅）", "ja": "梅干し", "es": "Umeboshi (ciruela encurtida)"},
+{"en": "Chocolate", "zh": "巧克力", "ja": "チョコレート", "es": "Chocolate"}
+],
+"a": 2,
+"trivia": {
+"en": "Other popular onigiri fillings include salmon (sake), tuna mayo, and kelp (kombu).",
+"zh": "其他受欢迎的饭团馅料包括三文鱼、金枪鱼蛋黄酱和昆布。",
+"ja": "他の人気のおにぎりの具には鮭、ツナマヨ、昆布などがあります。",
+"es": "Otros rellenos populares de onigiri incluyen salmon (sake), atun con mayonesa y alga (kombu)."
+}
+},
+{
+"id": "food_beginner_072",
+"q": {
+"en": "What Japanese condiment is a mixture of seven spices?",
+"zh": "由七种香料混合而成的日本调味料叫什么？",
+"ja": "7種類の香辛料を混ぜた日本の調味料は何ですか？",
+"es": "Que condimento japones es una mezcla de siete especias?"
+},
+"c": [
+{"en": "Furikake", "zh": "拌饭料", "ja": "ふりかけ", "es": "Furikake"},
+{"en": "Shichimi togarashi", "zh": "七味辣椒粉", "ja": "七味唐辛子", "es": "Shichimi togarashi"},
+{"en": "Karashi", "zh": "芥末", "ja": "からし", "es": "Karashi"},
+{"en": "Yuzu kosho", "zh": "柚子胡椒", "ja": "柚子胡椒", "es": "Yuzu kosho"}
+],
+"a": 1,
+"trivia": {
+"en": "Shichimi togarashi includes chili pepper, orange peel, sesame seeds, and other spices. It's commonly sprinkled on udon and soba.",
+"zh": "七味唐辛子包含辣椒、橙皮、芝麻等香料，常撒在乌冬面和荞麦面上。",
+"ja": "七味唐辛子は唐辛子、陳皮、ゴマなどが入っており、うどんやそばによくかけます。",
+"es": "El shichimi togarashi incluye chile, cascara de naranja, semillas de sesamo y otras especias. Se espolvorea comunmente sobre udon y soba."
+}
+},
+{
+"id": "food_beginner_073",
+"q": {
+"en": "What is the name of the small Japanese restaurant with seats at a counter facing the chef?",
+"zh": "那种面对厨师、只有吧台座位的日本小餐馆叫什么？",
+"ja": "カウンター席で板前と向かい合う小さな日本の飲食店は何と呼ばれますか？",
+"es": "Cual es el nombre del pequeno restaurante japones con asientos en un mostrador frente al chef?"
+},
+"c": [
+{"en": "Food court", "zh": "美食广场", "ja": "フードコート", "es": "Patio de comidas"},
+{"en": "Kappo or sushi-ya", "zh": "割烹或寿司店", "ja": "割烹や寿司屋", "es": "Kappo o sushi-ya"},
+{"en": "Cafeteria", "zh": "自助餐厅", "ja": "カフェテリア", "es": "Cafeteria"},
+{"en": "Buffet", "zh": "自助餐", "ja": "ビュッフェ", "es": "Bufet"}
+],
+"a": 1,
+"trivia": {
+"en": "Counter-style dining allows guests to watch the chef prepare their food and creates a personal, intimate dining experience.",
+"zh": "吧台式就餐让客人可以观看厨师准备食物，营造出私密而亲切的用餐体验。",
+"ja": "カウンター席では目の前で料理人の仕事を見ることができ、親密な食事体験が生まれます。",
+"es": "La comida en mostrador permite a los invitados ver al chef preparar su comida y crea una experiencia gastronomica personal e intima."
+}
+},
+{
+"id": "food_beginner_074",
+"q": {
+"en": "What is furikake?",
+"zh": "拌饭料是什么？",
+"ja": "ふりかけとは何ですか？",
+"es": "Que es el furikake?"
+},
+"c": [
+{"en": "A type of sake", "zh": "一种清酒", "ja": "日本酒の一種", "es": "Un tipo de sake"},
+{"en": "A seasoning sprinkled on rice", "zh": "撒在米饭上的调味料", "ja": "ご飯にかける調味料", "es": "Un condimento espolvoreado sobre el arroz"},
+{"en": "A type of soy sauce", "zh": "一种酱油", "ja": "醤油の一種", "es": "Un tipo de salsa de soja"},
+{"en": "A cooking method", "zh": "一种烹饪方法", "ja": "調理法", "es": "Un metodo de coccion"}
+],
+"a": 1,
+"trivia": {
+"en": "Furikake typically contains dried fish, sesame seeds, seaweed, and salt. It was originally created to combat calcium deficiency in Japan.",
+"zh": "拌饭料通常含有干鱼、芝麻、海苔和盐。最初是为了解决日本人缺钙问题而发明的。",
+"ja": "ふりかけは一般的に干し魚、ゴマ、海苔、塩が入っています。元々はカルシウム不足を補うために作られました。",
+"es": "El furikake tipicamente contiene pescado seco, semillas de sesamo, algas y sal. Fue creado originalmente para combatir la deficiencia de calcio en Japon."
+}
+},
+{
+"id": "food_beginner_075",
+"q": {
+"en": "What is the name of the sweet Japanese pancake filled with red bean paste?",
+"zh": "夹红豆沙的日式甜点铜锣烧叫什么？",
+"ja": "あんこが入った甘い日本のパンケーキは何と呼ばれますか？",
+"es": "Cual es el nombre del panqueque dulce japones relleno de pasta de frijol rojo?"
+},
+"c": [
+{"en": "Taiyaki", "zh": "鲷鱼烧", "ja": "たい焼き", "es": "Taiyaki"},
+{"en": "Dorayaki", "zh": "铜锣烧", "ja": "どら焼き", "es": "Dorayaki"},
+{"en": "Castella", "zh": "长崎蛋糕", "ja": "カステラ", "es": "Castella"},
+{"en": "Yokan", "zh": "羊羹", "ja": "羊羹", "es": "Yokan"}
+],
+"a": 1,
+"trivia": {
+"en": "Dorayaki is Doraemon's favorite food. The beloved anime robot cat is obsessed with these red-bean-filled pancakes.",
+"zh": "铜锣烧是哆啦A梦最爱的食物。这只深受喜爱的动漫机器猫对红豆沙夹饼情有独钟。",
+"ja": "どら焼きはドラえもんの大好物です。この人気アニメのロボット猫はどら焼きが大好きです。",
+"es": "El dorayaki es la comida favorita de Doraemon. El querido gato robot de anime esta obsesionado con estos panqueques rellenos de frijol rojo."
+}
+},
+{
+"id": "food_beginner_076",
+"q": {
+"en": "What is ochazuke?",
+"zh": "茶泡饭是什么？",
+"ja": "お茶漬けとは何ですか？",
+"es": "Que es el ochazuke?"
+},
+"c": [
+{"en": "Rice with green tea or dashi poured over it", "zh": "在米饭上浇绿茶或高汤", "ja": "ご飯にお茶や出汁をかけたもの", "es": "Arroz con te verde o dashi vertido encima"},
+{"en": "A type of green tea", "zh": "一种绿茶", "ja": "緑茶の一種", "es": "Un tipo de te verde"},
+{"en": "Fried tea leaves", "zh": "炒茶叶", "ja": "茶葉の天ぷら", "es": "Hojas de te fritas"},
+{"en": "A tea ceremony dessert", "zh": "茶道甜点", "ja": "茶道のデザート", "es": "Un postre de ceremonia del te"}
+],
+"a": 0,
+"trivia": {
+"en": "Ochazuke is a popular late-night comfort food in Japan, often eaten after drinking as it is easy on the stomach.",
+"zh": "茶泡饭是日本热门的深夜美食，经常在喝酒后食用，因为它容易消化。",
+"ja": "お茶漬けは日本で人気の夜食で、お酒の後に食べることが多く、胃に優しい食べ物です。",
+"es": "El ochazuke es una comida reconfortante popular a altas horas de la noche en Japon, a menudo consumida despues de beber ya que es suave para el estomago."
+}
+},
+{
+"id": "food_beginner_077",
+"q": {
+"en": "What is the famous beef from Hyogo Prefecture called?",
+"zh": "兵库县著名的牛肉叫什么？",
+"ja": "兵庫県の有名な牛肉は何と呼ばれますか？",
+"es": "Como se llama la famosa carne de res de la prefectura de Hyogo?"
+},
+"c": [
+{"en": "Wagyu", "zh": "和牛", "ja": "和牛", "es": "Wagyu"},
+{"en": "Kobe beef", "zh": "神户牛肉", "ja": "神戸牛", "es": "Carne de Kobe"},
+{"en": "Angus beef", "zh": "安格斯牛肉", "ja": "アンガス牛", "es": "Carne Angus"},
+{"en": "Matsusaka beef", "zh": "松阪牛肉", "ja": "松阪牛", "es": "Carne de Matsusaka"}
+],
+"a": 1,
+"trivia": {
+"en": "Kobe beef comes from Tajima cattle raised in Hyogo Prefecture and is known for its intense marbling and melt-in-your-mouth texture.",
+"zh": "神户牛肉来自兵库县饲养的但马牛，以其丰富的大理石花纹和入口即化的口感闻名。",
+"ja": "神戸牛は兵庫県で育てられた但馬牛から取れ、きめ細やかな霜降りと口の中でとろける食感で有名です。",
+"es": "La carne de Kobe proviene del ganado Tajima criado en la prefectura de Hyogo y es conocida por su intenso marmoleado y su textura que se derrite en la boca."
+}
+},
+{
+"id": "food_beginner_078",
+"q": {
+"en": "What is the proper way to hold a Japanese rice bowl while eating?",
+"zh": "吃饭时拿日本饭碗的正确方式是什么？",
+"ja": "食事中のお茶碗の正しい持ち方は？",
+"es": "Cual es la forma correcta de sostener un tazon de arroz japones mientras se come?"
+},
+"c": [
+{"en": "Leave it on the table and lean over it", "zh": "放在桌上弯腰吃", "ja": "テーブルに置いたまま前かがみで食べる", "es": "Dejarlo en la mesa e inclinarse sobre el"},
+{"en": "Hold it in one hand and eat with chopsticks in the other", "zh": "一只手端碗，另一只手用筷子吃", "ja": "片手でお茶碗を持ち、もう片手で箸を使う", "es": "Sostenerlo en una mano y comer con palillos en la otra"},
+{"en": "Hold it with both hands", "zh": "用双手端着", "ja": "両手で持つ", "es": "Sostenerlo con ambas manos"},
+{"en": "Put it on a tray", "zh": "放在托盘上", "ja": "お盆の上に置く", "es": "Ponerlo en una bandeja"}
+],
+"a": 1,
+"trivia": {
+"en": "In Japan, picking up your bowl and bringing it closer to your mouth is considered proper table manners, unlike in some other cultures.",
+"zh": "在日本，把碗端起来靠近嘴巴是正确的餐桌礼仪，这与其他一些文化不同。",
+"ja": "日本ではお茶碗を持ち上げて口に近づけて食べるのが正しいマナーで、他の文化とは異なります。",
+"es": "En Japon, levantar el tazon y acercarlo a la boca se considera buenos modales en la mesa, a diferencia de algunas otras culturas."
+}
+},
+{
+"id": "food_beginner_079",
+"q": {
+"en": "What is a popular Japanese snack made from rice crackers?",
+"zh": "由米饼制成的日本人气零食叫什么？",
+"ja": "米から作られる日本の人気のお菓子は何ですか？",
+"es": "Cual es un bocadillo japones popular hecho de galletas de arroz?"
+},
+"c": [
+{"en": "Pocky", "zh": "百奇", "ja": "ポッキー", "es": "Pocky"},
+{"en": "Senbei", "zh": "煎饼", "ja": "せんべい", "es": "Senbei"},
+{"en": "Kit Kat", "zh": "奇巧", "ja": "キットカット", "es": "Kit Kat"},
+{"en": "Pretz", "zh": "百力滋", "ja": "プリッツ", "es": "Pretz"}
+],
+"a": 1,
+"trivia": {
+"en": "Senbei come in many flavors, from classic soy sauce to seaweed-wrapped versions. They have been enjoyed in Japan for centuries.",
+"zh": "煎饼有多种口味，从经典酱油味到海苔包裹款。日本人享用煎饼已有数百年历史。",
+"ja": "せんべいは醤油味から海苔巻きまで多くの味があり、日本で何世紀も親しまれています。",
+"es": "Los senbei vienen en muchos sabores, desde la clasica salsa de soja hasta versiones envueltas en algas. Se han disfrutado en Japon durante siglos."
+}
+},
+{
+"id": "food_beginner_080",
+"q": {
+"en": "What is the soft, custardy Japanese cheesecake style called?",
+"zh": "那种柔软、似蛋奶冻的日式芝士蛋糕叫什么？",
+"ja": "ふわふわのスフレ状の日本のチーズケーキは何と呼ばれますか？",
+"es": "Como se llama el estilo suave y cremoso de cheesecake japones?"
+},
+"c": [
+{"en": "New York cheesecake", "zh": "纽约芝士蛋糕", "ja": "ニューヨークチーズケーキ", "es": "Cheesecake de Nueva York"},
+{"en": "Basque cheesecake", "zh": "巴斯克芝士蛋糕", "ja": "バスクチーズケーキ", "es": "Cheesecake vasco"},
+{"en": "Japanese souffle cheesecake", "zh": "日式舒芙蕾芝士蛋糕", "ja": "スフレチーズケーキ", "es": "Cheesecake souffle japones"},
+{"en": "German cheesecake", "zh": "德式芝士蛋糕", "ja": "ドイツ風チーズケーキ", "es": "Cheesecake aleman"}
+],
+"a": 2,
+"trivia": {
+"en": "Japanese souffle cheesecake is famously jiggly and light, using a meringue technique that makes it airy compared to Western cheesecakes.",
+"zh": "日式舒芙蕾芝士蛋糕以摇摇晃晃的轻盈口感著称，使用蛋白霜技术使其比西式芝士蛋糕更蓬松。",
+"ja": "スフレチーズケーキはプルプルと揺れるほど軽く、メレンゲを使って西洋のチーズケーキよりふわっとした食感です。",
+"es": "El cheesecake souffle japones es famoso por ser tembloroso y ligero, usando una tecnica de merengue que lo hace mas aireado que los cheesecakes occidentales."
+}
+},
+{
+"id": "food_beginner_081",
+"q": {
+"en": "What is the popular Japanese fried chicken dish called?",
+"zh": "日本流行的炸鸡菜叫什么？",
+"ja": "日本で人気の鶏の唐揚げは何と呼ばれますか？",
+"es": "Como se llama el popular plato de pollo frito japones?"
+},
+"c": [
+{"en": "Karaage", "zh": "唐扬", "ja": "唐揚げ", "es": "Karaage"},
+{"en": "Katsu", "zh": "炸猪排", "ja": "カツ", "es": "Katsu"},
+{"en": "Tempura", "zh": "天妇罗", "ja": "天ぷら", "es": "Tempura"},
+{"en": "Tatsuta-age", "zh": "龙田扬", "ja": "竜田揚げ", "es": "Tatsuta-age"}
+],
+"a": 0,
+"trivia": {
+"en": "Karaage is marinated in soy sauce, ginger, and garlic before being coated in starch and deep-fried, making it incredibly flavorful.",
+"zh": "唐扬在裹淀粉油炸前先用酱油、生姜和大蒜腌制，使其味道非常丰富。",
+"ja": "唐揚げは醤油、生姜、ニンニクで下味をつけてから片栗粉をまぶして揚げるので、とても風味豊かです。",
+"es": "El karaage se marina en salsa de soja, jengibre y ajo antes de recubrirse en almidon y freirse, haciendolo increiblemente sabroso."
+}
+},
+{
+"id": "food_beginner_082",
+"q": {
+"en": "What is the Japanese word for grilled or barbecued meat?",
+"zh": "日语中烤肉怎么说？",
+"ja": "焼肉は英語で何と言いますか？",
+"es": "Cual es la palabra japonesa para carne a la parrilla o barbacoa?"
+},
+"c": [
+{"en": "Sashimi", "zh": "刺身", "ja": "刺身", "es": "Sashimi"},
+{"en": "Nimono", "zh": "煮物", "ja": "煮物", "es": "Nimono"},
+{"en": "Yakiniku", "zh": "烤肉", "ja": "焼肉", "es": "Yakiniku"},
+{"en": "Agemono", "zh": "炸物", "ja": "揚げ物", "es": "Agemono"}
+],
+"a": 2,
+"trivia": {
+"en": "Yakiniku restaurants let diners grill their own meat at the table, making it a fun social dining experience.",
+"zh": "烤肉店让食客在桌上自己烤肉，是一种有趣的社交用餐体验。",
+"ja": "焼肉店ではテーブルで自分で肉を焼くので、楽しい社交的な食事体験ができます。",
+"es": "Los restaurantes de yakiniku permiten a los comensales asar su propia carne en la mesa, haciendo de ello una experiencia social divertida."
+}
+},
+{
+"id": "food_beginner_083",
+"q": {
+"en": "Which Japanese city is famous for its Hakata-style tonkotsu ramen?",
+"zh": "哪个日本城市以博多风豚骨拉面闻名？",
+"ja": "博多ラーメンで有名な日本の都市はどこですか？",
+"es": "Que ciudad japonesa es famosa por su ramen tonkotsu estilo Hakata?"
+},
+"c": [
+{"en": "Osaka", "zh": "大阪", "ja": "大阪", "es": "Osaka"},
+{"en": "Tokyo", "zh": "东京", "ja": "東京", "es": "Tokio"},
+{"en": "Fukuoka", "zh": "福冈", "ja": "福岡", "es": "Fukuoka"},
+{"en": "Kyoto", "zh": "京都", "ja": "京都", "es": "Kioto"}
+],
+"a": 2,
+"trivia": {
+"en": "Fukuoka's famous yatai (outdoor food stalls) line the riverbanks and serve steaming bowls of Hakata ramen late into the night.",
+"zh": "福冈著名的屋台沿河岸排列，深夜供应热气腾腾的博多拉面。",
+"ja": "福岡の有名な屋台は川沿いに並び、夜遅くまで湯気の立つ博多ラーメンを提供しています。",
+"es": "Los famosos yatai de Fukuoka se alinean a lo largo de las riberas del rio y sirven humeantes tazones de ramen Hakata hasta altas horas de la noche."
+}
+},
+{
+"id": "food_beginner_084",
+"q": {
+"en": "What is the seasoning sprinkled on rice made of dried fish and sesame?",
+"zh": "由干鱼和芝麻制成的撒在米饭上的调味料叫什么？",
+"ja": "乾燥した魚やゴマからなるご飯のお供は何ですか？",
+"es": "Cual es el condimento espolvoreado sobre arroz hecho de pescado seco y sesamo?"
+},
+"c": [
+{"en": "Miso", "zh": "味噌", "ja": "味噌", "es": "Miso"},
+{"en": "Furikake", "zh": "拌饭料", "ja": "ふりかけ", "es": "Furikake"},
+{"en": "Katsuobushi", "zh": "�的鲣鱼片", "ja": "鰹節", "es": "Katsuobushi"},
+{"en": "Togarashi", "zh": "辣椒", "ja": "唐辛子", "es": "Togarashi"}
+],
+"a": 1,
+"trivia": {
+"en": "Furikake is a must-have in Japanese households and transforms plain white rice into a flavorful meal.",
+"zh": "拌饭料是日本家庭的必备品，能将普通白米饭变成美味的一餐。",
+"ja": "ふりかけは日本の家庭の必需品で、白いご飯を美味しい食事に変えてくれます。",
+"es": "El furikake es imprescindible en los hogares japoneses y transforma el arroz blanco simple en una comida sabrosa."
+}
+},
+{
+"id": "food_beginner_085",
+"q": {
+"en": "What is the Japanese custard pudding dessert called?",
+"zh": "日式焦糖布丁甜点叫什么？",
+"ja": "日本のカスタードプリンは何と呼ばれますか？",
+"es": "Como se llama el postre japones de pudin de crema?"
+},
+"c": [
+{"en": "Anmitsu", "zh": "蜜豆", "ja": "あんみつ", "es": "Anmitsu"},
+{"en": "Purin", "zh": "布丁", "ja": "プリン", "es": "Purin"},
+{"en": "Zenzai", "zh": "善哉", "ja": "ぜんざい", "es": "Zenzai"},
+{"en": "Kakigori", "zh": "刨冰", "ja": "かき氷", "es": "Kakigori"}
+],
+"a": 1,
+"trivia": {
+"en": "Japanese purin is softer and creamier than Western flan, with a delicate caramel sauce on top. It's a convenience store bestseller.",
+"zh": "日式布丁比西式果冻更柔软细腻，上面有精致的焦糖酱。它是便利店的畅销品。",
+"ja": "日本のプリンは西洋のフランより柔らかくクリーミーで、繊細なカラメルソースがかかっています。コンビニの大人気商品です。",
+"es": "El purin japones es mas suave y cremoso que el flan occidental, con una delicada salsa de caramelo encima. Es un superventas de tiendas de conveniencia."
+}
+},
+{
+"id": "food_beginner_086",
+"q": {
+"en": "What is the Japanese shaved ice dessert called?",
+"zh": "日本刨冰甜点叫什么？",
+"ja": "日本のかき氷は何と呼ばれますか？",
+"es": "Como se llama el postre japones de hielo raspado?"
+},
+"c": [
+{"en": "Kakigori", "zh": "刨冰", "ja": "かき氷", "es": "Kakigori"},
+{"en": "Bingsu", "zh": "冰沙", "ja": "ビンス", "es": "Bingsu"},
+{"en": "Gelato", "zh": "意式冰淇淋", "ja": "ジェラート", "es": "Gelato"},
+{"en": "Sorbet", "zh": "雪芭", "ja": "ソルベ", "es": "Sorbete"}
+],
+"a": 0,
+"trivia": {
+"en": "Kakigori dates back over 1,000 years in Japan and was once a luxury enjoyed only by the aristocracy before ice became widely available.",
+"zh": "刨冰在日本有超过1000年的历史，在冰块普及之前，曾是只有贵族才能享用的奢侈品。",
+"ja": "かき氷は日本で1000年以上の歴史があり、氷が普及する前は貴族だけが楽しめる贅沢品でした。",
+"es": "El kakigori tiene mas de 1,000 anos de historia en Japon y alguna vez fue un lujo disfrutado solo por la aristocracia antes de que el hielo estuviera ampliamente disponible."
+}
+},
+{
+"id": "food_beginner_087",
+"q": {
+"en": "What is the proper etiquette for using chopsticks regarding sticking them upright in rice?",
+"zh": "关于将筷子竖着插在米饭里的用筷礼仪是什么？",
+"ja": "ご飯に箸を突き刺すことについてのマナーは？",
+"es": "Cual es la etiqueta correcta con respecto a clavar los palillos verticalmente en el arroz?"
+},
+"c": [
+{"en": "It is perfectly acceptable", "zh": "完全可以接受", "ja": "全く問題ありません", "es": "Es perfectamente aceptable"},
+{"en": "It should only be done at formal dinners", "zh": "只在正式晚宴上这样做", "ja": "正式な食事の時だけ", "es": "Solo debe hacerse en cenas formales"},
+{"en": "It should be avoided as it resembles funeral rituals", "zh": "应该避免，因为这像葬礼仪式", "ja": "葬儀の儀式を連想させるので避けるべきです", "es": "Debe evitarse ya que se parece a rituales funerarios"},
+{"en": "It is the recommended way to rest chopsticks", "zh": "这是放置筷子的推荐方式", "ja": "箸を置く推奨方法です", "es": "Es la forma recomendada de descansar los palillos"}
+],
+"a": 2,
+"trivia": {
+"en": "Sticking chopsticks upright in rice resembles incense sticks at Buddhist funerals, making it a major taboo at the dining table.",
+"zh": "将筷子竖着插在米饭里像佛教葬礼上的香烛，是餐桌上的大忌。",
+"ja": "ご飯に箸を突き刺すのは仏教の葬儀のお香に似ているため、食事のマナーとして大きなタブーです。",
+"es": "Clavar los palillos verticalmente en el arroz se parece a los palitos de incienso en los funerales budistas, lo que lo convierte en un gran tabu en la mesa."
+}
+},
+{
+"id": "food_beginner_088",
+"q": {
+"en": "What type of Japanese restaurant specializes in deep-fried skewers?",
+"zh": "哪种日本餐厅专门提供油炸串？",
+"ja": "揚げた串料理を専門とする日本のレストランは何と呼ばれますか？",
+"es": "Que tipo de restaurante japones se especializa en brochetas fritas?"
+},
+"c": [
+{"en": "Kushikatsu-ya", "zh": "串炸店", "ja": "串カツ屋", "es": "Kushikatsu-ya"},
+{"en": "Ramen-ya", "zh": "拉面店", "ja": "ラーメン屋", "es": "Ramen-ya"},
+{"en": "Soba-ya", "zh": "荞麦面店", "ja": "そば屋", "es": "Soba-ya"},
+{"en": "Tonkatsu-ya", "zh": "猪排店", "ja": "とんかつ屋", "es": "Tonkatsu-ya"}
+],
+"a": 0,
+"trivia": {
+"en": "In Osaka's Shinsekai district, kushikatsu shops have a strict 'no double-dipping' rule for the communal sauce.",
+"zh": "在大阪新世界地区，串炸店有严格的'不能蘸两次'公共酱料规则。",
+"ja": "大阪の新世界では、串カツ店にソースの「二度漬け禁止」という厳格なルールがあります。",
+"es": "En el distrito Shinsekai de Osaka, las tiendas de kushikatsu tienen una regla estricta de 'no mojar dos veces' en la salsa comunal."
+}
+},
+{
+"id": "food_beginner_089",
+"q": {
+"en": "What is the traditional Japanese method of preserving vegetables called?",
+"zh": "日本传统的蔬菜保存方法叫什么？",
+"ja": "日本の伝統的な野菜の保存方法は何と呼ばれますか？",
+"es": "Como se llama el metodo tradicional japones de conservar verduras?"
+},
+"c": [
+{"en": "Fermenting in miso", "zh": "味噌腌制", "ja": "味噌漬け", "es": "Fermentar en miso"},
+{"en": "Sun drying", "zh": "晒干", "ja": "天日干し", "es": "Secado al sol"},
+{"en": "Tsukemono (pickling)", "zh": "腌菜（渍物）", "ja": "漬物", "es": "Tsukemono (encurtido)"},
+{"en": "Smoking", "zh": "烟熏", "ja": "燻製", "es": "Ahumado"}
+],
+"a": 2,
+"trivia": {
+"en": "Tsukemono are served with nearly every traditional Japanese meal and come in hundreds of varieties using different vegetables and pickling methods.",
+"zh": "腌菜几乎随每顿传统日本餐一起上桌，有数百种使用不同蔬菜和腌制方法的品种。",
+"ja": "漬物はほぼ全ての日本の伝統的な食事に添えられ、様々な野菜と漬け方で数百種類もあります。",
+"es": "Los tsukemono se sirven con casi todas las comidas tradicionales japonesas y vienen en cientos de variedades usando diferentes verduras y metodos de encurtido."
+}
+},
+{
+"id": "food_beginner_090",
+"q": {
+"en": "What is the soft, chewy rice cake confection filled with ice cream called?",
+"zh": "那种包着冰淇淋的软糯糯米糕叫什么？",
+"ja": "アイスクリームが入った柔らかいお餅のお菓子は何と呼ばれますか？",
+"es": "Como se llama el dulce de pastel de arroz suave y masticable relleno de helado?"
+},
+"c": [
+{"en": "Daifuku", "zh": "大福", "ja": "大福", "es": "Daifuku"},
+{"en": "Mochi ice cream", "zh": "麻薯冰淇淋", "ja": "雪見だいふく", "es": "Helado de mochi"},
+{"en": "Dango", "zh": "团子", "ja": "団子", "es": "Dango"},
+{"en": "Monaka", "zh": "最中", "ja": "最中", "es": "Monaka"}
+],
+"a": 1,
+"trivia": {
+"en": "Mochi ice cream was popularized worldwide by the Japanese brand Yukimi Daifuku, first released by Lotte in 1981.",
+"zh": "麻薯冰淇淋由日本品牌雪见大福推广至全世界，乐天公司于1981年首次推出。",
+"ja": "雪見だいふくは1981年にロッテが発売し、餅アイスを世界中に広めました。",
+"es": "El helado de mochi fue popularizado mundialmente por la marca japonesa Yukimi Daifuku, lanzado por primera vez por Lotte en 1981."
+}
+},
+{
+"id": "food_beginner_091",
+"q": {
+"en": "What Japanese food is traditionally eaten on the Setsubun holiday?",
+"zh": "日本节分节传统上吃什么食物？",
+"ja": "節分に伝統的に食べる食べ物は何ですか？",
+"es": "Que comida japonesa se come tradicionalmente en la festividad de Setsubun?"
+},
+"c": [
+{"en": "Osechi", "zh": "御节料理", "ja": "おせち", "es": "Osechi"},
+{"en": "Ehomaki (lucky direction sushi roll)", "zh": "惠方卷（吉方寿司卷）", "ja": "恵方巻き", "es": "Ehomaki (rollo de sushi de la direccion afortunada)"},
+{"en": "Mochi", "zh": "年糕", "ja": "餅", "es": "Mochi"},
+{"en": "Soba", "zh": "荞麦面", "ja": "そば", "es": "Soba"}
+],
+"a": 1,
+"trivia": {
+"en": "On Setsubun, you eat an entire ehomaki roll in silence while facing the year's lucky direction to bring good fortune.",
+"zh": "在节分，你要面朝当年的吉利方向，默默地吃完一整根恵方卷来祈求好运。",
+"ja": "節分にはその年の恵方を向いて、黙って恵方巻きを一本丸かぶりすると幸運が訪れるとされています。",
+"es": "En Setsubun, comes un rollo entero de ehomaki en silencio mientras miras hacia la direccion afortunada del ano para atraer buena fortuna."
+}
+},
+{
+"id": "food_beginner_092",
+"q": {
+"en": "What are the small colored round dumplings on a stick called?",
+"zh": "串在签子上的小圆彩色团子叫什么？",
+"ja": "串に刺さった小さな丸い団子は何と呼ばれますか？",
+"es": "Como se llaman las pequenas bolas de masa redondas y coloridas en un palito?"
+},
+"c": [
+{"en": "Mochi", "zh": "年糕", "ja": "餅", "es": "Mochi"},
+{"en": "Daifuku", "zh": "大福", "ja": "大福", "es": "Daifuku"},
+{"en": "Dango", "zh": "团子", "ja": "団子", "es": "Dango"},
+{"en": "Manjuu", "zh": "馒头", "ja": "まんじゅう", "es": "Manjuu"}
+],
+"a": 2,
+"trivia": {
+"en": "The three-colored hanami dango (pink, white, green) is traditionally enjoyed during cherry blossom viewing in spring.",
+"zh": "三色花见团子（粉、白、绿）是春天赏樱时的传统美食。",
+"ja": "三色の花見団子（ピンク、白、緑）は春のお花見の時に食べる伝統的なお菓子です。",
+"es": "Los dango hanami de tres colores (rosa, blanco, verde) se disfrutan tradicionalmente durante la observacion de los cerezos en flor en primavera."
+}
+},
+{
+"id": "food_beginner_093",
+"q": {
+"en": "What is the famous Japanese summer drink made from barley?",
+"zh": "由大麦制成的日本著名夏季饮品叫什么？",
+"ja": "麦から作られる日本の有名な夏のお茶は何ですか？",
+"es": "Cual es la famosa bebida japonesa de verano hecha de cebada?"
+},
+"c": [
+{"en": "Hojicha", "zh": "焙茶", "ja": "ほうじ茶", "es": "Hojicha"},
+{"en": "Genmaicha", "zh": "玄米茶", "ja": "玄米茶", "es": "Genmaicha"},
+{"en": "Mugicha (barley tea)", "zh": "麦茶", "ja": "麦茶", "es": "Mugicha (te de cebada)"},
+{"en": "Matcha", "zh": "抹茶", "ja": "抹茶", "es": "Matcha"}
+],
+"a": 2,
+"trivia": {
+"en": "Mugicha is caffeine-free and served cold in summer, making it one of Japan's most refreshing traditional beverages.",
+"zh": "麦茶不含咖啡因，夏天冰镇饮用，是日本最清爽的传统饮品之一。",
+"ja": "麦茶はカフェインフリーで夏は冷やして飲むのが定番で、日本で最も爽やかな伝統的な飲み物の一つです。",
+"es": "El mugicha no contiene cafeina y se sirve frio en verano, siendo una de las bebidas tradicionales mas refrescantes de Japon."
+}
+},
+{
+"id": "food_beginner_094",
+"q": {
+"en": "What is the traditional Japanese sweet served during tea ceremony?",
+"zh": "茶道中供应的传统日式甜点是什么？",
+"ja": "茶道で出される伝統的な和菓子は何と呼ばれますか？",
+"es": "Cual es el dulce tradicional japones servido durante la ceremonia del te?"
+},
+"c": [
+{"en": "Chocolate cake", "zh": "巧克力蛋糕", "ja": "チョコレートケーキ", "es": "Pastel de chocolate"},
+{"en": "Wagashi", "zh": "和菓子", "ja": "和菓子", "es": "Wagashi"},
+{"en": "Ice cream", "zh": "冰淇淋", "ja": "アイスクリーム", "es": "Helado"},
+{"en": "Cookies", "zh": "饼干", "ja": "クッキー", "es": "Galletas"}
+],
+"a": 1,
+"trivia": {
+"en": "Wagashi artisans, called wagashi-shi, train for years to master the art of creating seasonal sweets that are almost too beautiful to eat.",
+"zh": "和菓子匠人称为'和菓子师'，需要多年训练才能掌握制作精美到不忍食用的季节性甜点的艺术。",
+"ja": "和菓子職人は何年も修行を積み、食べるのがもったいないほど美しい季節の和菓子を作る技を極めます。",
+"es": "Los artesanos de wagashi, llamados wagashi-shi, se entrenan durante anos para dominar el arte de crear dulces estacionales que son casi demasiado hermosos para comer."
+}
+},
+{
+"id": "food_beginner_095",
+"q": {
+"en": "What is the famous Hiroshima-style dish that differs from the Osaka version?",
+"zh": "与大阪版不同的广岛风格著名菜肴是什么？",
+"ja": "大阪のものとは異なる広島風の有名な料理は何ですか？",
+"es": "Cual es el famoso plato estilo Hiroshima que difiere de la version de Osaka?"
+},
+"c": [
+{"en": "Ramen", "zh": "拉面", "ja": "ラーメン", "es": "Ramen"},
+{"en": "Takoyaki", "zh": "章鱼烧", "ja": "たこ焼き", "es": "Takoyaki"},
+{"en": "Okonomiyaki", "zh": "广岛烧", "ja": "お好み焼き", "es": "Okonomiyaki"},
+{"en": "Gyoza", "zh": "饺子", "ja": "餃子", "es": "Gyoza"}
+],
+"a": 2,
+"trivia": {
+"en": "Hiroshima-style okonomiyaki layers the ingredients rather than mixing them, and always includes yakisoba noodles.",
+"zh": "广岛风大阪烧将食材层层叠放而非混合在一起，并且总是加入炒面。",
+"ja": "広島風お好み焼きは具材を混ぜずに重ねて焼き、必ず焼きそばが入っています。",
+"es": "El okonomiyaki estilo Hiroshima apila los ingredientes en capas en lugar de mezclarlos, y siempre incluye fideos yakisoba."
+}
+},
+{
+"id": "food_beginner_096",
+"q": {
+"en": "What is the proper way to receive a hot towel (oshibori) at a Japanese restaurant?",
+"zh": "在日本餐厅收到热毛巾的正确方式是什么？",
+"ja": "日本のレストランでおしぼりを受け取る正しい方法は？",
+"es": "Cual es la forma correcta de recibir una toalla caliente (oshibori) en un restaurante japones?"
+},
+"c": [
+{"en": "Wipe your face and neck with it", "zh": "用它擦脸和脖子", "ja": "顔と首を拭く", "es": "Limpiar la cara y el cuello con ella"},
+{"en": "Use it to clean your hands only", "zh": "只用它擦手", "ja": "手を拭くためだけに使う", "es": "Usarla solo para limpiar las manos"},
+{"en": "Place it on your lap like a napkin", "zh": "像餐巾纸一样放在膝盖上", "ja": "ナプキンのように膝の上に置く", "es": "Colocarla en el regazo como una servilleta"},
+{"en": "Wrap it around your chopsticks", "zh": "用它包筷子", "ja": "箸を包む", "es": "Envolver los palillos con ella"}
+],
+"a": 1,
+"trivia": {
+"en": "The oshibori is meant for cleaning your hands before eating. Using it to wipe your face is generally considered poor manners, especially for women.",
+"zh": "おしぼり是用来在吃饭前擦手的。用它擦脸通常被认为是不礼貌的，尤其对女性而言。",
+"ja": "おしぼりは食事前に手を拭くためのもので、顔を拭くのはマナー違反とされています。特に女性は注意が必要です。",
+"es": "El oshibori esta destinado a limpiar las manos antes de comer. Usarlo para limpiar la cara generalmente se considera de mala educacion, especialmente para las mujeres."
+}
+},
+{
+"id": "food_beginner_097",
+"q": {
+"en": "What is the Okinawan stir-fry dish made with bitter melon?",
+"zh": "冲绳用苦瓜做的炒菜叫什么？",
+"ja": "ゴーヤを使った沖縄の炒め物は何ですか？",
+"es": "Cual es el plato salteado de Okinawa hecho con melon amargo?"
+},
+"c": [
+{"en": "Chanpuru", "zh": "杂炒", "ja": "チャンプルー", "es": "Chanpuru"},
+{"en": "Nikujaga", "zh": "肉土豆", "ja": "肉じゃが", "es": "Nikujaga"},
+{"en": "Kinpira", "zh": "金平", "ja": "きんぴら", "es": "Kinpira"},
+{"en": "Hijiki salad", "zh": "羊栖菜沙拉", "ja": "ひじきサラダ", "es": "Ensalada de hijiki"}
+],
+"a": 0,
+"trivia": {
+"en": "Goya chanpuru is considered a key reason for the longevity of Okinawan people, as bitter melon is rich in vitamins and antioxidants.",
+"zh": "苦瓜杂炒被认为是冲绳人长寿的重要原因之一，因为苦瓜富含维生素和抗氧化剂。",
+"ja": "ゴーヤチャンプルーはビタミンや抗酸化物質が豊富なゴーヤを使うため、沖縄の人々の長寿の秘訣の一つとされています。",
+"es": "El goya chanpuru se considera una razon clave de la longevidad de los okinawenses, ya que el melon amargo es rico en vitaminas y antioxidantes."
+}
+},
+{
+"id": "food_beginner_098",
+"q": {
+"en": "What is the most famous type of Japanese Kit Kat flavor?",
+"zh": "日本最有名的奇巧巧克力口味是什么？",
+"ja": "日本のキットカットで最も有名な味は何ですか？",
+"es": "Cual es el sabor de Kit Kat japones mas famoso?"
+},
+"c": [
+{"en": "Plain chocolate", "zh": "纯巧克力", "ja": "プレーンチョコレート", "es": "Chocolate simple"},
+{"en": "Matcha (green tea)", "zh": "抹茶（绿茶）", "ja": "抹茶", "es": "Matcha (te verde)"},
+{"en": "Vanilla", "zh": "香草", "ja": "バニラ", "es": "Vainilla"},
+{"en": "Caramel", "zh": "焦糖", "ja": "キャラメル", "es": "Caramelo"}
+],
+"a": 1,
+"trivia": {
+"en": "Japan has released over 300 limited-edition Kit Kat flavors including sake, sweet potato, wasabi, and strawberry cheesecake.",
+"zh": "日本已推出超过300种限量版奇巧口味，包括清酒、红薯、芥末和草莓芝士蛋糕。",
+"ja": "日本では日本酒、さつまいも、わさび、ストロベリーチーズケーキなど300種類以上の限定キットカットが発売されています。",
+"es": "Japon ha lanzado mas de 300 sabores de Kit Kat de edicion limitada, incluyendo sake, camote, wasabi y cheesecake de fresa."
+}
+},
+{
+"id": "food_beginner_099",
+"q": {
+"en": "What is the traditional way to order at many ramen shops in Japan?",
+"zh": "在日本许多拉面店的传统点餐方式是什么？",
+"ja": "日本の多くのラーメン店での伝統的な注文方法は何ですか？",
+"es": "Cual es la forma tradicional de ordenar en muchas tiendas de ramen en Japon?"
+},
+"c": [
+{"en": "A waiter takes your order", "zh": "服务员来点餐", "ja": "ウェイターが注文を取る", "es": "Un mesero toma tu orden"},
+{"en": "You order through a mobile app", "zh": "通过手机应用点餐", "ja": "アプリで注文する", "es": "Ordenas a traves de una aplicacion movil"},
+{"en": "You buy a ticket from a vending machine", "zh": "从自动贩卖机买餐券", "ja": "券売機で食券を買う", "es": "Compras un boleto de una maquina expendedora"},
+{"en": "You shout your order to the chef", "zh": "向厨师喊你的点单", "ja": "シェフに注文を叫ぶ", "es": "Gritas tu orden al chef"}
+],
+"a": 2,
+"trivia": {
+"en": "Ticket vending machines (kenbaiki) at ramen shops let you choose and pay for your meal before sitting down, making the process quick and efficient.",
+"zh": "拉面店的售票机让你在坐下前选择并支付餐食，使流程快速高效。",
+"ja": "ラーメン店の券売機は座る前に食事を選んで支払いができるので、スピーディーで効率的です。",
+"es": "Las maquinas expendedoras de boletos (kenbaiki) en las tiendas de ramen te permiten elegir y pagar tu comida antes de sentarte, haciendo el proceso rapido y eficiente."
+}
+},
+{
+"id": "food_beginner_100",
+"q": {
+"en": "What is the concept of 'ichigo ichie' as it relates to Japanese dining?",
+"zh": "'一期一会'与日本饮食有什么关系？",
+"ja": "日本の食事における「一期一会」の概念とは何ですか？",
+"es": "Cual es el concepto de 'ichigo ichie' en relacion con la comida japonesa?"
+},
+"c": [
+{"en": "Always eat strawberries first", "zh": "总是先吃草莓", "ja": "いつも苺を先に食べる", "es": "Siempre comer fresas primero"},
+{"en": "Each meal is a once-in-a-lifetime encounter to treasure", "zh": "每顿饭都是一生一次的相遇，值得珍惜", "ja": "一度きりの出会いとして食事を大切にすること", "es": "Cada comida es un encuentro unico en la vida para atesorar"},
+{"en": "Only eat one dish per meal", "zh": "每餐只吃一道菜", "ja": "一食に一品だけ食べる", "es": "Solo comer un plato por comida"},
+{"en": "Share every dish equally", "zh": "平等分享每道菜", "ja": "全ての料理を均等に分ける", "es": "Compartir cada plato por igual"}
+],
+"a": 1,
+"trivia": {
+"en": "Ichigo ichie comes from tea ceremony philosophy and reminds us to be fully present and grateful for each dining experience, as it will never happen the same way again.",
+"zh": "'一期一会'源自茶道哲学，提醒我们要全身心地投入每次用餐体验并心存感激，因为同样的体验不会再次发生。",
+"ja": "「一期一会」は茶道の精神から来ており、同じ食事は二度とないことを心に留め、一回一回の食事に感謝して向き合うことを教えています。",
+"es": "Ichigo ichie proviene de la filosofia de la ceremonia del te y nos recuerda estar plenamente presentes y agradecidos por cada experiencia gastronomica, ya que nunca sucedera de la misma manera otra vez."
+}
+}
+]

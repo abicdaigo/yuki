@@ -1,0 +1,4202 @@
+[
+{
+"id": "manga_beginner_001",
+"q": {
+"en": "Who is the author of Dragon Ball?",
+"zh": "龙珠的作者是谁?",
+"ja": "ドラゴンボールの作者は誰ですか?",
+"es": "Quien es el autor de Dragon Ball?"
+},
+"c": [
+{
+"en": "Masashi Kishimoto",
+"zh": "岸本齐史",
+"ja": "岸本斉史",
+"es": "Masashi Kishimoto"
+},
+{
+"en": "Eiichiro Oda",
+"zh": "尾田荣一郎",
+"ja": "尾田栄一郎",
+"es": "Eiichiro Oda"
+},
+{
+"en": "Osamu Tezuka",
+"zh": "手冢治虫",
+"ja": "手塚治虫",
+"es": "Osamu Tezuka"
+},
+{
+"en": "Akira Toriyama",
+"zh": "鸟山明",
+"ja": "鳥山明",
+"es": "Akira Toriyama"
+}
+],
+"a": 3,
+"trivia": {
+"en": "Akira Toriyama created Dragon Ball in 1984, and it became one of the most influential manga ever.",
+"zh": "鸟山明于1984年创作了龙珠，成为史上最具影响力的漫画之一。",
+"ja": "鳥山明は1984年にドラゴンボールを創作し、史上最も影響力のある漫画の一つとなりました。",
+"es": "Akira Toriyama creo Dragon Ball en 1984, convirtiendose en uno de los mangas mas influyentes."
+}
+},
+{
+"id": "manga_beginner_002",
+"q": {
+"en": "What is Goku's signature energy attack in Dragon Ball?",
+"zh": "龙珠中悟空的标志性能量攻击叫什么?",
+"ja": "ドラゴンボールで悟空の代表的な技は何ですか?",
+"es": "Cual es el ataque de energia caracteristico de Goku en Dragon Ball?"
+},
+"c": [
+{
+"en": "Galick Gun",
+"zh": "加力炮",
+"ja": "ギャリック砲",
+"es": "Canon Galick"
+},
+{
+"en": "Final Flash",
+"zh": "终极闪光",
+"ja": "ファイナルフラッシュ",
+"es": "Destello Final"
+},
+{
+"en": "Spirit Bomb",
+"zh": "元气弹",
+"ja": "元気玉",
+"es": "Bomba de Energia"
+},
+{
+"en": "Kamehameha",
+"zh": "龟派气功",
+"ja": "かめはめ波",
+"es": "Kamehameha"
+}
+],
+"a": 3,
+"trivia": {
+"en": "The Kamehameha wave was invented by Master Roshi and later taught to Goku.",
+"zh": "龟派气功是龟仙人发明的，后来教给了悟空。",
+"ja": "かめはめ波は亀仙人が発明し悟空に教えた技です。",
+"es": "La onda Kamehameha fue inventada por el Maestro Roshi y luego ensenada a Goku."
+}
+},
+{
+"id": "manga_beginner_003",
+"q": {
+"en": "What is the name of the main character of One Piece?",
+"zh": "海贼王的主角叫什么名字?",
+"ja": "ワンピースの主人公の名前は?",
+"es": "Como se llama el protagonista de One Piece?"
+},
+"c": [
+{
+"en": "Sanji",
+"zh": "山治",
+"ja": "サンジ",
+"es": "Sanji"
+},
+{
+"en": "Nami",
+"zh": "娜美",
+"ja": "ナミ",
+"es": "Nami"
+},
+{
+"en": "Monkey D. Luffy",
+"zh": "蒙奇·D·路飞",
+"ja": "モンキー・D・ルフィ",
+"es": "Monkey D. Luffy"
+},
+{
+"en": "Roronoa Zoro",
+"zh": "罗罗亚·索隆",
+"ja": "ロロノア・ゾロ",
+"es": "Roronoa Zoro"
+}
+],
+"a": 2,
+"trivia": {
+"en": "Luffy dreams of becoming the Pirate King by finding the legendary treasure One Piece.",
+"zh": "路飞梦想通过找到传说中的宝藏而成为海贼王。",
+"ja": "ルフィは伝説の宝ワンピースを見つけて海賊王になることを夢見ています。",
+"es": "Luffy suena con convertirse en el Rey de los Piratas encontrando el legendario tesoro One Piece."
+}
+},
+{
+"id": "manga_beginner_004",
+"q": {
+"en": "What does Luffy always wear on his head in One Piece?",
+"zh": "路飞在海贼王中头上总是戴着什么?",
+"ja": "ルフィがいつも頭にかぶっているものは?",
+"es": "Que lleva Luffy siempre en la cabeza en One Piece?"
+},
+"c": [
+{
+"en": "A crown",
+"zh": "王冠",
+"ja": "王冠",
+"es": "Una corona"
+},
+{
+"en": "A helmet",
+"zh": "头盔",
+"ja": "ヘルメット",
+"es": "Un casco"
+},
+{
+"en": "A bandana",
+"zh": "头巾",
+"ja": "バンダナ",
+"es": "Una bandana"
+},
+{
+"en": "A straw hat",
+"zh": "草帽",
+"ja": "麦わら帽子",
+"es": "Un sombrero de paja"
+}
+],
+"a": 3,
+"trivia": {
+"en": "The straw hat was given to Luffy by the pirate Shanks, whom he admired as a child.",
+"zh": "草帽是路飞小时候崇拜的海贼香克斯送给他的。",
+"ja": "麦わら帽子は子供の頃憧れた海賊シャンクスからもらったものです。",
+"es": "El sombrero de paja fue dado a Luffy por Shanks, el pirata al que admiraba de nino."
+}
+},
+{
+"id": "manga_beginner_005",
+"q": {
+"en": "Who created the manga One Piece?",
+"zh": "漫画海贼王是谁创作的?",
+"ja": "漫画ワンピースの作者は誰ですか?",
+"es": "Quien creo el manga One Piece?"
+},
+"c": [
+{
+"en": "Masashi Kishimoto",
+"zh": "岸本齐史",
+"ja": "岸本斉史",
+"es": "Masashi Kishimoto"
+},
+{
+"en": "Eiichiro Oda",
+"zh": "尾田荣一郎",
+"ja": "尾田栄一郎",
+"es": "Eiichiro Oda"
+},
+{
+"en": "Tite Kubo",
+"zh": "久保带人",
+"ja": "久保帯人",
+"es": "Tite Kubo"
+},
+{
+"en": "Akira Toriyama",
+"zh": "鸟山明",
+"ja": "鳥山明",
+"es": "Akira Toriyama"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Eiichiro Oda started One Piece in 1997 and it became the best-selling manga in history.",
+"zh": "尾田荣一郎于1997年开始连载海贼王，成为历史上销量最高的漫画。",
+"ja": "尾田栄一郎は1997年にワンピースを連載開始し、史上最も売れた漫画となりました。",
+"es": "Eiichiro Oda comenzo One Piece en 1997 y se convirtio en el manga mas vendido de la historia."
+}
+},
+{
+"id": "manga_beginner_006",
+"q": {
+"en": "Who is the author of Naruto?",
+"zh": "火影忍者的作者是谁?",
+"ja": "ナルトの作者は誰ですか?",
+"es": "Quien es el autor de Naruto?"
+},
+"c": [
+{
+"en": "Eiichiro Oda",
+"zh": "尾田荣一郎",
+"ja": "尾田栄一郎",
+"es": "Eiichiro Oda"
+},
+{
+"en": "Yoshihiro Togashi",
+"zh": "富的义博",
+"ja": "冨樫義博",
+"es": "Yoshihiro Togashi"
+},
+{
+"en": "Akira Toriyama",
+"zh": "鸟山明",
+"ja": "鳥山明",
+"es": "Akira Toriyama"
+},
+{
+"en": "Masashi Kishimoto",
+"zh": "岸本齐史",
+"ja": "岸本斉史",
+"es": "Masashi Kishimoto"
+}
+],
+"a": 3,
+"trivia": {
+"en": "Masashi Kishimoto created Naruto in 1999, inspired by his love for ninja stories.",
+"zh": "岸本齐史于1999年创作了火影忍者，灵感来自他对忍者故事的热爱。",
+"ja": "岸本斉史は1999年にナルトを創作し、忍者物語への愛に影響を受けました。",
+"es": "Masashi Kishimoto creo Naruto en 1999, inspirado por su amor por las historias de ninjas."
+}
+},
+{
+"id": "manga_beginner_007",
+"q": {
+"en": "What type of warrior is Naruto?",
+"zh": "鸣人是什么类型的战士?",
+"ja": "ナルトはどんな種類の戦士ですか?",
+"es": "Que tipo de guerrero es Naruto?"
+},
+"c": [
+{
+"en": "Ninja",
+"zh": "忍者",
+"ja": "忍者",
+"es": "Ninja"
+},
+{
+"en": "Pirate",
+"zh": "海贼",
+"ja": "海賊",
+"es": "Pirata"
+},
+{
+"en": "Samurai",
+"zh": "武士",
+"ja": "侍",
+"es": "Samurai"
+},
+{
+"en": "Knight",
+"zh": "骑士",
+"ja": "騎士",
+"es": "Caballero"
+}
+],
+"a": 0,
+"trivia": {
+"en": "Naruto is a ninja from the Hidden Leaf Village who dreams of becoming Hokage.",
+"zh": "鸣人是木叶隐村的忍者，梦想成为火影。",
+"ja": "ナルトは木ノ葉隠れの里の忍者で、火影になることを夢見ています。",
+"es": "Naruto es un ninja de la Aldea Oculta de la Hoja que suena con convertirse en Hokage."
+}
+},
+{
+"id": "manga_beginner_008",
+"q": {
+"en": "What does Naruto wear on his forehead?",
+"zh": "鸣人额头上戴着什么?",
+"ja": "ナルトが額につけているものは何ですか?",
+"es": "Que lleva Naruto en la frente?"
+},
+"c": [
+{
+"en": "A headband with a leaf symbol",
+"zh": "带有叶子标志的额带",
+"ja": "木ノ葉マークの額当て",
+"es": "Una banda con simbolo de hoja"
+},
+{
+"en": "A mask",
+"zh": "面具",
+"ja": "マスク",
+"es": "Una mascara"
+},
+{
+"en": "A crown",
+"zh": "王冠",
+"ja": "王冠",
+"es": "Una corona"
+},
+{
+"en": "A bandage",
+"zh": "绷带",
+"ja": "包帯",
+"es": "Un vendaje"
+}
+],
+"a": 0,
+"trivia": {
+"en": "The ninja headband represents the village a ninja belongs to. Naruto wears the Hidden Leaf symbol.",
+"zh": "忍者额带代表忍者所属的村子。鸣人戴着木叶的标志。",
+"ja": "額当ては忍者が所属する里を表し、ナルトは木ノ葉のマークをつけています。",
+"es": "La banda ninja representa la aldea. Naruto lleva el simbolo de la Hoja Oculta."
+}
+},
+{
+"id": "manga_beginner_009",
+"q": {
+"en": "Who is the main character of Demon Slayer (Kimetsu no Yaiba)?",
+"zh": "鬼灭之刃的主角是谁?",
+"ja": "鬼滅の刃の主人公は誰ですか?",
+"es": "Quien es el protagonista de Demon Slayer?"
+},
+"c": [
+{
+"en": "Zenitsu Agatsuma",
+"zh": "我妻善逸",
+"ja": "我妻善逸",
+"es": "Zenitsu Agatsuma"
+},
+{
+"en": "Tanjiro Kamado",
+"zh": "灶门炭治郎",
+"ja": "竈門炭治郎",
+"es": "Tanjiro Kamado"
+},
+{
+"en": "Inosuke Hashibira",
+"zh": "嘴平伊之助",
+"ja": "嘴平伊之助",
+"es": "Inosuke Hashibira"
+},
+{
+"en": "Giyu Tomioka",
+"zh": "富冈义勇",
+"ja": "冨岡義勇",
+"es": "Giyu Tomioka"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Tanjiro became a demon slayer to save his sister Nezuko who was turned into a demon.",
+"zh": "炭治郎为了拯救变成鬼的妹妹祢豆子而成为鬼杀队成员。",
+"ja": "炭治郎は鬼にされた妹の禰豆子を救うために鬼殺隊に入りました。",
+"es": "Tanjiro se convirtio en cazador de demonios para salvar a su hermana Nezuko."
+}
+},
+{
+"id": "manga_beginner_010",
+"q": {
+"en": "What fighting technique do demon slayers use in Kimetsu no Yaiba?",
+"zh": "鬼灭之刃中鬼杀队使用什么战斗技术?",
+"ja": "鬼滅の刃で鬼殺隊が使う戦闘技術は?",
+"es": "Que tecnica usan los cazadores de demonios en Kimetsu no Yaiba?"
+},
+"c": [
+{
+"en": "Alchemy",
+"zh": "炼金术",
+"ja": "錬金術",
+"es": "Alquimia"
+},
+{
+"en": "Devil fruits",
+"zh": "恶魔果实",
+"ja": "悪魔の実",
+"es": "Frutas del diablo"
+},
+{
+"en": "Chakra techniques",
+"zh": "查克拉技术",
+"ja": "チャクラの術",
+"es": "Tecnicas de chakra"
+},
+{
+"en": "Breathing techniques",
+"zh": "呼吸法",
+"ja": "呼吸法",
+"es": "Tecnicas de respiracion"
+}
+],
+"a": 3,
+"trivia": {
+"en": "Breathing techniques enhance a swordsman's physical abilities to fight demons.",
+"zh": "呼吸法能增强剑士的身体能力来对抗鬼。",
+"ja": "呼吸法は剣士の身体能力を高めて鬼と戦う技術です。",
+"es": "Las tecnicas de respiracion mejoran las habilidades fisicas para luchar contra demonios."
+}
+},
+{
+"id": "manga_beginner_011",
+"q": {
+"en": "What is the name of the main character in Attack on Titan?",
+"zh": "进击的巨人的主角叫什么?",
+"ja": "進撃の巨人の主人公の名前は?",
+"es": "Como se llama el protagonista de Attack on Titan?"
+},
+"c": [
+{
+"en": "Armin Arlert",
+"zh": "阿尔敏·阿诺德",
+"ja": "アルミン・アルレルト",
+"es": "Armin Arlert"
+},
+{
+"en": "Eren Yeager",
+"zh": "艾伦·耶格尔",
+"ja": "エレン・イェーガー",
+"es": "Eren Yeager"
+},
+{
+"en": "Mikasa Ackerman",
+"zh": "三笠·阿克曼",
+"ja": "ミカサ・アッカーマン",
+"es": "Mikasa Ackerman"
+},
+{
+"en": "Levi Ackerman",
+"zh": "利威尔·阿克曼",
+"ja": "リヴァイ・アッカーマン",
+"es": "Levi Ackerman"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Eren vows to destroy all Titans after witnessing one devour his mother.",
+"zh": "艾伦在目睹母亲被巨人吞噬后发誓要消灭所有巨人。",
+"ja": "エレンは母親が巨人に食べられるのを目撃し全ての巨人を駆逐すると誓いました。",
+"es": "Eren jura destruir a todos los Titanes despues de ver a uno devorar a su madre."
+}
+},
+{
+"id": "manga_beginner_012",
+"q": {
+"en": "How tall are the Titans in Attack on Titan?",
+"zh": "进击的巨人中巨人有多高?",
+"ja": "進撃の巨人の巨人はどのくらいの大きさですか?",
+"es": "Que tan altos son los Titanes en Attack on Titan?"
+},
+"c": [
+{
+"en": "Exactly 100 meters tall",
+"zh": "正好100米高",
+"ja": "ちょうど100メートル",
+"es": "Exactamente 100 metros"
+},
+{
+"en": "They range from 3 to 60 meters tall",
+"zh": "身高从3米到60米不等",
+"ja": "3メートルから60メートルまで様々",
+"es": "Varian de 3 a 60 metros de altura"
+},
+{
+"en": "About twice as tall as humans",
+"zh": "大约是人类的两倍高",
+"ja": "人間の約2倍",
+"es": "Aproximadamente el doble de los humanos"
+},
+{
+"en": "About the same height as humans",
+"zh": "和人类差不多高",
+"ja": "人間とほぼ同じ高さ",
+"es": "Casi la misma altura que los humanos"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Titans vary in size. The Colossal Titan is about 60 meters, towering over city walls.",
+"zh": "巨人大小各不相同。超大型巨人高约60米，比城墙还高。",
+"ja": "巨人は様々なサイズがあり、超大型巨人は約60メートルで城壁を超える高さです。",
+"es": "Los Titanes varian en tamano. El Titan Colosal mide unos 60 metros, superando las murallas."
+}
+},
+{
+"id": "manga_beginner_013",
+"q": {
+"en": "What is the real name of Deku in My Hero Academia?",
+"zh": "我的英雄学院中Deku的真名是什么?",
+"ja": "僕のヒーローアカデミアでデクの本名は何ですか?",
+"es": "Cual es el nombre real de Deku en My Hero Academia?"
+},
+"c": [
+{
+"en": "Izuku Midoriya",
+"zh": "绿谷出久",
+"ja": "緑谷出久",
+"es": "Izuku Midoriya"
+},
+{
+"en": "Shoto Todoroki",
+"zh": "�的冻",
+"ja": "轟焦凍",
+"es": "Shoto Todoroki"
+},
+{
+"en": "Katsuki Bakugo",
+"zh": "爆豪胜己",
+"ja": "爆豪勝己",
+"es": "Katsuki Bakugo"
+},
+{
+"en": "All Might",
+"zh": "全能",
+"ja": "オールマイト",
+"es": "All Might"
+}
+],
+"a": 0,
+"trivia": {
+"en": "Deku was born without a Quirk but received One For All from All Might, the top hero.",
+"zh": "绿谷出久天生没有个性，但从最强英雄全能那里继承了One For All。",
+"ja": "デクは無個性で生まれましたが、オールマイトからワン・フォー・オールを受け継ぎました。",
+"es": "Deku nacio sin Quirk pero recibio One For All de All Might, el heroe numero uno."
+}
+},
+{
+"id": "manga_beginner_014",
+"q": {
+"en": "In My Hero Academia, what are superpowers called?",
+"zh": "在我的英雄学院中，超能力被称为什么?",
+"ja": "僕のヒーローアカデミアで超能力は何と呼ばれますか?",
+"es": "En My Hero Academia, como se llaman los superpoderes?"
+},
+"c": [
+{
+"en": "Quirks",
+"zh": "个性",
+"ja": "個性",
+"es": "Quirks"
+},
+{
+"en": "Nen",
+"zh": "念能力",
+"ja": "念能力",
+"es": "Nen"
+},
+{
+"en": "Stands",
+"zh": "替身",
+"ja": "スタンド",
+"es": "Stands"
+},
+{
+"en": "Jutsu",
+"zh": "忍术",
+"ja": "忍術",
+"es": "Jutsu"
+}
+],
+"a": 0,
+"trivia": {
+"en": "About 80% of the population in My Hero Academia is born with a Quirk, a unique superpower.",
+"zh": "在我的英雄学院中约80%的人口天生拥有个性。",
+"ja": "僕のヒーローアカデミアでは人口の約80%が個性を持って生まれます。",
+"es": "Aproximadamente el 80% de la poblacion nace con un Quirk, un superpoder unico."
+}
+},
+{
+"id": "manga_beginner_015",
+"q": {
+"en": "What is the name of the most famous electric-type Pokemon?",
+"zh": "最著名的电属性宝可梦叫什么?",
+"ja": "最も有名な電気タイプのポケモンは?",
+"es": "Como se llama el Pokemon de tipo electrico mas famoso?"
+},
+"c": [
+{
+"en": "Charmander",
+"zh": "小火龙",
+"ja": "ヒトカゲ",
+"es": "Charmander"
+},
+{
+"en": "Pikachu",
+"zh": "皮卡丘",
+"ja": "ピカチュウ",
+"es": "Pikachu"
+},
+{
+"en": "Squirtle",
+"zh": "杰尼龟",
+"ja": "ゼニガメ",
+"es": "Squirtle"
+},
+{
+"en": "Bulbasaur",
+"zh": "妙蛙种子",
+"ja": "フシギダネ",
+"es": "Bulbasaur"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Pikachu became the mascot of Pokemon and is recognized by people all around the world.",
+"zh": "皮卡丘成为宝可梦的吉祥物，被全世界的人所认识。",
+"ja": "ピカチュウはポケモンのマスコットとなり世界中で認知されています。",
+"es": "Pikachu se convirtio en la mascota de Pokemon y es reconocido en todo el mundo."
+}
+},
+{
+"id": "manga_beginner_016",
+"q": {
+"en": "What is the name of Pikachu's trainer in the Pokemon anime?",
+"zh": "宝可梦动画中皮卡丘的训练师叫什么?",
+"ja": "ポケモンアニメでピカチュウのトレーナーは誰ですか?",
+"es": "Como se llama el entrenador de Pikachu en el anime de Pokemon?"
+},
+"c": [
+{
+"en": "Misty",
+"zh": "小霞",
+"ja": "カスミ",
+"es": "Misty"
+},
+{
+"en": "Brock",
+"zh": "小刚",
+"ja": "タケシ",
+"es": "Brock"
+},
+{
+"en": "Ash Ketchum (Satoshi)",
+"zh": "小智",
+"ja": "サトシ",
+"es": "Ash Ketchum (Satoshi)"
+},
+{
+"en": "Gary",
+"zh": "小茂",
+"ja": "シゲル",
+"es": "Gary"
+}
+],
+"a": 2,
+"trivia": {
+"en": "Ash (Satoshi in Japan) traveled across many regions with Pikachu as his partner.",
+"zh": "小智（日本名为聪）带着皮卡丘走遍了许多地区。",
+"ja": "サトシはピカチュウをパートナーに多くの地方を旅しました。",
+"es": "Ash (Satoshi en Japon) viajo por muchas regiones con Pikachu como companero."
+}
+},
+{
+"id": "manga_beginner_017",
+"q": {
+"en": "What is Doraemon?",
+"zh": "哆啦A梦是什么?",
+"ja": "ドラえもんは何ですか?",
+"es": "Que es Doraemon?"
+},
+"c": [
+{
+"en": "A cat robot from the future",
+"zh": "一只来自未来的猫型机器人",
+"ja": "未来のネコ型ロボット",
+"es": "Un gato robot del futuro"
+},
+{
+"en": "A space alien",
+"zh": "一个外星人",
+"ja": "宇宙人",
+"es": "Un extraterrestre"
+},
+{
+"en": "A magical boy",
+"zh": "一个魔法少年",
+"ja": "魔法少年",
+"es": "Un chico magico"
+},
+{
+"en": "A robot dog from the future",
+"zh": "一只来自未来的机器狗",
+"ja": "未来のロボット犬",
+"es": "Un perro robot del futuro"
+}
+],
+"a": 0,
+"trivia": {
+"en": "Doraemon is a cat robot from the 22nd century who helps a boy named Nobita with futuristic gadgets.",
+"zh": "哆啦A梦是来自22世纪的猫型机器人，用未来道具帮助名叫大雄的男孩。",
+"ja": "ドラえもんは22世紀から来たネコ型ロボットで、のび太をひみつ道具で助けます。",
+"es": "Doraemon es un gato robot del siglo 22 que ayuda a Nobita con aparatos futuristas."
+}
+},
+{
+"id": "manga_beginner_018",
+"q": {
+"en": "What is Doraemon's most famous gadget that lets you travel anywhere instantly?",
+"zh": "哆啦A梦最著名的能让你瞬间到达任何地方的道具叫什么?",
+"ja": "ドラえもんの一番有名なひみつ道具は何ですか?",
+"es": "Cual es el aparato mas famoso de Doraemon para viajar a cualquier lugar?"
+},
+"c": [
+{
+"en": "Bamboo Copter",
+"zh": "竹蜻蜓",
+"ja": "タケコプター",
+"es": "Helicoptero de Bambu"
+},
+{
+"en": "Small Light",
+"zh": "缩小灯",
+"ja": "スモールライト",
+"es": "Luz Pequena"
+},
+{
+"en": "Time Machine",
+"zh": "时光机",
+"ja": "タイムマシン",
+"es": "Maquina del Tiempo"
+},
+{
+"en": "Anywhere Door",
+"zh": "任意门",
+"ja": "どこでもドア",
+"es": "Puerta a Cualquier Lugar"
+}
+],
+"a": 3,
+"trivia": {
+"en": "The Anywhere Door (Dokodemo Door) can transport you to any place you think of when you open it.",
+"zh": "任意门打开时能将你传送到你想去的任何地方。",
+"ja": "どこでもドアは開けると思った場所にどこでも行ける道具です。",
+"es": "La Puerta a Cualquier Lugar te transporta a donde quieras al abrirla."
+}
+},
+{
+"id": "manga_beginner_019",
+"q": {
+"en": "What is Sailor Moon about?",
+"zh": "美少女战士讲的是什么?",
+"ja": "セーラームーンはどんな話ですか?",
+"es": "De que trata Sailor Moon?"
+},
+"c": [
+{
+"en": "A girl who plays basketball",
+"zh": "一个打篮球的女孩",
+"ja": "バスケをする少女",
+"es": "Una chica que juega baloncesto"
+},
+{
+"en": "A girl who trains to be a ninja",
+"zh": "一个修炼成为忍者的女孩",
+"ja": "忍者を目指す少女",
+"es": "Una chica que entrena para ser ninja"
+},
+{
+"en": "A girl who transforms into a magical warrior to fight evil",
+"zh": "一个变身为魔法战士对抗邪恶的女孩",
+"ja": "魔法の戦士に変身して悪と戦う少女の話",
+"es": "Una chica que se transforma en guerrera magica para luchar contra el mal"
+},
+{
+"en": "A girl who becomes a pirate",
+"zh": "一个成为海贼的女孩",
+"ja": "海賊になる少女",
+"es": "Una chica que se convierte en pirata"
+}
+],
+"a": 2,
+"trivia": {
+"en": "Sailor Moon is one of the most iconic magical girl anime and helped popularize the genre worldwide.",
+"zh": "美少女战士是最具标志性的魔法少女动画之一，在全球推广了这一类型。",
+"ja": "セーラームーンは最も象徴的な魔法少女アニメの一つで世界中にジャンルを広めました。",
+"es": "Sailor Moon es uno de los animes de chica magica mas iconicos y ayudo a popularizar el genero mundialmente."
+}
+},
+{
+"id": "manga_beginner_020",
+"q": {
+"en": "What is Crayon Shin-chan known for?",
+"zh": "蜡笔小新以什么闻名?",
+"ja": "クレヨンしんちゃんは何で有名ですか?",
+"es": "Por que es conocido Crayon Shin-chan?"
+},
+"c": [
+{
+"en": "A serious action story",
+"zh": "一个严肃的动作故事",
+"ja": "シリアスなアクション物語",
+"es": "Una historia de accion seria"
+},
+{
+"en": "A comedy about a mischievous 5-year-old boy",
+"zh": "关于一个调皮的5岁男孩的喜剧",
+"ja": "いたずら好きな5歳の男の子のコメディ",
+"es": "Una comedia sobre un nino travieso de 5 anos"
+},
+{
+"en": "A horror manga",
+"zh": "一部恐怖漫画",
+"ja": "ホラー漫画",
+"es": "Un manga de terror"
+},
+{
+"en": "A sports anime",
+"zh": "一部体育动画",
+"ja": "スポーツアニメ",
+"es": "Un anime deportivo"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Crayon Shin-chan features the cheeky kindergartener Shinnosuke Nohara and his hilarious family life.",
+"zh": "蜡笔小新讲述了调皮的幼儿园小朋友野原新之助和他搞笑的家庭生活。",
+"ja": "クレヨンしんちゃんはおませな幼稚園児・野原しんのすけとその家族の日常を描いています。",
+"es": "Crayon Shin-chan presenta al descarado Shinnosuke Nohara y su divertida vida familiar."
+}
+},
+{
+"id": "manga_beginner_021",
+"q": {
+"en": "In Detective Conan, what happened to the main character Shinichi Kudo?",
+"zh": "在名侦探柯南中，主角工藤新一发生了什么?",
+"ja": "名探偵コナンで工藤新一に何が起きましたか?",
+"es": "En Detective Conan, que le paso a Shinichi Kudo?"
+},
+"c": [
+{
+"en": "He gained superpowers",
+"zh": "他获得了超能力",
+"ja": "超能力を手に入れた",
+"es": "Gano superpoderes"
+},
+{
+"en": "He became a robot",
+"zh": "他变成了机器人",
+"ja": "ロボットになった",
+"es": "Se convirtio en un robot"
+},
+{
+"en": "He traveled to another world",
+"zh": "他穿越到了另一个世界",
+"ja": "異世界に行った",
+"es": "Viajo a otro mundo"
+},
+{
+"en": "He was shrunk into a child by a poison",
+"zh": "他被毒药变成了小孩",
+"ja": "毒薬で子供の姿にされた",
+"es": "Fue encogido a nino por un veneno"
+}
+],
+"a": 3,
+"trivia": {
+"en": "Shinichi was forced to take a drug that shrank him. He now solves cases as Conan Edogawa.",
+"zh": "新一被迫服下使他变小的药物，现在以江户川柯南的身份破案。",
+"ja": "新一は薬を飲まされて幼児化し、江戸川コナンとして事件を解決しています。",
+"es": "Shinichi fue obligado a tomar una droga que lo encogio. Ahora resuelve casos como Conan Edogawa."
+}
+},
+{
+"id": "manga_beginner_022",
+"q": {
+"en": "Which Studio Ghibli film won the Academy Award for Best Animated Feature?",
+"zh": "哪部吉卜力电影获得了奥斯卡最佳动画长片奖?",
+"ja": "アカデミー賞長編アニメ映画賞を受賞したジブリ映画は?",
+"es": "Que pelicula de Studio Ghibli gano el Oscar a Mejor Pelicula Animada?"
+},
+"c": [
+{
+"en": "My Neighbor Totoro",
+"zh": "龙猫",
+"ja": "となりのトトロ",
+"es": "Mi Vecino Totoro"
+},
+{
+"en": "Ponyo",
+"zh": "悬崖上的金鱼姬",
+"ja": "崖の上のポニョ",
+"es": "Ponyo"
+},
+{
+"en": "Spirited Away",
+"zh": "千与千寻",
+"ja": "千と千尋の神隠し",
+"es": "El Viaje de Chihiro"
+},
+{
+"en": "Princess Mononoke",
+"zh": "幽灵公主",
+"ja": "もののけ姫",
+"es": "La Princesa Mononoke"
+}
+],
+"a": 2,
+"trivia": {
+"en": "Spirited Away won the Oscar in 2003, becoming the first anime to win that award.",
+"zh": "千与千寻在2003年获得奥斯卡奖，成为第一部获此殊荣的动画电影。",
+"ja": "千と千尋の神隠しは2003年にアカデミー賞を受賞し、初のオスカー受賞アニメとなりました。",
+"es": "El Viaje de Chihiro gano el Oscar en 2003, siendo el primer anime en ganar este premio."
+}
+},
+{
+"id": "manga_beginner_023",
+"q": {
+"en": "What is the large fluffy forest spirit called in My Neighbor Totoro?",
+"zh": "龙猫中那个大的毛茸茸的森林精灵叫什么?",
+"ja": "となりのトトロに出てくる大きな森の精霊は何ですか?",
+"es": "Como se llama el gran espiritu peludo del bosque en Mi Vecino Totoro?"
+},
+"c": [
+{
+"en": "Totoro",
+"zh": "龙猫",
+"ja": "トトロ",
+"es": "Totoro"
+},
+{
+"en": "Jiji",
+"zh": "吉吉",
+"ja": "ジジ",
+"es": "Jiji"
+},
+{
+"en": "Calcifer",
+"zh": "卡西法",
+"ja": "カルシファー",
+"es": "Calcifer"
+},
+{
+"en": "Ponyo",
+"zh": "金鱼姬",
+"ja": "ポニョ",
+"es": "Ponyo"
+}
+],
+"a": 0,
+"trivia": {
+"en": "Totoro has become the logo of Studio Ghibli and is one of the most beloved anime characters.",
+"zh": "龙猫已成为吉卜力工作室的标志，是最受喜爱的动画角色之一。",
+"ja": "トトロはスタジオジブリのロゴとなり、最も愛されるアニメキャラクターの一つです。",
+"es": "Totoro se convirtio en el logo de Studio Ghibli y es uno de los personajes mas queridos del anime."
+}
+},
+{
+"id": "manga_beginner_024",
+"q": {
+"en": "Who directed Princess Mononoke?",
+"zh": "幽灵公主的导演是谁?",
+"ja": "もののけ姫の監督は誰ですか?",
+"es": "Quien dirigio La Princesa Mononoke?"
+},
+"c": [
+{
+"en": "Hayao Miyazaki",
+"zh": "宫崎骏",
+"ja": "宮崎駿",
+"es": "Hayao Miyazaki"
+},
+{
+"en": "Mamoru Hosoda",
+"zh": "细田守",
+"ja": "細田守",
+"es": "Mamoru Hosoda"
+},
+{
+"en": "Isao Takahata",
+"zh": "高畑勋",
+"ja": "高畑勲",
+"es": "Isao Takahata"
+},
+{
+"en": "Makoto Shinkai",
+"zh": "新海诚",
+"ja": "新海誠",
+"es": "Makoto Shinkai"
+}
+],
+"a": 0,
+"trivia": {
+"en": "Princess Mononoke (1997) explores the conflict between nature and human civilization.",
+"zh": "幽灵公主（1997）探讨了自然与人类文明之间的冲突。",
+"ja": "もののけ姫（1997年）は自然と人間の文明の対立を描いています。",
+"es": "La Princesa Mononoke (1997) explora el conflicto entre la naturaleza y la civilizacion humana."
+}
+},
+{
+"id": "manga_beginner_025",
+"q": {
+"en": "In Howl's Moving Castle, what kind of building does Howl live in?",
+"zh": "在哈尔的移动城堡中，哈尔住在什么样的建筑里?",
+"ja": "ハウルの動く城でハウルが住んでいるのはどんな建物ですか?",
+"es": "En El Castillo Ambulante, en que tipo de edificio vive Howl?"
+},
+"c": [
+{
+"en": "A walking castle that moves on legs",
+"zh": "一座用脚行走的移动城堡",
+"ja": "足で歩いて動く城",
+"es": "Un castillo que camina con piernas"
+},
+{
+"en": "A regular house",
+"zh": "一栋普通的房子",
+"ja": "普通の家",
+"es": "Una casa normal"
+},
+{
+"en": "A ship",
+"zh": "一艘船",
+"ja": "船",
+"es": "Un barco"
+},
+{
+"en": "An underground cave",
+"zh": "一个地下洞穴",
+"ja": "地下の洞窟",
+"es": "Una cueva subterranea"
+}
+],
+"a": 0,
+"trivia": {
+"en": "Howl's Moving Castle is based on a novel by Diana Wynne Jones and was directed by Miyazaki in 2004.",
+"zh": "哈尔的移动城堡改编自琼斯的小说，由宫崎骏于2004年执导。",
+"ja": "ハウルの動く城はジョーンズの小説が原作で2004年に宮崎駿が監督しました。",
+"es": "El Castillo Ambulante esta basado en una novela de Diana Wynne Jones, dirigido por Miyazaki en 2004."
+}
+},
+{
+"id": "manga_beginner_026",
+"q": {
+"en": "What is Ponyo about?",
+"zh": "悬崖上的金鱼姬讲的是什么?",
+"ja": "崖の上のポニョはどんな話ですか?",
+"es": "De que trata Ponyo?"
+},
+"c": [
+{
+"en": "A boy who fights monsters",
+"zh": "一个与怪物战斗的男孩",
+"ja": "モンスターと戦う少年",
+"es": "Un chico que lucha contra monstruos"
+},
+{
+"en": "A ninja adventure",
+"zh": "一个忍者冒险",
+"ja": "忍者の冒険",
+"es": "Una aventura ninja"
+},
+{
+"en": "A fish girl who wants to become human",
+"zh": "一个想变成人类的鱼女孩",
+"ja": "人間になりたい魚の女の子の話",
+"es": "Una chica pez que quiere ser humana"
+},
+{
+"en": "A robot from the future",
+"zh": "一个来自未来的机器人",
+"ja": "未来のロボット",
+"es": "Un robot del futuro"
+}
+],
+"a": 2,
+"trivia": {
+"en": "Ponyo was inspired by The Little Mermaid and directed by Hayao Miyazaki.",
+"zh": "悬崖上的金鱼姬灵感来自小美人鱼，由宫崎骏执导。",
+"ja": "崖の上のポニョはアンデルセンの人魚姫に影響を受け宮崎駿が監督しました。",
+"es": "Ponyo fue inspirada en La Sirenita y dirigida por Hayao Miyazaki."
+}
+},
+{
+"id": "manga_beginner_027",
+"q": {
+"en": "What is Studio Ghibli?",
+"zh": "吉卜力工作室是什么?",
+"ja": "スタジオジブリとは何ですか?",
+"es": "Que es Studio Ghibli?"
+},
+"c": [
+{
+"en": "A music record label",
+"zh": "一家唱片公司",
+"ja": "レコード会社",
+"es": "Un sello discografico"
+},
+{
+"en": "A video game company",
+"zh": "一家电子游戏公司",
+"ja": "ゲーム会社",
+"es": "Una empresa de videojuegos"
+},
+{
+"en": "A famous Japanese animation studio",
+"zh": "一家著名的日本动画工作室",
+"ja": "有名な日本のアニメスタジオ",
+"es": "Un famoso estudio de animacion japones"
+},
+{
+"en": "A manga magazine publisher",
+"zh": "一家漫画杂志出版商",
+"ja": "漫画雑誌の出版社",
+"es": "Una editorial de revistas manga"
+}
+],
+"a": 2,
+"trivia": {
+"en": "Studio Ghibli was founded in 1985 by Hayao Miyazaki and Isao Takahata.",
+"zh": "吉卜力工作室由宫崎骏和高畑勋于1985年创立。",
+"ja": "スタジオジブリは1985年に宮崎駿と高畑勲により設立されました。",
+"es": "Studio Ghibli fue fundado en 1985 por Hayao Miyazaki e Isao Takahata."
+}
+},
+{
+"id": "manga_beginner_028",
+"q": {
+"en": "Who is Hayao Miyazaki?",
+"zh": "宫崎骏是谁?",
+"ja": "宮崎駿とは誰ですか?",
+"es": "Quien es Hayao Miyazaki?"
+},
+"c": [
+{
+"en": "The co-founder and legendary director of Studio Ghibli",
+"zh": "吉卜力工作室的联合创始人和传奇导演",
+"ja": "スタジオジブリの共同創設者で伝説的な監督",
+"es": "Cofundador y legendario director de Studio Ghibli"
+},
+{
+"en": "A video game designer",
+"zh": "一位游戏设计师",
+"ja": "ゲームデザイナー",
+"es": "Un disenador de videojuegos"
+},
+{
+"en": "A famous manga artist who drew Dragon Ball",
+"zh": "画龙珠的著名漫画家",
+"ja": "ドラゴンボールを描いた漫画家",
+"es": "Un mangaka que dibujo Dragon Ball"
+},
+{
+"en": "A voice actor",
+"zh": "一位配音演员",
+"ja": "声優",
+"es": "Un actor de voz"
+}
+],
+"a": 0,
+"trivia": {
+"en": "Miyazaki is considered one of the greatest animation directors of all time.",
+"zh": "宫崎骏被认为是有史以来最伟大的动画导演之一。",
+"ja": "宮崎駿は史上最も偉大なアニメーション監督の一人とされています。",
+"es": "Miyazaki es considerado uno de los mejores directores de animacion de todos los tiempos."
+}
+},
+{
+"id": "manga_beginner_029",
+"q": {
+"en": "What was the first major anime TV series, created by Osamu Tezuka?",
+"zh": "手冢治虫创作的第一部主要动画电视剧是什么?",
+"ja": "手塚治虫が作った最初の主要なTVアニメは?",
+"es": "Cual fue la primera gran serie anime creada por Osamu Tezuka?"
+},
+"c": [
+{
+"en": "Sailor Moon",
+"zh": "美少女战士",
+"ja": "セーラームーン",
+"es": "Sailor Moon"
+},
+{
+"en": "Astro Boy (Tetsuwan Atom)",
+"zh": "铁臂阿童木",
+"ja": "鉄腕アトム",
+"es": "Astro Boy (Tetsuwan Atom)"
+},
+{
+"en": "Dragon Ball",
+"zh": "龙珠",
+"ja": "ドラゴンボール",
+"es": "Dragon Ball"
+},
+{
+"en": "Doraemon",
+"zh": "哆啦A梦",
+"ja": "ドラえもん",
+"es": "Doraemon"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Astro Boy debuted as a TV anime in 1963 and is considered the birth of modern anime.",
+"zh": "铁臂阿童木于1963年作为TV动画首播，被认为是现代动画的诞生。",
+"ja": "鉄腕アトムは1963年にTVアニメとして放送開始し、現代アニメの誕生とされています。",
+"es": "Astro Boy debuto como anime de TV en 1963 y se considera el nacimiento del anime moderno."
+}
+},
+{
+"id": "manga_beginner_030",
+"q": {
+"en": "What is Dragon Ball Z?",
+"zh": "龙珠Z是什么?",
+"ja": "ドラゴンボールZとは何ですか?",
+"es": "Que es Dragon Ball Z?"
+},
+"c": [
+{
+"en": "A completely different story from Dragon Ball",
+"zh": "一个与龙珠完全不同的故事",
+"ja": "ドラゴンボールとは全く違う物語",
+"es": "Una historia diferente a Dragon Ball"
+},
+{
+"en": "The sequel to Dragon Ball, following adult Goku",
+"zh": "龙珠的续集，讲述成年悟空的故事",
+"ja": "ドラゴンボールの続編で大人になった悟空の物語",
+"es": "La secuela de Dragon Ball, siguiendo a Goku adulto"
+},
+{
+"en": "A prequel about Goku's father",
+"zh": "关于悟空父亲的前传",
+"ja": "悟空の父の物語",
+"es": "Una precuela sobre el padre de Goku"
+},
+{
+"en": "A spin-off about Vegeta",
+"zh": "关于贝吉塔的外传",
+"ja": "ベジータのスピンオフ",
+"es": "Un spin-off sobre Vegeta"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Dragon Ball Z continues with adult Goku, featuring iconic battles against Frieza, Cell, and Buu.",
+"zh": "龙珠Z延续了成年悟空的故事，包含与弗利萨、赛鲁和布欧的经典战斗。",
+"ja": "ドラゴンボールZは大人の悟空の物語でフリーザ、セル、ブウとの名勝負が描かれます。",
+"es": "Dragon Ball Z continua con Goku adulto, con batallas iconicas contra Freezer, Cell y Buu."
+}
+},
+{
+"id": "manga_beginner_031",
+"q": {
+"en": "What sport is featured in the manga Slam Dunk?",
+"zh": "灌篮高手漫画中的运动是什么?",
+"ja": "スラムダンクのスポーツは何ですか?",
+"es": "Que deporte aparece en el manga Slam Dunk?"
+},
+"c": [
+{
+"en": "Basketball",
+"zh": "篮球",
+"ja": "バスケットボール",
+"es": "Baloncesto"
+},
+{
+"en": "Soccer",
+"zh": "足球",
+"ja": "サッカー",
+"es": "Futbol"
+},
+{
+"en": "Tennis",
+"zh": "网球",
+"ja": "テニス",
+"es": "Tenis"
+},
+{
+"en": "Baseball",
+"zh": "棒球",
+"ja": "野球",
+"es": "Beisbol"
+}
+],
+"a": 0,
+"trivia": {
+"en": "Slam Dunk by Takehiko Inoue helped popularize basketball in Japan during the 1990s.",
+"zh": "井上雄彦的灌篮高手在1990年代帮助篮球在日本普及。",
+"ja": "井上雄彦のスラムダンクは1990年代に日本でバスケットボール人気を高めました。",
+"es": "Slam Dunk de Takehiko Inoue ayudo a popularizar el baloncesto en Japon en los 90."
+}
+},
+{
+"id": "manga_beginner_032",
+"q": {
+"en": "What sport is Captain Tsubasa about?",
+"zh": "足球小将讲的是什么运动?",
+"ja": "キャプテン翼は何のスポーツですか?",
+"es": "De que deporte trata Captain Tsubasa?"
+},
+"c": [
+{
+"en": "Basketball",
+"zh": "篮球",
+"ja": "バスケットボール",
+"es": "Baloncesto"
+},
+{
+"en": "Volleyball",
+"zh": "排球",
+"ja": "バレーボール",
+"es": "Voleibol"
+},
+{
+"en": "Soccer (Football)",
+"zh": "足球",
+"ja": "サッカー",
+"es": "Futbol"
+},
+{
+"en": "Tennis",
+"zh": "网球",
+"ja": "テニス",
+"es": "Tenis"
+}
+],
+"a": 2,
+"trivia": {
+"en": "Captain Tsubasa inspired many real professional soccer players around the world.",
+"zh": "足球小将启发了世界各地许多职业足球运动员。",
+"ja": "キャプテン翼は世界中の多くのプロサッカー選手に影響を与えました。",
+"es": "Captain Tsubasa inspiro a muchos futbolistas profesionales en todo el mundo."
+}
+},
+{
+"id": "manga_beginner_033",
+"q": {
+"en": "What is special about the hero Saitama in One Punch Man?",
+"zh": "一拳超人中埼玉有什么特别之处?",
+"ja": "ワンパンマンのサイタマの特徴は?",
+"es": "Que tiene de especial Saitama en One Punch Man?"
+},
+"c": [
+{
+"en": "He can fly at the speed of light",
+"zh": "他能以光速飞行",
+"ja": "光速で飛べる",
+"es": "Puede volar a la velocidad de la luz"
+},
+{
+"en": "He can defeat any enemy with a single punch",
+"zh": "他能用一拳打败任何敌人",
+"ja": "一撃であらゆる敵を倒せる",
+"es": "Puede derrotar a cualquier enemigo de un solo golpe"
+},
+{
+"en": "He can control time",
+"zh": "他能控制时间",
+"ja": "時間を操れる",
+"es": "Puede controlar el tiempo"
+},
+{
+"en": "He can transform into a giant",
+"zh": "他能变成巨人",
+"ja": "巨人に変身できる",
+"es": "Puede transformarse en gigante"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Saitama trained so hard he became too powerful, and now finds being a hero boring.",
+"zh": "埼玉训练太刻苦变得太强了，现在觉得当英雄很无聊。",
+"ja": "サイタマは鍛えすぎて最強になり、ヒーロー活動に退屈しています。",
+"es": "Saitama entreno tanto que se volvio demasiado poderoso y ahora ser heroe le aburre."
+}
+},
+{
+"id": "manga_beginner_034",
+"q": {
+"en": "In Death Note, what happens when you write someone's name in the notebook?",
+"zh": "在死亡笔记中，写下某人的名字会发生什么?",
+"ja": "デスノートに名前を書くとどうなりますか?",
+"es": "En Death Note, que pasa cuando escribes el nombre de alguien en el cuaderno?"
+},
+"c": [
+{
+"en": "They gain superpowers",
+"zh": "他们获得超能力",
+"ja": "超能力を得る",
+"es": "Ganan superpoderes"
+},
+{
+"en": "They die",
+"zh": "他们会死",
+"ja": "死ぬ",
+"es": "Mueren"
+},
+{
+"en": "They become your friend",
+"zh": "他们会成为你的朋友",
+"ja": "友達になる",
+"es": "Se convierten en tu amigo"
+},
+{
+"en": "They fall asleep",
+"zh": "他们会睡着",
+"ja": "眠りにつく",
+"es": "Se quedan dormidos"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Death Note follows Light Yagami, who finds a notebook that kills anyone whose name is written in it.",
+"zh": "死亡笔记讲述夜神月发现了一本写下名字就能杀人的笔记本。",
+"ja": "デスノートは名前を書くと人を殺せるノートを拾った夜神月の物語です。",
+"es": "Death Note sigue a Light Yagami, quien encuentra un cuaderno que mata a quien se le escriba el nombre."
+}
+},
+{
+"id": "manga_beginner_035",
+"q": {
+"en": "Who is the genius detective rival of Light in Death Note?",
+"zh": "死亡笔记中Light的天才侦探对手是谁?",
+"ja": "デスノートでライトのライバルの天才探偵は?",
+"es": "Quien es el detective genio rival de Light en Death Note?"
+},
+"c": [
+{
+"en": "Sherlock",
+"zh": "夏洛克",
+"ja": "シャーロック",
+"es": "Sherlock"
+},
+{
+"en": "L",
+"zh": "L",
+"ja": "L",
+"es": "L"
+},
+{
+"en": "Conan",
+"zh": "柯南",
+"ja": "コナン",
+"es": "Conan"
+},
+{
+"en": "Near",
+"zh": "尼亚",
+"ja": "ニア",
+"es": "Near"
+}
+],
+"a": 1,
+"trivia": {
+"en": "L is a mysterious detective known only by his initial, and one of anime's most popular characters.",
+"zh": "L是一位仅以首字母闻名的神秘侦探，是最受欢迎的动画角色之一。",
+"ja": "Lはイニシャルのみで知られる謎の探偵で、アニメ史上最も人気のあるキャラクターの一人です。",
+"es": "L es un detective misterioso conocido solo por su inicial y uno de los personajes mas populares del anime."
+}
+},
+{
+"id": "manga_beginner_036",
+"q": {
+"en": "What are shinigami in Death Note?",
+"zh": "死亡笔记中的死神是什么?",
+"ja": "デスノートの死神とは何ですか?",
+"es": "Que son los shinigami en Death Note?"
+},
+"c": [
+{
+"en": "Ninja warriors",
+"zh": "忍者战士",
+"ja": "忍者の戦士",
+"es": "Guerreros ninja"
+},
+{
+"en": "Magical girls",
+"zh": "魔法少女",
+"ja": "魔法少女",
+"es": "Chicas magicas"
+},
+{
+"en": "Robot soldiers",
+"zh": "机器人士兵",
+"ja": "ロボット兵士",
+"es": "Soldados robot"
+},
+{
+"en": "Gods of death who own the Death Notes",
+"zh": "拥有死亡笔记的死神",
+"ja": "デスノートを持つ死神",
+"es": "Dioses de la muerte que poseen los Death Notes"
+}
+],
+"a": 3,
+"trivia": {
+"en": "Ryuk is the shinigami who dropped the Death Note into the human world out of boredom.",
+"zh": "流克是因为无聊而将死亡笔记丢到人间的死神。",
+"ja": "リュークは退屈からデスノートを人間界に落とした死神です。",
+"es": "Ryuk es el shinigami que dejo caer el Death Note en el mundo humano por aburrimiento."
+}
+},
+{
+"id": "manga_beginner_037",
+"q": {
+"en": "What does alchemy mean in Fullmetal Alchemist?",
+"zh": "钢之炼金术师中炼金术是什么意思?",
+"ja": "鋼の錬金術師の錬金術とは何ですか?",
+"es": "Que significa alquimia en Fullmetal Alchemist?"
+},
+"c": [
+{
+"en": "A science of transforming matter using equivalent exchange",
+"zh": "使用等价交换来转化物质的科学",
+"ja": "等価交換で物質を変換する科学",
+"es": "Una ciencia de transformar materia usando intercambio equivalente"
+},
+{
+"en": "Cooking food with magic",
+"zh": "用魔法做饭",
+"ja": "魔法で料理すること",
+"es": "Cocinar con magia"
+},
+{
+"en": "Sword fighting techniques",
+"zh": "剑术技巧",
+"ja": "剣術の技",
+"es": "Tecnicas de espada"
+},
+{
+"en": "A type of martial arts",
+"zh": "一种武术",
+"ja": "格闘技の一種",
+"es": "Un tipo de artes marciales"
+}
+],
+"a": 0,
+"trivia": {
+"en": "The main rule of alchemy is Equivalent Exchange: to gain something, something of equal value must be given.",
+"zh": "炼金术的基本法则是等价交换：要得到什么就必须付出等价的代价。",
+"ja": "錬金術の基本は等価交換：何かを得るには同等の代価が必要です。",
+"es": "La regla principal es el Intercambio Equivalente: para ganar algo se debe dar algo de igual valor."
+}
+},
+{
+"id": "manga_beginner_038",
+"q": {
+"en": "Who are the main characters in Fullmetal Alchemist?",
+"zh": "钢之炼金术师的主角是谁?",
+"ja": "鋼の錬金術師の主人公は誰ですか?",
+"es": "Quienes son los protagonistas de Fullmetal Alchemist?"
+},
+"c": [
+{
+"en": "Gon and Killua",
+"zh": "小杰和奇犽",
+"ja": "ゴンとキルア",
+"es": "Gon y Killua"
+},
+{
+"en": "Naruto and Sasuke",
+"zh": "鸣人和佐助",
+"ja": "ナルトとサスケ",
+"es": "Naruto y Sasuke"
+},
+{
+"en": "Edward and Alphonse Elric",
+"zh": "爱德华和阿尔方斯·艾尔利克",
+"ja": "エドワードとアルフォンス・エルリック",
+"es": "Edward y Alphonse Elric"
+},
+{
+"en": "Luffy and Zoro",
+"zh": "路飞和索隆",
+"ja": "ルフィとゾロ",
+"es": "Luffy y Zoro"
+}
+],
+"a": 2,
+"trivia": {
+"en": "The Elric brothers tried to bring their mother back with alchemy, but paid a terrible price.",
+"zh": "艾尔利克兄弟试图用炼金术复活母亲，但付出了惨痛的代价。",
+"ja": "エルリック兄弟は錬金術で母親を蘇らせようとしましたが大きな代償を払いました。",
+"es": "Los hermanos Elric intentaron revivir a su madre con alquimia pero pagaron un precio terrible."
+}
+},
+{
+"id": "manga_beginner_039",
+"q": {
+"en": "Who is the sword-wielding protagonist of Bleach?",
+"zh": "死神中使用剑的主角是谁?",
+"ja": "ブリーチの剣を使う主人公は?",
+"es": "Quien es el protagonista que usa espada en Bleach?"
+},
+"c": [
+{
+"en": "Rukia Kuchiki",
+"zh": "朽木露琪亚",
+"ja": "朽木ルキア",
+"es": "Rukia Kuchiki"
+},
+{
+"en": "Ichigo Kurosaki",
+"zh": "黑崎一护",
+"ja": "黒崎一護",
+"es": "Ichigo Kurosaki"
+},
+{
+"en": "Renji Abarai",
+"zh": "阿散井恋次",
+"ja": "阿散井恋次",
+"es": "Renji Abarai"
+},
+{
+"en": "Uryu Ishida",
+"zh": "石田雨龙",
+"ja": "石田雨竜",
+"es": "Uryu Ishida"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Ichigo becomes a Soul Reaper to protect the living world from evil spirits called Hollows.",
+"zh": "一护成为死神来保护现世免受虚的侵害。",
+"ja": "一護は死神になり虚と呼ばれる悪霊から現世を守ります。",
+"es": "Ichigo se convierte en Shinigami para proteger el mundo de espiritus malignos llamados Hollows."
+}
+},
+{
+"id": "manga_beginner_040",
+"q": {
+"en": "Who is the young protagonist of Hunter x Hunter?",
+"zh": "全职猎人的年轻主角是谁?",
+"ja": "ハンター×ハンターの主人公は?",
+"es": "Quien es el joven protagonista de Hunter x Hunter?"
+},
+"c": [
+{
+"en": "Leorio",
+"zh": "雷欧力",
+"ja": "レオリオ",
+"es": "Leorio"
+},
+{
+"en": "Gon Freecss",
+"zh": "小杰·富力士",
+"ja": "ゴン＝フリークス",
+"es": "Gon Freecss"
+},
+{
+"en": "Kurapika",
+"zh": "酷拉皮卡",
+"ja": "クラピカ",
+"es": "Kurapika"
+},
+{
+"en": "Killua Zoldyck",
+"zh": "奇犽·揍敌客",
+"ja": "キルア＝ゾルディック",
+"es": "Killua Zoldyck"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Gon becomes a Hunter to find his father, who is also a legendary Hunter.",
+"zh": "小杰成为猎人是为了找到同为传奇猎人的父亲。",
+"ja": "ゴンは伝説のハンターである父を見つけるためにハンターになります。",
+"es": "Gon se convierte en Hunter para encontrar a su padre, un Hunter legendario."
+}
+},
+{
+"id": "manga_beginner_041",
+"q": {
+"en": "Who is the main character of Jujutsu Kaisen?",
+"zh": "咒术回战的主角是谁?",
+"ja": "呪術廻戦の主人公は?",
+"es": "Quien es el protagonista de Jujutsu Kaisen?"
+},
+"c": [
+{
+"en": "Nobara Kugisaki",
+"zh": "钉崎野蔷薇",
+"ja": "釘崎野薔薇",
+"es": "Nobara Kugisaki"
+},
+{
+"en": "Satoru Gojo",
+"zh": "五条悟",
+"ja": "五条悟",
+"es": "Satoru Gojo"
+},
+{
+"en": "Megumi Fushiguro",
+"zh": "伏黑惠",
+"ja": "伏黒恵",
+"es": "Megumi Fushiguro"
+},
+{
+"en": "Yuji Itadori",
+"zh": "虎杖悠仁",
+"ja": "虎杖悠仁",
+"es": "Yuji Itadori"
+}
+],
+"a": 3,
+"trivia": {
+"en": "Yuji swallowed a cursed finger of the King of Curses, Sukuna, and became his vessel.",
+"zh": "悠仁吞下了诅咒之王宿傩的手指，成为了他的容器。",
+"ja": "悠仁は呪いの王・宿儺の指を飲み込みその器となりました。",
+"es": "Yuji se trago un dedo maldito del Rey de las Maldiciones, Sukuna, y se convirtio en su recipiente."
+}
+},
+{
+"id": "manga_beginner_042",
+"q": {
+"en": "What is Spy x Family about?",
+"zh": "间谍过家家讲的是什么?",
+"ja": "スパイファミリーはどんな話ですか?",
+"es": "De que trata Spy x Family?"
+},
+"c": [
+{
+"en": "A family of superheroes",
+"zh": "一个超级英雄家庭",
+"ja": "スーパーヒーローの家族",
+"es": "Una familia de superheroes"
+},
+{
+"en": "A spy, an assassin, and a telepath pretending to be a family",
+"zh": "间谍、杀手和心灵感应者假装成一家人",
+"ja": "スパイ、殺し屋、超能力者が偽装家族になる話",
+"es": "Un espia, una asesina y una telepata fingiendo ser familia"
+},
+{
+"en": "A family of ninjas",
+"zh": "一个忍者家庭",
+"ja": "忍者の家族",
+"es": "Una familia de ninjas"
+},
+{
+"en": "A cooking competition",
+"zh": "烹饪比赛",
+"ja": "料理コンテスト",
+"es": "Una competencia de cocina"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Each family member has a secret: Loid is a spy, Yor is an assassin, and Anya can read minds.",
+"zh": "每个家庭成员都有秘密：劳尔德是间谍，约尔是杀手，阿尼亚能读心。",
+"ja": "各メンバーに秘密があり、ロイドはスパイ、ヨルは殺し屋、アーニャは読心術が使えます。",
+"es": "Cada miembro tiene un secreto: Loid es espia, Yor es asesina y Anya lee mentes."
+}
+},
+{
+"id": "manga_beginner_043",
+"q": {
+"en": "What is the main character Denji's simple dream in Chainsaw Man?",
+"zh": "电锯人主角电次的简单梦想是什么?",
+"ja": "チェンソーマンのデンジの素朴な夢は?",
+"es": "Cual es el sueno simple de Denji en Chainsaw Man?"
+},
+"c": [
+{
+"en": "To become the strongest ninja",
+"zh": "成为最强忍者",
+"ja": "最強の忍者になること",
+"es": "Ser el ninja mas fuerte"
+},
+{
+"en": "To live a normal and happy life",
+"zh": "过上正常幸福的生活",
+"ja": "普通で幸せな生活を送ること",
+"es": "Vivir una vida normal y feliz"
+},
+{
+"en": "To rule the world",
+"zh": "统治世界",
+"ja": "世界を支配すること",
+"es": "Gobernar el mundo"
+},
+{
+"en": "To become Pirate King",
+"zh": "成为海贼王",
+"ja": "海賊王になること",
+"es": "Ser Rey Pirata"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Denji merges with a chainsaw devil named Pochita and just wants simple things like good food and comfort.",
+"zh": "电次与名为波奇塔的电锯恶魔合体，只想要好吃的东西和舒适的生活。",
+"ja": "デンジはチェンソーの悪魔ポチタと合体し、美味しいものなど素朴な望みを持っています。",
+"es": "Denji se fusiona con un demonio motosierra llamado Pochita y solo quiere cosas simples."
+}
+},
+{
+"id": "manga_beginner_044",
+"q": {
+"en": "In Tokyo Ghoul, what is the main character Kaneki?",
+"zh": "东京食尸鬼中主角金木是什么?",
+"ja": "東京喰種の主人公カネキは何ですか?",
+"es": "En Tokyo Ghoul, que es el protagonista Kaneki?"
+},
+"c": [
+{
+"en": "A demon slayer",
+"zh": "鬼杀队成员",
+"ja": "鬼殺隊員",
+"es": "Un cazador de demonios"
+},
+{
+"en": "A full vampire",
+"zh": "完全的吸血鬼",
+"ja": "完全な吸血鬼",
+"es": "Un vampiro completo"
+},
+{
+"en": "A robot",
+"zh": "机器人",
+"ja": "ロボット",
+"es": "Un robot"
+},
+{
+"en": "A half-human half-ghoul",
+"zh": "半人半食尸鬼",
+"ja": "半人間半喰種",
+"es": "Mitad humano mitad ghoul"
+}
+],
+"a": 3,
+"trivia": {
+"en": "Ken Kaneki became a half-ghoul after an organ transplant and struggles between two worlds.",
+"zh": "金木研在器官移植后变成半食尸鬼，在两个世界之间挣扎。",
+"ja": "金木研は臓器移植で半喰種となり二つの世界の間で苦悩します。",
+"es": "Ken Kaneki se convirtio en mitad ghoul tras un trasplante de organos y lucha entre dos mundos."
+}
+},
+{
+"id": "manga_beginner_045",
+"q": {
+"en": "What is Sword Art Online about?",
+"zh": "刀剑神域讲的是什么?",
+"ja": "ソードアート・オンラインはどんな話ですか?",
+"es": "De que trata Sword Art Online?"
+},
+"c": [
+{
+"en": "A cooking competition",
+"zh": "烹饪比赛",
+"ja": "料理コンテスト",
+"es": "Una competencia de cocina"
+},
+{
+"en": "Players trapped in a VR game where dying means real death",
+"zh": "玩家被困在游戏死亡等于真实死亡的VR游戏中",
+"ja": "ゲーム内の死が現実の死になるVRゲームに閉じ込められた話",
+"es": "Jugadores atrapados en un juego VR donde morir significa muerte real"
+},
+{
+"en": "A detective story",
+"zh": "侦探故事",
+"ja": "探偵物語",
+"es": "Una historia de detective"
+},
+{
+"en": "A sports tournament",
+"zh": "体育锦标赛",
+"ja": "スポーツ大会",
+"es": "Un torneo deportivo"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Sword Art Online popularized the virtual reality game genre in anime and light novels.",
+"zh": "刀剑神域在动画和轻小说中推广了虚拟现实游戏类型。",
+"ja": "SAOはアニメやラノベでVRゲームジャンルを広めました。",
+"es": "Sword Art Online popularizo el genero de juegos de realidad virtual en anime."
+}
+},
+{
+"id": "manga_beginner_046",
+"q": {
+"en": "What is Neon Genesis Evangelion about?",
+"zh": "新世纪福音战士讲的是什么?",
+"ja": "新世紀エヴァンゲリオンはどんな話ですか?",
+"es": "De que trata Neon Genesis Evangelion?"
+},
+"c": [
+{
+"en": "A cooking show",
+"zh": "烹饪节目",
+"ja": "料理番組",
+"es": "Un programa de cocina"
+},
+{
+"en": "Pirates searching for treasure",
+"zh": "海贼寻找宝藏",
+"ja": "海賊が宝を探す話",
+"es": "Piratas buscando tesoros"
+},
+{
+"en": "A ninja school",
+"zh": "忍者学校",
+"ja": "忍者学校",
+"es": "Una escuela ninja"
+},
+{
+"en": "Teenagers piloting giant robots to fight mysterious beings called Angels",
+"zh": "少年驾驶巨型机器人对抗名为使徒的神秘存在",
+"ja": "少年たちが巨大ロボットに乗り使徒と呼ばれる謎の存在と戦う話",
+"es": "Adolescentes pilotando robots gigantes para luchar contra seres llamados Angeles"
+}
+],
+"a": 3,
+"trivia": {
+"en": "Evangelion (1995) revolutionized the mecha genre and became a cultural phenomenon worldwide.",
+"zh": "福音战士（1995）革新了机甲类型，成为全球文化现象。",
+"ja": "エヴァンゲリオン（1995年）はロボットアニメを変革し世界的な社会現象となりました。",
+"es": "Evangelion (1995) revoluciono el genero mecha y se convirtio en un fenomeno cultural mundial."
+}
+},
+{
+"id": "manga_beginner_047",
+"q": {
+"en": "What is the Gundam series famous for?",
+"zh": "高达系列以什么闻名?",
+"ja": "ガンダムシリーズは何で有名ですか?",
+"es": "Por que es famosa la serie Gundam?"
+},
+"c": [
+{
+"en": "Pokemon battles",
+"zh": "宝可梦对战",
+"ja": "ポケモンバトル",
+"es": "Batallas Pokemon"
+},
+{
+"en": "Giant piloted robots called Mobile Suits in space wars",
+"zh": "在太空战争中驾驶名为机动战士的巨型机器人",
+"ja": "モビルスーツと呼ばれる巨大ロボットが宇宙戦争で戦う",
+"es": "Robots gigantes llamados Mobile Suits en guerras espaciales"
+},
+{
+"en": "A cooking competition",
+"zh": "烹饪比赛",
+"ja": "料理コンテスト",
+"es": "Una competencia de cocina"
+},
+{
+"en": "Magical girls fighting evil",
+"zh": "魔法少女对抗邪恶",
+"ja": "魔法少女が悪と戦う",
+"es": "Chicas magicas contra el mal"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Mobile Suit Gundam first aired in 1979, creating the real robot genre in anime.",
+"zh": "机动战士高达于1979年首播，创造了真实系机器人类型。",
+"ja": "機動戦士ガンダムは1979年放送開始でリアルロボットジャンルを確立しました。",
+"es": "Gundam se emitio en 1979, creando el genero de robots realistas en anime."
+}
+},
+{
+"id": "manga_beginner_048",
+"q": {
+"en": "What does Shonen mean in manga terminology?",
+"zh": "在漫画术语中少年是什么意思?",
+"ja": "漫画用語で少年とは?",
+"es": "Que significa Shonen en terminologia manga?"
+},
+"c": [
+{
+"en": "Manga aimed at young boys",
+"zh": "面向少年的漫画",
+"ja": "少年向けの漫画",
+"es": "Manga dirigido a chicos jovenes"
+},
+{
+"en": "Manga aimed at young girls",
+"zh": "面向少女的漫画",
+"ja": "少女向けの漫画",
+"es": "Manga para chicas jovenes"
+},
+{
+"en": "Manga aimed at adult women",
+"zh": "面向成年女性的漫画",
+"ja": "成人女性向けの漫画",
+"es": "Manga para mujeres adultas"
+},
+{
+"en": "Horror manga",
+"zh": "恐怖漫画",
+"ja": "ホラー漫画",
+"es": "Manga de terror"
+}
+],
+"a": 0,
+"trivia": {
+"en": "Shonen manga includes Dragon Ball, One Piece, and Naruto, targeting teen boys.",
+"zh": "少年漫画包括龙珠、海贼王和火影忍者，面向青少年男性。",
+"ja": "少年漫画にはドラゴンボール、ワンピース、ナルトなどがあり少年がターゲットです。",
+"es": "El manga shonen incluye Dragon Ball, One Piece y Naruto, dirigidos a chicos adolescentes."
+}
+},
+{
+"id": "manga_beginner_049",
+"q": {
+"en": "What does Shojo mean in manga terminology?",
+"zh": "在漫画术语中少女是什么意思?",
+"ja": "漫画用語で少女とは?",
+"es": "Que significa Shojo en terminologia manga?"
+},
+"c": [
+{
+"en": "Action manga",
+"zh": "动作漫画",
+"ja": "アクション漫画",
+"es": "Manga de accion"
+},
+{
+"en": "Manga aimed at young girls",
+"zh": "面向少女的漫画",
+"ja": "少女向けの漫画",
+"es": "Manga para chicas jovenes"
+},
+{
+"en": "Manga aimed at young boys",
+"zh": "面向少年的漫画",
+"ja": "少年向けの漫画",
+"es": "Manga para chicos jovenes"
+},
+{
+"en": "Manga aimed at adult men",
+"zh": "面向成年男性的漫画",
+"ja": "成人男性向けの漫画",
+"es": "Manga para hombres adultos"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Shojo manga often features romance. Sailor Moon is one of the most famous shojo series.",
+"zh": "少女漫画常以恋爱为主题。美少女战士是最著名的少女漫画之一。",
+"ja": "少女漫画は恋愛が多く、セーラームーンは最も有名な少女作品の一つです。",
+"es": "El manga shojo suele tener romance. Sailor Moon es una de las series shojo mas famosas."
+}
+},
+{
+"id": "manga_beginner_050",
+"q": {
+"en": "What does Seinen mean in manga terminology?",
+"zh": "在漫画术语中青年是什么意思?",
+"ja": "漫画用語で青年とは?",
+"es": "Que significa Seinen en terminologia manga?"
+},
+"c": [
+{
+"en": "Manga for young girls",
+"zh": "少女漫画",
+"ja": "少女向け漫画",
+"es": "Manga para chicas"
+},
+{
+"en": "Manga aimed at adult men",
+"zh": "面向成年男性的漫画",
+"ja": "成人男性向けの漫画",
+"es": "Manga para hombres adultos"
+},
+{
+"en": "Comedy manga only",
+"zh": "仅限喜剧漫画",
+"ja": "コメディ漫画のみ",
+"es": "Solo manga de comedia"
+},
+{
+"en": "Manga for children",
+"zh": "儿童漫画",
+"ja": "子供向け漫画",
+"es": "Manga para ninos"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Seinen manga has more mature themes. Examples include Berserk, Vagabond, and Tokyo Ghoul.",
+"zh": "青年漫画主题更成熟。例如剑风传奇、浪客行和东京食尸鬼。",
+"ja": "青年漫画はより成熟したテーマを扱い、ベルセルク、バガボンド、東京喰種などがあります。",
+"es": "El manga seinen tiene temas mas maduros como Berserk, Vagabond y Tokyo Ghoul."
+}
+},
+{
+"id": "manga_beginner_051",
+"q": {
+"en": "What does Josei mean in manga terminology?",
+"zh": "在漫画术语中女性是什么意思?",
+"ja": "漫画用語で女性（じょせい）とは?",
+"es": "Que significa Josei en terminologia manga?"
+},
+"c": [
+{
+"en": "Sports manga only",
+"zh": "仅限运动漫画",
+"ja": "スポーツ漫画のみ",
+"es": "Solo manga deportivo"
+},
+{
+"en": "Manga aimed at young boys",
+"zh": "面向少年的漫画",
+"ja": "少年向けの漫画",
+"es": "Manga para chicos"
+},
+{
+"en": "Manga aimed at children",
+"zh": "面向儿童的漫画",
+"ja": "子供向けの漫画",
+"es": "Manga para ninos"
+},
+{
+"en": "Manga aimed at adult women",
+"zh": "面向成年女性的漫画",
+"ja": "成人女性向けの漫画",
+"es": "Manga para mujeres adultas"
+}
+],
+"a": 3,
+"trivia": {
+"en": "Josei manga targets adult women and often deals with realistic romance and everyday life.",
+"zh": "女性漫画面向成年女性，常涉及现实的恋爱和日常生活。",
+"ja": "女性漫画は成人女性向けでリアルな恋愛や日常を描くことが多いです。",
+"es": "El manga josei se dirige a mujeres adultas y trata romance realista y vida cotidiana."
+}
+},
+{
+"id": "manga_beginner_052",
+"q": {
+"en": "In which direction do you read manga pages?",
+"zh": "漫画页面应该从哪个方向读?",
+"ja": "漫画はどの方向に読みますか?",
+"es": "En que direccion se leen las paginas del manga?"
+},
+"c": [
+{
+"en": "Right to left",
+"zh": "从右到左",
+"ja": "右から左",
+"es": "De derecha a izquierda"
+},
+{
+"en": "Any direction you want",
+"zh": "任何你想要的方向",
+"ja": "好きな方向",
+"es": "En cualquier direccion"
+},
+{
+"en": "Bottom to top",
+"zh": "从下到上",
+"ja": "下から上",
+"es": "De abajo hacia arriba"
+},
+{
+"en": "Left to right, like Western comics",
+"zh": "从左到右，像西方漫画",
+"ja": "左から右、西洋のコミックと同じ",
+"es": "De izquierda a derecha, como los comics occidentales"
+}
+],
+"a": 0,
+"trivia": {
+"en": "Japanese manga is read from right to left, which is the opposite of Western comics.",
+"zh": "日本漫画从右到左阅读，与西方漫画相反。",
+"ja": "日本の漫画は右から左に読み、西洋のコミックとは逆です。",
+"es": "El manga japones se lee de derecha a izquierda, al contrario de los comics occidentales."
+}
+},
+{
+"id": "manga_beginner_053",
+"q": {
+"en": "What is one major visual difference between manga and Western comics?",
+"zh": "漫画和西方连环画之间的一个主要视觉区别是什么?",
+"ja": "漫画と西洋コミックの大きな視覚的違いは?",
+"es": "Cual es una diferencia visual importante entre manga y comics occidentales?"
+},
+"c": [
+{
+"en": "Manga is always in color",
+"zh": "漫画总是彩色的",
+"ja": "漫画は常にカラー",
+"es": "El manga siempre es a color"
+},
+{
+"en": "Manga has no pictures",
+"zh": "漫画没有图片",
+"ja": "漫画には絵がない",
+"es": "El manga no tiene imagenes"
+},
+{
+"en": "Manga has no dialogue",
+"zh": "漫画没有对话",
+"ja": "漫画にはセリフがない",
+"es": "El manga no tiene dialogos"
+},
+{
+"en": "Manga is typically in black and white",
+"zh": "漫画通常是黑白的",
+"ja": "漫画は通常白黒で描かれる",
+"es": "El manga suele ser en blanco y negro"
+}
+],
+"a": 3,
+"trivia": {
+"en": "Most manga is drawn in black and white, while Western comics are usually in full color.",
+"zh": "大多数漫画是黑白的，而西方连环画通常是全彩的。",
+"ja": "ほとんどの漫画は白黒で描かれ、西洋のコミックは通常フルカラーです。",
+"es": "La mayoria del manga es en blanco y negro, mientras los comics occidentales suelen ser a color."
+}
+},
+{
+"id": "manga_beginner_054",
+"q": {
+"en": "How often are most popular manga series published in Japan?",
+"zh": "日本最受欢迎的漫画系列通常多久出版一次?",
+"ja": "人気漫画はどのくらいの頻度で連載されますか?",
+"es": "Con que frecuencia se publican las series manga mas populares en Japon?"
+},
+"c": [
+{
+"en": "Once a year",
+"zh": "一年一次",
+"ja": "年に一回",
+"es": "Una vez al ano"
+},
+{
+"en": "Every day",
+"zh": "每天",
+"ja": "毎日",
+"es": "Todos los dias"
+},
+{
+"en": "Only when the author feels like it",
+"zh": "只有当作者想画的时候",
+"ja": "作者が描きたい時だけ",
+"es": "Solo cuando el autor quiere"
+},
+{
+"en": "Weekly or monthly in manga magazines",
+"zh": "在漫画杂志上每周或每月连载",
+"ja": "漫画雑誌で週刊または月刊で連載",
+"es": "Semanal o mensualmente en revistas manga"
+}
+],
+"a": 3,
+"trivia": {
+"en": "Most shonen manga runs weekly (like in Weekly Shonen Jump), while some series are monthly.",
+"zh": "大多数少年漫画每周连载（如周刊少年Jump），而有些是月刊。",
+"ja": "多くの少年漫画は週刊（週刊少年ジャンプなど）で、月刊の作品もあります。",
+"es": "La mayoria del manga shonen se publica semanalmente (como en Weekly Shonen Jump), otros son mensuales."
+}
+},
+{
+"id": "manga_beginner_055",
+"q": {
+"en": "What is a tankoubon in manga?",
+"zh": "漫画中的单行本是什么?",
+"ja": "漫画の単行本とは何ですか?",
+"es": "Que es un tankoubon en manga?"
+},
+"c": [
+{
+"en": "A manga award",
+"zh": "漫画奖",
+"ja": "漫画賞",
+"es": "Un premio de manga"
+},
+{
+"en": "A type of anime movie",
+"zh": "一种动画电影",
+"ja": "アニメ映画の一種",
+"es": "Un tipo de pelicula anime"
+},
+{
+"en": "A manga drawing tool",
+"zh": "漫画绘画工具",
+"ja": "漫画の描画道具",
+"es": "Una herramienta de dibujo manga"
+},
+{
+"en": "A collected volume of manga chapters",
+"zh": "收录漫画章节的合集本",
+"ja": "漫画の話をまとめた単行本",
+"es": "Un volumen recopilatorio de capitulos manga"
+}
+],
+"a": 3,
+"trivia": {
+"en": "Tankoubon are collected manga volumes, typically containing several chapters from magazine serialization.",
+"zh": "单行本是收录漫画章节的合集，通常包含杂志连载的若干话。",
+"ja": "単行本は雑誌連載のエピソードをまとめた漫画の本です。",
+"es": "Los tankoubon son volumenes que recopilan varios capitulos de la serializacion en revista."
+}
+},
+{
+"id": "manga_beginner_056",
+"q": {
+"en": "What does 'anime' mean?",
+"zh": "'动画'这个词在日语中是什么意思?",
+"ja": "アニメとは何を指しますか?",
+"es": "Que significa 'anime'?"
+},
+"c": [
+{
+"en": "Only hand-drawn cartoons",
+"zh": "仅限手绘卡通",
+"ja": "手描きのカートゥーンのみ",
+"es": "Solo dibujos animados hechos a mano"
+},
+{
+"en": "Japanese live-action films",
+"zh": "日本真人电影",
+"ja": "日本の実写映画",
+"es": "Peliculas japonesas de accion real"
+},
+{
+"en": "Japanese animation",
+"zh": "日本动画",
+"ja": "日本のアニメーション",
+"es": "Animacion japonesa"
+},
+{
+"en": "Video games from Japan",
+"zh": "日本电子游戏",
+"ja": "日本のゲーム",
+"es": "Videojuegos de Japon"
+}
+],
+"a": 2,
+"trivia": {
+"en": "Anime is the term for animation produced in Japan. In Japan, the word refers to all animation.",
+"zh": "动画是指日本制作的动画。在日本，这个词指所有动画。",
+"ja": "アニメは日本で制作されたアニメーションを指します。日本ではあらゆるアニメーションを指します。",
+"es": "Anime es el termino para la animacion producida en Japon. En Japon se refiere a toda animacion."
+}
+},
+{
+"id": "manga_beginner_057",
+"q": {
+"en": "When are the four anime broadcast seasons in Japan?",
+"zh": "日本动画的四个播出季节是什么时候?",
+"ja": "日本のアニメの放送シーズンはいつですか?",
+"es": "Cuales son las cuatro temporadas de emision de anime en Japon?"
+},
+"c": [
+{
+"en": "There are no specific seasons",
+"zh": "没有特定的季节",
+"ja": "特定のシーズンはない",
+"es": "No hay temporadas especificas"
+},
+{
+"en": "Winter, Spring, Summer, and Fall",
+"zh": "冬、春、夏、秋",
+"ja": "冬、春、夏、秋",
+"es": "Invierno, Primavera, Verano y Otono"
+},
+{
+"en": "Only Spring and Fall",
+"zh": "只有春天和秋天",
+"ja": "春と秋のみ",
+"es": "Solo Primavera y Otono"
+},
+{
+"en": "January and July only",
+"zh": "仅一月和七月",
+"ja": "1月と7月のみ",
+"es": "Solo Enero y Julio"
+}
+],
+"a": 1,
+"trivia": {
+"en": "New anime typically starts in January (Winter), April (Spring), July (Summer), and October (Fall).",
+"zh": "新动画通常在1月（冬）、4月（春）、7月（夏）和10月（秋）开始。",
+"ja": "新アニメは通常1月（冬）、4月（春）、7月（夏）、10月（秋）に始まります。",
+"es": "Los nuevos anime suelen comenzar en enero (invierno), abril (primavera), julio (verano) y octubre (otono)."
+}
+},
+{
+"id": "manga_beginner_058",
+"q": {
+"en": "How many episodes does a typical anime season have?",
+"zh": "一个典型的动画季有多少集?",
+"ja": "アニメの1クールは通常何話ですか?",
+"es": "Cuantos episodios tiene una temporada tipica de anime?"
+},
+"c": [
+{
+"en": "Exactly 50 episodes",
+"zh": "正好50集",
+"ja": "ちょうど50話",
+"es": "Exactamente 50 episodios"
+},
+{
+"en": "About 100 episodes",
+"zh": "大约100集",
+"ja": "約100話",
+"es": "Aproximadamente 100 episodios"
+},
+{
+"en": "Only 3 episodes",
+"zh": "只有3集",
+"ja": "わずか3話",
+"es": "Solo 3 episodios"
+},
+{
+"en": "About 12 to 13 episodes",
+"zh": "大约12到13集",
+"ja": "約12〜13話",
+"es": "Aproximadamente 12 a 13 episodios"
+}
+],
+"a": 3,
+"trivia": {
+"en": "A standard anime season (called a 'cour') is about 12-13 episodes, airing over one broadcast season.",
+"zh": "一个标准的动画季（称为'季度'）约12-13集，在一个播出季内播出。",
+"ja": "アニメの1クールは約12〜13話で、1つの放送シーズンで放送されます。",
+"es": "Una temporada estandar de anime (llamada 'cour') tiene unos 12-13 episodios."
+}
+},
+{
+"id": "manga_beginner_059",
+"q": {
+"en": "What does OVA stand for in anime?",
+"zh": "动画中OVA代表什么?",
+"ja": "アニメのOVAとは何の略ですか?",
+"es": "Que significa OVA en anime?"
+},
+"c": [
+{
+"en": "Online Video Archive",
+"zh": "在线视频存档",
+"ja": "オンラインビデオアーカイブ",
+"es": "Archivo de Video en Linea"
+},
+{
+"en": "Official Viewing Application",
+"zh": "官方观看应用",
+"ja": "公式視聴アプリ",
+"es": "Aplicacion Oficial de Visualizacion"
+},
+{
+"en": "Only Voice Acting",
+"zh": "仅配音",
+"ja": "声優のみ",
+"es": "Solo Actuacion de Voz"
+},
+{
+"en": "Original Video Animation",
+"zh": "原创视频动画",
+"ja": "オリジナル・ビデオ・アニメーション",
+"es": "Original Video Animation (Animacion de Video Original)"
+}
+],
+"a": 3,
+"trivia": {
+"en": "OVAs are anime released directly to home video rather than broadcast on TV or in theaters.",
+"zh": "OVA是直接在家庭视频中发行的动画，而不是在电视或电影院播放。",
+"ja": "OVAはテレビや映画館ではなく、ビデオとして直接発売されるアニメです。",
+"es": "Las OVAs son anime lanzados directamente en video en lugar de emitirse en TV o cines."
+}
+},
+{
+"id": "manga_beginner_060",
+"q": {
+"en": "What is a manga kissa (manga cafe)?",
+"zh": "漫画咖啡馆是什么?",
+"ja": "漫画喫茶（マンガキッサ）とは何ですか?",
+"es": "Que es un manga kissa (cafe manga)?"
+},
+"c": [
+{
+"en": "A manga school",
+"zh": "漫画学校",
+"ja": "漫画の学校",
+"es": "Una escuela de manga"
+},
+{
+"en": "A cafe where you can read manga for a fee",
+"zh": "一个可以付费阅读漫画的咖啡馆",
+"ja": "料金を払って漫画を読めるカフェ",
+"es": "Un cafe donde puedes leer manga por una tarifa"
+},
+{
+"en": "A manga bookstore",
+"zh": "漫画书店",
+"ja": "漫画の本屋",
+"es": "Una libreria de manga"
+},
+{
+"en": "A place where manga artists work",
+"zh": "漫画家工作的地方",
+"ja": "漫画家が働く場所",
+"es": "Un lugar donde trabajan los mangakas"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Manga cafes offer private booths with thousands of manga volumes, drinks, and internet access.",
+"zh": "漫画咖啡馆提供私人包间，有数千本漫画、饮料和上网服务。",
+"ja": "漫画喫茶は個室で何千冊もの漫画を読め、ドリンクやネットも利用できます。",
+"es": "Los cafes manga ofrecen cabinas privadas con miles de volumenes manga, bebidas e internet."
+}
+},
+{
+"id": "manga_beginner_061",
+"q": {
+"en": "What is Akihabara in Tokyo known for?",
+"zh": "东京的秋叶原以什么闻名?",
+"ja": "東京の秋葉原は何で有名ですか?",
+"es": "Por que es conocido Akihabara en Tokio?"
+},
+"c": [
+{
+"en": "Anime, manga, and electronics shopping district",
+"zh": "动漫和电子产品购物区",
+"ja": "アニメ、漫画、電子機器の街",
+"es": "Distrito de compras de anime, manga y electronica"
+},
+{
+"en": "A famous beach",
+"zh": "一个著名的海滩",
+"ja": "有名なビーチ",
+"es": "Una playa famosa"
+},
+{
+"en": "A mountain hiking area",
+"zh": "山地徒步区",
+"ja": "山のハイキングエリア",
+"es": "Una zona de senderismo"
+},
+{
+"en": "Traditional Japanese temples",
+"zh": "日本传统寺庙",
+"ja": "日本の伝統的な寺院",
+"es": "Templos japoneses tradicionales"
+}
+],
+"a": 0,
+"trivia": {
+"en": "Akihabara is the center of anime and otaku culture in Tokyo, full of shops, arcades, and maid cafes.",
+"zh": "秋叶原是东京动漫和宅文化的中心，充满了商店、游戏厅和女仆咖啡馆。",
+"ja": "秋葉原は東京のアニメ・オタク文化の中心地で、ショップやゲーセン、メイドカフェがあります。",
+"es": "Akihabara es el centro de la cultura anime y otaku en Tokio, lleno de tiendas y cafes maid."
+}
+},
+{
+"id": "manga_beginner_062",
+"q": {
+"en": "What is cosplay?",
+"zh": "Cosplay是什么?",
+"ja": "コスプレとは何ですか?",
+"es": "Que es el cosplay?"
+},
+"c": [
+{
+"en": "A type of anime movie",
+"zh": "一种动画电影",
+"ja": "アニメ映画の種類",
+"es": "Un tipo de pelicula anime"
+},
+{
+"en": "A Japanese cooking style",
+"zh": "一种日本烹饪风格",
+"ja": "日本の料理スタイル",
+"es": "Un estilo de cocina japones"
+},
+{
+"en": "A type of martial arts",
+"zh": "一种武术",
+"ja": "格闘技の一種",
+"es": "Un tipo de artes marciales"
+},
+{
+"en": "Dressing up as characters from anime, manga, or games",
+"zh": "打扮成动漫或游戏中的角色",
+"ja": "アニメ、漫画、ゲームのキャラクターに扮すること",
+"es": "Disfrazarse de personajes de anime, manga o juegos"
+}
+],
+"a": 3,
+"trivia": {
+"en": "Cosplay (costume play) is popular at anime conventions worldwide, where fans dress as their favorite characters.",
+"zh": "Cosplay在全球动漫展上很受欢迎，粉丝们打扮成他们最喜欢的角色。",
+"ja": "コスプレはアニメイベントで人気があり、ファンがキャラクターに扮します。",
+"es": "El cosplay es popular en convenciones de anime en todo el mundo."
+}
+},
+{
+"id": "manga_beginner_063",
+"q": {
+"en": "What does 'otaku' mean?",
+"zh": "'御宅族'是什么意思?",
+"ja": "オタクとは何ですか?",
+"es": "Que significa 'otaku'?"
+},
+"c": [
+{
+"en": "A person deeply passionate about anime, manga, or similar hobbies",
+"zh": "对动漫或类似爱好极度热衷的人",
+"ja": "アニメや漫画などの趣味に深く没頭する人",
+"es": "Una persona apasionada por el anime, manga o hobbies similares"
+},
+{
+"en": "A Japanese holiday",
+"zh": "日本的假日",
+"ja": "日本の祝日",
+"es": "Un dia festivo japones"
+},
+{
+"en": "A Japanese chef",
+"zh": "日本厨师",
+"ja": "日本の料理人",
+"es": "Un chef japones"
+},
+{
+"en": "A type of sushi",
+"zh": "一种寿司",
+"ja": "寿司の種類",
+"es": "Un tipo de sushi"
+}
+],
+"a": 0,
+"trivia": {
+"en": "Originally somewhat negative in Japan, the term otaku is now used worldwide to describe anime and manga fans.",
+"zh": "宅这个词在日本原本有些负面，但现在全世界用来描述动漫迷。",
+"ja": "オタクは日本では元々ネガティブでしたが、今は世界中でアニメ・漫画ファンを指す言葉です。",
+"es": "Originalmente algo negativo en Japon, el termino otaku se usa mundialmente para describir fans del anime."
+}
+},
+{
+"id": "manga_beginner_064",
+"q": {
+"en": "What does 'chibi' mean in anime and manga?",
+"zh": "在动漫中'Q版'是什么意思?",
+"ja": "アニメや漫画でちびとは何ですか?",
+"es": "Que significa 'chibi' en anime y manga?"
+},
+"c": [
+{
+"en": "A very tall character",
+"zh": "一个非常高的角色",
+"ja": "とても背が高いキャラクター",
+"es": "Un personaje muy alto"
+},
+{
+"en": "A small, cute, and super-deformed character style",
+"zh": "一种小巧可爱的变形角色风格",
+"ja": "小さくてかわいい二頭身のキャラクタースタイル",
+"es": "Un estilo de personaje pequeno, lindo y super deformado"
+},
+{
+"en": "A robot character",
+"zh": "一个机器人角色",
+"ja": "ロボットキャラクター",
+"es": "Un personaje robot"
+},
+{
+"en": "A villain character",
+"zh": "一个反派角色",
+"ja": "悪役キャラクター",
+"es": "Un personaje villano"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Chibi characters have oversized heads and small bodies, used for comedic or cute effect.",
+"zh": "Q版角色有超大的头和小小的身体，用于搞笑或可爱的效果。",
+"ja": "ちびキャラは大きな頭と小さな体で、コミカルやかわいい効果に使われます。",
+"es": "Los personajes chibi tienen cabezas grandes y cuerpos pequenos, usados para efecto comico o tierno."
+}
+},
+{
+"id": "manga_beginner_065",
+"q": {
+"en": "What does 'kawaii' mean in Japanese pop culture?",
+"zh": "日本流行文化中'卡哇伊'是什么意思?",
+"ja": "日本のポップカルチャーでかわいいとは?",
+"es": "Que significa 'kawaii' en la cultura pop japonesa?"
+},
+"c": [
+{
+"en": "Boring",
+"zh": "无聊的",
+"ja": "つまらない",
+"es": "Aburrido"
+},
+{
+"en": "Scary",
+"zh": "可怕的",
+"ja": "怖い",
+"es": "Aterrador"
+},
+{
+"en": "Cute",
+"zh": "可爱的",
+"ja": "かわいい",
+"es": "Lindo/Tierno"
+},
+{
+"en": "Strong",
+"zh": "强壮的",
+"ja": "強い",
+"es": "Fuerte"
+}
+],
+"a": 2,
+"trivia": {
+"en": "Kawaii culture is a major part of Japanese aesthetics, influencing manga, anime, fashion, and merchandise.",
+"zh": "卡哇伊文化是日本美学的重要组成部分，影响着漫画、动画、时尚和商品。",
+"ja": "かわいい文化は日本の美意識の重要な部分で、漫画、アニメ、ファッションに影響しています。",
+"es": "La cultura kawaii es parte importante de la estetica japonesa, influyendo en manga, anime y moda."
+}
+},
+{
+"id": "manga_beginner_066",
+"q": {
+"en": "What is a mangaka?",
+"zh": "漫画家是什么?",
+"ja": "漫画家とは何ですか?",
+"es": "Que es un mangaka?"
+},
+"c": [
+{
+"en": "A manga artist/creator",
+"zh": "漫画创作者/画家",
+"ja": "漫画を描く人・漫画の作者",
+"es": "Un artista/creador de manga"
+},
+{
+"en": "A manga store owner",
+"zh": "漫画店老板",
+"ja": "漫画店のオーナー",
+"es": "Un dueno de tienda de manga"
+},
+{
+"en": "A manga reader",
+"zh": "漫画读者",
+"ja": "漫画の読者",
+"es": "Un lector de manga"
+},
+{
+"en": "A manga critic",
+"zh": "漫画评论家",
+"ja": "漫画評論家",
+"es": "Un critico de manga"
+}
+],
+"a": 0,
+"trivia": {
+"en": "Being a mangaka is extremely demanding. Many work 16+ hours a day to meet weekly deadlines.",
+"zh": "当漫画家非常辛苦。许多人每天工作16小时以上以赶上每周的截稿日期。",
+"ja": "漫画家は非常にハードで、多くの人が週刊連載の締め切りのために毎日16時間以上働きます。",
+"es": "Ser mangaka es muy exigente. Muchos trabajan 16+ horas al dia para cumplir plazos semanales."
+}
+},
+{
+"id": "manga_beginner_067",
+"q": {
+"en": "What is an anime studio?",
+"zh": "动画工作室是什么?",
+"ja": "アニメスタジオとは何ですか?",
+"es": "Que es un estudio de anime?"
+},
+"c": [
+{
+"en": "A company that produces anime",
+"zh": "制作动画的公司",
+"ja": "アニメを制作する会社",
+"es": "Una empresa que produce anime"
+},
+{
+"en": "A school for voice actors",
+"zh": "声优学校",
+"ja": "声優の学校",
+"es": "Una escuela para actores de voz"
+},
+{
+"en": "A place where manga is sold",
+"zh": "出售漫画的地方",
+"ja": "漫画を売る場所",
+"es": "Un lugar donde se vende manga"
+},
+{
+"en": "A music recording studio",
+"zh": "音乐录音棚",
+"ja": "音楽レコーディングスタジオ",
+"es": "Un estudio de grabacion musical"
+}
+],
+"a": 0,
+"trivia": {
+"en": "Famous anime studios include Studio Ghibli, Toei Animation, MAPPA, ufotable, and Wit Studio.",
+"zh": "著名的动画工作室包括吉卜力、东映动画、MAPPA、ufotable和Wit Studio。",
+"ja": "有名なアニメスタジオにはジブリ、東映アニメーション、MAPPA、ufotable、WITスタジオなどがあります。",
+"es": "Estudios famosos incluyen Studio Ghibli, Toei Animation, MAPPA, ufotable y Wit Studio."
+}
+},
+{
+"id": "manga_beginner_068",
+"q": {
+"en": "What is a seiyuu in anime?",
+"zh": "动画中的声优是什么?",
+"ja": "アニメの声優とは何ですか?",
+"es": "Que es un seiyuu en anime?"
+},
+"c": [
+{
+"en": "An anime animator",
+"zh": "动画制作人员",
+"ja": "アニメーター",
+"es": "Un animador de anime"
+},
+{
+"en": "A voice actor who performs character voices",
+"zh": "为角色配音的声优",
+"ja": "キャラクターの声を演じる声優",
+"es": "Un actor de voz que interpreta voces de personajes"
+},
+{
+"en": "An anime songwriter",
+"zh": "动画歌曲作者",
+"ja": "アニメの作曲家",
+"es": "Un compositor de anime"
+},
+{
+"en": "An anime director",
+"zh": "动画导演",
+"ja": "アニメの監督",
+"es": "Un director de anime"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Seiyuu (voice actors) are celebrities in Japan, often as popular as the characters they voice.",
+"zh": "声优在日本是名人，经常和他们配音的角色一样受欢迎。",
+"ja": "声優は日本ではセレブリティで、演じるキャラクターと同じくらい人気があることも多いです。",
+"es": "Los seiyuu son celebridades en Japon, a menudo tan populares como los personajes que interpretan."
+}
+},
+{
+"id": "manga_beginner_069",
+"q": {
+"en": "What are anime opening and ending songs?",
+"zh": "动画的片头曲和片尾曲是什么?",
+"ja": "アニメのOPとEDとは何ですか?",
+"es": "Que son las canciones de apertura y cierre del anime?"
+},
+"c": [
+{
+"en": "Background music only",
+"zh": "仅背景音乐",
+"ja": "BGMのみ",
+"es": "Solo musica de fondo"
+},
+{
+"en": "Commercial jingles",
+"zh": "广告歌曲",
+"ja": "CMソング",
+"es": "Jingles comerciales"
+},
+{
+"en": "Songs played at the beginning (OP) and end (ED) of each episode with animation",
+"zh": "每集开头和结尾配合动画播放的歌曲",
+"ja": "各話の最初(OP)と最後(ED)に流れるアニメーション付きの曲",
+"es": "Canciones reproducidas al inicio (OP) y final (ED) de cada episodio con animacion"
+},
+{
+"en": "Songs the characters sing during battle",
+"zh": "角色在战斗中唱的歌",
+"ja": "バトル中にキャラが歌う曲",
+"es": "Canciones que cantan los personajes durante la batalla"
+}
+],
+"a": 2,
+"trivia": {
+"en": "Anime OP and ED songs are often performed by famous J-pop and J-rock artists and become major hits.",
+"zh": "动画OP和ED歌曲通常由著名的J-pop和J-rock歌手演唱，成为热门歌曲。",
+"ja": "アニメのOP・ED曲は有名なJ-popやJ-rockアーティストが歌い、大ヒットすることが多いです。",
+"es": "Las canciones OP y ED son interpretadas por artistas famosos de J-pop y J-rock y se vuelven exitos."
+}
+},
+{
+"id": "manga_beginner_070",
+"q": {
+"en": "Why is Goku considered an iconic anime character?",
+"zh": "为什么悟空被认为是标志性的动画角色?",
+"ja": "なぜ悟空は象徴的なアニメキャラと言われるのですか?",
+"es": "Por que Goku es considerado un personaje iconico del anime?"
+},
+"c": [
+{
+"en": "He is recognized worldwide as a symbol of manga and anime",
+"zh": "他作为漫画和动画的象征被全世界所认可",
+"ja": "世界中で漫画とアニメの象徴として認知されている",
+"es": "Es reconocido mundialmente como simbolo del manga y anime"
+},
+{
+"en": "He was the first anime character ever created",
+"zh": "他是有史以来第一个动画角色",
+"ja": "史上初のアニメキャラだから",
+"es": "Fue el primer personaje anime creado"
+},
+{
+"en": "He is the tallest anime character",
+"zh": "他是最高的动画角色",
+"ja": "最も背が高いアニメキャラだから",
+"es": "Es el personaje anime mas alto"
+},
+{
+"en": "He only appears in video games",
+"zh": "他只出现在电子游戏中",
+"ja": "ゲームにしか登場しないから",
+"es": "Solo aparece en videojuegos"
+}
+],
+"a": 0,
+"trivia": {
+"en": "Goku from Dragon Ball is one of the most recognizable anime characters globally and a symbol of the medium.",
+"zh": "龙珠中的悟空是全球最具辨识度的动画角色之一，是这一媒介的象征。",
+"ja": "ドラゴンボールの悟空は世界で最も認知されたアニメキャラの一人で、アニメの象徴です。",
+"es": "Goku de Dragon Ball es uno de los personajes anime mas reconocibles del mundo."
+}
+},
+{
+"id": "manga_beginner_071",
+"q": {
+"en": "What special powers do Devil Fruits give in One Piece?",
+"zh": "海贼王中恶魔果实能给予什么特殊能力?",
+"ja": "ワンピースの悪魔の実はどんな力を与えますか?",
+"es": "Que poderes especiales dan las Frutas del Diablo en One Piece?"
+},
+"c": [
+{
+"en": "No special powers at all",
+"zh": "完全没有特殊能力",
+"ja": "特別な力はない",
+"es": "Ningun poder especial"
+},
+{
+"en": "Various unique superhuman abilities, but the user cannot swim",
+"zh": "各种独特的超人能力，但使用者不能游泳",
+"ja": "様々な超人的能力を得るが泳げなくなる",
+"es": "Varias habilidades sobrehumanas unicas, pero el usuario no puede nadar"
+},
+{
+"en": "Only super strength",
+"zh": "仅超级力量",
+"ja": "超パワーのみ",
+"es": "Solo super fuerza"
+},
+{
+"en": "The power of flight only",
+"zh": "仅飞行能力",
+"ja": "飛行能力のみ",
+"es": "Solo el poder de volar"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Luffy ate the Gum-Gum Fruit (Gomu Gomu no Mi) which made his body rubber-like.",
+"zh": "路飞吃了橡胶果实，使他的身体变得像橡胶一样。",
+"ja": "ルフィはゴムゴムの実を食べて体がゴムのようになりました。",
+"es": "Luffy comio la Fruta Goma Goma que hizo su cuerpo como goma."
+}
+},
+{
+"id": "manga_beginner_072",
+"q": {
+"en": "What are ninja techniques called in Naruto?",
+"zh": "火影忍者中忍者技术被称为什么?",
+"ja": "ナルトで忍者の技は何と呼ばれますか?",
+"es": "Como se llaman las tecnicas ninja en Naruto?"
+},
+"c": [
+{
+"en": "Jutsu",
+"zh": "忍术",
+"ja": "術（じゅつ）",
+"es": "Jutsu"
+},
+{
+"en": "Haki",
+"zh": "霸气",
+"ja": "覇気",
+"es": "Haki"
+},
+{
+"en": "Quirks",
+"zh": "个性",
+"ja": "個性",
+"es": "Quirks"
+},
+{
+"en": "Alchemy",
+"zh": "炼金术",
+"ja": "錬金術",
+"es": "Alquimia"
+}
+],
+"a": 0,
+"trivia": {
+"en": "Jutsu in Naruto include Ninjutsu (ninja techniques), Genjutsu (illusion), and Taijutsu (physical combat).",
+"zh": "火影忍者中的术包括忍术、幻术和体术。",
+"ja": "ナルトの術には忍術、幻術、体術があります。",
+"es": "Los Jutsu incluyen Ninjutsu (tecnicas ninja), Genjutsu (ilusion) y Taijutsu (combate fisico)."
+}
+},
+{
+"id": "manga_beginner_073",
+"q": {
+"en": "In Attack on Titan, what is a Titan Shifter?",
+"zh": "在进击的巨人中，什么是巨人之力的持有者?",
+"ja": "進撃の巨人で巨人化できる人間を何と呼びますか?",
+"es": "En Attack on Titan, que es un Titan Cambiante?"
+},
+"c": [
+{
+"en": "A baby Titan",
+"zh": "一个婴儿巨人",
+"ja": "赤ちゃん巨人",
+"es": "Un Titan bebe"
+},
+{
+"en": "A Titan that can fly",
+"zh": "一个能飞的巨人",
+"ja": "飛べる巨人",
+"es": "Un Titan que puede volar"
+},
+{
+"en": "A Titan that can talk",
+"zh": "一个能说话的巨人",
+"ja": "話せる巨人",
+"es": "Un Titan que puede hablar"
+},
+{
+"en": "A human who can transform into a Titan",
+"zh": "一个能变身为巨人的人类",
+"ja": "巨人に変身できる人間",
+"es": "Un humano que puede transformarse en Titan"
+}
+],
+"a": 3,
+"trivia": {
+"en": "Eren discovers he can transform into a Titan, which changes the course of the story dramatically.",
+"zh": "艾伦发现自己能变身为巨人，这极大地改变了故事的走向。",
+"ja": "エレンは自分が巨人に変身できることを発見し、物語は大きく展開します。",
+"es": "Eren descubre que puede transformarse en Titan, cambiando dramaticamente la historia."
+}
+},
+{
+"id": "manga_beginner_074",
+"q": {
+"en": "What are the three biggest manga magazines in Japan?",
+"zh": "日本三大漫画杂志是什么?",
+"ja": "日本の三大漫画雑誌は何ですか?",
+"es": "Cuales son las tres revistas manga mas grandes de Japon?"
+},
+"c": [
+{
+"en": "Pokemon Magazine, Dragon Ball Weekly, Naruto Times",
+"zh": "宝可梦杂志、龙珠周刊、火影时报",
+"ja": "ポケモンマガジン、ドラゴンボール週刊、ナルトタイムズ",
+"es": "Pokemon Magazine, Dragon Ball Weekly, Naruto Times"
+},
+{
+"en": "Weekly Shonen Jump, Weekly Shonen Magazine, Weekly Shonen Sunday",
+"zh": "周刊少年Jump、周刊少年Magazine、周刊少年Sunday",
+"ja": "週刊少年ジャンプ、週刊少年マガジン、週刊少年サンデー",
+"es": "Weekly Shonen Jump, Weekly Shonen Magazine, Weekly Shonen Sunday"
+},
+{
+"en": "Manga Today, Anime World, Otaku Weekly",
+"zh": "今日漫画、动画世界、宅周刊",
+"ja": "マンガトゥデイ、アニメワールド、オタクウィークリー",
+"es": "Manga Today, Anime World, Otaku Weekly"
+},
+{
+"en": "Vogue Japan, Time Japan, Forbes Japan",
+"zh": "日本Vogue、日本Time、日本Forbes",
+"ja": "ヴォーグジャパン、タイムジャパン、フォーブスジャパン",
+"es": "Vogue Japan, Time Japan, Forbes Japan"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Weekly Shonen Jump (Shueisha) is the most famous, publishing Dragon Ball, One Piece, Naruto, and more.",
+"zh": "周刊少年Jump（集英社）最为著名，刊载龙珠、海贼王、火影忍者等作品。",
+"ja": "週刊少年ジャンプ（集英社）が最も有名で、ドラゴンボール、ワンピース、ナルトなどを連載しました。",
+"es": "Weekly Shonen Jump (Shueisha) es la mas famosa, publicando Dragon Ball, One Piece, Naruto y mas."
+}
+},
+{
+"id": "manga_beginner_075",
+"q": {
+"en": "Where can you buy manga in Japan besides bookstores?",
+"zh": "在日本除了书店还能在哪里买到漫画?",
+"ja": "日本で書店以外で漫画を買える場所は?",
+"es": "Donde puedes comprar manga en Japon ademas de librerias?"
+},
+"c": [
+{
+"en": "Only at anime conventions",
+"zh": "仅在动漫展",
+"ja": "アニメイベントのみ",
+"es": "Solo en convenciones"
+},
+{
+"en": "Only online",
+"zh": "仅在网上",
+"ja": "ネットのみ",
+"es": "Solo en linea"
+},
+{
+"en": "Convenience stores",
+"zh": "便利店",
+"ja": "コンビニ",
+"es": "Tiendas de conveniencia"
+},
+{
+"en": "Only at manga cafes",
+"zh": "仅在漫画咖啡馆",
+"ja": "漫画喫茶のみ",
+"es": "Solo en cafes manga"
+}
+],
+"a": 2,
+"trivia": {
+"en": "Manga magazines and volumes are commonly sold at convenience stores throughout Japan.",
+"zh": "漫画杂志和单行本在日本的便利店中普遍出售。",
+"ja": "漫画雑誌や単行本は日本全国のコンビニで販売されています。",
+"es": "Las revistas y volumenes manga se venden comunmente en tiendas de conveniencia en Japon."
+}
+},
+{
+"id": "manga_beginner_076",
+"q": {
+"en": "How do many people read manga digitally today?",
+"zh": "今天很多人是如何用数字方式阅读漫画的?",
+"ja": "現在多くの人がデジタルで漫画を読む方法は?",
+"es": "Como leen manga digitalmente muchas personas hoy?"
+},
+"c": [
+{
+"en": "Manga cannot be read digitally",
+"zh": "漫画不能数字阅读",
+"ja": "漫画はデジタルで読めない",
+"es": "El manga no se puede leer digitalmente"
+},
+{
+"en": "Only through email",
+"zh": "仅通过电子邮件",
+"ja": "メールのみ",
+"es": "Solo por email"
+},
+{
+"en": "By scanning physical manga",
+"zh": "通过扫描纸质漫画",
+"ja": "紙の漫画をスキャンして",
+"es": "Escaneando manga fisico"
+},
+{
+"en": "Through manga apps and digital platforms",
+"zh": "通过漫画应用和数字平台",
+"ja": "漫画アプリやデジタルプラットフォームで",
+"es": "A traves de apps de manga y plataformas digitales"
+}
+],
+"a": 3,
+"trivia": {
+"en": "Popular manga apps include Shonen Jump+, Manga Plus, and many publisher-specific platforms.",
+"zh": "流行的漫画应用包括少年Jump+、Manga Plus以及许多出版商的平台。",
+"ja": "人気の漫画アプリには少年ジャンプ+、マンガプラスなどがあります。",
+"es": "Apps populares incluyen Shonen Jump+, Manga Plus y muchas plataformas de editoriales."
+}
+},
+{
+"id": "manga_beginner_077",
+"q": {
+"en": "How do most people outside Japan watch anime?",
+"zh": "日本以外的大多数人如何观看动画?",
+"ja": "日本以外の多くの人はどのようにアニメを見ますか?",
+"es": "Como ven anime la mayoria de personas fuera de Japon?"
+},
+"c": [
+{
+"en": "Through streaming services like Crunchyroll and Netflix",
+"zh": "通过Crunchyroll和Netflix等流媒体服务",
+"ja": "CrunchyrollやNetflixなどのストリーミングサービスで",
+"es": "A traves de servicios de streaming como Crunchyroll y Netflix"
+},
+{
+"en": "By reading manga instead",
+"zh": "通过阅读漫画代替",
+"ja": "代わりに漫画を読んで",
+"es": "Leyendo manga en su lugar"
+},
+{
+"en": "Only in movie theaters",
+"zh": "仅在电影院",
+"ja": "映画館のみ",
+"es": "Solo en cines"
+},
+{
+"en": "Only on DVD",
+"zh": "仅通过DVD",
+"ja": "DVDのみ",
+"es": "Solo en DVD"
+}
+],
+"a": 0,
+"trivia": {
+"en": "Anime streaming has made Japanese animation accessible worldwide, with simulcasts airing the same day as Japan.",
+"zh": "动画流媒体使日本动画在全球都能观看，同步播出与日本同步。",
+"ja": "アニメのストリーミング配信により日本と同日に世界中で視聴可能になりました。",
+"es": "El streaming ha hecho el anime accesible mundialmente, con simulcasts el mismo dia que en Japon."
+}
+},
+{
+"id": "manga_beginner_078",
+"q": {
+"en": "What is the difference between 'subbed' and 'dubbed' anime?",
+"zh": "动画的'字幕版'和'配音版'有什么区别?",
+"ja": "字幕版と吹替版のアニメの違いは?",
+"es": "Cual es la diferencia entre anime 'subtitulado' y 'doblado'?"
+},
+"c": [
+{
+"en": "Subbed has original Japanese audio with subtitles; dubbed has voices re-recorded in another language",
+"zh": "字幕版有原始日语音频和字幕；配音版用其他语言重新录制声音",
+"ja": "字幕版は日本語音声に字幕、吹替版は他言語で声を録り直したもの",
+"es": "Subtitulado tiene audio japones con subtitulos; doblado tiene voces regrabadas en otro idioma"
+},
+{
+"en": "Subbed means subtracted scenes; dubbed means doubled episodes",
+"zh": "Subbed意味着删减场景；dubbed意味着翻倍集数",
+"ja": "Subbedは場面の削除、dubbedはエピソードの倍増",
+"es": "Subtitulado significa escenas eliminadas; doblado significa episodios duplicados"
+},
+{
+"en": "Subbed is for TV; dubbed is for movies",
+"zh": "字幕版用于电视；配音版用于电影",
+"ja": "字幕版はテレビ用、吹替版は映画用",
+"es": "Subtitulado es para TV; doblado es para peliculas"
+},
+{
+"en": "There is no difference",
+"zh": "没有区别",
+"ja": "違いはない",
+"es": "No hay diferencia"
+}
+],
+"a": 0,
+"trivia": {
+"en": "Many anime fans prefer watching with original Japanese audio and subtitles to hear the original voice acting.",
+"zh": "许多动漫迷喜欢看原版日语音频加字幕，以听到原版配音。",
+"ja": "多くのアニメファンは原語の演技を聴くために日本語音声+字幕を好みます。",
+"es": "Muchos fans prefieren ver con audio japones original y subtitulos para escuchar la actuacion original."
+}
+},
+{
+"id": "manga_beginner_079",
+"q": {
+"en": "What is the difference between anime movies and anime TV series?",
+"zh": "动画电影和动画电视剧有什么区别?",
+"ja": "アニメ映画とアニメのTVシリーズの違いは?",
+"es": "Cual es la diferencia entre peliculas anime y series de TV anime?"
+},
+"c": [
+{
+"en": "There is no difference at all",
+"zh": "完全没有区别",
+"ja": "全く違いはない",
+"es": "No hay diferencia alguna"
+},
+{
+"en": "Movies are always better than TV series",
+"zh": "电影总是比电视剧好",
+"ja": "映画は常にTVシリーズより優れている",
+"es": "Las peliculas siempre son mejores que las series"
+},
+{
+"en": "Movies are feature-length films shown in theaters; TV series air weekly episodes",
+"zh": "电影是在影院放映的长片；电视剧每周播出",
+"ja": "映画は映画館で上映される長編、TVシリーズは毎週放送される",
+"es": "Las peliculas son largometrajes en cines; las series emiten episodios semanales"
+},
+{
+"en": "TV series are not real anime",
+"zh": "电视剧不是真正的动画",
+"ja": "TVシリーズは本物のアニメではない",
+"es": "Las series de TV no son anime real"
+}
+],
+"a": 2,
+"trivia": {
+"en": "Some anime movies are standalone stories, while others continue or retell TV series storylines.",
+"zh": "一些动画电影是独立故事，而另一些则延续或重述TV剧情。",
+"ja": "アニメ映画には独立した作品もあれば、TVシリーズの続編やリメイクもあります。",
+"es": "Algunas peliculas anime son historias independientes, otras continuan o renarran series de TV."
+}
+},
+{
+"id": "manga_beginner_080",
+"q": {
+"en": "What is one of the most prestigious manga awards in Japan?",
+"zh": "日本最负盛名的漫画奖之一是什么?",
+"ja": "日本で最も権威ある漫画賞の一つは?",
+"es": "Cual es uno de los premios manga mas prestigiosos de Japon?"
+},
+"c": [
+{
+"en": "The Golden Manga Cup",
+"zh": "黄金漫画杯",
+"ja": "ゴールデン漫画カップ",
+"es": "La Copa de Oro del Manga"
+},
+{
+"en": "The Tezuka Osamu Cultural Prize",
+"zh": "手冢治虫文化奖",
+"ja": "手塚治虫文化賞",
+"es": "El Premio Cultural Osamu Tezuka"
+},
+{
+"en": "The Dragon Ball Award",
+"zh": "龙珠奖",
+"ja": "ドラゴンボール賞",
+"es": "El Premio Dragon Ball"
+},
+{
+"en": "The Nobel Prize for Manga",
+"zh": "漫画诺贝尔奖",
+"ja": "漫画ノーベル賞",
+"es": "El Premio Nobel de Manga"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Named after the 'God of Manga' Osamu Tezuka, this prize honors outstanding manga works.",
+"zh": "以'漫画之神'手冢治虫命名，该奖项表彰杰出的漫画作品。",
+"ja": "漫画の神様・手塚治虫にちなんだこの賞は優れた漫画作品を表彰します。",
+"es": "Nombrado en honor al 'Dios del Manga' Osamu Tezuka, este premio honra obras manga sobresalientes."
+}
+},
+{
+"id": "manga_beginner_081",
+"q": {
+"en": "What is the best-selling manga series of all time?",
+"zh": "有史以来销量最高的漫画系列是什么?",
+"ja": "史上最も売れた漫画シリーズは何ですか?",
+"es": "Cual es la serie manga mas vendida de todos los tiempos?"
+},
+"c": [
+{
+"en": "One Piece",
+"zh": "海贼王",
+"ja": "ワンピース",
+"es": "One Piece"
+},
+{
+"en": "Dragon Ball",
+"zh": "龙珠",
+"ja": "ドラゴンボール",
+"es": "Dragon Ball"
+},
+{
+"en": "Demon Slayer",
+"zh": "鬼灭之刃",
+"ja": "鬼滅の刃",
+"es": "Demon Slayer"
+},
+{
+"en": "Naruto",
+"zh": "火影忍者",
+"ja": "ナルト",
+"es": "Naruto"
+}
+],
+"a": 0,
+"trivia": {
+"en": "One Piece by Eiichiro Oda holds the record as the best-selling manga series with over 500 million copies sold.",
+"zh": "尾田荣一郎的海贼王以超过5亿册的销量保持着最畅销漫画的记录。",
+"ja": "ワンピースは5億部以上を売り上げ、史上最も売れた漫画シリーズです。",
+"es": "One Piece de Eiichiro Oda tiene el record como manga mas vendido con mas de 500 millones de copias."
+}
+},
+{
+"id": "manga_beginner_082",
+"q": {
+"en": "Which is one of the longest-running anime series?",
+"zh": "哪个是连载时间最长的动画系列之一?",
+"ja": "最も長く放送されているアニメの一つは?",
+"es": "Cual es una de las series anime mas longevas?"
+},
+"c": [
+{
+"en": "Attack on Titan",
+"zh": "进击的巨人",
+"ja": "進撃の巨人",
+"es": "Attack on Titan"
+},
+{
+"en": "Sazae-san",
+"zh": "海螺小姐",
+"ja": "サザエさん",
+"es": "Sazae-san"
+},
+{
+"en": "Death Note",
+"zh": "死亡笔记",
+"ja": "デスノート",
+"es": "Death Note"
+},
+{
+"en": "Chainsaw Man",
+"zh": "电锯人",
+"ja": "チェンソーマン",
+"es": "Chainsaw Man"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Sazae-san has been airing since 1969, making it the longest-running animated TV series in the world.",
+"zh": "海螺小姐自1969年以来一直在播出，使其成为世界上播出时间最长的动画电视剧。",
+"ja": "サザエさんは1969年から放送されており、世界で最も長く続いているアニメTV番組です。",
+"es": "Sazae-san se emite desde 1969, siendo la serie animada de TV mas longeva del mundo."
+}
+},
+{
+"id": "manga_beginner_083",
+"q": {
+"en": "How has anime impacted global culture?",
+"zh": "动画如何影响了全球文化?",
+"ja": "アニメは世界文化にどのような影響を与えましたか?",
+"es": "Como ha impactado el anime en la cultura global?"
+},
+"c": [
+{
+"en": "It has had no impact outside Japan",
+"zh": "在日本以外没有影响",
+"ja": "日本以外では影響なし",
+"es": "No ha tenido impacto fuera de Japon"
+},
+{
+"en": "It has been banned in most countries",
+"zh": "在大多数国家被禁止",
+"ja": "ほとんどの国で禁止されている",
+"es": "Ha sido prohibido en la mayoria de paises"
+},
+{
+"en": "It influenced art, fashion, gaming, and entertainment worldwide",
+"zh": "它影响了全球的艺术、时尚、游戏和娱乐",
+"ja": "世界中のアート、ファッション、ゲーム、エンタメに影響を与えた",
+"es": "Influyo en arte, moda, juegos y entretenimiento a nivel mundial"
+},
+{
+"en": "It only influenced Japanese culture",
+"zh": "只影响了日本文化",
+"ja": "日本文化にのみ影響した",
+"es": "Solo influyo en la cultura japonesa"
+}
+],
+"a": 2,
+"trivia": {
+"en": "Anime and manga have become a global phenomenon, influencing Western animation, comics, and pop culture.",
+"zh": "动漫已成为全球现象，影响了西方动画、漫画和流行文化。",
+"ja": "アニメと漫画は世界的な現象となり、西洋のアニメーション、コミック、ポップカルチャーに影響を与えています。",
+"es": "El anime y manga se han convertido en un fenomeno global, influyendo en animacion occidental y cultura pop."
+}
+},
+{
+"id": "manga_beginner_084",
+"q": {
+"en": "What are anime conventions?",
+"zh": "动漫展是什么?",
+"ja": "アニメのコンベンションとは何ですか?",
+"es": "Que son las convenciones de anime?"
+},
+"c": [
+{
+"en": "Business meetings for anime studios",
+"zh": "动画工作室的商务会议",
+"ja": "アニメスタジオのビジネス会議",
+"es": "Reuniones de negocios para estudios de anime"
+},
+{
+"en": "Japanese government events",
+"zh": "日本政府活动",
+"ja": "日本政府のイベント",
+"es": "Eventos del gobierno japones"
+},
+{
+"en": "Online video game tournaments",
+"zh": "网上电子游戏锦标赛",
+"ja": "オンラインゲーム大会",
+"es": "Torneos de videojuegos en linea"
+},
+{
+"en": "Events where fans gather to celebrate anime with cosplay, panels, and merchandise",
+"zh": "粉丝聚集一起庆祝动漫的活动，有Cosplay、座谈会和商品",
+"ja": "コスプレ、トークイベント、グッズ販売などでアニメを楽しむファンの集い",
+"es": "Eventos donde fans se reunen para celebrar anime con cosplay, paneles y mercancia"
+}
+],
+"a": 3,
+"trivia": {
+"en": "Major conventions include Anime Expo (USA), Comiket (Japan), and Japan Expo (France).",
+"zh": "主要的动漫展包括Anime Expo（美国）、Comiket（日本）和Japan Expo（法国）。",
+"ja": "主なイベントにはAnime Expo（米国）、コミケ（日本）、Japan Expo（フランス）などがあります。",
+"es": "Convenciones importantes incluyen Anime Expo (EE.UU.), Comiket (Japon) y Japan Expo (Francia)."
+}
+},
+{
+"id": "manga_beginner_085",
+"q": {
+"en": "What role does music play in anime?",
+"zh": "音乐在动画中扮演什么角色?",
+"ja": "アニメにおける音楽の役割は?",
+"es": "Que papel juega la musica en el anime?"
+},
+"c": [
+{
+"en": "Only classical music is used",
+"zh": "只使用古典音乐",
+"ja": "クラシック音楽のみ使用",
+"es": "Solo se usa musica clasica"
+},
+{
+"en": "Music is essential, with iconic OPs, EDs, and soundtracks enhancing emotional scenes",
+"zh": "音乐至关重要，标志性的OP、ED和配乐增强了感人的场景",
+"ja": "音楽は不可欠で、象徴的なOP、ED、サウンドトラックが感動的なシーンを引き立てる",
+"es": "La musica es esencial, con OPs, EDs y bandas sonoras iconicas que mejoran las escenas emocionales"
+},
+{
+"en": "Anime has no music",
+"zh": "动画没有音乐",
+"ja": "アニメには音楽はない",
+"es": "El anime no tiene musica"
+},
+{
+"en": "Music is only in movies, not TV anime",
+"zh": "音乐只在电影中，不在TV动画中",
+"ja": "映画のみで、TVアニメにはない",
+"es": "La musica solo esta en peliculas, no en anime de TV"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Anime soundtracks are hugely popular. Composers like Joe Hisaishi (Ghibli) and Yoko Kanno are legendary.",
+"zh": "动画原声带非常受欢迎。久石让（吉卜力）和�的野洋子等作曲家是传奇。",
+"ja": "アニメの音楽は非常に人気があり、久石譲（ジブリ）や菅野よう子は伝説的な作曲家です。",
+"es": "Las bandas sonoras de anime son muy populares. Compositores como Joe Hisaishi (Ghibli) son legendarios."
+}
+},
+{
+"id": "manga_beginner_086",
+"q": {
+"en": "Why is Japanese anime popular globally?",
+"zh": "为什么日本动画在全球受欢迎?",
+"ja": "なぜ日本のアニメは世界中で人気がありますか?",
+"es": "Por que el anime japones es popular globalmente?"
+},
+"c": [
+{
+"en": "Its unique art style, deep stories, and diverse genres appeal to audiences of all ages",
+"zh": "其独特的画风、深刻的故事和多样的类型吸引了各年龄段的观众",
+"ja": "独特な画風、深いストーリー、多様なジャンルがあらゆる年齢層を魅了する",
+"es": "Su estilo artistico unico, historias profundas y generos diversos atraen a audiencias de todas las edades"
+},
+{
+"en": "It is mandatory in all schools worldwide",
+"zh": "全世界所有学校都必须观看",
+"ja": "世界中の学校で必修だから",
+"es": "Es obligatorio en todas las escuelas del mundo"
+},
+{
+"en": "It is only popular in Japan, not globally",
+"zh": "它只在日本受欢迎，全球不受欢迎",
+"ja": "日本でのみ人気で世界的には人気がない",
+"es": "Solo es popular en Japon, no globalmente"
+},
+{
+"en": "It is free to watch everywhere",
+"zh": "在任何地方都可以免费观看",
+"ja": "どこでも無料で見られるから",
+"es": "Es gratis de ver en todas partes"
+}
+],
+"a": 0,
+"trivia": {
+"en": "Anime covers every genre from romance to horror, appealing to diverse audiences across cultures.",
+"zh": "动画涵盖从浪漫到恐怖的每种类型，吸引不同文化的多样观众。",
+"ja": "アニメは恋愛からホラーまであらゆるジャンルをカバーし、文化を超えて多様な観客を魅了します。",
+"es": "El anime cubre todos los generos, desde romance hasta terror, atrayendo a diversas audiencias."
+}
+},
+{
+"id": "manga_beginner_087",
+"q": {
+"en": "Where is the Studio Ghibli Museum located?",
+"zh": "吉卜力美术馆在哪里?",
+"ja": "ジブリ美術館はどこにありますか?",
+"es": "Donde esta ubicado el Museo de Studio Ghibli?"
+},
+"c": [
+{
+"en": "Kyoto",
+"zh": "京都",
+"ja": "京都",
+"es": "Kioto"
+},
+{
+"en": "Osaka",
+"zh": "大阪",
+"ja": "大阪",
+"es": "Osaka"
+},
+{
+"en": "Mitaka, Tokyo",
+"zh": "东京三�, 鹰",
+"ja": "東京都三鷹市",
+"es": "Mitaka, Tokio"
+},
+{
+"en": "Hokkaido",
+"zh": "北海道",
+"ja": "北海道",
+"es": "Hokkaido"
+}
+],
+"a": 2,
+"trivia": {
+"en": "The Ghibli Museum in Mitaka features exhibits about animation and exclusive short films by Studio Ghibli.",
+"zh": "三鹰的吉卜力美术馆展出关于动画的展品和吉卜力工作室的独家短片。",
+"ja": "三鷹のジブリ美術館はアニメーションの展示やジブリの限定短編映画を上映しています。",
+"es": "El Museo Ghibli en Mitaka tiene exhibiciones sobre animacion y cortometrajes exclusivos de Ghibli."
+}
+},
+{
+"id": "manga_beginner_088",
+"q": {
+"en": "What is anime pilgrimage (seichi junrei)?",
+"zh": "动画圣地巡礼是什么?",
+"ja": "聖地巡礼とは何ですか?",
+"es": "Que es la peregrinacion anime (seichi junrei)?"
+},
+"c": [
+{
+"en": "Visiting real-world locations that appeared in anime or manga",
+"zh": "参观出现在动漫中的现实世界地点",
+"ja": "アニメや漫画に登場した実在の場所を訪れること",
+"es": "Visitar lugares reales que aparecieron en anime o manga"
+},
+{
+"en": "Drawing manga at famous locations",
+"zh": "在著名地点画漫画",
+"ja": "有名な場所で漫画を描くこと",
+"es": "Dibujar manga en lugares famosos"
+},
+{
+"en": "A type of anime character",
+"zh": "一种动画角色",
+"ja": "アニメキャラクターの一種",
+"es": "Un tipo de personaje anime"
+},
+{
+"en": "Watching anime at a temple",
+"zh": "在寺庙看动画",
+"ja": "お寺でアニメを見ること",
+"es": "Ver anime en un templo"
+}
+],
+"a": 0,
+"trivia": {
+"en": "Fans visit locations depicted in anime, such as the real-life town settings of Your Name and Lucky Star.",
+"zh": "粉丝们访问动漫中描绘的地点，如你的名字和幸运星的现实原型地。",
+"ja": "ファンはアニメに登場した場所を訪れます。君の名はやらき☆すたの舞台が有名です。",
+"es": "Los fans visitan lugares representados en anime, como las ciudades reales de Your Name y Lucky Star."
+}
+},
+{
+"id": "manga_beginner_089",
+"q": {
+"en": "What are manga museums?",
+"zh": "漫画博物馆是什么?",
+"ja": "漫画ミュージアムとは何ですか?",
+"es": "Que son los museos de manga?"
+},
+"c": [
+{
+"en": "Theme parks",
+"zh": "主题公园",
+"ja": "テーマパーク",
+"es": "Parques tematicos"
+},
+{
+"en": "Schools where you learn to draw manga",
+"zh": "学习画漫画的学校",
+"ja": "漫画の描き方を学ぶ学校",
+"es": "Escuelas donde aprendes a dibujar manga"
+},
+{
+"en": "Stores that sell manga",
+"zh": "出售漫画的商店",
+"ja": "漫画を売る店",
+"es": "Tiendas que venden manga"
+},
+{
+"en": "Museums dedicated to the history and art of manga with exhibits and reading rooms",
+"zh": "致力于漫画历史和艺术的博物馆，有展品和阅览室",
+"ja": "漫画の歴史やアートを展示し閲覧室もある博物館",
+"es": "Museos dedicados a la historia y arte del manga con exhibiciones y salas de lectura"
+}
+],
+"a": 3,
+"trivia": {
+"en": "The Kyoto International Manga Museum has over 300,000 manga volumes visitors can freely read.",
+"zh": "京都国际漫画博物馆有超过30万册漫画供访客免费阅读。",
+"ja": "京都国際マンガミュージアムには30万冊以上の漫画があり自由に読めます。",
+"es": "El Museo Internacional de Manga de Kioto tiene mas de 300,000 volumenes que los visitantes pueden leer."
+}
+},
+{
+"id": "manga_beginner_090",
+"q": {
+"en": "What are mascot characters in Japan?",
+"zh": "日本的吉祥物角色是什么?",
+"ja": "日本のマスコットキャラクターとは?",
+"es": "Que son los personajes mascota en Japon?"
+},
+"c": [
+{
+"en": "Only sports team logos",
+"zh": "仅运动队标志",
+"ja": "スポーツチームのロゴのみ",
+"es": "Solo logos de equipos deportivos"
+},
+{
+"en": "Only characters from anime",
+"zh": "仅来自动画的角色",
+"ja": "アニメのキャラクターのみ",
+"es": "Solo personajes de anime"
+},
+{
+"en": "Robots used in factories",
+"zh": "工厂中使用的机器人",
+"ja": "工場で使うロボット",
+"es": "Robots usados en fabricas"
+},
+{
+"en": "Cute characters representing brands, cities, or organizations",
+"zh": "代表品牌、城市或组织的可爱角色",
+"ja": "ブランドや都市、組織を代表するかわいいキャラクター",
+"es": "Personajes lindos que representan marcas, ciudades u organizaciones"
+}
+],
+"a": 3,
+"trivia": {
+"en": "Japan has a rich mascot culture. Every prefecture, company, and even police stations often have cute mascots.",
+"zh": "日本有丰富的吉祥物文化。每个都道府县、公司甚至警察局通常都有可爱的吉祥物。",
+"ja": "日本にはマスコット文化があり、都道府県、企業、警察署にもかわいいマスコットがいます。",
+"es": "Japon tiene una rica cultura de mascotas. Cada prefectura, empresa e incluso estaciones de policia tienen mascotas."
+}
+},
+{
+"id": "manga_beginner_091",
+"q": {
+"en": "What is Pikachu's relationship to global pop culture?",
+"zh": "皮卡丘与全球流行文化有什么关系?",
+"ja": "ピカチュウと世界のポップカルチャーの関係は?",
+"es": "Cual es la relacion de Pikachu con la cultura pop global?"
+},
+"c": [
+{
+"en": "Pikachu was created in America",
+"zh": "皮卡丘是在美国创造的",
+"ja": "ピカチュウはアメリカで作られた",
+"es": "Pikachu fue creado en America"
+},
+{
+"en": "Pikachu is unknown outside Japan",
+"zh": "皮卡丘在日本以外不为人知",
+"ja": "ピカチュウは日本以外では知られていない",
+"es": "Pikachu es desconocido fuera de Japon"
+},
+{
+"en": "Pikachu is only popular in video games",
+"zh": "皮卡丘只在电子游戏中受欢迎",
+"ja": "ピカチュウはゲームでのみ人気",
+"es": "Pikachu solo es popular en videojuegos"
+},
+{
+"en": "Pikachu is one of the most recognizable characters in the world",
+"zh": "皮卡丘是世界上最具辨识度的角色之一",
+"ja": "ピカチュウは世界で最も知られるキャラクターの一つ",
+"es": "Pikachu es uno de los personajes mas reconocibles del mundo"
+}
+],
+"a": 3,
+"trivia": {
+"en": "Pikachu appeared on a Japan national team airplane and has been a cultural ambassador for Japan.",
+"zh": "皮卡丘出现在日本国家队的飞机上，一直是日本的文化大使。",
+"ja": "ピカチュウは日本代表の飛行機にも描かれ、日本の文化大使的存在です。",
+"es": "Pikachu aparecio en un avion del equipo nacional de Japon y ha sido embajador cultural."
+}
+},
+{
+"id": "manga_beginner_092",
+"q": {
+"en": "What are 'titan shifters' abilities in Attack on Titan?",
+"zh": "进击的巨人中'巨人化能力者'有什么能力?",
+"ja": "進撃の巨人で巨人化能力者にはどんな能力がありますか?",
+"es": "Que habilidades tienen los 'cambiantes de titan' en Attack on Titan?"
+},
+"c": [
+{
+"en": "They can become invisible",
+"zh": "他们能隐身",
+"ja": "透明になれる",
+"es": "Pueden hacerse invisibles"
+},
+{
+"en": "They can fly",
+"zh": "他们能飞",
+"ja": "飛べる",
+"es": "Pueden volar"
+},
+{
+"en": "They can transform between human and titan forms",
+"zh": "他们可以在人类和巨人形态之间变换",
+"ja": "人間と巨人の姿を行き来できる",
+"es": "Pueden transformarse entre forma humana y titan"
+},
+{
+"en": "They can only grow bigger",
+"zh": "他们只能变大",
+"ja": "大きくなれるだけ",
+"es": "Solo pueden crecer"
+}
+],
+"a": 2,
+"trivia": {
+"en": "There are nine special Titan powers passed down through generations, including the Attack, Founding, and Colossal Titans.",
+"zh": "有九种特殊的巨人之力代代相传，包括进击的巨人、始祖巨人和超大型巨人。",
+"ja": "九つの巨人の力が代々受け継がれ、進撃、始祖、超大型巨人などがあります。",
+"es": "Hay nueve poderes Titan especiales transmitidos entre generaciones, incluyendo el de Ataque y el Colosal."
+}
+},
+{
+"id": "manga_beginner_093",
+"q": {
+"en": "What manga genre does Goku from Dragon Ball represent?",
+"zh": "龙珠的悟空代表什么漫画类型?",
+"ja": "ドラゴンボールの悟空は何の漫画ジャンルを代表しますか?",
+"es": "Que genero manga representa Goku de Dragon Ball?"
+},
+"c": [
+{
+"en": "Josei",
+"zh": "女性",
+"ja": "女性",
+"es": "Josei"
+},
+{
+"en": "Horror",
+"zh": "恐怖",
+"ja": "ホラー",
+"es": "Terror"
+},
+{
+"en": "Romance",
+"zh": "浪漫",
+"ja": "恋愛",
+"es": "Romance"
+},
+{
+"en": "Shonen (battle manga for boys)",
+"zh": "少年（面向男孩的战斗漫画）",
+"ja": "少年（少年向けバトル漫画）",
+"es": "Shonen (manga de batalla para chicos)"
+}
+],
+"a": 3,
+"trivia": {
+"en": "Dragon Ball defined the shonen battle manga genre, influencing nearly every action manga that came after it.",
+"zh": "龙珠定义了少年战斗漫画类型，影响了之后几乎所有的动作漫画。",
+"ja": "ドラゴンボールは少年バトル漫画のジャンルを確立し、その後のほぼ全てのバトル漫画に影響を与えました。",
+"es": "Dragon Ball definio el genero de manga de batalla shonen, influyendo en casi todo manga de accion posterior."
+}
+},
+{
+"id": "manga_beginner_094",
+"q": {
+"en": "What makes Osamu Tezuka important in manga history?",
+"zh": "手冢治虫在漫画史上为什么重要?",
+"ja": "手塚治虫が漫画史上重要な理由は?",
+"es": "Por que es importante Osamu Tezuka en la historia del manga?"
+},
+"c": [
+{
+"en": "He created Dragon Ball",
+"zh": "他创作了龙珠",
+"ja": "ドラゴンボールを創った",
+"es": "Creo Dragon Ball"
+},
+{
+"en": "He invented color printing",
+"zh": "他发明了彩色印刷",
+"ja": "カラー印刷を発明した",
+"es": "Invento la impresion a color"
+},
+{
+"en": "He was the first anime voice actor",
+"zh": "他是第一个动画声优",
+"ja": "最初のアニメ声優だった",
+"es": "Fue el primer actor de voz anime"
+},
+{
+"en": "He is called the God of Manga and pioneered modern manga and anime",
+"zh": "他被称为漫画之神，是现代漫画和动画的先驱",
+"ja": "漫画の神様と呼ばれ現代漫画とアニメの先駆者",
+"es": "Es llamado el Dios del Manga y fue pionero del manga y anime modernos"
+}
+],
+"a": 3,
+"trivia": {
+"en": "Tezuka created Astro Boy and established the visual language of manga with expressive eyes and cinematic layouts.",
+"zh": "手冢治虫创作了铁臂阿童木，建立了漫画的视觉语言，包括富有表现力的眼睛和电影般的分镜。",
+"ja": "手塚治虫は鉄腕アトムを創り、表情豊かな目や映画的なコマ割りなど漫画の視覚言語を確立しました。",
+"es": "Tezuka creo Astro Boy y establecio el lenguaje visual del manga con ojos expresivos y composiciones cinematograficas."
+}
+},
+{
+"id": "manga_beginner_095",
+"q": {
+"en": "What is the Ghibli Museum known for?",
+"zh": "吉卜力美术馆以什么闻名?",
+"ja": "ジブリ美術館は何で知られていますか?",
+"es": "Por que es conocido el Museo Ghibli?"
+},
+"c": [
+{
+"en": "Selling manga volumes",
+"zh": "出售漫画单行本",
+"ja": "漫画の単行本を売ること",
+"es": "Vender volumenes manga"
+},
+{
+"en": "Only a gift shop",
+"zh": "只有一个礼品店",
+"ja": "ギフトショップのみ",
+"es": "Solo una tienda de regalos"
+},
+{
+"en": "Live anime performances",
+"zh": "现场动漫表演",
+"ja": "アニメの生演出",
+"es": "Actuaciones de anime en vivo"
+},
+{
+"en": "Interactive exhibits, animation workshops, and exclusive short films",
+"zh": "互动展览、动画工作坊和独家短片",
+"ja": "体験型の展示、アニメーション制作体験、限定短編映画",
+"es": "Exhibiciones interactivas, talleres de animacion y cortometrajes exclusivos"
+}
+],
+"a": 3,
+"trivia": {
+"en": "Tickets must be reserved in advance, and the museum features a rooftop garden with a life-sized robot soldier from Laputa.",
+"zh": "门票需要提前预约，美术馆的屋顶花园有一个天空之城中的等身大机器人士兵。",
+"ja": "チケットは事前予約制で、屋上にはラピュタのロボット兵の実物大模型があります。",
+"es": "Las entradas deben reservarse con anticipacion y el museo tiene un jardin en la azotea con un robot de Laputa."
+}
+},
+{
+"id": "manga_beginner_096",
+"q": {
+"en": "What is Comiket?",
+"zh": "Comiket是什么?",
+"ja": "コミケとは何ですか?",
+"es": "Que es Comiket?"
+},
+"c": [
+{
+"en": "A type of anime",
+"zh": "一种动画类型",
+"ja": "アニメの一種",
+"es": "Un tipo de anime"
+},
+{
+"en": "A manga drawing software",
+"zh": "漫画绘画软件",
+"ja": "漫画描画ソフト",
+"es": "Un software de dibujo manga"
+},
+{
+"en": "The world's largest doujinshi (fan-made works) fair held in Tokyo",
+"zh": "在东京举行的世界最大的同人志展会",
+"ja": "東京で開催される世界最大の同人誌即売会",
+"es": "La feria de doujinshi (obras hechas por fans) mas grande del mundo en Tokio"
+},
+{
+"en": "A Japanese restaurant chain",
+"zh": "日本连锁餐厅",
+"ja": "日本のレストランチェーン",
+"es": "Una cadena de restaurantes japoneses"
+}
+],
+"a": 2,
+"trivia": {
+"en": "Comiket (Comic Market) attracts over 500,000 visitors and features thousands of self-published works by fans.",
+"zh": "Comiket（漫画市场）吸引超过50万名访客，展出数千部粉丝自出版作品。",
+"ja": "コミケ（コミックマーケット）は50万人以上が来場し、数千のサークルが同人誌を頒布します。",
+"es": "Comiket atrae mas de 500,000 visitantes con miles de obras autopublicadas por fans."
+}
+},
+{
+"id": "manga_beginner_097",
+"q": {
+"en": "What special power does Luffy have from eating a Devil Fruit?",
+"zh": "路飞吃了恶魔果实后获得了什么特殊能力?",
+"ja": "ルフィが悪魔の実を食べて得た能力は?",
+"es": "Que poder especial tiene Luffy por comer una Fruta del Diablo?"
+},
+"c": [
+{
+"en": "He can turn invisible",
+"zh": "他能隐身",
+"ja": "透明になれる",
+"es": "Puede hacerse invisible"
+},
+{
+"en": "He can read minds",
+"zh": "他能读心",
+"ja": "心が読める",
+"es": "Puede leer mentes"
+},
+{
+"en": "His body became rubber and can stretch",
+"zh": "他的身体变成了橡胶，能够伸展",
+"ja": "体がゴムのように伸び縮みする",
+"es": "Su cuerpo se volvio de goma y puede estirarse"
+},
+{
+"en": "He can control fire",
+"zh": "他能控制火焰",
+"ja": "火を操れる",
+"es": "Puede controlar el fuego"
+}
+],
+"a": 2,
+"trivia": {
+"en": "Luffy ate the Gomu Gomu no Mi (Gum-Gum Fruit), making his entire body rubber-like and stretchable.",
+"zh": "路飞吃了橡胶果实，使他的整个身体变得像橡胶一样可以伸展。",
+"ja": "ルフィはゴムゴムの実を食べて全身がゴムのように伸び縮みするようになりました。",
+"es": "Luffy comio la Gomu Gomu no Mi (Fruta Goma Goma), haciendo todo su cuerpo elastico como goma."
+}
+},
+{
+"id": "manga_beginner_098",
+"q": {
+"en": "Why is Goku from Dragon Ball considered a worldwide icon?",
+"zh": "为什么龙珠中的悟空被认为是全球偶像?",
+"ja": "なぜドラゴンボールの悟空は世界的なアイコンなのですか?",
+"es": "Por que Goku de Dragon Ball es considerado un icono mundial?"
+},
+"c": [
+{
+"en": "He pioneered the shonen hero archetype and is recognized across all generations globally",
+"zh": "他开创了少年英雄原型，被全球各代人所认可",
+"ja": "少年ヒーローの原型を作り世界中のあらゆる世代に認知されている",
+"es": "Fue pionero del arquetipo de heroe shonen y es reconocido globalmente en todas las generaciones"
+},
+{
+"en": "He only exists in video games",
+"zh": "他只存在于电子游戏中",
+"ja": "ゲームにしか存在しない",
+"es": "Solo existe en videojuegos"
+},
+{
+"en": "He is the tallest anime character",
+"zh": "他是最高的动画角色",
+"ja": "最も背が高いアニメキャラ",
+"es": "Es el personaje anime mas alto"
+},
+{
+"en": "He was the mascot of the Olympic Games",
+"zh": "他是奥运会的吉祥物",
+"ja": "オリンピックのマスコットだった",
+"es": "Fue la mascota de los Juegos Olimpicos"
+}
+],
+"a": 0,
+"trivia": {
+"en": "Goku was even an ambassador for the 2020 Tokyo Olympics, showing his global cultural significance.",
+"zh": "悟空甚至是2020年东京奥运会的大使，展示了他的全球文化意义。",
+"ja": "悟空は2020年東京オリンピックの大使にもなり、世界的な文化的意義を示しました。",
+"es": "Goku fue embajador de los Juegos Olimpicos de Tokio 2020, mostrando su importancia cultural global."
+}
+},
+{
+"id": "manga_beginner_099",
+"q": {
+"en": "What is the significance of Anime Expo?",
+"zh": "Anime Expo有什么重要意义?",
+"ja": "アニメエキスポの重要性は?",
+"es": "Cual es la importancia del Anime Expo?"
+},
+"c": [
+{
+"en": "It is only for professional animators",
+"zh": "仅面向专业动画师",
+"ja": "プロのアニメーターのみ",
+"es": "Solo para animadores profesionales"
+},
+{
+"en": "It is one of the largest anime conventions in North America, celebrating anime culture",
+"zh": "它是北美最大的动漫展之一，庆祝动漫文化",
+"ja": "北米最大級のアニメコンベンションでアニメ文化を祝う",
+"es": "Es una de las convenciones de anime mas grandes de Norteamerica, celebrando la cultura anime"
+},
+{
+"en": "It is a small local Japanese event",
+"zh": "这是一个日本的小型地方活动",
+"ja": "日本の小さなローカルイベント",
+"es": "Es un pequeno evento local japones"
+},
+{
+"en": "It is a cooking festival",
+"zh": "这是一个烹饪节",
+"ja": "料理フェスティバル",
+"es": "Es un festival de cocina"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Anime Expo is held annually in Los Angeles and attracts over 100,000 attendees from around the world.",
+"zh": "Anime Expo每年在洛杉矶举行，吸引来自世界各地超过10万名参与者。",
+"ja": "アニメエキスポはロサンゼルスで毎年開催され、世界中から10万人以上が参加します。",
+"es": "Anime Expo se celebra anualmente en Los Angeles y atrae a mas de 100,000 asistentes de todo el mundo."
+}
+},
+{
+"id": "manga_beginner_100",
+"q": {
+"en": "What is 'Osamu Tezuka' often called?",
+"zh": "手冢治虫经常被称为什么?",
+"ja": "手塚治虫はよく何と呼ばれますか?",
+"es": "Como se le llama frecuentemente a Osamu Tezuka?"
+},
+"c": [
+{
+"en": "The Father of Pokemon",
+"zh": "宝可梦之父",
+"ja": "ポケモンの父",
+"es": "El Padre de Pokemon"
+},
+{
+"en": "The God of Manga",
+"zh": "漫画之神",
+"ja": "漫画の神様",
+"es": "El Dios del Manga"
+},
+{
+"en": "The Emperor of Shonen",
+"zh": "少年之帝",
+"ja": "少年の帝王",
+"es": "El Emperador del Shonen"
+},
+{
+"en": "The King of Anime",
+"zh": "动画之王",
+"ja": "アニメの王",
+"es": "El Rey del Anime"
+}
+],
+"a": 1,
+"trivia": {
+"en": "Osamu Tezuka is called the God of Manga for his huge contributions to manga and anime as art forms.",
+"zh": "手冢治虫因其对漫画和动画作为艺术形式的巨大贡献而被称为漫画之神。",
+"ja": "手塚治虫は漫画とアニメという芸術形式への多大な貢献から漫画の神様と呼ばれています。",
+"es": "Osamu Tezuka es llamado el Dios del Manga por sus enormes contribuciones al manga y anime como formas de arte."
+}
+}
+]
