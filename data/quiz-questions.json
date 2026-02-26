@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": 1,
-    "lastUpdated": "2026-02-25",
-    "totalQuestions": 86
+    "lastUpdated": "2026-02-26",
+    "totalQuestions": 89
   },
   "current": {
     "beginner": [
@@ -1903,6 +1903,48 @@
           "ja": "富士山は標高3,776m。最後に噴火したのは1707年で、活火山です。毎年約30万人が登山します。",
           "es": "El Monte Fuji tiene 3,776 metros. Su última erupción fue en 1707 y es un volcán activo. Aproximadamente 300,000 personas lo escalan cada año."
         }
+      },
+      {
+        "id": "tourism_beginner_2jzwd6",
+        "q": {
+          "en": "Which city is known as Japan's ancient capital?",
+          "zh": "哪座城市被称为日本的古都？",
+          "ja": "日本の古都として知られる都市は？",
+          "es": "¿Qué ciudad es conocida como la antigua capital de Japón?"
+        },
+        "c": [
+          {
+            "en": "Osaka",
+            "zh": "大阪",
+            "ja": "大阪",
+            "es": "Osaka"
+          },
+          {
+            "en": "Tokyo",
+            "zh": "东京",
+            "ja": "東京",
+            "es": "Tokio"
+          },
+          {
+            "en": "Kyoto",
+            "zh": "京都",
+            "ja": "京都",
+            "es": "Kioto"
+          },
+          {
+            "en": "Nagoya",
+            "zh": "名古屋",
+            "ja": "名古屋",
+            "es": "Nagoya"
+          }
+        ],
+        "a": 2,
+        "trivia": {
+          "en": "Kyoto was Japan's capital for over 1,000 years (794-1868). It has 17 UNESCO World Heritage Sites and over 2,000 temples and shrines.",
+          "zh": "京都是日本超过1000年的首都（794-1868）。它有17处联合国教科文组织世界遗产和超过2000座寺庙和神社。",
+          "ja": "京都は1000年以上日本の首都でした（794-1868年）。17の世界遺産と2000以上の寺社があります。",
+          "es": "Kioto fue la capital de Japón durante más de 1,000 años (794-1868). Tiene 17 sitios del Patrimonio Mundial de la UNESCO y más de 2,000 templos y santuarios."
+        }
       }
     ],
     "intermediate": [
@@ -3105,6 +3147,48 @@
           "ja": "鬼滅の刃 無限列車編（2020）は興収400億円超で千と千尋を超えました。コロナ禍での公開にもかかわらず社会現象となりました。",
           "es": "Demon Slayer: Mugen Train (2020) recaudó más de ¥40 mil millones, superando a El Viaje de Chihiro."
         }
+      },
+      {
+        "id": "manga_intermediate_vazmyx",
+        "q": {
+          "en": "What manga magazine has serialized One Piece, Naruto, and Dragon Ball?",
+          "zh": "哪本漫画杂志连载了《海贼王》、《火影忍者》和《龙珠》？",
+          "ja": "ワンピース、ナルト、ドラゴンボールを連載した漫画雑誌は？",
+          "es": "¿Qué revista de manga ha serializado One Piece, Naruto y Dragon Ball?"
+        },
+        "c": [
+          {
+            "en": "Shonen Sunday",
+            "zh": "少年Sunday",
+            "ja": "少年サンデー",
+            "es": "Shonen Sunday"
+          },
+          {
+            "en": "Shonen Jump",
+            "zh": "少年Jump",
+            "ja": "少年ジャンプ",
+            "es": "Shonen Jump"
+          },
+          {
+            "en": "Shonen Magazine",
+            "zh": "少年Magazine",
+            "ja": "少年マガジン",
+            "es": "Shonen Magazine"
+          },
+          {
+            "en": "Monthly Comic",
+            "zh": "月刊Comic",
+            "ja": "月刊コミック",
+            "es": "Monthly Comic"
+          }
+        ],
+        "a": 1,
+        "trivia": {
+          "en": "Weekly Shonen Jump has been Japan's best-selling manga magazine since 1968. At its peak in 1995, it sold 6.53 million copies per week.",
+          "zh": "《周刊少年Jump》自1968年以来一直是日本最畅销的漫画杂志。1995年巅峰时期每周销量达653万册。",
+          "ja": "『週刊少年ジャンプ』は1968年以来日本で最も売れている漫画雑誌です。1995年のピーク時には週653万部を記録しました。",
+          "es": "La Weekly Shonen Jump ha sido la revista de manga más vendida de Japón desde 1968. En su punto máximo en 1995, vendía 6.53 millones de copias por semana."
+        }
       }
     ],
     "advanced": [
@@ -3404,6 +3488,48 @@
           "zh": "寿司最初是用发酵米饭来保存鱼的方式。现代握寿司于19世纪初在东京发明。",
           "ja": "寿司はもともと発酵米を使って魚を保存する方法でした。現代の握り寿司は1800年代初頭に東京で発明されました。",
           "es": "El sushi comenzó originalmente como una forma de conservar el pescado usando arroz fermentado. El nigiri sushi moderno fue inventado en Tokio a principios del siglo XIX."
+        }
+      },
+      {
+        "id": "food_beginner_2om4zy",
+        "q": {
+          "en": "What is the traditional Japanese alcoholic drink made from rice?",
+          "zh": "什么是用大米酿造的日本传统酒？",
+          "ja": "米から作られる日本の伝統的なお酒は？",
+          "es": "¿Cuál es la bebida alcohólica tradicional japonesa hecha de arroz?"
+        },
+        "c": [
+          {
+            "en": "Sake",
+            "zh": "清酒",
+            "ja": "日本酒",
+            "es": "Sake"
+          },
+          {
+            "en": "Soju",
+            "zh": "烧酒",
+            "ja": "焼酎",
+            "es": "Soju"
+          },
+          {
+            "en": "Baijiu",
+            "zh": "白酒",
+            "ja": "白酒",
+            "es": "Baijiu"
+          },
+          {
+            "en": "Whiskey",
+            "zh": "威士忌",
+            "ja": "ウィスキー",
+            "es": "Whiskey"
+          }
+        ],
+        "a": 0,
+        "trivia": {
+          "en": "Sake brewing has a history of over 2,000 years in Japan. There are about 1,400 sake breweries across the country.",
+          "zh": "日本的清酒酿造有超过2000年的历史。全国约有1400家清酒酿造厂。",
+          "ja": "日本酒の醸造は2000年以上の歴史があります。全国に約1400の酒蔵があります。",
+          "es": "La elaboración de sake tiene una historia de más de 2,000 años en Japón. Hay aproximadamente 1,400 cervecerías de sake en todo el país."
         }
       }
     ],
