@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": 1,
-    "lastUpdated": "2026-02-26",
-    "totalQuestions": 89
+    "lastUpdated": "2026-02-27",
+    "totalQuestions": 92
   },
   "current": {
     "beginner": [
@@ -466,6 +466,48 @@
           "zh": "虽然樱花是最受欢迎的象征，但菊花实际上是皇室纹章。两者都被视为国花。",
           "ja": "桜が最も人気のある象徴ですが、菊は実は皇室の紋章です。どちらも国花とされています。",
           "es": "Aunque la flor de cerezo (sakura) es el símbolo más popular, el crisantemo es en realidad el sello imperial. Ambas se consideran flores nacionales."
+        }
+      },
+      {
+        "id": "current_beginner_7lcwbf",
+        "q": {
+          "en": "What is the name of Japan's bullet train system?",
+          "zh": "日本的高速列车系统叫什么？",
+          "ja": "日本の高速鉄道の名前は？",
+          "es": "¿Cómo se llama el sistema de tren bala de Japón?"
+        },
+        "c": [
+          {
+            "en": "Shinkansen",
+            "zh": "新干线",
+            "ja": "新幹線",
+            "es": "Shinkansen"
+          },
+          {
+            "en": "Metro",
+            "zh": "地铁",
+            "ja": "メトロ",
+            "es": "Metro"
+          },
+          {
+            "en": "Monorail",
+            "zh": "单轨",
+            "ja": "モノレール",
+            "es": "Monorraíl"
+          },
+          {
+            "en": "Maglev",
+            "zh": "磁悬浮",
+            "ja": "リニア",
+            "es": "Maglev"
+          }
+        ],
+        "a": 0,
+        "trivia": {
+          "en": "The Shinkansen launched in 1964 for the Tokyo Olympics. It has an incredible safety record with zero passenger fatalities from derailment or collision.",
+          "zh": "新干线于1964年东京奥运会时开通。它有着令人难以置信的安全记录，从未因脱轨或碰撞造成乘客死亡。",
+          "ja": "新幹線は1964年の東京オリンピックに合わせて開業。脱線や衝突による乗客の死亡事故はゼロという驚異的な安全記録を持っています。",
+          "es": "El Shinkansen se inauguró en 1964 para los Juegos Olímpicos de Tokio. Tiene un increíble récord de seguridad sin muertes de pasajeros por descarrilamiento o colisión."
         }
       }
     ],
@@ -972,6 +1014,48 @@
           "zh": "日本的超导磁悬浮在2015年创下了603公里/时的世界纪录。中央新干线磁悬浮线计划连接东京和大阪。",
           "ja": "日本の超電導リニアは2015年に603km/hの世界記録を達成。中央新幹線は東京と大阪を結ぶ予定です。",
           "es": "El SCMaglev de Japón estableció un récord mundial de 603 km/h en 2015. La línea maglev Chuo Shinkansen está planeada para conectar Tokio con Osaka."
+        }
+      },
+      {
+        "id": "current_intermediate_hh7rq1",
+        "q": {
+          "en": "What year did Japan host its first Olympics?",
+          "zh": "日本第一次举办奥运会是哪一年？",
+          "ja": "日本が初めてオリンピックを開催した年は？",
+          "es": "¿En qué año Japón fue sede de sus primeros Juegos Olímpicos?"
+        },
+        "c": [
+          {
+            "en": "1960",
+            "zh": "1960年",
+            "ja": "1960年",
+            "es": "1960"
+          },
+          {
+            "en": "1964",
+            "zh": "1964年",
+            "ja": "1964年",
+            "es": "1964"
+          },
+          {
+            "en": "1972",
+            "zh": "1972年",
+            "ja": "1972年",
+            "es": "1972"
+          },
+          {
+            "en": "1968",
+            "zh": "1968年",
+            "ja": "1968年",
+            "es": "1968"
+          }
+        ],
+        "a": 1,
+        "trivia": {
+          "en": "The 1964 Tokyo Olympics was a landmark event showcasing Japan's post-war recovery. It introduced the Shinkansen bullet train to the world.",
+          "zh": "1964年东京奥运会是一个标志性事件，展示了日本战后的复兴。它向世界介绍了新干线高速列车。",
+          "ja": "1964年の東京オリンピックは、日本の戦後復興を世界に示す画期的なイベントでした。新幹線もこの時に開業しました。",
+          "es": "Los Juegos Olímpicos de Tokio de 1964 fueron un evento emblemático que mostró la recuperación de Japón después de la guerra. Introdujo el tren bala Shinkansen al mundo."
         }
       }
     ],
@@ -3232,6 +3316,48 @@
           "zh": "漫画喫茶按小时收费（200-500日元），提供无限量漫画、免费饮料和带躺椅的包间。很多人把它当作经济型旅馆。",
           "ja": "漫画喫茶は時間制（200〜500円）で漫画読み放題、ドリンク無料、リクライニングシート付き個室あり。ネットカフェ難民という社会問題も。",
           "es": "Los manga kissa cobran por hora (¥200-500) y ofrecen manga ilimitado, bebidas gratis y cabinas privadas. Muchos los usan como hoteles económicos."
+        }
+      },
+      {
+        "id": "manga_advanced_p865vw",
+        "q": {
+          "en": "What is 'doujinshi' in Japanese manga culture?",
+          "zh": "日本漫画文化中的'同人志'是什么？",
+          "ja": "漫画文化における「同人誌」とは？",
+          "es": "¿Qué es 'doujinshi' en la cultura del manga japonés?"
+        },
+        "c": [
+          {
+            "en": "Official manga sequels",
+            "zh": "官方漫画续集",
+            "ja": "公式漫画の続編",
+            "es": "Secuelas oficiales de manga"
+          },
+          {
+            "en": "Self-published fan-made works",
+            "zh": "自出版的粉丝作品",
+            "ja": "自費出版のファン作品",
+            "es": "Obras autopublicadas hechas por fans"
+          },
+          {
+            "en": "Manga award ceremonies",
+            "zh": "漫画颁奖典礼",
+            "ja": "漫画の授賞式",
+            "es": "Ceremonias de premios de manga"
+          },
+          {
+            "en": "Digital-only manga",
+            "zh": "仅限数字版漫画",
+            "ja": "デジタル限定漫画",
+            "es": "Manga solo digital"
+          }
+        ],
+        "a": 1,
+        "trivia": {
+          "en": "Comiket (Comic Market) in Tokyo is the world's largest doujinshi fair, attracting over 750,000 attendees. Many professional manga artists started with doujinshi.",
+          "zh": "东京的Comic Market是世界上最大的同人志展销会，吸引超过75万人参加。许多专业漫画家是从同人志起步的。",
+          "ja": "東京のコミケ（コミックマーケット）は世界最大の同人誌即売会で、75万人以上が参加します。多くのプロの漫画家が同人誌からスタートしました。",
+          "es": "El Comiket (Comic Market) en Tokio es la feria de doujinshi más grande del mundo, atrayendo a más de 750,000 asistentes. Muchos artistas profesionales de manga comenzaron con doujinshi."
         }
       }
     ]
