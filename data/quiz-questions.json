@@ -1,8 +1,8 @@
 {
   "_meta": {
     "version": 1,
-    "lastUpdated": "2026-02-28",
-    "totalQuestions": 94
+    "lastUpdated": "2026-03-01",
+    "totalQuestions": 95
   },
   "current": {
     "beginner": [
@@ -550,6 +550,48 @@
           "zh": "日本人口自2008年以来一直在下降。它是世界上老龄化最快的社会之一。",
           "ja": "日本の人口は2008年から減少しています。世界で最も急速に高齢化が進んでいる社会のひとつです。",
           "es": "La población de Japón ha estado disminuyendo desde 2008. Es una de las sociedades que envejecen más rápidamente en el mundo."
+        }
+      },
+      {
+        "id": "current_beginner_b1dy6e",
+        "q": {
+          "en": "What currency does Japan use?",
+          "zh": "日本使用什么货币？",
+          "ja": "日本の通貨は？",
+          "es": "¿Qué moneda usa Japón?"
+        },
+        "c": [
+          {
+            "en": "Yuan",
+            "zh": "元",
+            "ja": "元",
+            "es": "Yuan"
+          },
+          {
+            "en": "Won",
+            "zh": "韩元",
+            "ja": "ウォン",
+            "es": "Won"
+          },
+          {
+            "en": "Yen",
+            "zh": "日元",
+            "ja": "円",
+            "es": "Yen"
+          },
+          {
+            "en": "Dollar",
+            "zh": "美元",
+            "ja": "ドル",
+            "es": "Dólar"
+          }
+        ],
+        "a": 2,
+        "trivia": {
+          "en": "The yen (¥) became Japan's official currency in 1871. Unlike many currencies, it doesn't use decimal units — the smallest coin is 1 yen.",
+          "zh": "日元（¥）于1871年成为日本的官方货币。与许多货币不同，它不使用小数单位——最小的硬币是1日元。",
+          "ja": "円は1871年に日本の公式通貨になりました。多くの通貨と違い、小数単位を使わず、最小の硬貨は1円です。",
+          "es": "El yen (¥) se convirtió en la moneda oficial de Japón en 1871. A diferencia de muchas monedas, no utiliza unidades decimales: la moneda más pequeña es de 1 yen."
         }
       }
     ],
